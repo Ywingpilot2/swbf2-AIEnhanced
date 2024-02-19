@@ -590,8 +590,8 @@ CompareBoolEntityData ec5e1e0f-76a5-5545-5042-88324e4516e4 3
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -646,8 +646,8 @@ CompareBoolEntityData e098ee19-7bfc-c34d-c928-ccd50b43235c 7
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -684,8 +684,8 @@ CompareBoolEntityData 9897a769-e2c7-6445-8ad1-cd4439acb71b 12
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -733,8 +733,8 @@ CompareBoolEntityData d0517583-837e-fd9b-f5da-aaf21f021974 14
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -743,8 +743,8 @@ CompareBoolEntityData 4ad9438b-3354-70e0-dad2-b2496135654c 15
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -852,8 +852,8 @@ CompareBoolEntityData 2fb517a6-e470-caa5-6f99-2388626bc9a9 21
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -862,8 +862,8 @@ CompareBoolEntityData 8e5d6fa9-6828-4783-4958-be6abaec9943 22
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -872,8 +872,8 @@ CompareBoolEntityData a705ebac-a8c1-8146-44ca-2a2f9eba0d4f 23
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
@@ -889,8 +889,8 @@ CompareBoolEntityData b8d3bcd9-0de2-053e-3723-2f85a6fdb33a 25
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "TriggerOnPropertyChange" "False"
-	"Boolean" "TriggerOnStart" "False"
-	"Boolean" "AlwaysSend" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
 	"UInt32" "Flags" "349782923"
 }
 
