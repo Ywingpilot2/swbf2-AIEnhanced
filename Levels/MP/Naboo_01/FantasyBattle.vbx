@@ -27621,7 +27621,7 @@ InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 5
 		"DataField" "" 
 		{
 			"PointerRef" "ValueRef" "null"
-			"CString" "Value" "CString "1""
+			"CString" "Value" "CString "1"
 			"Int32" "Id" "-373703100"
 			"FieldAccessType" "AccessType" "FieldAccessType_Target"
 			"CString" "Name" "0xe9b9be44"

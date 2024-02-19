@@ -13220,6 +13220,36 @@ SubWorldData a82a9793-2be9-4449-99e2-97352ff65f9a 0
 		}
 		"PropertyConnection" ""
 		{
+			"PointerRef" "Source" "external : e065699d-9604-4701-9742-e71c45b6824e,9ab99ae6-b70b-4943-a89f-0c4373741860"
+			"PointerRef" "Target" "external : 0c30c6c4-22df-4f45-860b-bd5ea0098eb3,8ef2a9d2-15ce-031a-af78-e75cdb83f3a3"
+			"Int32" "SourceFieldId" "-1531709312"
+			"Int32" "TargetFieldId" "-237480876"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "0xa4b3f880"
+			"CString" "TargetField" "ObjectiveAArmed"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "external : e065699d-9604-4701-9742-e71c45b6824e,dfc4d982-83f0-4597-8fbd-e8defdf2cd81"
+			"PointerRef" "Target" "external : 0c30c6c4-22df-4f45-860b-bd5ea0098eb3,8ef2a9d2-15ce-031a-af78-e75cdb83f3a3"
+			"Int32" "SourceFieldId" "-1531709312"
+			"Int32" "TargetFieldId" "-504097609"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "0xa4b3f880"
+			"CString" "TargetField" "ObjectiveBArmed"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "external : e065699d-9604-4701-9742-e71c45b6824e,72f8ce4a-0ec2-4dd3-81e8-8c2680ddb485"
+			"PointerRef" "Target" "external : 0c30c6c4-22df-4f45-860b-bd5ea0098eb3,8ef2a9d2-15ce-031a-af78-e75cdb83f3a3"
+			"Int32" "SourceFieldId" "-1531709312"
+			"Int32" "TargetFieldId" "-467266538"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "0xa4b3f880"
+			"CString" "TargetField" "ObjectiveCArmed"
+		}
+		"PropertyConnection" ""
+		{
 			"PointerRef" "Source" "external : 0c30c6c4-22df-4f45-860b-bd5ea0098eb3,0fa8ade5-e5f6-6bb7-64d4-4d93230f6103"
 			"PointerRef" "Target" "external : 0c30c6c4-22df-4f45-860b-bd5ea0098eb3,3b7c84d9-8080-bcb5-1b9d-b896d870a790"
 			"Int32" "SourceFieldId" "1040756348"

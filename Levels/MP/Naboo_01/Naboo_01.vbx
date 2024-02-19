@@ -3732,38 +3732,6 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,de4452f2-f3e9-479d-a163-aeb0210b44e7"
-			"PointerRef" "Target" "external : e06692f1-babd-48d7-91d8-93230f00e78e,4e58bc9a-d2bb-7eb9-ae02-14dc6c11b950"
-			"EventSpec" "SourceEvent" 
-			{
-				"Int32" "Id" "-1433512622"
-				"CString" "Name" "OnTrue"
-			}
-			"EventSpec" "TargetEvent" 
-			{
-				"Int32" "Id" "-763641474"
-				"CString" "Name" "StreamIn"
-			}
-			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
-		}
-		"EventConnection" ""
-		{
-			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,de4452f2-f3e9-479d-a163-aeb0210b44e7"
-			"PointerRef" "Target" "external : e06692f1-babd-48d7-91d8-93230f00e78e,30028a35-df6a-6620-7f4e-1277232fe099"
-			"EventSpec" "SourceEvent" 
-			{
-				"Int32" "Id" "-1433512622"
-				"CString" "Name" "OnTrue"
-			}
-			"EventSpec" "TargetEvent" 
-			{
-				"Int32" "Id" "-763641474"
-				"CString" "Name" "StreamIn"
-			}
-			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
-		}
-		"EventConnection" ""
-		{
 			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,6aa3488c-f83f-433d-b2fb-82eddac174ff"
 			"PointerRef" "Target" "external : e06692f1-babd-48d7-91d8-93230f00e78e,77960493-cff3-42a1-b766-efc8f5d35180"
 			"EventSpec" "SourceEvent" 
@@ -5054,33 +5022,13 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,5a14e36a-fc16-4cfe-99ec-33ff34a9ff65"
+			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,efb54236-914b-4051-89bb-54f99d16e1dd"
 			"PointerRef" "Target" "external : e06692f1-babd-48d7-91d8-93230f00e78e,6aa3488c-f83f-433d-b2fb-82eddac174ff"
 			"Int32" "SourceFieldId" "193453899"
 			"Int32" "TargetFieldId" "5862146"
 			"UInt32" "Flags" "3"
 			"CString" "SourceField" "Out"
 			"CString" "TargetField" "In"
-		}
-		"PropertyConnection" ""
-		{
-			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,efb54236-914b-4051-89bb-54f99d16e1dd"
-			"PointerRef" "Target" "external : e06692f1-babd-48d7-91d8-93230f00e78e,5a14e36a-fc16-4cfe-99ec-33ff34a9ff65"
-			"Int32" "SourceFieldId" "193453899"
-			"Int32" "TargetFieldId" "193450864"
-			"UInt32" "Flags" "3"
-			"CString" "SourceField" "Out"
-			"CString" "TargetField" "In2"
-		}
-		"PropertyConnection" ""
-		{
-			"PointerRef" "Source" "external : e06692f1-babd-48d7-91d8-93230f00e78e,a6f44b35-5771-4f59-b5ba-125a2e400e89"
-			"PointerRef" "Target" "external : e06692f1-babd-48d7-91d8-93230f00e78e,5a14e36a-fc16-4cfe-99ec-33ff34a9ff65"
-			"Int32" "SourceFieldId" "2014001821"
-			"Int32" "TargetFieldId" "193450867"
-			"UInt32" "Flags" "3"
-			"CString" "SourceField" "BoolSetting"
-			"CString" "TargetField" "In1"
 		}
 		"PropertyConnection" ""
 		{
