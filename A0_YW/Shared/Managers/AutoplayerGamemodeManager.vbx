@@ -74,22 +74,6 @@ LogicPrefabBlueprint 54f2f86e-80e7-9c20-a263-475f60ada330 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 94164eac-035b-ac5d-ccbb-bd9419c99ed4,9"
-			"PointerRef" "Target" "internal : 45b2c097-7a5d-8fe0-2cf6-f6c71f7c6b36,6"
-			"EventSpec" "SourceEvent" 
-			{
-				"Int32" "Id" "-1433512622"
-				"CString" "Name" "OnTrue"
-			}
-			"EventSpec" "TargetEvent" 
-			{
-				"Int32" "Id" "1266103925"
-				"CString" "Name" "InitiateManager"
-			}
-			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
-		}
-		"EventConnection" ""
-		{
 			"PointerRef" "Source" "internal : 9854aa69-da9a-23c0-730d-ecd84efab8e8,2"
 			"PointerRef" "Target" "internal : 7b25e183-44ca-ef7c-4d7c-d140992805f0,3"
 			"EventSpec" "SourceEvent" 
@@ -133,6 +117,22 @@ LogicPrefabBlueprint 54f2f86e-80e7-9c20-a263-475f60ada330 0
 			{
 				"Int32" "Id" "230891742"
 				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 94164eac-035b-ac5d-ccbb-bd9419c99ed4,9"
+			"PointerRef" "Target" "internal : 45b2c097-7a5d-8fe0-2cf6-f6c71f7c6b36,6"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
 			}
 			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
 		}
@@ -335,7 +335,7 @@ LogicPrefabReferenceObjectData 45b2c097-7a5d-8fe0-2cf6-f6c71f7c6b36 6
 		"Vec3" "right" "1,0,0"
 		"Vec3" "forward" "0,0,1"
 	}
-	"PointerRef" "Blueprint" "external : 2eb920dd-dd15-493a-95c1-a6ca203a55c7,0173e61b-40af-6d93-d3d2-34d6c3cdbe38"
+	"PointerRef" "Blueprint" "external : 2eb920dd-dd15-493a-95c1-a6ca203a55c7,16fb7496-1604-2732-2ffd-011b65bb8e8b"
 	"PointerRef" "ObjectVariation" "null"
 	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
 	"UInt32" "LightmapResolutionScale" "1"
