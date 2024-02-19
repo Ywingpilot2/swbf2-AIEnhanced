@@ -1,0 +1,787 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_SharedBotLogic/YWPhaseCompleterNaboo"
+	"type" "LogicPrefabBlueprint"
+	"fid" "fff8aea6-1d73-4cc2-9638-326c0476f5df"
+	
+	Objects
+	{
+		"LogicPrefabBlueprint" "41a284f5-4085-cb5f-4d44-5300cf57886b" "0"
+		"AndEntityData" "2f146d0d-4a91-cd6d-3704-4fade7797ba6" "1"
+		"AndEntityData" "bb1a4b7a-e28a-5808-5b54-93ff5a98fcca" "2"
+		"AndEntityData" "93cb68b8-9569-ddf8-08e5-3e4240705c98" "3"
+		"CompareBoolEntityData" "531d16d6-acc1-298b-d8d2-4fc09361c8d4" "4"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "5"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "6"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "7"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "8"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "10"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "11"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "12"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "13"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "14"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "15"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "16"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "17"
+	}
+}
+
+LogicPrefabBlueprint 41a284f5-4085-cb5f-4d44-5300cf57886b 0
+{
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,5"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,6"
+		"PointerRef" "" "internal : 2f146d0d-4a91-cd6d-3704-4fade7797ba6,1"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,7"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,8"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,9"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,10"
+		"PointerRef" "" "internal : 93cb68b8-9569-ddf8-08e5-3e4240705c98,3"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,11"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,12"
+		"PointerRef" "" "internal : bb1a4b7a-e28a-5808-5b54-93ff5a98fcca,2"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,13"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,14"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,15"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,16"
+		"PointerRef" "" "internal : 531d16d6-acc1-298b-d8d2-4fc09361c8d4,4"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1833960798"
+				"CString" "Name" "ObjectiveAComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,6"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1644291359"
+				"CString" "Name" "ObjectiveBComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,7"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "818247968"
+				"CString" "Name" "ObjectiveCComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "2091744615"
+				"CString" "Name" "ObjectiveDComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,9"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "259316646"
+				"CString" "Name" "ObjectiveEComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,10"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "448986085"
+				"CString" "Name" "ObjectiveFComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1383441884"
+				"CString" "Name" "ObjectiveGComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,12"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "106896491"
+				"CString" "Name" "ObjectiveHComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1725531478"
+				"CString" "Name" "ObjectiveIComplete"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,16"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "908914850"
+				"CString" "Name" "MoveToPhase02"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,14"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "908914851"
+				"CString" "Name" "MoveToPhase03"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 531d16d6-acc1-298b-d8d2-4fc09361c8d4,4"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "908914852"
+				"CString" "Name" "MoveToPhase04"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "908914853"
+				"CString" "Name" "MoveToPhase05"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+	}
+	"UInt16" "Flags" "14"
+	"List" "PropertyConnections"
+	{
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"Int32" "SourceFieldId" "1123232415"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveAStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,6"
+			"Int32" "SourceFieldId" "1057127708"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveBStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,7"
+			"Int32" "SourceFieldId" "-2022129123"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveCStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"Int32" "SourceFieldId" "768947610"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveDStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,9"
+			"Int32" "SourceFieldId" "1984658075"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveEStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,10"
+			"Int32" "SourceFieldId" "1918553368"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveFStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"Int32" "SourceFieldId" "-1160703463"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveGStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,12"
+			"Int32" "SourceFieldId" "-1834287210"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveHStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"Int32" "SourceFieldId" "-618576745"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveIStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 2f146d0d-4a91-cd6d-3704-4fade7797ba6,1"
+			"Int32" "SourceFieldId" "1123232415"
+			"Int32" "TargetFieldId" "193450867"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveAStatus"
+			"CString" "TargetField" "In1"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 2f146d0d-4a91-cd6d-3704-4fade7797ba6,1"
+			"Int32" "SourceFieldId" "1057127708"
+			"Int32" "TargetFieldId" "193450864"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveBStatus"
+			"CString" "TargetField" "In2"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 93cb68b8-9569-ddf8-08e5-3e4240705c98,3"
+			"Int32" "SourceFieldId" "1984658075"
+			"Int32" "TargetFieldId" "193450867"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveEStatus"
+			"CString" "TargetField" "In1"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 93cb68b8-9569-ddf8-08e5-3e4240705c98,3"
+			"Int32" "SourceFieldId" "1918553368"
+			"Int32" "TargetFieldId" "193450864"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveFStatus"
+			"CString" "TargetField" "In2"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : bb1a4b7a-e28a-5808-5b54-93ff5a98fcca,2"
+			"Int32" "SourceFieldId" "-1160703463"
+			"Int32" "TargetFieldId" "193450867"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveGStatus"
+			"CString" "TargetField" "In1"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : bb1a4b7a-e28a-5808-5b54-93ff5a98fcca,2"
+			"Int32" "SourceFieldId" "-1834287210"
+			"Int32" "TargetFieldId" "193450864"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveHStatus"
+			"CString" "TargetField" "In2"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 2f146d0d-4a91-cd6d-3704-4fade7797ba6,1"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,16"
+			"Int32" "SourceFieldId" "193453899"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "Out"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 93cb68b8-9569-ddf8-08e5-3e4240705c98,3"
+			"PointerRef" "Target" "internal : 531d16d6-acc1-298b-d8d2-4fc09361c8d4,4"
+			"Int32" "SourceFieldId" "193453899"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "Out"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : bb1a4b7a-e28a-5808-5b54-93ff5a98fcca,2"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,15"
+			"Int32" "SourceFieldId" "193453899"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "Out"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,14"
+			"Int32" "SourceFieldId" "768947610"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveDStatus"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,14"
+			"Int32" "SourceFieldId" "-2022129123"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "ObjectiveCStatus"
+			"CString" "TargetField" "Bool"
+		}
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,17"
+	"CString" "Name" "A0_SharedBotLogic/YWPhaseCompleterNaboo"
+}
+
+AndEntityData 2f146d0d-4a91-cd6d-3704-4fade7797ba6 1
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "283650065"
+}
+
+AndEntityData bb1a4b7a-e28a-5808-5b54-93ff5a98fcca 2
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "283650065"
+}
+
+AndEntityData 93cb68b8-9569-ddf8-08e5-3e4240705c98 3
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "283650065"
+}
+
+CompareBoolEntityData 531d16d6-acc1-298b-d8d2-4fc09361c8d4 4
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 5
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 6
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 7
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 8
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 9
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 10
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 11
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 12
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 13
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 14
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 15
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 16
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "False"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "284293311"
+}
+
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 17
+{
+	"List" "InputEvents"
+	{
+	}
+	"List" "OutputEvents"
+	{
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "908914850"
+			"CString" "Name" "MoveToPhase02"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "908914851"
+			"CString" "Name" "MoveToPhase03"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "908914852"
+			"CString" "Name" "MoveToPhase04"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "908914853"
+			"CString" "Name" "MoveToPhase05"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-1833960798"
+			"CString" "Name" "ObjectiveAComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-1644291359"
+			"CString" "Name" "ObjectiveBComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "818247968"
+			"CString" "Name" "ObjectiveCComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "2091744615"
+			"CString" "Name" "ObjectiveDComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "259316646"
+			"CString" "Name" "ObjectiveEComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "448986085"
+			"CString" "Name" "ObjectiveFComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-1383441884"
+			"CString" "Name" "ObjectiveGComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "106896491"
+			"CString" "Name" "ObjectiveHComplete"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-1725531478"
+			"CString" "Name" "ObjectiveIComplete"
+		}
+	}
+	"List" "InputLinks"
+	{
+	}
+	"List" "OutputLinks"
+	{
+	}
+	"List" "Fields"
+	{
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "1123232415"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveAStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "1057127708"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveBStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "-2022129123"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveCStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "768947610"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveDStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "1984658075"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveEStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "1918553368"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveFStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "-1160703463"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveGStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "-1834287210"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveHStatus"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "-618576745"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "ObjectiveIStatus"
+		}
+	}
+}
+

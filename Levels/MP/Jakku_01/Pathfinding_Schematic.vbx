@@ -1,0 +1,142 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Levels/MP/Jakku_01/Pathfinding_Schematic"
+	"type" "LayerData"
+	"fid" "5ad3e077-8d1f-4fcd-8cf6-1a6857ec6e60"
+	
+	Objects
+	{
+		"LayerData" "d19cfe33-cf13-43e7-a97e-baa072091b47" "0"
+		"PathfindingStreamEntityData" "d9365402-2884-42c5-a4b8-a51426d31ea7" "1"
+		"AndEntityData" "f31af244-0ea6-428e-967c-758e56cdb9a0" "2"
+		"SettingEntityData" "436fbc50-1120-4c70-9869-7ec01f5d6f80" "3"
+		"SyncedBoolEntityData" "2233746c-a8b1-4938-880e-6fec9dbdcdd1" "4"
+		"InclusionSettingEntityData" "5b6aa573-8e8f-45ac-9852-4925f07d7d81" "5"
+		"PathfindingStreamEntityData" "69355384-b153-4129-9e33-11defa2c8875" "6"
+		"InclusionSettingEntityData" "8cfbe4a8-158c-4113-ba7e-a3d1e2981451" "7"
+		"SyncedBoolEntityData" "a2c9a5f8-47ad-415e-9162-848dc203ff4a" "8"
+	}
+}
+
+LayerData d19cfe33-cf13-43e7-a97e-baa072091b47 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "82eee6ae-b68d-3958-6a65-8e037c163360"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 2233746c-a8b1-4938-880e-6fec9dbdcdd1,4"
+		"PointerRef" "" "internal : 69355384-b153-4129-9e33-11defa2c8875,6"
+		"PointerRef" "" "internal : 8cfbe4a8-158c-4113-ba7e-a3d1e2981451,7"
+		"PointerRef" "" "internal : d9365402-2884-42c5-a4b8-a51426d31ea7,1"
+		"PointerRef" "" "internal : a2c9a5f8-47ad-415e-9162-848dc203ff4a,8"
+		"PointerRef" "" "internal : f31af244-0ea6-428e-967c-758e56cdb9a0,2"
+		"PointerRef" "" "internal : 5b6aa573-8e8f-45ac-9852-4925f07d7d81,5"
+		"PointerRef" "" "internal : 436fbc50-1120-4c70-9869-7ec01f5d6f80,3"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "Levels/MP/Jakku_01/Pathfinding_Schematic"
+}
+
+PathfindingStreamEntityData d9365402-2884-42c5-a4b8-a51426d31ea7 1
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : dca032b1-8a85-6623-b329-80ac51b78616,dca032b1-8a85-6623-b329-80ac51b78616"
+	"Boolean" "Autoload" "False"
+	"UInt32" "Flags" "87446530"
+}
+
+AndEntityData f31af244-0ea6-428e-967c-758e56cdb9a0 2
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "286978628"
+}
+
+SettingEntityData 436fbc50-1120-4c70-9869-7ec01f5d6f80 3
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"CString" "BoolSettingName" "Game.ScriptedPlaythrough"
+	"CString" "IntSettingName" ""
+	"CString" "FloatSettingName" ""
+	"CString" "UintSettingName" ""
+	"UInt32" "Flags" "24099920"
+}
+
+SyncedBoolEntityData 2233746c-a8b1-4938-880e-6fec9dbdcdd1 4
+{
+	"UInt32" "Flags" "271807596"
+}
+
+InclusionSettingEntityData 5b6aa573-8e8f-45ac-9852-4925f07d7d81 5
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "23766387"
+}
+
+PathfindingStreamEntityData 69355384-b153-4129-9e33-11defa2c8875 6
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : dca032b1-8a85-6623-b329-80ac51b78616,dca032b1-8a85-6623-b329-80ac51b78616"
+	"Boolean" "Autoload" "False"
+	"UInt32" "Flags" "87380868"
+}
+
+InclusionSettingEntityData 8cfbe4a8-158c-4113-ba7e-a3d1e2981451 7
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+		"CString" "" "PlanetaryBattles"
+		"CString" "" "Blast"
+		"CString" "" "HeroesVersusVillains"
+		"CString" "" "SkirmishBlast"
+		"CString" "" "PlanetaryMissions"
+		"CString" "" "SkirmishOnslaught"
+		"CString" "" "SkirmishDuel"
+		"CString" "" "ModeC"
+		"CString" "" "Mode1"
+		"CString" "" "Mode2"
+		"CString" "" "Mode3"
+		"CString" "" "Mode6"
+		"CString" "" "Mode5"
+		"CString" "" "Mode4"
+		"CString" "" "Mode7"
+		"CString" "" "Mode8"
+		"CString" "" "Mode9"
+		"CString" "" "ModeDefend"
+		"CString" "" "ModeE"
+		"CString" "" "ModeF"
+		"CString" "" "HeroArena"
+		"CString" "" "Mode6"
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "16508072"
+}
+
+SyncedBoolEntityData a2c9a5f8-47ad-415e-9162-848dc203ff4a 8
+{
+	"UInt32" "Flags" "281650680"
+}
+

@@ -1,0 +1,3697 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Levels/MP/DeathStar02_01/PlanetaryMissions_Logic"
+	"type" "LayerData"
+	"fid" "f4d8d4a7-a67c-4294-9f17-a5b6cc2d9022"
+	
+	Objects
+	{
+		"LayerData" "d6e52a58-0181-4f86-b59d-4651fbbf6162" "0"
+		"LocatorEntityData" "1e66df04-7fe9-4f92-bdbd-cd8e819c16bc" "1"
+		"LocatorEntityData" "b63a4805-cca0-436e-ac20-1976864f4709" "2"
+		"AlternateSpawnEntityData" "65845407-f017-48d9-9550-959335b7f41a" "3"
+		"LocatorEntityData" "b2f08309-87a8-458e-a754-cdac80df1fc4" "4"
+		"SpatialPrefabReferenceObjectData" "da43f30a-ab26-4111-989d-8986fcc8a9ad" "5"
+		"AlternateSpawnEntityData" "8bfe0d0b-01ba-41c3-835d-bb9407867fcf" "6"
+		"AlternateSpawnEntityData" "b8d4c80d-74df-4288-a489-77def6128f8b" "7"
+		"SpatialPrefabReferenceObjectData" "a222d50d-2c75-49f1-9794-278091833f46" "8"
+		"AlternateSpawnEntityData" "70d24f0e-277f-48c0-8ef0-ee09851e9e4d" "9"
+		"AlternateSpawnEntityData" "95653212-45b7-453f-8f33-6e8f7ea6210c" "10"
+		"LocatorEntityData" "ee59f212-37de-4427-92ed-6538da9ba9c4" "11"
+		"SpatialPrefabReferenceObjectData" "f6710513-c07d-4913-b35a-29b186055e32" "12"
+		"SpatialPrefabReferenceObjectData" "11359316-d0d8-4e8d-aba0-b8be4dbe842c" "13"
+		"AlternateSpawnEntityData" "06274e17-c889-4eab-b515-025c4ef48ae1" "14"
+		"AlternateSpawnEntityData" "9935c418-3ec3-419a-b53c-af0b516e7643" "15"
+		"LocatorEntityData" "c59ff119-562f-4c63-9133-ceabdcdff589" "16"
+		"AlternateSpawnEntityData" "c952521b-a267-4e17-8b7a-44b4d95e3d3a" "17"
+		"SpawnLocationFinderShapeData" "3e97ea1b-be0d-4c66-a045-af4cb41af20b" "18"
+		"AlternateSpawnEntityData" "17f1f31d-6ca9-4d21-8543-2f0f9353f0f7" "19"
+		"LocatorEntityData" "53c3a721-6773-4489-a06a-8d47e0db930a" "20"
+		"AlternateSpawnEntityData" "da925623-3894-418f-872f-1f9d26f3cc39" "21"
+		"LocatorEntityData" "d9822324-a091-4fcb-b4f1-fc91aa0a6338" "22"
+		"LocatorEntityData" "a425b124-3266-454d-aa0c-7384bafeadac" "23"
+		"AlternateSpawnEntityData" "e76d5227-7f5c-40d0-8ea0-b50ddf2c05ce" "24"
+		"AlternateSpawnEntityData" "8a135e28-eb34-47b8-a17a-42dd01164f22" "25"
+		"LocalLocatorEntityData" "def58828-e60a-42f0-b2a5-5e2593a85e4a" "26"
+		"LocatorEntityData" "25e45429-ce09-43e1-a369-f1210159ac45" "27"
+		"SpatialPrefabReferenceObjectData" "7bfe7c29-4bd0-4c71-a3bf-4a12dce43fa6" "28"
+		"LocatorEntityData" "5847c72a-cdd2-40d9-8dd4-395e016f164b" "29"
+		"AlternateSpawnEntityData" "985c9c2b-04da-490a-8765-08c16b30f32f" "30"
+		"LocatorEntityData" "6762842e-1e72-42f3-a724-e7f0a976513b" "31"
+		"SpawnLocationFinderShapeData" "aafeb230-a793-4d2f-a9ff-f30cb6cbe1b8" "32"
+		"AlternateSpawnEntityData" "03ef5931-58f9-4ee8-b041-19b49c3b299c" "33"
+		"SpatialPrefabReferenceObjectData" "1c757c31-424d-473a-915a-fec0dc0bff68" "34"
+		"SpawnLocationFinderShapeData" "54adc432-3e45-48dd-aeb9-f463f96b43e6" "35"
+		"AlternateSpawnEntityData" "711c2233-7172-46a4-a5b5-89b5808410ce" "36"
+		"AlternateSpawnEntityData" "aafe1e38-5791-4b3b-9160-c62f7dbb6475" "37"
+		"SpatialPrefabReferenceObjectData" "d541cb3a-16a7-4d09-be91-5707dde73633" "38"
+		"LocatorEntityData" "b12d433b-3d81-4f28-bdee-74d2db0ecc61" "39"
+		"LocatorEntityData" "0694163c-ac52-4310-ad79-ecd2210d9ffd" "40"
+		"SpatialPrefabReferenceObjectData" "0a32d33d-5fe5-4eff-a775-fd8cdfd30d8c" "41"
+		"SpawnLocationFinderShapeData" "5f460e3f-86fb-449f-a538-6dc70c6e2937" "42"
+		"LocalLocatorEntityData" "ad77523f-0ec5-4a2c-a02d-bc8f1bc23597" "43"
+		"SpawnLocationFinderShapeData" "0ef19740-3473-4c70-b4dc-aa5c8a542ac7" "44"
+		"AlternateSpawnEntityData" "66022f44-5a1b-4d5c-a253-39f0258487aa" "45"
+		"SpatialPrefabReferenceObjectData" "161d2c45-38d5-4ddf-a6d1-51a953b36dc9" "46"
+		"LocatorEntityData" "ad224445-b0a4-48f1-9b62-f4b6b9f9d7b9" "47"
+		"SpawnLocationFinderShapeData" "f4468045-9fc5-4d94-b5dd-5d290ab6b435" "48"
+		"LocatorEntityData" "8af9ad4e-d567-452f-9420-6a5792340d5c" "49"
+		"AlternateSpawnEntityData" "8a89c54f-3865-4afa-828e-fa4a9b839978" "50"
+		"SpatialPrefabReferenceObjectData" "538ee850-0368-4350-992a-cbeb3c50bbc4" "51"
+		"LocatorEntityData" "c8c8f850-a644-470c-85c4-624d2f94df46" "52"
+		"AlternateSpawnEntityData" "1749d751-0c42-4ff6-bcc6-cf02bec9f9eb" "53"
+		"AlternateSpawnEntityData" "76e99256-43e1-4b09-b2db-9d89283c892e" "54"
+		"SpawnLocationFinderShapeData" "4a58e357-0751-42f7-8a8d-7b325dae9d50" "55"
+		"SpatialPrefabReferenceObjectData" "f050e358-97fe-4fd2-b4bc-145a469f2982" "56"
+		"LocatorEntityData" "a7ac5c5a-fc64-4108-a794-57a90193dec4" "57"
+		"AlternateSpawnEntityData" "f0bfcb5a-5c93-443c-a263-fdffdc736c25" "58"
+		"AlternateSpawnEntityData" "44f6bd5b-b2d3-427e-8682-7d46f0f87f58" "59"
+		"SpawnLocationFinderShapeData" "1188745d-d14b-47b6-9633-89cad923a7c2" "60"
+		"AlternateSpawnEntityData" "a035675e-5c18-411b-aa5f-cf7d15d501ae" "61"
+		"SpatialPrefabReferenceObjectData" "b1eb935e-f000-4a53-b426-ea8b74cf01f0" "62"
+		"SpatialPrefabReferenceObjectData" "fc710c60-3a40-40b6-bab1-e02337d1ac3d" "63"
+		"AlternateSpawnEntityData" "2bd2cd60-dcf9-4e93-81c6-eb1c6431b30c" "64"
+		"AlternateSpawnEntityData" "0c2fe962-4538-4b70-a7d7-dc11d84a07a1" "65"
+		"AlternateSpawnEntityData" "0a0da664-7b02-4341-9b91-43329aead848" "66"
+		"SpatialPrefabReferenceObjectData" "f80a4c66-38eb-44b6-92a5-f5b0ae6bda91" "67"
+		"SpatialPrefabReferenceObjectData" "8524ed69-503c-4599-a162-411b2632abf3" "68"
+		"VolumeVectorShapeData" "7eeb576a-76c1-42e9-982a-dfa6622249f8" "69"
+		"SpatialPrefabReferenceObjectData" "b930826e-da9e-4344-a045-a20cbd6ecf1f" "70"
+		"AlternateSpawnEntityData" "7f67266f-0547-4f78-a3c6-b331daf6ccd8" "71"
+		"LocatorEntityData" "e3ddf070-8d49-468c-9168-63d544dfaeeb" "72"
+		"SpatialPrefabReferenceObjectData" "4a172171-9f0b-4d74-b406-7b47520371f9" "73"
+		"AlternateSpawnEntityData" "5fdc0f75-8d21-48d5-9e8f-cdb73ecb0a9d" "74"
+		"AlternateSpawnEntityData" "8ada3975-11ab-4850-9b02-6067c560aaed" "75"
+		"SpatialPrefabReferenceObjectData" "281b0679-6230-4f85-a8cc-b281d6b7cefd" "76"
+		"AlternateSpawnEntityData" "e7ca4779-eee0-4672-820d-3f50385e356b" "77"
+		"SpatialPrefabReferenceObjectData" "cbd87179-4444-4d02-b57c-08551bff276a" "78"
+		"SpawnLocationFinderShapeData" "40e37a79-8716-47e1-8a56-3173a57299db" "79"
+		"OBBData" "b95de279-be77-46c0-aa9a-27b33ced7944" "80"
+		"AlternateSpawnEntityData" "0056b37c-fbf0-4453-9752-6f8ba9268bcd" "81"
+		"AlternateSpawnEntityData" "5fafba7d-69b6-4be6-b6dc-797b783ae928" "82"
+		"LocatorEntityData" "d2a2fd82-04a9-4f5c-b037-c5e5ce1a28e4" "83"
+		"SpatialPrefabReferenceObjectData" "13452e85-0279-42ed-96ad-fb78f471bac5" "84"
+		"SpawnLocationFinderShapeData" "80bef186-817d-437d-b405-019ca8538334" "85"
+		"SpatialPrefabReferenceObjectData" "79334a87-00f7-461b-b5ed-47b7a6977581" "86"
+		"LocatorEntityData" "19cf5787-cca3-4ef2-b99f-882fbeccc790" "87"
+		"SpawnLocationFinderShapeData" "846d0488-33fb-4fc8-89d5-efde2d1e0017" "88"
+		"AlternateSpawnEntityData" "1abdfa88-b41a-4fd8-98c2-7fe2b65c8bf2" "89"
+		"SpatialPrefabReferenceObjectData" "8eb63d8b-61a9-4e6f-8939-ae8e71e59fb3" "90"
+		"SpatialPrefabReferenceObjectData" "902c4c96-d717-43b9-a51f-3b1e03d12730" "91"
+		"AlternateSpawnEntityData" "85eb7399-9b75-44be-8f96-2587470765c1" "92"
+		"SpatialPrefabReferenceObjectData" "c7c96e9b-2139-422b-8101-dcd12dc38612" "93"
+		"SpawnLocationFinderShapeData" "dbe75e9d-8ad3-4cce-acd2-e2c1bac831b5" "94"
+		"LocatorEntityData" "f78f7ea3-d61c-4970-ab0a-4e4458cb37a6" "95"
+		"AlternateSpawnEntityData" "38f69ba4-83b8-401a-9a3e-3c5617a625e7" "96"
+		"AlternateSpawnEntityData" "5139b5a4-1050-45b7-9b38-de70f3ad2592" "97"
+		"AlternateSpawnEntityData" "8cf8e1a5-aa75-4f46-8332-ff6a8b0175cb" "98"
+		"LocatorEntityData" "d1a101a9-dce3-45f9-a72a-adbc593db26c" "99"
+		"LocatorEntityData" "4a91a7a9-e43a-4a88-a1fe-ce4ac7701733" "100"
+		"SpatialPrefabReferenceObjectData" "521125ae-6166-44df-a67d-74438f867582" "101"
+		"AlternateSpawnEntityData" "5bc2c0af-0f6e-4631-9118-fcefb51241ac" "102"
+		"SpatialPrefabReferenceObjectData" "d21276b0-bf7c-4014-bfb2-0cbae3230484" "103"
+		"AlternateSpawnEntityData" "79cc03b1-8df5-44a6-b1da-b8e3b57019e5" "104"
+		"AlternateSpawnEntityData" "94cc4cb4-87c3-4f2d-b724-8e11d3edeae2" "105"
+		"OBBData" "a1872cb5-f156-4479-a7f7-9866dbe3364f" "106"
+		"AlternateSpawnEntityData" "d912e7b7-f22c-4275-8af1-c747fffb80cb" "107"
+		"AlternateSpawnEntityData" "a6be44b9-2b04-4f1a-92a2-2f1e10bd49e0" "108"
+		"AlternateSpawnEntityData" "870876bd-c06a-41d7-a74a-f4adcb53a587" "109"
+		"SpatialPrefabReferenceObjectData" "9745f7bf-27ab-46a9-a3a8-b0095669bcef" "110"
+		"SpatialPrefabReferenceObjectData" "f833a8c0-5735-40ae-b7a1-a9600ffbcf8f" "111"
+		"AlternateSpawnEntityData" "c122aac1-0b07-458e-ae94-4da588521f92" "112"
+		"VolumeVectorShapeData" "fb0829c4-8fc4-4e74-8c99-2c1e0c393faa" "113"
+		"SpatialPrefabReferenceObjectData" "c23257c5-278f-4fcc-964b-a154ea80bbf5" "114"
+		"AlternateSpawnEntityData" "52832ac6-8ed6-4bcc-918a-d29d032b4d1b" "115"
+		"AlternateSpawnEntityData" "f45726c8-b682-4828-b0e3-5519a5ccba72" "116"
+		"LocatorEntityData" "638378c8-8746-460d-8919-94744e008b95" "117"
+		"SpatialPrefabReferenceObjectData" "ab13bed0-a3b1-44df-ac6c-a3892060cba4" "118"
+		"SpatialPrefabReferenceObjectData" "bd23cad3-9a95-4ea6-8cd9-a98b629d6e78" "119"
+		"AlternateSpawnEntityData" "23d624d4-d510-4cd6-a38e-889fb2a0ad59" "120"
+		"LocatorEntityData" "df8e4fd5-3df9-4721-8f59-569bd47ffc3a" "121"
+		"SpawnLocationFinderShapeData" "3e9f95d5-454a-45ec-858f-89a8a9712caa" "122"
+		"LocatorEntityData" "deef33d6-8c84-4438-8bf0-0c34ebb7b4ce" "123"
+		"VolumeVectorShapeData" "a4f3e0d9-69bc-458b-9627-8a7ee5140bfa" "124"
+		"SpatialPrefabReferenceObjectData" "81c0e0db-babf-4b77-a6d1-d2efa494caf6" "125"
+		"LocatorEntityData" "113b2edd-0f04-4407-b172-a36509a72732" "126"
+		"LocatorEntityData" "9f315ce0-96e8-48c0-a779-54990580b64d" "127"
+		"LocatorEntityData" "b994d4e2-4b2e-4760-890c-a2a05b66c1c9" "128"
+		"AlternateSpawnEntityData" "e95f50e3-c2b3-49c0-b497-56df87440cda" "129"
+		"AlternateSpawnEntityData" "1f48b9e3-08f5-44cb-aa06-005027b32eb8" "130"
+		"AlternateSpawnEntityData" "3aa02fe4-e6f8-4819-82ca-b60f63ff013b" "131"
+		"AlternateSpawnEntityData" "f97066e4-0364-4423-9aff-248d72c5c0a8" "132"
+		"SpawnLocationFinderShapeData" "fb2ef7e4-ef74-40d2-bf02-a30cbfc054df" "133"
+		"SpawnLocationFinderShapeData" "9d8c96e5-565f-4447-aea8-4183bd4eee4e" "134"
+		"AlternateSpawnEntityData" "eaaea6e8-f5ac-4396-ad04-38ef13953061" "135"
+		"AlternateSpawnEntityData" "096201eb-1485-4294-aecb-3cebe84dd875" "136"
+		"VolumeVectorShapeData" "ecf2aeec-3d67-431e-adb3-111854300000" "137"
+		"AlternateSpawnEntityData" "075844f3-8257-4294-88f2-e531dec02fc3" "138"
+		"LocalLocatorEntityData" "2a34f1f4-c7e9-4677-9648-e807617ac08f" "139"
+		"SpatialPrefabReferenceObjectData" "4fa044f8-3b25-4317-92bc-78611953e22d" "140"
+		"SpatialPrefabReferenceObjectData" "453822f9-f51c-4a64-a039-51d27d4ef42e" "141"
+		"AlternateSpawnEntityData" "263de8f9-60cf-4641-8137-ee40a2d1c9c1" "142"
+		"OBBData" "ce81fcfc-64b1-407f-b9f3-3728a6b12b52" "143"
+		"SpawnLocationFinderShapeData" "2986d3fe-4a2c-46c6-adf2-fbe69989289f" "144"
+		"CameraEntityData" "00000000-0000-0000-0000-000000000000" "145"
+		"CameraEntityData" "00000000-0000-0000-0000-000000000000" "146"
+		"LocatorEntityData" "00000000-0000-0000-0000-000000000000" "147"
+		"LocatorEntityData" "00000000-0000-0000-0000-000000000000" "148"
+	}
+}
+
+LayerData d6e52a58-0181-4f86-b59d-4651fbbf6162 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "35d4d632-3ccb-fd42-5670-41ea35f4987c"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : c7c96e9b-2139-422b-8101-dcd12dc38612,93"
+		"PointerRef" "" "internal : d541cb3a-16a7-4d09-be91-5707dde73633,38"
+		"PointerRef" "" "internal : ab13bed0-a3b1-44df-ac6c-a3892060cba4,118"
+		"PointerRef" "" "internal : 1c757c31-424d-473a-915a-fec0dc0bff68,34"
+		"PointerRef" "" "internal : bd23cad3-9a95-4ea6-8cd9-a98b629d6e78,119"
+		"PointerRef" "" "internal : 4a172171-9f0b-4d74-b406-7b47520371f9,73"
+		"PointerRef" "" "internal : 281b0679-6230-4f85-a8cc-b281d6b7cefd,76"
+		"PointerRef" "" "internal : 521125ae-6166-44df-a67d-74438f867582,101"
+		"PointerRef" "" "internal : c8c8f850-a644-470c-85c4-624d2f94df46,52"
+		"PointerRef" "" "internal : df8e4fd5-3df9-4721-8f59-569bd47ffc3a,121"
+		"PointerRef" "" "internal : f80a4c66-38eb-44b6-92a5-f5b0ae6bda91,67"
+		"PointerRef" "" "internal : 11359316-d0d8-4e8d-aba0-b8be4dbe842c,13"
+		"PointerRef" "" "internal : fc710c60-3a40-40b6-bab1-e02337d1ac3d,63"
+		"PointerRef" "" "internal : 79334a87-00f7-461b-b5ed-47b7a6977581,86"
+		"PointerRef" "" "internal : 81c0e0db-babf-4b77-a6d1-d2efa494caf6,125"
+		"PointerRef" "" "internal : 453822f9-f51c-4a64-a039-51d27d4ef42e,141"
+		"PointerRef" "" "internal : b930826e-da9e-4344-a045-a20cbd6ecf1f,70"
+		"PointerRef" "" "internal : f833a8c0-5735-40ae-b7a1-a9600ffbcf8f,111"
+		"PointerRef" "" "internal : b1eb935e-f000-4a53-b426-ea8b74cf01f0,62"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,147"
+		"PointerRef" "" "internal : f050e358-97fe-4fd2-b4bc-145a469f2982,56"
+		"PointerRef" "" "internal : f6710513-c07d-4913-b35a-29b186055e32,12"
+		"PointerRef" "" "internal : 13452e85-0279-42ed-96ad-fb78f471bac5,84"
+		"PointerRef" "" "internal : 0a32d33d-5fe5-4eff-a775-fd8cdfd30d8c,41"
+		"PointerRef" "" "internal : 9745f7bf-27ab-46a9-a3a8-b0095669bcef,110"
+		"PointerRef" "" "internal : 8524ed69-503c-4599-a162-411b2632abf3,68"
+		"PointerRef" "" "internal : c23257c5-278f-4fcc-964b-a154ea80bbf5,114"
+		"PointerRef" "" "internal : b2f08309-87a8-458e-a754-cdac80df1fc4,4"
+		"PointerRef" "" "internal : d2a2fd82-04a9-4f5c-b037-c5e5ce1a28e4,83"
+		"PointerRef" "" "internal : c59ff119-562f-4c63-9133-ceabdcdff589,16"
+		"PointerRef" "" "internal : e3ddf070-8d49-468c-9168-63d544dfaeeb,72"
+		"PointerRef" "" "internal : 638378c8-8746-460d-8919-94744e008b95,117"
+		"PointerRef" "" "internal : deef33d6-8c84-4438-8bf0-0c34ebb7b4ce,123"
+		"PointerRef" "" "internal : 8af9ad4e-d567-452f-9420-6a5792340d5c,49"
+		"PointerRef" "" "internal : 0694163c-ac52-4310-ad79-ecd2210d9ffd,40"
+		"PointerRef" "" "internal : b12d433b-3d81-4f28-bdee-74d2db0ecc61,39"
+		"PointerRef" "" "internal : 19cf5787-cca3-4ef2-b99f-882fbeccc790,87"
+		"PointerRef" "" "internal : ee59f212-37de-4427-92ed-6538da9ba9c4,11"
+		"PointerRef" "" "internal : a7ac5c5a-fc64-4108-a794-57a90193dec4,57"
+		"PointerRef" "" "internal : 9f315ce0-96e8-48c0-a779-54990580b64d,127"
+		"PointerRef" "" "internal : b994d4e2-4b2e-4760-890c-a2a05b66c1c9,128"
+		"PointerRef" "" "internal : 1e66df04-7fe9-4f92-bdbd-cd8e819c16bc,1"
+		"PointerRef" "" "internal : 5847c72a-cdd2-40d9-8dd4-395e016f164b,29"
+		"PointerRef" "" "internal : ad224445-b0a4-48f1-9b62-f4b6b9f9d7b9,47"
+		"PointerRef" "" "internal : 4a91a7a9-e43a-4a88-a1fe-ce4ac7701733,100"
+		"PointerRef" "" "internal : f78f7ea3-d61c-4970-ab0a-4e4458cb37a6,95"
+		"PointerRef" "" "internal : 53c3a721-6773-4489-a06a-8d47e0db930a,20"
+		"PointerRef" "" "internal : 113b2edd-0f04-4407-b172-a36509a72732,126"
+		"PointerRef" "" "internal : 6762842e-1e72-42f3-a724-e7f0a976513b,31"
+		"PointerRef" "" "internal : d1a101a9-dce3-45f9-a72a-adbc593db26c,99"
+		"PointerRef" "" "internal : 25e45429-ce09-43e1-a369-f1210159ac45,27"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,148"
+		"PointerRef" "" "internal : a425b124-3266-454d-aa0c-7384bafeadac,23"
+		"PointerRef" "" "internal : b63a4805-cca0-436e-ac20-1976864f4709,2"
+		"PointerRef" "" "internal : d9822324-a091-4fcb-b4f1-fc91aa0a6338,22"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,145"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,146"
+		"PointerRef" "" "internal : def58828-e60a-42f0-b2a5-5e2593a85e4a,26"
+		"PointerRef" "" "internal : 2a34f1f4-c7e9-4677-9648-e807617ac08f,139"
+		"PointerRef" "" "internal : ad77523f-0ec5-4a2c-a02d-bc8f1bc23597,43"
+		"PointerRef" "" "internal : a222d50d-2c75-49f1-9794-278091833f46,8"
+		"PointerRef" "" "internal : 7bfe7c29-4bd0-4c71-a3bf-4a12dce43fa6,28"
+		"PointerRef" "" "internal : 4fa044f8-3b25-4317-92bc-78611953e22d,140"
+		"PointerRef" "" "internal : 161d2c45-38d5-4ddf-a6d1-51a953b36dc9,46"
+		"PointerRef" "" "internal : 8eb63d8b-61a9-4e6f-8939-ae8e71e59fb3,90"
+		"PointerRef" "" "internal : 902c4c96-d717-43b9-a51f-3b1e03d12730,91"
+		"PointerRef" "" "internal : cbd87179-4444-4d02-b57c-08551bff276a,78"
+		"PointerRef" "" "internal : 538ee850-0368-4350-992a-cbeb3c50bbc4,51"
+		"PointerRef" "" "internal : da43f30a-ab26-4111-989d-8986fcc8a9ad,5"
+		"PointerRef" "" "internal : d21276b0-bf7c-4014-bfb2-0cbae3230484,103"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "Levels/MP/DeathStar02_01/PlanetaryMissions_Logic"
+}
+
+LocatorEntityData 1e66df04-7fe9-4f92-bdbd-cd8e819c16bc 1
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "6741764"
+}
+
+LocatorEntityData b63a4805-cca0-436e-ac20-1976864f4709 2
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.8003315,0,0.5995577"
+		"Vec3" "forward" "-0.5995577,0,0.8003315"
+	}
+	"UInt32" "Flags" "3819525"
+}
+
+AlternateSpawnEntityData 65845407-f017-48d9-9550-959335b7f41a 3
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.1942673,0,0.9809477"
+		"Vec3" "forward" "-0.9809477,0,0.1942673"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData b2f08309-87a8-458e-a754-cdac80df1fc4 4
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "15762185"
+}
+
+SpatialPrefabReferenceObjectData da43f30a-ab26-4111-989d-8986fcc8a9ad 5
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "407106314"
+}
+
+AlternateSpawnEntityData 8bfe0d0b-01ba-41c3-835d-bb9407867fcf 6
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.02433723,0,0.999703"
+		"Vec3" "forward" "-0.999703,0,-0.02433723"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData b8d4c80d-74df-4288-a489-77def6128f8b 7
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.1880403,0,0.9821609"
+		"Vec3" "forward" "-0.9821609,0,0.1880403"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData a222d50d-2c75-49f1-9794-278091833f46 8
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "404935949"
+}
+
+AlternateSpawnEntityData 70d24f0e-277f-48c0-8ef0-ee09851e9e4d 9
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3108003,0,0.9504748"
+		"Vec3" "forward" "-0.9504748,0,-0.3108003"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 95653212-45b7-453f-8f33-6e8f7ea6210c 10
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.09986371,0,-0.9950008"
+		"Vec3" "forward" "0.9950008,0,0.09986371"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData ee59f212-37de-4427-92ed-6538da9ba9c4 11
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "5894674"
+}
+
+SpatialPrefabReferenceObjectData f6710513-c07d-4913-b35a-29b186055e32 12
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "410060051"
+}
+
+SpatialPrefabReferenceObjectData 11359316-d0d8-4e8d-aba0-b8be4dbe842c 13
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "422941462"
+}
+
+AlternateSpawnEntityData 06274e17-c889-4eab-b515-025c4ef48ae1 14
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.01175988,0,0.99993"
+		"Vec3" "forward" "-0.99993,0,-0.01175988"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 9935c418-3ec3-419a-b53c-af0b516e7643 15
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.4030834,0,0.915163"
+		"Vec3" "forward" "-0.915163,0,-0.4030834"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData c59ff119-562f-4c63-9133-ceabdcdff589 16
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.92365"
+		"Vec3" "forward" "-0.92365,0,-0.3832358"
+	}
+	"UInt32" "Flags" "27259161"
+}
+
+AlternateSpawnEntityData c952521b-a267-4e17-8b7a-44b4d95e3d3a 17
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.02951398,0,-0.9995669"
+		"Vec3" "forward" "0.9995669,0,0.02951398"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData 3e97ea1b-be0d-4c66-a045-af4cb41af20b 18
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-878.72,773.12,-197.76"
+		"Vec3" "" "-974.08,773.12,-197.76"
+		"Vec3" "" "-974.08,773.12,-295.04"
+		"Vec3" "" "-935.68,773.12,-295.04"
+		"Vec3" "" "-935.8775,773.12,-327.04"
+		"Vec3" "" "-908.16,773.12,-327.04"
+		"Vec3" "" "-908.1265,773.12,-290.56"
+		"Vec3" "" "-878.72,773.12,-290.56"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 17f1f31d-6ca9-4d21-8543-2f0f9353f0f7 19
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.02215713,0,-0.9997569"
+		"Vec3" "forward" "0.9997569,0,-0.02215713"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData 53c3a721-6773-4489-a06a-8d47e0db930a 20
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "29599521"
+}
+
+AlternateSpawnEntityData da925623-3894-418f-872f-1f9d26f3cc39 21
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.0008388758,0,0.9999987"
+		"Vec3" "forward" "-0.9999987,0,-0.0008388758"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData d9822324-a091-4fcb-b4f1-fc91aa0a6338 22
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9970499,0,0.0767565"
+		"Vec3" "forward" "-0.0767565,0,0.9970499"
+	}
+	"UInt32" "Flags" "25305892"
+}
+
+LocatorEntityData a425b124-3266-454d-aa0c-7384bafeadac 23
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.8003315,0,0.5995577"
+		"Vec3" "forward" "-0.5995577,0,0.8003315"
+	}
+	"UInt32" "Flags" "2470180"
+}
+
+AlternateSpawnEntityData e76d5227-7f5c-40d0-8ea0-b50ddf2c05ce 24
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.1880403,0,0.9821609"
+		"Vec3" "forward" "-0.9821609,0,0.1880403"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 8a135e28-eb34-47b8-a17a-42dd01164f22 25
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.7819631,0,0.6233234"
+		"Vec3" "forward" "-0.6233234,0,0.7819631"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocalLocatorEntityData def58828-e60a-42f0-b2a5-5e2593a85e4a 26
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "16091176"
+}
+
+LocatorEntityData 25e45429-ce09-43e1-a369-f1210159ac45 27
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "31740969"
+}
+
+SpatialPrefabReferenceObjectData 7bfe7c29-4bd0-4c71-a3bf-4a12dce43fa6 28
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "33455145"
+}
+
+LocatorEntityData 5847c72a-cdd2-40d9-8dd4-395e016f164b 29
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "4704042"
+}
+
+AlternateSpawnEntityData 985c9c2b-04da-490a-8765-08c16b30f32f 30
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.3620949,0,0.9321409"
+		"Vec3" "forward" "-0.9321409,0,0.3620949"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData 6762842e-1e72-42f3-a724-e7f0a976513b 31
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "23233582"
+}
+
+SpawnLocationFinderShapeData aafeb230-a793-4d2f-a9ff-f30cb6cbe1b8 32
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-875.2,810.24,-226.8784"
+		"Vec3" "" "-942.72,810.24,-226.56"
+		"Vec3" "" "-942.72,810.24,-272.64"
+		"Vec3" "" "-971.52,810.24,-272.64"
+		"Vec3" "" "-971.52,810.24,-302.08"
+		"Vec3" "" "-942.72,810.24,-302.08"
+		"Vec3" "" "-942.72,810.24,-307.84"
+		"Vec3" "" "-875.2,810.24,-307.8384"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 03ef5931-58f9-4ee8-b041-19b49c3b299c 33
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.7181597,0,0.6958771"
+		"Vec3" "forward" "-0.6958771,0,-0.7181597"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 1c757c31-424d-473a-915a-fec0dc0bff68 34
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "410352689"
+}
+
+SpawnLocationFinderShapeData 54adc432-3e45-48dd-aeb9-f463f96b43e6 35
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-813.3943,870.4,-280.32"
+		"Vec3" "" "-852.2618,870.4,-281.1221"
+		"Vec3" "" "-851.9189,870.4,-273.3507"
+		"Vec3" "" "-860.0331,870.4,-267.2936"
+		"Vec3" "" "-868.376,870.4,-267.7508"
+		"Vec3" "" "-874.4331,870.4,-275.865"
+		"Vec3" "" "-873.8617,870.4,-287.9792"
+		"Vec3" "" "-900.7866,870.4,-288"
+		"Vec3" "" "-900.7866,870.4,-354.9243"
+		"Vec3" "" "-813.3943,870.4,-354.9243"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 711c2233-7172-46a4-a5b5-89b5808410ce 36
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.6116758,0,-0.7911119"
+		"Vec3" "forward" "0.7911119,0,0.6116758"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData aafe1e38-5791-4b3b-9160-c62f7dbb6475 37
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.1273465,0,-0.9918608"
+		"Vec3" "forward" "0.9918608,0,0.1273465"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData d541cb3a-16a7-4d09-be91-5707dde73633 38
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "21089082"
+}
+
+LocatorEntityData b12d433b-3d81-4f28-bdee-74d2db0ecc61 39
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "19743547"
+}
+
+LocatorEntityData 0694163c-ac52-4310-ad79-ecd2210d9ffd 40
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "9705020"
+}
+
+SpatialPrefabReferenceObjectData 0a32d33d-5fe5-4eff-a775-fd8cdfd30d8c 41
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "405984061"
+}
+
+SpawnLocationFinderShapeData 5f460e3f-86fb-449f-a538-6dc70c6e2937 42
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-780.8,1041.28,-249.6"
+		"Vec3" "" "-806.4,1041.28,-249.6"
+		"Vec3" "" "-806.4,1041.28,-240"
+		"Vec3" "" "-826.24,1041.28,-240"
+		"Vec3" "" "-826.24,1041.28,-248.96"
+		"Vec3" "" "-861.44,1041.28,-248.96"
+		"Vec3" "" "-861.44,1041.28,-307.84"
+		"Vec3" "" "-829.44,1041.28,-307.84"
+		"Vec3" "" "-829.44,1041.28,-314.24"
+		"Vec3" "" "-801.92,1041.28,-314.24"
+		"Vec3" "" "-801.92,1041.28,-307.2"
+		"Vec3" "" "-780.8,1041.28,-307.2"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+LocalLocatorEntityData ad77523f-0ec5-4a2c-a02d-bc8f1bc23597 43
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.1828296,0.9722573,0.1459072"
+		"Vec3" "right" "-0.5913266,-0.009815782,0.8063723"
+		"Vec3" "forward" "-0.7854336,0.2337076,-0.5731269"
+	}
+	"UInt32" "Flags" "125260351"
+}
+
+SpawnLocationFinderShapeData 0ef19740-3473-4c70-b4dc-aa5c8a542ac7 44
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-903.68,969.28,-281.6"
+		"Vec3" "" "-970.24,969.28,-281.6"
+		"Vec3" "" "-970.24,969.28,-290.56"
+		"Vec3" "" "-1008.64,969.28,-290.5768"
+		"Vec3" "" "-1008.64,969.28,-328.32"
+		"Vec3" "" "-932.0093,969.28,-328.209"
+		"Vec3" "" "-931.84,969.28,-342.4"
+		"Vec3" "" "-903.68,969.28,-342.4"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 66022f44-5a1b-4d5c-a253-39f0258487aa 45
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.2766314,0,0.9609752"
+		"Vec3" "forward" "-0.9609752,0,-0.2766314"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 161d2c45-38d5-4ddf-a6d1-51a953b36dc9 46
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "404565061"
+}
+
+LocatorEntityData ad224445-b0a4-48f1-9b62-f4b6b9f9d7b9 47
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "19022917"
+}
+
+SpawnLocationFinderShapeData f4468045-9fc5-4d94-b5dd-5d290ab6b435 48
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-932.48,720.64,-288.64"
+		"Vec3" "" "-970.24,720.64,-288.64"
+		"Vec3" "" "-970.24,720.64,-318.08"
+		"Vec3" "" "-985.0378,720.64,-318.0967"
+		"Vec3" "" "-984.96,720.64,-355.84"
+		"Vec3" "" "-932.48,720.64,-355.84"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData 8af9ad4e-d567-452f-9420-6a5792340d5c 49
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "16362830"
+}
+
+AlternateSpawnEntityData 8a89c54f-3865-4afa-828e-fa4a9b839978 50
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.05678445,0,0.9983856"
+		"Vec3" "forward" "-0.9983856,0,-0.05678445"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 538ee850-0368-4350-992a-cbeb3c50bbc4 51
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "428795984"
+}
+
+LocatorEntityData c8c8f850-a644-470c-85c4-624d2f94df46 52
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "13170768"
+}
+
+AlternateSpawnEntityData 1749d751-0c42-4ff6-bcc6-cf02bec9f9eb 53
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.6115079,0,-0.7912382"
+		"Vec3" "forward" "0.7912382,0,-0.6115079"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 76e99256-43e1-4b09-b2db-9d89283c892e 54
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.06561336,0,-0.9978448"
+		"Vec3" "forward" "0.9978448,0,-0.06561336"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData 4a58e357-0751-42f7-8a8d-7b325dae9d50 55
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-1018.833,991.3148,-244.5208"
+		"Vec3" "" "-1018.833,991.3148,-289.28"
+		"Vec3" "" "-918.1555,991.3148,-289.28"
+		"Vec3" "" "-918.1555,991.3148,-244.5208"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData f050e358-97fe-4fd2-b4bc-145a469f2982 56
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "407954264"
+}
+
+LocatorEntityData a7ac5c5a-fc64-4108-a794-57a90193dec4 57
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "28073050"
+}
+
+AlternateSpawnEntityData f0bfcb5a-5c93-443c-a263-fdffdc736c25 58
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.0456827,0,-0.9989557"
+		"Vec3" "forward" "0.9989557,0,0.0456827"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 44f6bd5b-b2d3-427e-8682-7d46f0f87f58 59
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.7096508,0,-0.7045535"
+		"Vec3" "forward" "0.7045535,0,0.7096508"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData 1188745d-d14b-47b6-9633-89cad923a7c2 60
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-780.8,1041.28,-290.56"
+		"Vec3" "" "-806.4,1041.28,-290.56"
+		"Vec3" "" "-806.4,1041.28,-274.56"
+		"Vec3" "" "-826.24,1041.28,-274.56"
+		"Vec3" "" "-826.24,1041.28,-289.92"
+		"Vec3" "" "-861.44,1041.28,-289.92"
+		"Vec3" "" "-861.44,1041.28,-348.8"
+		"Vec3" "" "-780.8,1041.28,-348.16"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData a035675e-5c18-411b-aa5f-cf7d15d501ae 61
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.2568772,0,0.9664438"
+		"Vec3" "forward" "-0.9664438,0,-0.2568772"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData b1eb935e-f000-4a53-b426-ea8b74cf01f0 62
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "434869086"
+}
+
+SpatialPrefabReferenceObjectData fc710c60-3a40-40b6-bab1-e02337d1ac3d 63
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "410061920"
+}
+
+AlternateSpawnEntityData 2bd2cd60-dcf9-4e93-81c6-eb1c6431b30c 64
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.2733104,0,0.9619256"
+		"Vec3" "forward" "-0.9619256,0,-0.2733104"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 0c2fe962-4538-4b70-a7d7-dc11d84a07a1 65
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.1132697,0,0.993564"
+		"Vec3" "forward" "-0.993564,0,0.1132697"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 0a0da664-7b02-4341-9b91-43329aead848 66
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.7461179,0,0.6658126"
+		"Vec3" "forward" "-0.6658126,0,-0.7461179"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData f80a4c66-38eb-44b6-92a5-f5b0ae6bda91 67
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "674918"
+}
+
+SpatialPrefabReferenceObjectData 8524ed69-503c-4599-a162-411b2632abf3 68
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "421850473"
+}
+
+VolumeVectorShapeData 7eeb576a-76c1-42e9-982a-dfa6622249f8 69
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-844.8,810.24,-232.96"
+		"Vec3" "" "-844.8,810.24,-227.2"
+		"Vec3" "" "-876.8,810.24,-227.2"
+		"Vec3" "" "-876.8,810.24,-203.52"
+		"Vec3" "" "-941.44,810.24,-203.52"
+		"Vec3" "" "-941.44,810.24,-252.8"
+		"Vec3" "" "-970.24,810.24,-252.8"
+		"Vec3" "" "-970.24,810.24,-272.64"
+		"Vec3" "" "-970.24,810.24,-317.44"
+		"Vec3" "" "-970.24,810.24,-322.56"
+		"Vec3" "" "-965.12,810.24,-327.04"
+		"Vec3" "" "-929.92,810.24,-327.04"
+		"Vec3" "" "-929.92,810.24,-341.12"
+		"Vec3" "" "-897.92,810.24,-341.12"
+		"Vec3" "" "-897.92,810.24,-333.44"
+		"Vec3" "" "-886.4,810.24,-333.44"
+		"Vec3" "" "-883.2,810.24,-333.44"
+		"Vec3" "" "-883.2,810.24,-337.92"
+		"Vec3" "" "-883.2,810.24,-337.92"
+		"Vec3" "" "-828.16,810.24,-337.92"
+		"Vec3" "" "-828.16,810.24,-328.96"
+		"Vec3" "" "-811.52,810.24,-328.96"
+		"Vec3" "" "-810.88,810.24,-328.96"
+		"Vec3" "" "-810.8799,810.24,-296.4474"
+		"Vec3" "" "-810.88,810.24,-232.96"
+		"Vec3" "" "-820.48,810.24,-232.96"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+SpatialPrefabReferenceObjectData b930826e-da9e-4344-a045-a20cbd6ecf1f 70
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "422609518"
+}
+
+AlternateSpawnEntityData 7f67266f-0547-4f78-a3c6-b331daf6ccd8 71
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.4740395,0,0.8805026"
+		"Vec3" "forward" "-0.8805026,0,0.4740395"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData e3ddf070-8d49-468c-9168-63d544dfaeeb 72
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.3627215,0,0.9318976"
+		"Vec3" "forward" "-0.9318976,0,0.3627215"
+	}
+	"UInt32" "Flags" "31322224"
+}
+
+SpatialPrefabReferenceObjectData 4a172171-9f0b-4d74-b406-7b47520371f9 73
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "1515889"
+}
+
+AlternateSpawnEntityData 5fdc0f75-8d21-48d5-9e8f-cdb73ecb0a9d 74
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.02865145,0,-0.9995892"
+		"Vec3" "forward" "0.9995892,0,0.02865145"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 8ada3975-11ab-4850-9b02-6067c560aaed 75
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.08479875,0,-0.9963977"
+		"Vec3" "forward" "0.9963977,0,0.08479875"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 281b0679-6230-4f85-a8cc-b281d6b7cefd 76
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 95ef6234-05d7-4b9a-9835-5a7e9fcf7921,76cedc0d-0e74-2617-f597-5fa191c1793f"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "2082145913"
+}
+
+AlternateSpawnEntityData e7ca4779-eee0-4672-820d-3f50385e356b 77
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.383458,0,0.9235573"
+		"Vec3" "forward" "-0.9235573,0,-0.383458"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData cbd87179-4444-4d02-b57c-08551bff276a 78
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "433615225"
+}
+
+SpawnLocationFinderShapeData 40e37a79-8716-47e1-8a56-3173a57299db 79
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-881.28,773.12,-284.8"
+		"Vec3" "" "-913.92,773.12,-284.8"
+		"Vec3" "" "-913.92,773.12,-253.44"
+		"Vec3" "" "-939.52,773.12,-253.44"
+		"Vec3" "" "-939.52,773.12,-284.8"
+		"Vec3" "" "-971.52,773.12,-284.8"
+		"Vec3" "" "-971.52,773.12,-345.6"
+		"Vec3" "" "-881.28,773.12,-345.6"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+OBBData b95de279-be77-46c0-aa9a-27b33ced7944 80
+{
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "5.960465E-08,0,-1"
+		"Vec3" "forward" "1,0,5.960465E-08"
+	}
+	"Vec3" "HalfExtents" "230.1269,5,0.4565502"
+	"UInt32" "Flags" "67108864"
+}
+
+AlternateSpawnEntityData 0056b37c-fbf0-4453-9752-6f8ba9268bcd 81
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.689576,0,-0.7242132"
+		"Vec3" "forward" "0.7242132,0,0.689576"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 5fafba7d-69b6-4be6-b6dc-797b783ae928 82
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.1654418,0,0.9862192"
+		"Vec3" "forward" "-0.9862192,0,-0.1654418"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData d2a2fd82-04a9-4f5c-b037-c5e5ce1a28e4 83
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "10681730"
+}
+
+SpatialPrefabReferenceObjectData 13452e85-0279-42ed-96ad-fb78f471bac5 84
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "423964293"
+}
+
+SpawnLocationFinderShapeData 80bef186-817d-437d-b405-019ca8538334 85
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-875.2,810.24,-298.88"
+		"Vec3" "" "-982.4,810.24,-298.5616"
+		"Vec3" "" "-982.4,810.24,-348.16"
+		"Vec3" "" "-875.2,810.24,-348.1584"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 79334a87-00f7-461b-b5ed-47b7a6977581 86
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "422791815"
+}
+
+LocatorEntityData 19cf5787-cca3-4ef2-b99f-882fbeccc790 87
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "30365575"
+}
+
+SpawnLocationFinderShapeData 846d0488-33fb-4fc8-89d5-efde2d1e0017 88
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-813.3943,870.4,-195.84"
+		"Vec3" "" "-877.44,870.4,-195.84"
+		"Vec3" "" "-877.44,870.4,-268.16"
+		"Vec3" "" "-813.3943,870.4,-268.16"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 1abdfa88-b41a-4fd8-98c2-7fe2b65c8bf2 89
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.3181549,0,-0.9480386"
+		"Vec3" "forward" "0.9480386,0,0.3181549"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 8eb63d8b-61a9-4e6f-8939-ae8e71e59fb3 90
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "11943307"
+}
+
+SpatialPrefabReferenceObjectData 902c4c96-d717-43b9-a51f-3b1e03d12730 91
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "405556374"
+}
+
+AlternateSpawnEntityData 85eb7399-9b75-44be-8f96-2587470765c1 92
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.005714402,0,0.9999828"
+		"Vec3" "forward" "-0.9999828,0,-0.005714402"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData c7c96e9b-2139-422b-8101-dcd12dc38612 93
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "29978267"
+}
+
+SpawnLocationFinderShapeData dbe75e9d-8ad3-4cce-acd2-e2c1bac831b5 94
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-813.3943,870.4,-241.92"
+		"Vec3" "" "-851.2,870.4,-242.1903"
+		"Vec3" "" "-851.2,870.4,-221.5464"
+		"Vec3" "" "-861.44,870.4,-221.44"
+		"Vec3" "" "-861.44,870.4,-256.64"
+		"Vec3" "" "-888.32,870.4,-256.64"
+		"Vec3" "" "-888.32,870.4,-302.7221"
+		"Vec3" "" "-848,870.4,-302.72"
+		"Vec3" "" "-848,870.4,-289.28"
+		"Vec3" "" "-813.3943,870.4,-289.4501"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData f78f7ea3-d61c-4970-ab0a-4e4458cb37a6 95
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "26181283"
+}
+
+AlternateSpawnEntityData 38f69ba4-83b8-401a-9a3e-3c5617a625e7 96
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.4039175,0,-0.9147983"
+		"Vec3" "forward" "0.9147983,0,0.4039175"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 5139b5a4-1050-45b7-9b38-de70f3ad2592 97
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.5014136,0,0.8652073"
+		"Vec3" "forward" "-0.8652073,0,-0.5014136"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 8cf8e1a5-aa75-4f46-8332-ff6a8b0175cb 98
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.003604323,0,-0.9999934"
+		"Vec3" "forward" "0.9999934,0,0.003604323"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData d1a101a9-dce3-45f9-a72a-adbc593db26c 99
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "27328937"
+}
+
+LocatorEntityData 4a91a7a9-e43a-4a88-a1fe-ce4ac7701733 100
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "9545641"
+}
+
+SpatialPrefabReferenceObjectData 521125ae-6166-44df-a67d-74438f867582 101
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "1123758"
+}
+
+AlternateSpawnEntityData 5bc2c0af-0f6e-4631-9118-fcefb51241ac 102
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.005714402,0,0.9999828"
+		"Vec3" "forward" "-0.9999828,0,-0.005714402"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData d21276b0-bf7c-4014-bfb2-0cbae3230484 103
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "403863216"
+}
+
+AlternateSpawnEntityData 79cc03b1-8df5-44a6-b1da-b8e3b57019e5 104
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.04389581,0,-0.9990359"
+		"Vec3" "forward" "0.9990359,0,0.04389581"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 94cc4cb4-87c3-4f2d-b724-8e11d3edeae2 105
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3251446,0,0.9456639"
+		"Vec3" "forward" "-0.9456639,0,-0.3251446"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+OBBData a1872cb5-f156-4479-a7f7-9866dbe3364f 106
+{
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "5.960465E-08,0,-1"
+		"Vec3" "forward" "1,0,5.960464E-08"
+	}
+	"Vec3" "HalfExtents" "230.1269,5,0.4565501"
+	"UInt32" "Flags" "67108864"
+}
+
+AlternateSpawnEntityData d912e7b7-f22c-4275-8af1-c747fffb80cb 107
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.8125177,0,-0.5829363"
+		"Vec3" "forward" "0.5829363,0,-0.8125177"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData a6be44b9-2b04-4f1a-92a2-2f1e10bd49e0 108
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.2715894,0,0.962413"
+		"Vec3" "forward" "-0.962413,0,-0.2715894"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 870876bd-c06a-41d7-a74a-f4adcb53a587 109
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.1268805,0,-0.9919207"
+		"Vec3" "forward" "0.9919207,0,-0.1268805"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 9745f7bf-27ab-46a9-a3a8-b0095669bcef 110
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,-1"
+		"Vec3" "forward" "1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "21362623"
+}
+
+SpatialPrefabReferenceObjectData f833a8c0-5735-40ae-b7a1-a9600ffbcf8f 111
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "406038720"
+}
+
+AlternateSpawnEntityData c122aac1-0b07-458e-ae94-4da588521f92 112
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.4030834,0,0.915163"
+		"Vec3" "forward" "-0.915163,0,-0.4030834"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+VolumeVectorShapeData fb0829c4-8fc4-4e74-8c99-2c1e0c393faa 113
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-825.6,721.92,-276.48"
+		"Vec3" "" "-825.6,721.92,-232.96"
+		"Vec3" "" "-844.8,721.92,-232.96"
+		"Vec3" "" "-844.8,721.92,-227.2"
+		"Vec3" "" "-876.8,721.92,-227.2"
+		"Vec3" "" "-876.8,721.92,-203.52"
+		"Vec3" "" "-941.44,721.92,-203.52"
+		"Vec3" "" "-941.44,721.92,-252.8"
+		"Vec3" "" "-970.24,721.92,-252.8"
+		"Vec3" "" "-970.24,721.92,-272.64"
+		"Vec3" "" "-982.4,721.92,-272.64"
+		"Vec3" "" "-982.4,721.92,-268.16"
+		"Vec3" "" "-1011.84,721.92,-268.16"
+		"Vec3" "" "-1011.84,721.92,-297.6"
+		"Vec3" "" "-1011.84,721.92,-317.44"
+		"Vec3" "" "-970.24,721.92,-317.44"
+		"Vec3" "" "-970.24,721.92,-322.56"
+		"Vec3" "" "-965.12,721.92,-327.04"
+		"Vec3" "" "-961.28,721.92,-327.04"
+		"Vec3" "" "-961.28,721.92,-332.8"
+		"Vec3" "" "-981.12,721.92,-332.8"
+		"Vec3" "" "-981.12,721.92,-346.88"
+		"Vec3" "" "-949.76,721.92,-346.88"
+		"Vec3" "" "-949.76,721.92,-327.04"
+		"Vec3" "" "-929.92,721.92,-327.04"
+		"Vec3" "" "-929.92,721.92,-341.12"
+		"Vec3" "" "-897.92,721.92,-341.12"
+		"Vec3" "" "-897.92,721.92,-333.44"
+		"Vec3" "" "-886.4,721.92,-333.44"
+		"Vec3" "" "-886.4,721.92,-328.32"
+		"Vec3" "" "-883.2,721.92,-328.32"
+		"Vec3" "" "-883.2,721.92,-337.92"
+		"Vec3" "" "-828.16,721.92,-337.92"
+		"Vec3" "" "-828.16,721.92,-328.96"
+		"Vec3" "" "-823.68,721.92,-328.96"
+		"Vec3" "" "-823.68,721.92,-317.44"
+		"Vec3" "" "-823.04,721.92,-317.44"
+		"Vec3" "" "-823.04,721.92,-316.16"
+		"Vec3" "" "-839.04,721.92,-316.16"
+		"Vec3" "" "-839.04,721.92,-303.36"
+		"Vec3" "" "-823.04,721.92,-303.36"
+		"Vec3" "" "-823.04,721.92,-276.48"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+SpatialPrefabReferenceObjectData c23257c5-278f-4fcc-964b-a154ea80bbf5 114
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 2181232b-dff4-11e7-b00a-82ba1e0acd8f,e55cf7d3-4645-f6d6-3e5d-5eef44272dc3"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "171071429"
+}
+
+AlternateSpawnEntityData 52832ac6-8ed6-4bcc-918a-d29d032b4d1b 115
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.1647196,0,0.9863401"
+		"Vec3" "forward" "-0.9863401,0,-0.1647196"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData f45726c8-b682-4828-b0e3-5519a5ccba72 116
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.1123741,0,-0.9936687"
+		"Vec3" "forward" "0.9936687,0,0.1123741"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData 638378c8-8746-460d-8919-94744e008b95 117
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "25393352"
+}
+
+SpatialPrefabReferenceObjectData ab13bed0-a3b1-44df-ac6c-a3892060cba4 118
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5bef04c7-7d94-4582-8d9b-dccfda1e7d4c,1d307e18-1bd4-4cf6-82a4-417710f6f609"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "420724432"
+}
+
+SpatialPrefabReferenceObjectData bd23cad3-9a95-4ea6-8cd9-a98b629d6e78 119
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "19122899"
+}
+
+AlternateSpawnEntityData 23d624d4-d510-4cd6-a38e-889fb2a0ad59 120
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.2898764,0,-0.9570637"
+		"Vec3" "forward" "0.9570637,0,0.2898764"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData df8e4fd5-3df9-4721-8f59-569bd47ffc3a 121
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "26103765"
+}
+
+SpawnLocationFinderShapeData 3e9f95d5-454a-45ec-858f-89a8a9712caa 122
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-768.64,780.8,-256"
+		"Vec3" "" "-739.2,780.8,-256"
+		"Vec3" "" "-739.2,780.8,-212.48"
+		"Vec3" "" "-768.64,780.8,-212.48"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData deef33d6-8c84-4438-8bf0-0c34ebb7b4ce 123
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "15676374"
+}
+
+VolumeVectorShapeData a4f3e0d9-69bc-458b-9627-8a7ee5140bfa 124
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-844.8,960.96,-232.96"
+		"Vec3" "" "-844.8,960.96,-227.2"
+		"Vec3" "" "-877.44,960.96,-227.2"
+		"Vec3" "" "-877.44,960.96,-243.84"
+		"Vec3" "" "-874.24,960.96,-243.84"
+		"Vec3" "" "-874.24,960.96,-256"
+		"Vec3" "" "-868.48,960.96,-264.96"
+		"Vec3" "" "-872.32,960.96,-275.84"
+		"Vec3" "" "-872.32,960.96,-289.2399"
+		"Vec3" "" "-879.36,960.96,-289.28"
+		"Vec3" "" "-879.36,960.96,-293.12"
+		"Vec3" "" "-888.3914,960.96,-293.0049"
+		"Vec3" "" "-888.3914,960.96,-304.64"
+		"Vec3" "" "-908.8,960.96,-304.64"
+		"Vec3" "" "-908.8,960.96,-321.28"
+		"Vec3" "" "-876.16,960.96,-321.28"
+		"Vec3" "" "-877.44,960.96,-327.04"
+		"Vec3" "" "-883.2,960.96,-328.32"
+		"Vec3" "" "-883.2,960.96,-337.92"
+		"Vec3" "" "-828.16,960.96,-337.92"
+		"Vec3" "" "-828.16,960.96,-328.96"
+		"Vec3" "" "-811.52,960.96,-328.96"
+		"Vec3" "" "-811.52,960.96,-337.92"
+		"Vec3" "" "-754.56,960.96,-337.92"
+		"Vec3" "" "-754.309,960.96,-296.96"
+		"Vec3" "" "-718.72,960.96,-297.0875"
+		"Vec3" "" "-718.72,960.96,-222.08"
+		"Vec3" "" "-802.56,960.96,-222.08"
+		"Vec3" "" "-802.56,960.96,-218.88"
+		"Vec3" "" "-810.88,960.96,-218.88"
+		"Vec3" "" "-810.88,960.96,-215.68"
+		"Vec3" "" "-816,960.96,-215.68"
+		"Vec3" "" "-816,960.96,-218.88"
+		"Vec3" "" "-820.48,960.96,-218.88"
+		"Vec3" "" "-820.48,960.96,-232.96"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+SpatialPrefabReferenceObjectData 81c0e0db-babf-4b77-a6d1-d2efa494caf6 125
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "432070875"
+}
+
+LocatorEntityData 113b2edd-0f04-4407-b172-a36509a72732 126
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "20655837"
+}
+
+LocatorEntityData 9f315ce0-96e8-48c0-a779-54990580b64d 127
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "20012256"
+}
+
+LocatorEntityData b994d4e2-4b2e-4760-890c-a2a05b66c1c9 128
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "26531042"
+}
+
+AlternateSpawnEntityData e95f50e3-c2b3-49c0-b497-56df87440cda 129
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3209129,0,0.9471085"
+		"Vec3" "forward" "-0.9471085,0,-0.3209129"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 1f48b9e3-08f5-44cb-aa06-005027b32eb8 130
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.6233234,0,0.7819631"
+		"Vec3" "forward" "-0.7819631,0,-0.6233234"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 3aa02fe4-e6f8-4819-82ca-b60f63ff013b 131
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.06488261,0,-0.9978926"
+		"Vec3" "forward" "0.9978926,0,-0.06488261"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData f97066e4-0364-4423-9aff-248d72c5c0a8 132
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.06779787,0,-0.9976987"
+		"Vec3" "forward" "0.9976987,0,0.06779787"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData fb2ef7e4-ef74-40d2-bf02-a30cbfc054df 133
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-875.52,893.44,-202.24"
+		"Vec3" "" "-942.72,893.44,-202.24"
+		"Vec3" "" "-942.72,893.44,-275.84"
+		"Vec3" "" "-942.72,893.44,-298.88"
+		"Vec3" "" "-910.08,893.44,-298.88"
+		"Vec3" "" "-910.08,893.44,-275.84"
+		"Vec3" "" "-875.52,893.44,-275.84"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData 9d8c96e5-565f-4447-aea8-4183bd4eee4e 134
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-919.68,780.8,-334.08"
+		"Vec3" "" "-890.24,780.8,-334.08"
+		"Vec3" "" "-890.24,780.8,-290.56"
+		"Vec3" "" "-919.68,780.8,-290.56"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData eaaea6e8-f5ac-4396-ad04-38ef13953061 135
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.246066,0,-0.9692529"
+		"Vec3" "forward" "0.9692529,0,0.246066"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 096201eb-1485-4294-aecb-3cebe84dd875 136
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.442476,0,0.8967801"
+		"Vec3" "forward" "-0.8967801,0,0.442476"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+VolumeVectorShapeData ecf2aeec-3d67-431e-adb3-111854300000 137
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-844.8,811.52,-232.96"
+		"Vec3" "" "-844.8,811.52,-227.2"
+		"Vec3" "" "-876.8,811.52,-227.2"
+		"Vec3" "" "-876.8,811.52,-203.52"
+		"Vec3" "" "-941.44,811.52,-203.52"
+		"Vec3" "" "-941.44,811.52,-252.8"
+		"Vec3" "" "-970.24,811.52,-252.8"
+		"Vec3" "" "-970.24,811.52,-272.64"
+		"Vec3" "" "-982.4,811.52,-272.64"
+		"Vec3" "" "-982.4,811.52,-268.16"
+		"Vec3" "" "-1011.84,811.52,-268.16"
+		"Vec3" "" "-1011.84,811.52,-297.6"
+		"Vec3" "" "-1011.84,811.52,-317.44"
+		"Vec3" "" "-970.24,811.52,-317.44"
+		"Vec3" "" "-970.24,811.52,-322.56"
+		"Vec3" "" "-965.12,811.52,-327.04"
+		"Vec3" "" "-961.28,811.52,-327.04"
+		"Vec3" "" "-961.28,811.52,-332.8"
+		"Vec3" "" "-981.12,811.52,-332.8"
+		"Vec3" "" "-981.12,811.52,-346.88"
+		"Vec3" "" "-949.76,811.52,-346.88"
+		"Vec3" "" "-949.76,811.52,-327.04"
+		"Vec3" "" "-929.92,811.52,-327.04"
+		"Vec3" "" "-929.92,811.52,-341.12"
+		"Vec3" "" "-897.92,811.52,-341.12"
+		"Vec3" "" "-897.92,811.52,-333.44"
+		"Vec3" "" "-886.4,811.52,-333.44"
+		"Vec3" "" "-886.4,811.52,-328.32"
+		"Vec3" "" "-883.2,811.52,-328.32"
+		"Vec3" "" "-883.2,811.52,-337.92"
+		"Vec3" "" "-828.16,811.52,-337.92"
+		"Vec3" "" "-828.16,811.52,-328.96"
+		"Vec3" "" "-823.68,811.52,-328.96"
+		"Vec3" "" "-811.52,811.52,-328.96"
+		"Vec3" "" "-810.88,811.52,-328.96"
+		"Vec3" "" "-810.8799,811.52,-296.32"
+		"Vec3" "" "-810.88,811.52,-232.96"
+		"Vec3" "" "-820.48,811.52,-232.96"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData 075844f3-8257-4294-88f2-e531dec02fc3 138
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.2945496,0,0.9556358"
+		"Vec3" "forward" "-0.9556358,0,-0.2945496"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocalLocatorEntityData 2a34f1f4-c7e9-4677-9648-e807617ac08f 139
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "-0.04728752,0.9976222,0.0501383"
+		"Vec3" "right" "-0.6600885,0.006463328,-0.7511604"
+		"Vec3" "forward" "0.7496982,0.06861621,-0.6582132"
+	}
+	"UInt32" "Flags" "104133108"
+}
+
+SpatialPrefabReferenceObjectData 4fa044f8-3b25-4317-92bc-78611953e22d 140
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0,0,1"
+		"Vec3" "forward" "-1,0,0"
+	}
+	"PointerRef" "Blueprint" "external : cec301ca-1627-9c67-e052-f3222e89b633,d52e374b-bd75-1969-8f3b-2d20453e2a8c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "429933816"
+}
+
+SpatialPrefabReferenceObjectData 453822f9-f51c-4a64-a039-51d27d4ef42e 141
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,0,-1"
+	}
+	"PointerRef" "Blueprint" "external : 0fc130b6-f545-4bde-bd48-ec4dbf6440a8,388af71c-c550-4d41-a46a-25e4c25bca87"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "423109369"
+}
+
+AlternateSpawnEntityData 263de8f9-60cf-4641-8137-ee40a2d1c9c1 142
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.6219883,0,0.7830254"
+		"Vec3" "forward" "-0.7830254,0,-0.6219883"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+OBBData ce81fcfc-64b1-407f-b9f3-3728a6b12b52 143
+{
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "5.960466E-08,0,-1"
+		"Vec3" "forward" "1,0,5.960464E-08"
+	}
+	"Vec3" "HalfExtents" "230.1269,5,0.4565501"
+	"UInt32" "Flags" "67108864"
+}
+
+SpawnLocationFinderShapeData 2986d3fe-4a2c-46c6-adf2-fbe69989289f 144
+{
+	"TeamId" "Team" "Team1"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-780.8,1041.28,-215.04"
+		"Vec3" "" "-861.4984,1041.28,-214.7842"
+		"Vec3" "" "-861.44,1041.28,-273.28"
+		"Vec3" "" "-829.44,1041.28,-273.28"
+		"Vec3" "" "-829.44,1041.28,-288"
+		"Vec3" "" "-801.92,1041.28,-288"
+		"Vec3" "" "-801.92,1041.28,-272.64"
+		"Vec3" "" "-780.8,1041.28,-272.64"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+CameraEntityData 00000000-0000-0000-0000-000000000000 145
+{
+	"Single" "Fov" "0"
+	"Single" "NearPlane" "0"
+	"Single" "FarPlane" "0"
+	"PointerRef" "PhysicalCameraBody" "null"
+	"PointerRef" "PhysicalCameraLens" "null"
+	"PointerRef" "RenderTarget" "null"
+	"PointerRef" "TransitionDataPack" "null"
+	"CString" "NameId" ""
+	"Int32" "Priority" "1"
+	"LocalPlayerViewId" "ViewId" "LocalPlayerViewId_RootView"
+	"Int32" "ObjectLayersMask" "65535"
+	"Single" "FocalLength" "35"
+	"Single" "FocusDistance" "1000"
+	"Single" "ExposureCompensation" "0"
+	"Single" "Aperture" "8"
+	"Single" "ShutterSpeed" "50"
+	"ExposureMode" "ExposureMode" "ExposureMode_AutoExposure"
+	"Single" "EV" "0"
+	"Single" "ISO" "100"
+	"Single" "SpotMeterScale" "1"
+	"Single" "SpotMeterOffsetX" "0"
+	"Single" "SpotMeterOffsetY" "0"
+	"AutoExposureMethod" "AutoExposureMethod" "AutoExposureMethod_UseGlobalSetting"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "-0.04728612,0.9976244,0.05013745"
+		"Vec3" "right" "-0.6600843,0.006463735,-0.7511629"
+		"Vec3" "forward" "0.7497039,0.06861468,-0.6582122"
+	}
+	"UInt32" "Flags" "29793909"
+}
+
+CameraEntityData 00000000-0000-0000-0000-000000000000 146
+{
+	"Single" "Fov" "0"
+	"Single" "NearPlane" "0"
+	"Single" "FarPlane" "0"
+	"PointerRef" "PhysicalCameraBody" "null"
+	"PointerRef" "PhysicalCameraLens" "null"
+	"PointerRef" "RenderTarget" "null"
+	"PointerRef" "TransitionDataPack" "null"
+	"CString" "NameId" ""
+	"Int32" "Priority" "1"
+	"LocalPlayerViewId" "ViewId" "LocalPlayerViewId_RootView"
+	"Int32" "ObjectLayersMask" "65535"
+	"Single" "FocalLength" "35"
+	"Single" "FocusDistance" "1000"
+	"Single" "ExposureCompensation" "0"
+	"Single" "Aperture" "8"
+	"Single" "ShutterSpeed" "50"
+	"ExposureMode" "ExposureMode" "ExposureMode_AutoExposure"
+	"Single" "EV" "0"
+	"Single" "ISO" "100"
+	"Single" "SpotMeterScale" "1"
+	"Single" "SpotMeterOffsetX" "0"
+	"Single" "SpotMeterOffsetY" "0"
+	"AutoExposureMethod" "AutoExposureMethod" "AutoExposureMethod_UseGlobalSetting"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.1828308,0.9722546,0.1459106"
+		"Vec3" "right" "-0.5913255,-0.0098186,0.8063732"
+		"Vec3" "forward" "-0.7854359,0.2337114,-0.5731264"
+	}
+	"UInt32" "Flags" "5530234"
+}
+
+LocatorEntityData 00000000-0000-0000-0000-000000000000 147
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.2713925,0,-0.9624688"
+		"Vec3" "forward" "0.9624688,0,0.2713925"
+	}
+	"UInt32" "Flags" "8474862"
+}
+
+LocatorEntityData 00000000-0000-0000-0000-000000000000 148
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.3832358,0,0.9236498"
+		"Vec3" "forward" "-0.9236498,0,-0.3832358"
+	}
+	"UInt32" "Flags" "15105210"
+}
+

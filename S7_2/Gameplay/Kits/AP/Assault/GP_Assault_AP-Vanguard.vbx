@@ -1,0 +1,537 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S7_2/Gameplay/Kits/AP/Assault/GP_Assault_AP-Vanguard"
+	"type" "WSSoldierCustomizationGameplayAsset"
+	"fid" "acfc8895-b4d8-44b1-a061-bc441eff4fd6"
+	
+	Objects
+	{
+		"WSSoldierCustomizationGameplayAsset" "49728320-3445-4dd7-811d-4b4f99e1feda" "0"
+		"PlayerAbilityCustomizeBlockingRule" "054b0c00-3bb1-c344-0c19-27e5b050b954" "1"
+		"PlayerAbilityCustomizeBlockingRule" "6e72a400-b38e-828f-8938-dff6e287d307" "2"
+		"PlayerAbilityCustomizeBlockingRule" "edd78708-2308-178f-83d4-d0013737fe4b" "3"
+		"PlayerAbilityCustomizeBlockingRule" "6b0e2b0c-8c9d-3daf-0937-3985e6bb584a" "4"
+		"PlayerAbilityCustomizeBlockingRule" "9349f30c-a2ad-10d2-8c5d-f5aa647d39b3" "5"
+		"PlayerAbilityCustomizeBlockingRule" "96241320-fc2b-c8ff-31ed-cb6b6ab8662a" "6"
+		"PlayerAbilityCollection" "a5312040-109c-1ed3-3701-664cd1872e65" "7"
+		"PlayerAbilityCustomizeBlockingRule" "bec19952-fe4a-e938-6f1f-893d4186abf1" "8"
+		"PlayerAbilityCustomizeBlockingRule" "446f0861-dbdc-b1dc-d395-b9e0c113722c" "9"
+		"PlayerAbilityCustomization" "431d536c-4250-494c-8ce6-cadb7b7f3103" "10"
+		"PlayerAbilityCustomizeBlockingRule" "43b02073-2ba8-b240-f4cc-13f55793fdae" "11"
+		"PlayerAbilityCustomizeBlockingRule" "51c6c475-a4fd-7570-91de-861fdf37ff43" "12"
+		"PlayerAbilityCustomizeBlockingRule" "7352457a-2149-e811-92f7-ce6b81495554" "13"
+		"PlayerAbilityCustomizeBlockingRuleGroup" "acf1f980-940d-2496-1dd6-f0b665802cc4" "14"
+		"PlayerAbilityCustomizeBlockingRule" "a763d493-1419-8230-a190-8cd9fc6cdb66" "15"
+		"PlayerAbilityCustomizeBlockingRule" "cb8820b4-ceda-180b-3c30-4f0b7837c00c" "16"
+		"PlayerAbilityCustomizeBlockingRule" "2ca3cdbd-f503-1bd3-7934-bb56bd21d3e1" "17"
+		"PlayerAbilityCustomizeBlockingRule" "a8a02ad0-97e0-7bd6-e0b3-b15fd8c43af7" "18"
+		"PlayerAbilityCustomizeBlockingRule" "f9febbdf-259b-7b50-6c02-0f08b5440c41" "19"
+		"PlayerAbilityCustomizeBlockingRule" "1c6051e5-c72d-ca1d-19a7-31ee54854af8" "20"
+	}
+}
+
+WSSoldierCustomizationGameplayAsset 49728320-3445-4dd7-811d-4b4f99e1feda 0
+{
+	"UInt32" "Identifier" "1418937515"
+	"PointerRef" "Class" "external : fbe89a45-13c0-4918-b8f1-44eb55948a11,80f365b5-2d88-49f2-8db4-295863b0b954"
+	"PointerRef" "Abilities" "internal : 431d536c-4250-494c-8ce6-cadb7b7f3103,10"
+	"List" "AffectorsAppliedOnSpawn"
+	{
+		"PointerRef" "" "external : 3b404526-8c61-11e6-9936-f92a573077d3,71df76b1-8014-c5a6-81fc-17f433ed9b6f"
+		"PointerRef" "" "external : 284965dd-b0b1-11e6-8398-b07534bbfc06,234f6a43-0015-4ccc-c80c-575b00fe264f"
+		"PointerRef" "" "external : 2191ce34-e210-11e6-855d-dbe031b07694,8b723f09-7148-febc-055c-d287ba540613"
+	}
+	"PointerRef" "Unlock" "null"
+	"PointerRef" "GateUnlock" "null"
+	"WSKitSpawnerType" "SpawnerType" "WSKitSpawnerType_Default"
+	"CString" "KillswitchName" "KS_Assault"
+	"CString" "Name" "S7_2/Gameplay/Kits/AP/Assault/GP_Assault_AP-Vanguard"
+}
+
+PlayerAbilityCustomizeBlockingRule 054b0c00-3bb1-c344-0c19-27e5b050b954 1
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "335064668"
+}
+
+PlayerAbilityCustomizeBlockingRule 6e72a400-b38e-828f-8938-dff6e287d307 2
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "1029427557"
+}
+
+PlayerAbilityCustomizeBlockingRule edd78708-2308-178f-83d4-d0013737fe4b 3
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "297603319"
+}
+
+PlayerAbilityCustomizeBlockingRule 6b0e2b0c-8c9d-3daf-0937-3985e6bb584a 4
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "2485004088"
+}
+
+PlayerAbilityCustomizeBlockingRule 9349f30c-a2ad-10d2-8c5d-f5aa647d39b3 5
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "3056710594"
+}
+
+PlayerAbilityCustomizeBlockingRule 96241320-fc2b-c8ff-31ed-cb6b6ab8662a 6
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "3624537518"
+}
+
+PlayerAbilityCollection a5312040-109c-1ed3-3701-664cd1872e65 7
+{
+	"List" "Abilities"
+	{
+		"PointerRef" "" "external : d62728fe-b94c-4d40-8bea-bfb67112536b,cdd4515d-29f2-409d-8cd6-cdf0ed6b2a6a"
+		"PointerRef" "" "external : a295053a-4dee-4b2b-8e78-cbf036002042,ec101e53-705e-d7f5-eeff-c543d585476f"
+		"PointerRef" "" "external : 96148113-349c-4ce9-827f-1f999685ed1b,3de60e60-6ceb-b48a-43ba-79a0ee469308"
+		"PointerRef" "" "external : 770e5bbf-a3ac-4f8b-b669-936c58883393,bd1e4b28-ddc6-8d73-a4be-7add9ebeba7c"
+		"PointerRef" "" "external : e3a18541-cd61-44ce-9600-f873657d94a1,35a507e1-1d6e-4e49-8a43-71f146c9e610"
+		"PointerRef" "" "external : c8135384-9401-47db-b7d8-51f01fd90bc9,ded56edf-283c-4ba6-ae22-851803d97917"
+		"PointerRef" "" "external : 383c1dce-f26b-4126-8706-f7c6fc9789da,a0fb371c-ff03-05c2-2000-454d0bda60eb"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+}
+
+PlayerAbilityCustomizeBlockingRule bec19952-fe4a-e938-6f1f-893d4186abf1 8
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "121901839"
+}
+
+PlayerAbilityCustomizeBlockingRule 446f0861-dbdc-b1dc-d395-b9e0c113722c 9
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "2669137364"
+}
+
+PlayerAbilityCustomization 431d536c-4250-494c-8ce6-cadb7b7f3103 10
+{
+	"PointerRef" "AllAbilities" "internal : a5312040-109c-1ed3-3701-664cd1872e65,7"
+	"List" "AdditionalAbilities"
+	{
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+	"List" "DefaultAbilities"
+	{
+		"PointerRef" "" "external : d62728fe-b94c-4d40-8bea-bfb67112536b,cdd4515d-29f2-409d-8cd6-cdf0ed6b2a6a"
+		"PointerRef" "" "external : a295053a-4dee-4b2b-8e78-cbf036002042,ec101e53-705e-d7f5-eeff-c543d585476f"
+		"PointerRef" "" "external : 96148113-349c-4ce9-827f-1f999685ed1b,3de60e60-6ceb-b48a-43ba-79a0ee469308"
+		"PointerRef" "" "external : 770e5bbf-a3ac-4f8b-b669-936c58883393,bd1e4b28-ddc6-8d73-a4be-7add9ebeba7c"
+		"PointerRef" "" "external : e3a18541-cd61-44ce-9600-f873657d94a1,35a507e1-1d6e-4e49-8a43-71f146c9e610"
+		"PointerRef" "" "external : c8135384-9401-47db-b7d8-51f01fd90bc9,ded56edf-283c-4ba6-ae22-851803d97917"
+		"PointerRef" "" "external : 383c1dce-f26b-4126-8706-f7c6fc9789da,a0fb371c-ff03-05c2-2000-454d0bda60eb"
+	}
+	"List" "AbilityBlockingRules"
+	{
+		"PointerRef" "" "internal : acf1f980-940d-2496-1dd6-f0b665802cc4,14"
+	}
+	"List" "Emotes"
+	{
+	}
+	"List" "VoiceLines"
+	{
+	}
+	"List" "VictoryPoses"
+	{
+	}
+	"CString" "Name" ""
+}
+
+PlayerAbilityCustomizeBlockingRule 43b02073-2ba8-b240-f4cc-13f55793fdae 11
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "1692227525"
+}
+
+PlayerAbilityCustomizeBlockingRule 51c6c475-a4fd-7570-91de-861fdf37ff43 12
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+	}
+	"UInt32" "PlayerAbilitySource" "2789402506"
+}
+
+PlayerAbilityCustomizeBlockingRule 7352457a-2149-e811-92f7-ce6b81495554 13
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "3568791756"
+}
+
+PlayerAbilityCustomizeBlockingRuleGroup acf1f980-940d-2496-1dd6-f0b665802cc4 14
+{
+	"List" "Rules"
+	{
+		"PointerRef" "" "internal : a8a02ad0-97e0-7bd6-e0b3-b15fd8c43af7,18"
+		"PointerRef" "" "internal : 1c6051e5-c72d-ca1d-19a7-31ee54854af8,20"
+		"PointerRef" "" "internal : 6b0e2b0c-8c9d-3daf-0937-3985e6bb584a,4"
+		"PointerRef" "" "internal : f9febbdf-259b-7b50-6c02-0f08b5440c41,19"
+		"PointerRef" "" "internal : 96241320-fc2b-c8ff-31ed-cb6b6ab8662a,6"
+		"PointerRef" "" "internal : 43b02073-2ba8-b240-f4cc-13f55793fdae,11"
+		"PointerRef" "" "internal : 446f0861-dbdc-b1dc-d395-b9e0c113722c,9"
+		"PointerRef" "" "internal : bec19952-fe4a-e938-6f1f-893d4186abf1,8"
+		"PointerRef" "" "internal : 6e72a400-b38e-828f-8938-dff6e287d307,2"
+		"PointerRef" "" "internal : edd78708-2308-178f-83d4-d0013737fe4b,3"
+		"PointerRef" "" "internal : 7352457a-2149-e811-92f7-ce6b81495554,13"
+		"PointerRef" "" "internal : 9349f30c-a2ad-10d2-8c5d-f5aa647d39b3,5"
+		"PointerRef" "" "internal : 054b0c00-3bb1-c344-0c19-27e5b050b954,1"
+		"PointerRef" "" "internal : a763d493-1419-8230-a190-8cd9fc6cdb66,15"
+		"PointerRef" "" "internal : 2ca3cdbd-f503-1bd3-7934-bb56bd21d3e1,17"
+		"PointerRef" "" "internal : cb8820b4-ceda-180b-3c30-4f0b7837c00c,16"
+		"PointerRef" "" "internal : 51c6c475-a4fd-7570-91de-861fdf37ff43,12"
+	}
+	"UInt32" "MaxOffenders" "2"
+}
+
+PlayerAbilityCustomizeBlockingRule a763d493-1419-8230-a190-8cd9fc6cdb66 15
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "1503996142"
+}
+
+PlayerAbilityCustomizeBlockingRule cb8820b4-ceda-180b-3c30-4f0b7837c00c 16
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "1728355184"
+}
+
+PlayerAbilityCustomizeBlockingRule 2ca3cdbd-f503-1bd3-7934-bb56bd21d3e1 17
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "575767357"
+}
+
+PlayerAbilityCustomizeBlockingRule a8a02ad0-97e0-7bd6-e0b3-b15fd8c43af7 18
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "2632298617"
+}
+
+PlayerAbilityCustomizeBlockingRule f9febbdf-259b-7b50-6c02-0f08b5440c41 19
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "1668879399"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "221503408"
+}
+
+PlayerAbilityCustomizeBlockingRule 1c6051e5-c72d-ca1d-19a7-31ee54854af8 20
+{
+	"List" "PlayerAbilityBlocked"
+	{
+		"UInt32" "" "2632298617"
+		"UInt32" "" "2485004088"
+		"UInt32" "" "221503408"
+		"UInt32" "" "3624537518"
+		"UInt32" "" "1692227525"
+		"UInt32" "" "2669137364"
+		"UInt32" "" "121901839"
+		"UInt32" "" "1029427557"
+		"UInt32" "" "297603319"
+		"UInt32" "" "3568791756"
+		"UInt32" "" "3056710594"
+		"UInt32" "" "335064668"
+		"UInt32" "" "1503996142"
+		"UInt32" "" "575767357"
+		"UInt32" "" "1728355184"
+		"UInt32" "" "2789402506"
+	}
+	"UInt32" "PlayerAbilitySource" "1668879399"
+}
+

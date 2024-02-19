@@ -1,0 +1,271 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S7_2/Gameplay/Kits/Specials/Droideka/Abilities/Ability_Droideka_Ballform-AP"
+	"type" "RetriggerablePlayerAbilityAsset"
+	"fid" "f2acb506-6902-43fc-b4b2-7b38bef297cf"
+	
+	Objects
+	{
+		"RetriggerablePlayerAbilityAsset" "05a2bac6-63ca-4edc-8bfe-630efc133f42" "0"
+		"CharacterStateBoolChannelValueData" "7940103d-55ca-4122-a78c-cdb66858186d" "1"
+		"CharacterStateBoolChannelValueData" "77ab8763-4d20-46dd-beb5-87717e255874" "2"
+		"CharacterStateBoolRequiredChannelValueData" "41e5abc7-873e-48c9-b932-9e6d8b6594ae" "3"
+	}
+}
+
+RetriggerablePlayerAbilityAsset 05a2bac6-63ca-4edc-8bfe-630efc133f42 0
+{
+	"Single" "RequireHoldDuringRetriggerTime" "0"
+	"Int32" "RetriggerableCount" "1"
+	"Single" "RetriggerCooldown" "2"
+	"Boolean" "RequireHoldDuringRetrigger" "False"
+	"Boolean" "RechargeOnRetriggerCountZero" "True"
+	"List" "BlockingChannels"
+	{
+		"PointerRef" "" "internal : 41e5abc7-873e-48c9-b932-9e6d8b6594ae,3"
+	}
+	"List" "SetChannelsWhenActivating"
+	{
+	}
+	"List" "SetChannelsWhenActive"
+	{
+		"PointerRef" "" "internal : 7940103d-55ca-4122-a78c-cdb66858186d,1"
+		"PointerRef" "" "internal : 77ab8763-4d20-46dd-beb5-87717e255874,2"
+	}
+	"Single" "ActiveTime" "0"
+	"Single" "ActivationTime" "0.3"
+	"Single" "RechargeTime" "25"
+	"Int32" "InputQueueApplyOrder" "0"
+	"Boolean" "InfiniteActiveTime" "True"
+	"Boolean" "RequireHoldDuringActiveTime" "False"
+	"Boolean" "InfiniteActivationTime" "False"
+	"Boolean" "RequireHoldDuringActivationTime" "False"
+	"Boolean" "InfiniteRechargeTime" "False"
+	"Boolean" "DisableOnRecharge" "False"
+	"Boolean" "DisableOnPlayerExit" "False"
+	"Boolean" "DisableOnControllableDeath" "False"
+	"Boolean" "RemoveOnDisable" "False"
+	"Boolean" "SupportsInputQueue" "True"
+	"Boolean" "ActivateWhenButtonIsDown" "False"
+	"PlayerAbilityCategory" "Category" "PlayerAbilityCategory_VictoryPose"
+	"PointerRef" "Unlock" "external : 01ed9297-34c9-417c-a215-69bf5e26b73a,a580f134-1fc2-41bc-af16-846d66969a94"
+	"PointerRef" "Blueprint" "external : 6246d60e-f1db-484b-b473-b1cec8ed1262,3f224901-3fee-403a-878d-bccf23922a82"
+	"List" "DescriptorIds"
+	{
+	}
+	"List" "InputModifiers"
+	{
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "-1"
+			}
+			"Int32" "Action" "871087120"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "False"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "-1"
+			}
+			"Int32" "Action" "871087121"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "False"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "1.4"
+			}
+			"Int32" "Action" "1018302687"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "False"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "False"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "-1"
+			}
+			"Int32" "Action" "1018135856"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "True"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "False"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "1.4"
+			}
+			"Int32" "Action" "1018135856"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "False"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "True"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "1.4"
+			}
+			"Int32" "Action" "1077554143"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "True"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "1.4"
+			}
+			"Int32" "Action" "-442021152"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "True"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "-1"
+			}
+			"Int32" "Action" "-1364657661"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "False"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "True"
+			"Boolean" "ApplyInputModifiersDuringReady" "True"
+		}
+	}
+	"List" "BlockPlayerAbilitiesRules"
+	{
+		"PlayerAbilityBlockingRule" "" 
+		{
+			"List" "AbilityIds"
+			{
+				"UInt32" "" "2719438630"
+			}
+			"Boolean" "BlockDuringActive" "True"
+			"Boolean" "BlockDuringActivation" "True"
+			"Boolean" "BlockDuringRecharging" "False"
+			"Boolean" "BlockDuringReady" "False"
+		}
+		"PlayerAbilityBlockingRule" "" 
+		{
+			"List" "AbilityIds"
+			{
+				"UInt32" "" "3983928369"
+			}
+			"Boolean" "BlockDuringActive" "True"
+			"Boolean" "BlockDuringActivation" "True"
+			"Boolean" "BlockDuringRecharging" "False"
+			"Boolean" "BlockDuringReady" "False"
+		}
+		"PlayerAbilityBlockingRule" "" 
+		{
+			"List" "AbilityIds"
+			{
+				"UInt32" "" "4105516457"
+			}
+			"Boolean" "BlockDuringActive" "True"
+			"Boolean" "BlockDuringActivation" "True"
+			"Boolean" "BlockDuringRecharging" "False"
+			"Boolean" "BlockDuringReady" "False"
+		}
+	}
+	"List" "BlockedPlayerAbilityIds"
+	{
+	}
+	"List" "AbilityModifiers"
+	{
+	}
+	"PointerRef" "PickupBlueprint" "null"
+	"PointerRef" "NonStreamedPickupMesh" "null"
+	"UInt32" "UnblockedByAbilityId" "0"
+	"UInt32" "Identifier" "4105516457"
+	"Boolean" "IsSupportedOnAIPlayers" "True"
+	"Boolean" "IsSupportedOnHumanPlayers" "True"
+	"Boolean" "HasBonusLevels" "False"
+	"Boolean" "IgnoreNetworkingErrors" "False"
+	"Boolean" "ResetOnSpawn" "True"
+	"Boolean" "ApplyBlockPlayerAbilitiesDuringActive" "True"
+	"Boolean" "ApplyBlockPlayerAbilitiesDuringActivation" "True"
+	"Boolean" "IsHidden" "False"
+	"Boolean" "IsDefaultUnlocked" "True"
+	"Boolean" "DropAsPickupOnDeath" "False"
+	"CString" "Name" "S7_2/Gameplay/Kits/Specials/Droideka/Abilities/Ability_Droideka_Ballform-AP"
+}
+
+CharacterStateBoolChannelValueData 7940103d-55ca-4122-a78c-cdb66858186d 1
+{
+	"Boolean" "Value" "True"
+	"Boolean" "ResetValue" "False"
+	"PointerRef" "Channel" "external : 8d410aff-7ffe-4e12-9756-a89cf26cf88e,52739b36-738a-4959-b6b4-c3d9d6ddb9fb"
+	"Boolean" "SetValueOnTryActivate" "True"
+	"Boolean" "ResetValueOnFailActivate" "True"
+}
+
+CharacterStateBoolChannelValueData 77ab8763-4d20-46dd-beb5-87717e255874 2
+{
+	"Boolean" "Value" "True"
+	"Boolean" "ResetValue" "False"
+	"PointerRef" "Channel" "external : 8d410aff-7ffe-4e12-9756-a89cf26cf88e,cb2579fc-4b9a-4b51-9c8f-42ebb94ad8fd"
+	"Boolean" "SetValueOnTryActivate" "True"
+	"Boolean" "ResetValueOnFailActivate" "True"
+}
+
+CharacterStateBoolRequiredChannelValueData 41e5abc7-873e-48c9-b932-9e6d8b6594ae 3
+{
+	"PointerRef" "Channel" "external : 8d410aff-7ffe-4e12-9756-a89cf26cf88e,26cadeec-e42f-4058-b6cc-525e503e566c"
+	"List" "AllowedValues"
+	{
+		"Boolean" "" "True"
+	}
+	"Boolean" "InvertConditions" "False"
+}
+

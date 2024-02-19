@@ -1,0 +1,851 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_YW/Shared/Settings/AutoplayerSettingsContainer"
+	"type" "GameSettingsContainer"
+	"fid" "6c087ff5-e1c2-4cd8-98cd-1bd9aeb039f8"
+	
+	Objects
+	{
+		"GameSettingsContainer" "5c4e680b-5595-31a1-a11f-b9375f1a4e1d" "0"
+		"GameSettingNode" "2dce9709-6034-f285-7997-166b68099fb0" "1"
+		"GameSettingNode" "3f11180b-2ada-5b9b-6f00-d5ddc25eca4e" "2"
+		"GameSettingNode" "0e69380c-8d0f-deeb-4be8-6e426b3bb9d7" "3"
+		"GameSettingNode" "20d3f40c-e09f-052e-7e85-f9175f1d2bfa" "4"
+		"GameSettingNode" "7e2fca0e-e5c5-e994-3e8f-fae463e82355" "5"
+		"GameSettingNode" "83f05111-769f-3030-6892-325b44a0f08d" "6"
+		"GameSettingNode" "dd69ff1e-9485-6c7e-daf4-14ed79249e81" "7"
+		"GameSettingNode" "27241520-f816-bcdb-1942-9f0b8ae9c446" "8"
+		"GameSettingNode" "9de21e20-73d3-a9ce-a31f-467f2206ec9c" "9"
+		"GameSettingNode" "84406b20-f5b2-69b2-6f6b-1932d03945eb" "10"
+		"GameSettingNode" "1998f520-2f93-5c9c-8b1c-9ead400ece8d" "11"
+		"GameSettingNode" "5c984528-bd21-47e6-522e-2d7074572815" "12"
+		"GameSettingNode" "237fb42a-c5a2-5e70-6238-fb20a8645a19" "13"
+		"GameSettingNode" "8b83973e-5163-6a22-4077-15c2e5d17289" "14"
+		"GameSettingNode" "ecff1244-17c7-9ddf-dad4-815c559b76d4" "15"
+		"GameSettingNode" "35631a4f-c4c1-2649-4bd0-80bafe00c202" "16"
+		"GameSettingNode" "0560d350-b392-9789-5b83-661612c69713" "17"
+		"GameSettingNode" "200f5a55-6e6d-f478-dc07-57b743cd508a" "18"
+		"GameSettingNode" "8d500959-a0d8-be3d-18f4-41b914f4c724" "19"
+		"GameSettingNode" "f0c4655d-93fd-51a4-b499-d2c8696d1152" "20"
+		"GameSettingNode" "e366b967-b076-cd50-690a-21935f8f3058" "21"
+		"GameSettingNode" "d32d4f6d-2661-d493-6c72-fd317820bc12" "22"
+		"GameSettingNode" "4ea3556d-9992-7b65-f4b8-267cb138521a" "23"
+		"GameSettingNode" "e9d7c77b-7fe6-18bd-a9e4-0ab8883172df" "24"
+		"GameSettingNode" "e7d1b282-4855-9f43-f812-c66f4f7a2e2b" "25"
+		"GameSettingNode" "2dedd186-65e6-4d8e-a435-ff4d5c24c63b" "26"
+		"GameSettingNode" "921ae88b-55dd-13e9-cd1d-b8fe2272ed9e" "27"
+		"GameSettingNode" "dc13688e-f21d-cb7e-2b38-083a17c8f0a0" "28"
+		"GameSettingNode" "44e8de93-d513-dee3-1d9f-a5e5ec69d779" "29"
+		"GameSettingNode" "d90b3396-6f1d-39af-bf36-caae02a3ab54" "30"
+		"GameSettingNode" "4a7ac498-a86e-83b6-c88b-2c2f3d5190f6" "31"
+		"GameSettingNode" "0c21479b-117d-6ae6-9fce-945c9ebca96b" "32"
+		"GameSettingNode" "2977549c-560b-cd6d-99b1-abf37ddea4c9" "33"
+		"GameSettingNode" "f009ed9c-bc3d-5e72-167f-084c3ef4e32e" "34"
+		"GameSettingNode" "9ada50a2-3f27-e6b0-d671-ea339ec8df58" "35"
+		"GameSettingNode" "b5350ea4-19f3-df15-282e-2cde4729062b" "36"
+		"GameSettingNode" "1612e3a6-c923-1036-a062-c636f0fc8291" "37"
+		"GameSettingNode" "4c4155ab-a70f-478f-aaf6-9c45e8a7c6dc" "38"
+		"GameSettingNode" "42125ab1-2a7f-6121-a51b-992698a04213" "39"
+		"GameSettingNode" "6c3386b6-3388-4962-4d86-2d6805169677" "40"
+		"GameSettingNode" "1f9da4bf-2073-e3e5-eae2-9f525c4275c7" "41"
+		"GameSettingNode" "78d4fec0-06fb-81a8-1fd4-4b47bc9d30d6" "42"
+		"GameSettingNode" "3a096bc4-41c7-8bc5-0afa-5a59635830c5" "43"
+		"GameSettingNode" "28cb81c6-05e1-953e-1479-43c6d9a71532" "44"
+		"GameSettingNode" "87ce38c7-a59c-0d10-d534-5186e4c68ebd" "45"
+		"GameSettingNode" "f8d5ead2-e84d-76ab-603e-587de5ec5721" "46"
+		"GameSettingNode" "19c53cd3-f2ae-02d5-39dd-a3367c8de434" "47"
+		"GameSettingNode" "b6fd7ed7-6924-88eb-912a-77efafb8ce83" "48"
+		"GameSettingNode" "8a2d14df-888f-5c46-8f7c-913a9a7c6508" "49"
+		"GameSettingNode" "f702a0e3-ac65-9a79-46e3-36c6b0007050" "50"
+		"GameSettingNode" "c001c7e9-218d-4106-9016-1337f882516a" "51"
+		"GameSettingNode" "806b27ea-7706-e0f4-c323-5e20709b9e50" "52"
+		"GameSettingNode" "b0de31ea-3f1f-d708-b001-ee16354da4be" "53"
+		"GameSettingNode" "e69da5f1-3230-3c21-db94-fc88c5760e5e" "54"
+		"GameSettingNode" "6db4abf5-be4e-ca7d-ca72-3a51ea258db3" "55"
+	}
+}
+
+GameSettingsContainer 5c4e680b-5595-31a1-a11f-b9375f1a4e1d 0
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 0e69380c-8d0f-deeb-4be8-6e426b3bb9d7,3"
+	}
+	"CString" "Name" "A0_YW/Shared/Settings/AutoplayerSettingsContainer"
+}
+
+GameSettingNode 2dce9709-6034-f285-7997-166b68099fb0 1
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "LmgAimNoise"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "2.5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 3f11180b-2ada-5b9b-6f00-d5ddc25eca4e 2
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 8b83973e-5163-6a22-4077-15c2e5d17289,14"
+		"PointerRef" "" "internal : b0de31ea-3f1f-d708-b001-ee16354da4be,53"
+	}
+	"CString" "SettingName" "CombatSettingsHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 0e69380c-8d0f-deeb-4be8-6e426b3bb9d7 3
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 3f11180b-2ada-5b9b-6f00-d5ddc25eca4e,2"
+		"PointerRef" "" "internal : 87ce38c7-a59c-0d10-d534-5186e4c68ebd,45"
+		"PointerRef" "" "internal : 0560d350-b392-9789-5b83-661612c69713,17"
+	}
+	"CString" "SettingName" "HeroAutoplayers"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 20d3f40c-e09f-052e-7e85-f9175f1d2bfa 4
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "LauncherAimNoiseHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1.4"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 7e2fca0e-e5c5-e994-3e8f-fae463e82355 5
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "PauseSwordAttackDurationTimeMaxS"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1.5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 83f05111-769f-3030-6892-325b44a0f08d 6
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AllowRespawnHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode dd69ff1e-9485-6c7e-daf4-14ed79249e81 7
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversInvertStrafeDurationMaxHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "2.5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 27241520-f816-bcdb-1942-9f0b8ae9c446 8
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversJumpProbabilityHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.4"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 9de21e20-73d3-a9ce-a31f-467f2206ec9c 9
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 2977549c-560b-cd6d-99b1-abf37ddea4c9,33"
+		"PointerRef" "" "internal : 4a7ac498-a86e-83b6-c88b-2c2f3d5190f6,31"
+	}
+	"CString" "SettingName" "SpawnProbabilitiesHero"
+	"GameSettingType" "SettingType" "GameSettingType_String"
+	"CString" "DefaultValue" "Better Use A Punnett Square"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 84406b20-f5b2-69b2-6f6b-1932d03945eb 10
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "LofReactionTimeSHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 1998f520-2f93-5c9c-8b1c-9ead400ece8d 11
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "ShotgunAimNoiseHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "2"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 5c984528-bd21-47e6-522e-2d7074572815 12
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SquadSpawnProbabilityHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 237fb42a-c5a2-5e70-6238-fb20a8645a19 13
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AllowSuicideHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "0"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 8b83973e-5163-6a22-4077-15c2e5d17289 14
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : e366b967-b076-cd50-690a-21935f8f3058,21"
+		"PointerRef" "" "internal : 35631a4f-c4c1-2649-4bd0-80bafe00c202,16"
+		"PointerRef" "" "internal : 20d3f40c-e09f-052e-7e85-f9175f1d2bfa,4"
+		"PointerRef" "" "internal : 2dce9709-6034-f285-7997-166b68099fb0,1"
+		"PointerRef" "" "internal : 1998f520-2f93-5c9c-8b1c-9ead400ece8d,11"
+		"PointerRef" "" "internal : 1612e3a6-c923-1036-a062-c636f0fc8291,37"
+		"PointerRef" "" "internal : 4c4155ab-a70f-478f-aaf6-9c45e8a7c6dc,38"
+	}
+	"CString" "SettingName" "Aiming"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode ecff1244-17c7-9ddf-dad4-815c559b76d4 15
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SwordAttackDistanceMetersMin"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 35631a4f-c4c1-2649-4bd0-80bafe00c202 16
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "BlasterAimNoiseHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1.6"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 0560d350-b392-9789-5b83-661612c69713 17
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 9de21e20-73d3-a9ce-a31f-467f2206ec9c,9"
+		"PointerRef" "" "internal : f0c4655d-93fd-51a4-b499-d2c8696d1152,20"
+		"PointerRef" "" "internal : 78d4fec0-06fb-81a8-1fd4-4b47bc9d30d6,42"
+	}
+	"CString" "SettingName" "SpawningHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 200f5a55-6e6d-f478-dc07-57b743cd508a 18
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "PauseSwordAttackDurationTimeMinS"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 8d500959-a0d8-be3d-18f4-41b914f4c724 19
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversGroundCheckEnabledHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode f0c4655d-93fd-51a4-b499-d2c8696d1152 20
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 83f05111-769f-3030-6892-325b44a0f08d,6"
+		"PointerRef" "" "internal : 237fb42a-c5a2-5e70-6238-fb20a8645a19,13"
+		"PointerRef" "" "internal : b5350ea4-19f3-df15-282e-2cde4729062b,36"
+		"PointerRef" "" "internal : 19c53cd3-f2ae-02d5-39dd-a3367c8de434,47"
+	}
+	"CString" "SettingName" "RespawningHero"
+	"GameSettingType" "SettingType" "GameSettingType_String"
+	"CString" "DefaultValue" "Life after death!"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode e366b967-b076-cd50-690a-21935f8f3058 21
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AimNoiseScaleHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1.6"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode d32d4f6d-2661-d493-6c72-fd317820bc12 22
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 7e2fca0e-e5c5-e994-3e8f-fae463e82355,5"
+		"PointerRef" "" "internal : 200f5a55-6e6d-f478-dc07-57b743cd508a,18"
+		"PointerRef" "" "internal : 28cb81c6-05e1-953e-1479-43c6d9a71532,44"
+		"PointerRef" "" "internal : ecff1244-17c7-9ddf-dad4-815c559b76d4,15"
+		"PointerRef" "" "internal : 9ada50a2-3f27-e6b0-d671-ea339ec8df58,35"
+		"PointerRef" "" "internal : 6c3386b6-3388-4962-4d86-2d6805169677,40"
+		"PointerRef" "" "internal : 806b27ea-7706-e0f4-c323-5e20709b9e50,52"
+		"PointerRef" "" "internal : dc13688e-f21d-cb7e-2b38-083a17c8f0a0,28"
+		"PointerRef" "" "internal : 2dedd186-65e6-4d8e-a435-ff4d5c24c63b,26"
+	}
+	"CString" "SettingName" "SwordFightingHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 4ea3556d-9992-7b65-f4b8-267cb138521a 23
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : f702a0e3-ac65-9a79-46e3-36c6b0007050,50"
+		"PointerRef" "" "internal : f009ed9c-bc3d-5e72-167f-084c3ef4e32e,34"
+		"PointerRef" "" "internal : 8d500959-a0d8-be3d-18f4-41b914f4c724,19"
+		"PointerRef" "" "internal : f8d5ead2-e84d-76ab-603e-587de5ec5721,46"
+		"PointerRef" "" "internal : 3a096bc4-41c7-8bc5-0afa-5a59635830c5,43"
+		"PointerRef" "" "internal : 0c21479b-117d-6ae6-9fce-945c9ebca96b,32"
+		"PointerRef" "" "internal : d90b3396-6f1d-39af-bf36-caae02a3ab54,30"
+	}
+	"CString" "SettingName" "MovementChecksHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode e9d7c77b-7fe6-18bd-a9e4-0ab8883172df 24
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "MeleeIntervalSHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode e7d1b282-4855-9f43-f812-c66f4f7a2e2b 25
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : c001c7e9-218d-4106-9016-1337f882516a,51"
+		"PointerRef" "" "internal : 1f9da4bf-2073-e3e5-eae2-9f525c4275c7,41"
+		"PointerRef" "" "internal : e9d7c77b-7fe6-18bd-a9e4-0ab8883172df,24"
+	}
+	"CString" "SettingName" "CombatMeleeHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 2dedd186-65e6-4d8e-a435-ff4d5c24c63b 26
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "UseSwordAttackingAbilitiesFromMeters"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "5.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 921ae88b-55dd-13e9-cd1d-b8fe2272ed9e 27
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AllowGameplayBotsToFormOwnSquadsHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode dc13688e-f21d-cb7e-2b38-083a17c8f0a0 28
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SwordGuardDurationTimeMinS"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 44e8de93-d513-dee3-1d9f-a5e5ec69d779 29
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversDodgeRollProbabilityHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode d90b3396-6f1d-39af-bf36-caae02a3ab54 30
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversGroundCheckCooldownSHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 4a7ac498-a86e-83b6-c88b-2c2f3d5190f6 31
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "HeroSpawnProbability_GameplayHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 0c21479b-117d-6ae6-9fce-945c9ebca96b 32
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversGroundCheckDistanceMHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 2977549c-560b-cd6d-99b1-abf37ddea4c9 33
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SpecialSpawnProbability_GameplayHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.5"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode f009ed9c-bc3d-5e72-167f-084c3ef4e32e 34
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AllowTeleportHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "0"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 9ada50a2-3f27-e6b0-d671-ea339ec8df58 35
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SwordAttackDurationTimeMaxS"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "4"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode b5350ea4-19f3-df15-282e-2cde4729062b 36
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "InitialRespawnDelayHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "15"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 1612e3a6-c923-1036-a062-c636f0fc8291 37
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SniperRifleAimNoiseHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 4c4155ab-a70f-478f-aaf6-9c45e8a7c6dc 38
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "TargetTrackerFieldOfViewDegreesHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "120"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 42125ab1-2a7f-6121-a51b-992698a04213 39
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversInvertStrafeDurationMinHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 6c3386b6-3388-4962-4d86-2d6805169677 40
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SwordAttackDurationTimeMinS"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 1f9da4bf-2073-e3e5-eae2-9f525c4275c7 41
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "MeleeDistanceMHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "2"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 78d4fec0-06fb-81a8-1fd4-4b47bc9d30d6 42
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : b6fd7ed7-6924-88eb-912a-77efafb8ce83,48"
+		"PointerRef" "" "internal : 921ae88b-55dd-13e9-cd1d-b8fe2272ed9e,27"
+		"PointerRef" "" "internal : 5c984528-bd21-47e6-522e-2d7074572815,12"
+	}
+	"CString" "SettingName" "SquadsHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 3a096bc4-41c7-8bc5-0afa-5a59635830c5 43
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversGroundCheckHeightOffsetMHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "2"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 28cb81c6-05e1-953e-1479-43c6d9a71532 44
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SwordAttackDistanceMetersMax"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "2"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 87ce38c7-a59c-0d10-d534-5186e4c68ebd 45
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 6db4abf5-be4e-ca7d-ca72-3a51ea258db3,55"
+		"PointerRef" "" "internal : 4ea3556d-9992-7b65-f4b8-267cb138521a,23"
+	}
+	"CString" "SettingName" "MovementHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode f8d5ead2-e84d-76ab-603e-587de5ec5721 46
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "EvasiveManeuversGroundCheckHeightDistanceMHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "4"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 19c53cd3-f2ae-02d5-39dd-a3367c8de434 47
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "RespawnDelayHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "8"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode b6fd7ed7-6924-88eb-912a-77efafb8ce83 48
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AllowGameplayBotsToJoinPlayerSquadsHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 8a2d14df-888f-5c46-8f7c-913a9a7c6508 49
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "HeroStrafeProbabilityPerFrame"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode f702a0e3-ac65-9a79-46e3-36c6b0007050 50
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "AllowEvasiveManouversOOBHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode c001c7e9-218d-4106-9016-1337f882516a 51
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "CombatUseMeleeHero"
+	"GameSettingType" "SettingType" "GameSettingType_Bool"
+	"CString" "DefaultValue" "1"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 806b27ea-7706-e0f4-c323-5e20709b9e50 52
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "SwordGuardDurationTimeMaxS"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "4"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode b0de31ea-3f1f-d708-b001-ee16354da4be 53
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : e7d1b282-4855-9f43-f812-c66f4f7a2e2b,25"
+		"PointerRef" "" "internal : e69da5f1-3230-3c21-db94-fc88c5760e5e,54"
+		"PointerRef" "" "internal : 84406b20-f5b2-69b2-6f6b-1932d03945eb,10"
+		"PointerRef" "" "internal : d32d4f6d-2661-d493-6c72-fd317820bc12,22"
+	}
+	"CString" "SettingName" "Engaging"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode e69da5f1-3230-3c21-db94-fc88c5760e5e 54
+{
+	"List" "GameSettings"
+	{
+	}
+	"CString" "SettingName" "LofPredictionTimeHero"
+	"GameSettingType" "SettingType" "GameSettingType_Float"
+	"CString" "DefaultValue" "0.25"
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+
+GameSettingNode 6db4abf5-be4e-ca7d-ca72-3a51ea258db3 55
+{
+	"List" "GameSettings"
+	{
+		"PointerRef" "" "internal : 44e8de93-d513-dee3-1d9f-a5e5ec69d779,29"
+		"PointerRef" "" "internal : 42125ab1-2a7f-6121-a51b-992698a04213,39"
+		"PointerRef" "" "internal : dd69ff1e-9485-6c7e-daf4-14ed79249e81,7"
+		"PointerRef" "" "internal : 27241520-f816-bcdb-1942-9f0b8ae9c446,8"
+		"PointerRef" "" "internal : 8a2d14df-888f-5c46-8f7c-913a9a7c6508,49"
+	}
+	"CString" "SettingName" "CombatMovementHero"
+	"GameSettingType" "SettingType" "GameSettingType_Int"
+	"CString" "DefaultValue" ""
+	"CString" "LowerBound" ""
+	"CString" "UpperBound" ""
+	"Boolean" "IsPublic" "True"
+}
+

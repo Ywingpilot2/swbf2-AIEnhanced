@@ -1,0 +1,95 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Gameplay/Kits/Specials/EwokRebel/GP_Special_EwokRebel-AP"
+	"type" "WSSoldierCustomizationGameplayAsset"
+	"fid" "44e81c70-2d91-473c-90e3-8c96d17b67a7"
+	
+	Objects
+	{
+		"WSSoldierCustomizationGameplayAsset" "e20fdf72-0d4a-4153-9e87-fdc1377deb01" "0"
+		"PlayerAbilityCustomization" "ff08da7a-1eec-46fb-8f2f-f607084783fd" "1"
+		"PlayerAbilityCollection" "d9484097-4442-570e-35a5-448027b66028" "2"
+	}
+}
+
+WSSoldierCustomizationGameplayAsset e20fdf72-0d4a-4153-9e87-fdc1377deb01 0
+{
+	"UInt32" "Identifier" "897787475"
+	"PointerRef" "Class" "external : 9028a372-a40e-4f55-869a-b1dc08ccc000,61dad216-73da-4485-a0c6-9f207b3187b6"
+	"PointerRef" "Abilities" "internal : ff08da7a-1eec-46fb-8f2f-f607084783fd,1"
+	"List" "AffectorsAppliedOnSpawn"
+	{
+		"PointerRef" "" "external : 07494cd8-7d18-40c2-b254-7e3630096cac,7ad5127f-e5f3-4fc9-843a-c8fae571c7bf"
+		"PointerRef" "" "external : 1db96907-4dba-4a01-b64d-36d8a249af1b,7941e3ab-8577-4102-aa16-d2892b7e1e70"
+		"PointerRef" "" "external : 284965dd-b0b1-11e6-8398-b07534bbfc06,234f6a43-0015-4ccc-c80c-575b00fe264f"
+		"PointerRef" "" "external : e00d900e-8926-42bb-903f-f1c9f24434ae,8f3e6556-1bbf-430f-8630-f11cb9e15d5c"
+		"PointerRef" "" "external : 04c83ea9-3ae7-4a58-bea5-7430f1ac243b,c8fb7041-33b4-405c-beeb-febbb185fc96"
+	}
+	"PointerRef" "Unlock" "null"
+	"PointerRef" "GateUnlock" "null"
+	"WSKitSpawnerType" "SpawnerType" "WSKitSpawnerType_Default"
+	"CString" "KillswitchName" "KS_Special_EwokRebel"
+	"CString" "Name" "Gameplay/Kits/Specials/EwokRebel/GP_Special_EwokRebel-AP"
+}
+
+PlayerAbilityCustomization ff08da7a-1eec-46fb-8f2f-f607084783fd 1
+{
+	"PointerRef" "AllAbilities" "internal : d9484097-4442-570e-35a5-448027b66028,2"
+	"List" "AdditionalAbilities"
+	{
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+	"List" "DefaultAbilities"
+	{
+		"PointerRef" "" "external : 9b6f1983-5acd-4647-9e12-ce8ef96cccdd,169ec971-3143-438d-b99e-412ed7585948"
+		"PointerRef" "" "external : 62859cf2-d132-4857-9194-2a373dc7960b,f6a74e06-50bd-452b-9364-edcd81ac3e2d"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : c1c65ce9-d26c-4e05-91f9-d1651582fcc5,73c9e2b9-f59e-2d36-5b2d-6d8e35819a03"
+		"PointerRef" "" "external : 68950d38-6fca-4845-bf37-02db891f9b6f,e7d7e3a8-fd30-4a83-8e9d-8cc932f7c118"
+		"PointerRef" "" "external : 9fb7d628-ba72-4ed7-a960-77964638156d,cf123721-ddaa-476a-88c3-bdb903e79c20"
+		"PointerRef" "" "external : 8ce7e92c-0af7-4387-9938-5780aaf49368,ac16641b-9661-46e9-9f58-1a4d7e7bf204"
+		"PointerRef" "" "external : 792bbc67-7147-4a8f-97b7-4bec0f03d55f,59b3a7cf-52f5-48f1-a4fd-f227e5d1aaaa"
+		"PointerRef" "" "external : 1547815e-2a87-4ebf-8732-3e7195d273da,f11adb06-8f4f-4817-be58-b352dee71cfe"
+	}
+	"List" "AbilityBlockingRules"
+	{
+	}
+	"List" "Emotes"
+	{
+	}
+	"List" "VoiceLines"
+	{
+	}
+	"List" "VictoryPoses"
+	{
+	}
+	"CString" "Name" ""
+}
+
+PlayerAbilityCollection d9484097-4442-570e-35a5-448027b66028 2
+{
+	"List" "Abilities"
+	{
+		"PointerRef" "" "external : 9b6f1983-5acd-4647-9e12-ce8ef96cccdd,169ec971-3143-438d-b99e-412ed7585948"
+		"PointerRef" "" "external : 62859cf2-d132-4857-9194-2a373dc7960b,f6a74e06-50bd-452b-9364-edcd81ac3e2d"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : c1c65ce9-d26c-4e05-91f9-d1651582fcc5,73c9e2b9-f59e-2d36-5b2d-6d8e35819a03"
+		"PointerRef" "" "external : 68950d38-6fca-4845-bf37-02db891f9b6f,e7d7e3a8-fd30-4a83-8e9d-8cc932f7c118"
+		"PointerRef" "" "external : 9fb7d628-ba72-4ed7-a960-77964638156d,cf123721-ddaa-476a-88c3-bdb903e79c20"
+		"PointerRef" "" "external : 8ce7e92c-0af7-4387-9938-5780aaf49368,ac16641b-9661-46e9-9f58-1a4d7e7bf204"
+		"PointerRef" "" "external : 792bbc67-7147-4a8f-97b7-4bec0f03d55f,59b3a7cf-52f5-48f1-a4fd-f227e5d1aaaa"
+		"PointerRef" "" "external : 1547815e-2a87-4ebf-8732-3e7195d273da,f11adb06-8f4f-4817-be58-b352dee71cfe"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+}
+

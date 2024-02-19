@@ -1,0 +1,140 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S7_2/Gameplay/Kits/Specials/Droideka/Abilities/Ability_Droideka_Shield-AP"
+	"type" "RetriggerablePlayerAbilityAsset"
+	"fid" "44b1a7dc-17ad-4603-83e6-f53e1380d33d"
+	
+	Objects
+	{
+		"RetriggerablePlayerAbilityAsset" "a8bff8d9-e852-46ba-b666-ecf47c2b3c32" "0"
+		"CharacterStateBoolRequiredChannelValueData" "e87420a8-d075-4d5c-b078-6fcc2ec74e53" "1"
+	}
+}
+
+RetriggerablePlayerAbilityAsset a8bff8d9-e852-46ba-b666-ecf47c2b3c32 0
+{
+	"Single" "RequireHoldDuringRetriggerTime" "0"
+	"Int32" "RetriggerableCount" "1"
+	"Single" "RetriggerCooldown" "2"
+	"Boolean" "RequireHoldDuringRetrigger" "False"
+	"Boolean" "RechargeOnRetriggerCountZero" "True"
+	"List" "BlockingChannels"
+	{
+		"PointerRef" "" "internal : e87420a8-d075-4d5c-b078-6fcc2ec74e53,1"
+	}
+	"List" "SetChannelsWhenActivating"
+	{
+	}
+	"List" "SetChannelsWhenActive"
+	{
+	}
+	"Single" "ActiveTime" "75"
+	"Single" "ActivationTime" "0"
+	"Single" "RechargeTime" "1.5"
+	"Int32" "InputQueueApplyOrder" "0"
+	"Boolean" "InfiniteActiveTime" "False"
+	"Boolean" "RequireHoldDuringActiveTime" "False"
+	"Boolean" "InfiniteActivationTime" "False"
+	"Boolean" "RequireHoldDuringActivationTime" "False"
+	"Boolean" "InfiniteRechargeTime" "False"
+	"Boolean" "DisableOnRecharge" "False"
+	"Boolean" "DisableOnPlayerExit" "False"
+	"Boolean" "DisableOnControllableDeath" "False"
+	"Boolean" "RemoveOnDisable" "False"
+	"Boolean" "SupportsInputQueue" "True"
+	"Boolean" "ActivateWhenButtonIsDown" "False"
+	"PlayerAbilityCategory" "Category" "PlayerAbilityCategory_Left"
+	"PointerRef" "Unlock" "external : 4cb2b342-0a80-412d-9b9d-b907719d2cc4,7b4c0736-571a-4d3e-a8f4-ebeb95c0a746"
+	"PointerRef" "Blueprint" "external : cf373142-62b8-4879-b2dd-9d704b623550,8fb43a0f-ca0e-4585-a7fe-33b0406ea252"
+	"List" "DescriptorIds"
+	{
+		"UInt32" "" "2280589770"
+		"UInt32" "" "2127667846"
+		"UInt32" "" "2019584983"
+	}
+	"List" "InputModifiers"
+	{
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "-1"
+			}
+			"Int32" "Action" "871087120"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "False"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+		"PlayerAbilityInputModifier" "" 
+		{
+			"PlayerAbilityInputModifierTime" "CutoffTime" 
+			{
+				"Single" "Min" "0"
+				"Single" "Max" "-1"
+			}
+			"Int32" "Action" "871087121"
+			"Single" "Offset" "0"
+			"Single" "Scale" "0"
+			"Boolean" "ApplyInputModifiersDuringActive" "False"
+			"Boolean" "ApplyInputModifiersDuringActivation" "True"
+			"Boolean" "ApplyInputModifiersDuringRecharging" "False"
+			"Boolean" "ApplyInputModifiersDuringReady" "False"
+		}
+	}
+	"List" "BlockPlayerAbilitiesRules"
+	{
+		"PlayerAbilityBlockingRule" "" 
+		{
+			"List" "AbilityIds"
+			{
+				"UInt32" "" "4105516457"
+			}
+			"Boolean" "BlockDuringActive" "True"
+			"Boolean" "BlockDuringActivation" "True"
+			"Boolean" "BlockDuringRecharging" "False"
+			"Boolean" "BlockDuringReady" "False"
+		}
+	}
+	"List" "BlockedPlayerAbilityIds"
+	{
+	}
+	"List" "AbilityModifiers"
+	{
+	}
+	"PointerRef" "PickupBlueprint" "null"
+	"PointerRef" "NonStreamedPickupMesh" "null"
+	"UInt32" "UnblockedByAbilityId" "0"
+	"UInt32" "Identifier" "3679296821"
+	"Boolean" "IsSupportedOnAIPlayers" "True"
+	"Boolean" "IsSupportedOnHumanPlayers" "True"
+	"Boolean" "HasBonusLevels" "False"
+	"Boolean" "IgnoreNetworkingErrors" "False"
+	"Boolean" "ResetOnSpawn" "True"
+	"Boolean" "ApplyBlockPlayerAbilitiesDuringActive" "True"
+	"Boolean" "ApplyBlockPlayerAbilitiesDuringActivation" "True"
+	"Boolean" "IsHidden" "False"
+	"Boolean" "IsDefaultUnlocked" "True"
+	"Boolean" "DropAsPickupOnDeath" "False"
+	"CString" "Name" "S7_2/Gameplay/Kits/Specials/Droideka/Abilities/Ability_Droideka_Shield-AP"
+}
+
+CharacterStateBoolRequiredChannelValueData e87420a8-d075-4d5c-b078-6fcc2ec74e53 1
+{
+	"PointerRef" "Channel" "external : 8d410aff-7ffe-4e12-9756-a89cf26cf88e,26cadeec-e42f-4058-b6cc-525e503e566c"
+	"List" "AllowedValues"
+	{
+		"Boolean" "" "True"
+	}
+	"Boolean" "InvertConditions" "False"
+}
+

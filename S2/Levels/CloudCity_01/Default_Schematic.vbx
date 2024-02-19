@@ -1,0 +1,92 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S2/Levels/CloudCity_01/Default_Schematic"
+	"type" "LayerData"
+	"fid" "bd8aa0e2-dfd8-11e7-b31c-e910bafb7738"
+	
+	Objects
+	{
+		"LayerData" "3e48fd7a-a384-6cb0-ac8a-296f705b6a1e" "0"
+		"InclusionSettingEntityData" "c5167d0e-2f09-4bc4-9754-f0be8dd7e835" "1"
+		"PathfindingStreamEntityData" "8f4a3071-5cfc-4c65-ba51-3b28ca0a1fed" "2"
+		"SyncedBoolEntityData" "474992b5-7e4e-46a0-beb8-7e9e395ea56a" "3"
+	}
+}
+
+LayerData 3e48fd7a-a384-6cb0-ac8a-296f705b6a1e 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "790cf5b4-31b3-f5b4-60f9-8f5bc4cabc6d"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : c5167d0e-2f09-4bc4-9754-f0be8dd7e835,1"
+		"PointerRef" "" "internal : 8f4a3071-5cfc-4c65-ba51-3b28ca0a1fed,2"
+		"PointerRef" "" "internal : 474992b5-7e4e-46a0-beb8-7e9e395ea56a,3"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "S2/Levels/CloudCity_01/Default_Schematic"
+}
+
+InclusionSettingEntityData c5167d0e-2f09-4bc4-9754-f0be8dd7e835 1
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+		"CString" "" "PlanetaryBattles"
+		"CString" "" "Blast"
+		"CString" "" "HeroesVersusVillains"
+		"CString" "" "SkirmishBlast"
+		"CString" "" "PlanetaryMissions"
+		"CString" "" "SkirmishOnslaught"
+		"CString" "" "SkirmishDuel"
+		"CString" "" "ModeC"
+		"CString" "" "Mode1"
+		"CString" "" "Mode2"
+		"CString" "" "Mode3"
+		"CString" "" "Mode6"
+		"CString" "" "Mode5"
+		"CString" "" "Mode4"
+		"CString" "" "Mode7"
+		"CString" "" "Mode8"
+		"CString" "" "Mode9"
+		"CString" "" "ModeDefend"
+		"CString" "" "ModeE"
+		"CString" "" "ModeF"
+		"CString" "" "HeroArena"
+		"CString" "" "Mode6"
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "18251022"
+}
+
+PathfindingStreamEntityData 8f4a3071-5cfc-4c65-ba51-3b28ca0a1fed 2
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : 71b96c96-cb83-016b-db64-caf62a85a8c1,71b96c96-cb83-016b-db64-caf62a85a8c1"
+	"Boolean" "Autoload" "False"
+	"UInt32" "Flags" "88748145"
+}
+
+SyncedBoolEntityData 474992b5-7e4e-46a0-beb8-7e9e395ea56a 3
+{
+	"UInt32" "Flags" "290034357"
+}
+

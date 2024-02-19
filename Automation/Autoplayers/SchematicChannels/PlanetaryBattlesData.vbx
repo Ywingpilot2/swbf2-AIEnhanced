@@ -1,0 +1,270 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Automation/Autoplayers/SchematicChannels/PlanetaryBattlesData"
+	"type" "SchematicChannelAsset"
+	"fid" "aead30e6-389b-42ba-ac22-40458259463a"
+	
+	Objects
+	{
+		"SchematicChannelAsset" "390c281a-5f0f-4362-9c21-7d5931e2c4a3" "0"
+	}
+}
+
+SchematicChannelAsset 390c281a-5f0f-4362-9c21-7d5931e2c4a3 0
+{
+	"List" "Events"
+	{
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+		"EventChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+		}
+	}
+	"List" "Links"
+	{
+	}
+	"List" "Properties"
+	{
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343093"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343096"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1833960798"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1644291359"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343095"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "818247968"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343090"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "2091744615"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343089"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "259316646"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343092"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "448986085"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "1104285746"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1580559676"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "1104285757"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-166617813"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "1104285756"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-450071542"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "1104285759"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "1937497449"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_ClientAndServer"
+			"Int32" "Id" "-1281709623"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_ClientAndServer"
+			"Int32" "Id" "-1281709622"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1281709621"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-504097609"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-467266538"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343092"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343091"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343102"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1528343101"
+			"Int32" "FieldTypeHash" "-482476268"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "448986085"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1383441884"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "106896491"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+		"PropertyChannel" "" 
+		{
+			"Realm" "Realm" "Realm_Server"
+			"Int32" "Id" "-1725531478"
+			"Int32" "FieldTypeHash" "-1774669279"
+		}
+	}
+	"CString" "Name" "Automation/Autoplayers/SchematicChannels/PlanetaryBattlesData"
+}
+

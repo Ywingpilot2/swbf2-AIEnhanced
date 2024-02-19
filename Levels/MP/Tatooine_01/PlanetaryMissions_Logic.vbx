@@ -1,0 +1,1611 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Levels/MP/Tatooine_01/PlanetaryMissions_Logic"
+	"type" "LayerData"
+	"fid" "097995be-f08b-409b-b9f1-a450cfb959b0"
+	
+	Objects
+	{
+		"LayerData" "c8273e48-6faf-470b-8f94-32500ee1b97c" "0"
+		"SpawnLocationFinderShapeData" "4a9dff09-0a27-4779-9b22-6d4caa8c3a6c" "1"
+		"SpatialPrefabReferenceObjectData" "899e1f0c-7906-4f0a-9e62-228b4c955d89" "2"
+		"AlternateSpawnEntityData" "bd228410-fd9d-427a-a8bd-6843cceb3f7a" "3"
+		"SpawnLocationFinderShapeData" "1d4abf13-1b79-497c-87cd-52a14c8532b4" "4"
+		"AlternateSpawnEntityData" "fb79c31c-47e5-4ff8-a865-c7b3d07c3a56" "5"
+		"AlternateSpawnEntityData" "8af6b72a-aaf9-4f3f-ae37-a1e23cb1acd6" "6"
+		"SpawnLocationFinderShapeData" "d3cbf22b-5d51-475b-a2b3-246f668b728f" "7"
+		"AlternateSpawnEntityData" "c55a322e-67e3-46df-90cc-5e9cc2dfb8fd" "8"
+		"LocatorEntityData" "52904835-171b-4188-970e-b16723677d68" "9"
+		"AlternateSpawnEntityData" "a5608b41-da01-4532-8353-3fb9c5b204d1" "10"
+		"AlternateSpawnEntityData" "86c6104c-822a-410a-8baa-ac7aea730302" "11"
+		"SpawnLocationFinderShapeData" "fc96614c-5e3f-424b-8ca7-6764ccb4c0a0" "12"
+		"SpawnLocationFinderShapeData" "e97b6850-1b73-4118-a33e-fd10e2277a2a" "13"
+		"LocatorEntityData" "9fceb759-0661-4db2-ab0a-bee7c7669a26" "14"
+		"AlternateSpawnEntityData" "9ed21b5b-95f5-4213-ac9e-4693e3540e7b" "15"
+		"AlternateSpawnEntityData" "5012cf5f-7402-46a8-b936-af375a16d53b" "16"
+		"SpatialPrefabReferenceObjectData" "b6b77969-ad7f-428a-b3ea-4a6508d63683" "17"
+		"AlternateSpawnEntityData" "de86186c-8fe0-45fb-8f0a-17c75065c3be" "18"
+		"AlternateSpawnEntityData" "1079be6c-3dc5-4951-836a-278a5675e683" "19"
+		"VolumeVectorShapeData" "c638056f-7de2-43fe-83be-56260b9482b7" "20"
+		"AlternateSpawnEntityData" "48af0472-6dfc-418e-a345-c8b01f9bb87d" "21"
+		"AlternateSpawnEntityData" "fb8c2d82-8a1b-4e1f-a512-45804c1616de" "22"
+		"AlternateSpawnEntityData" "f86b1284-e16e-413b-bfbd-b9858215d4c0" "23"
+		"SpawnLocationFinderShapeData" "c4b3d385-233d-4e50-b121-379a9ad81d26" "24"
+		"VolumeVectorShapeData" "3acda186-e462-4436-b6b1-dc62059d0016" "25"
+		"AlternateSpawnEntityData" "543a798d-fc7f-4809-994b-fd55f1d73232" "26"
+		"SpatialPrefabReferenceObjectData" "09fc1491-acc6-49ce-b380-bcedb8fc40c8" "27"
+		"AlternateSpawnEntityData" "3af38391-b97c-4247-a1ee-ac59584fe321" "28"
+		"AlternateSpawnEntityData" "25961294-62c6-4768-873b-26a18c6e4708" "29"
+		"AlternateSpawnEntityData" "348adc95-4213-43b6-9456-a6581c0987b9" "30"
+		"AlternateSpawnEntityData" "60554298-5197-42dc-bf53-5b8f3c5e982b" "31"
+		"ObjectReferenceObjectData" "45b36598-3991-48f7-953a-dbf2a60e0384" "32"
+		"SpatialPrefabReferenceObjectData" "edb57e9a-18e9-48ab-bc89-88834d6d8d9a" "33"
+		"AlternateSpawnEntityData" "a5e2029b-a3bf-4335-81c7-3edd8223cfd4" "34"
+		"LocalLocatorEntityData" "69b68d9d-fe54-4be3-aa6f-c5fed20e6950" "35"
+		"AlternateSpawnEntityData" "cba44d9e-b6b7-4e23-a59b-bf93d34fde65" "36"
+		"AlternateSpawnEntityData" "6171539e-d465-466e-9a1a-ef1dc91cb93d" "37"
+		"AlternateSpawnEntityData" "b3c4c9a0-a1a5-4d06-870c-1b978b5fe70b" "38"
+		"AlternateSpawnEntityData" "276dc9a6-a0c8-4bae-b4d9-ffd69610196b" "39"
+		"AlternateSpawnEntityData" "963125ad-f810-4a1a-b6b3-4d14b08e23f0" "40"
+		"AlternateSpawnEntityData" "28ad17af-bb02-474b-a6a7-e0e16b2de561" "41"
+		"AlternateSpawnEntityData" "46ad72af-30b7-4e72-bc23-baa000e8e520" "42"
+		"AlternateSpawnEntityData" "4573a3b0-067e-4f1e-81c7-f7cee6747c50" "43"
+		"AlternateSpawnEntityData" "a98013b2-8577-4e42-82e8-9d890cf6a566" "44"
+		"AlternateSpawnEntityData" "68171fb2-cf62-463a-af43-a10bf71aaa73" "45"
+		"AlternateSpawnEntityData" "6a14a1b3-1e34-45ea-b0c6-ba961b2ca7e9" "46"
+		"AlternateSpawnEntityData" "96ea82be-89fe-4f20-a5de-d032b352dbdd" "47"
+		"AlternateSpawnEntityData" "7c0430c0-fe43-48d5-b04e-c10c19250d36" "48"
+		"AlternateSpawnEntityData" "b58e47cc-4ccb-4151-aa0c-f7b2ac808bce" "49"
+		"AlternateSpawnEntityData" "dafce4ce-4599-489e-a229-e9ccba34ad01" "50"
+		"LocalLocatorEntityData" "256b95d1-56a7-4779-9e8a-96ae42e13040" "51"
+		"AlternateSpawnEntityData" "976dfed1-a61b-4fe3-8914-337af58567aa" "52"
+		"AlternateSpawnEntityData" "63170ed6-1a91-4395-b39f-59872f87b9b9" "53"
+		"AlternateSpawnEntityData" "f3ec77db-e30a-4875-9c1e-5afe8bef1b25" "54"
+		"SpatialPrefabReferenceObjectData" "69bcbadd-9733-464a-b372-f005e3bcb4ae" "55"
+		"AlternateSpawnEntityData" "9aba3fe3-96d9-4349-97d6-84e92a3f9ec0" "56"
+		"AlternateSpawnEntityData" "514ce7e3-8ce7-422d-bc0b-d79ef6f6e1fc" "57"
+		"AlternateSpawnEntityData" "52d81de6-d5e8-45a7-8f1e-3a319d7ad90d" "58"
+		"LocatorEntityData" "b53486e7-4f60-4b50-8c85-a5e6f31c3b3a" "59"
+		"SpawnLocationFinderShapeData" "73ae6ce9-da42-4b35-b678-e3ab49305faf" "60"
+		"AlternateSpawnEntityData" "367982e9-affd-42c8-8bfa-911b5fb81f3e" "61"
+		"LocatorEntityData" "a2c970ea-0abd-4430-8d60-9f80a73c4f4a" "62"
+		"SpawnLocationFinderShapeData" "731d1beb-36ab-4a94-a5a1-96305e725f2c" "63"
+		"AlternateSpawnEntityData" "2b5946f2-8443-4ddf-a95c-423321fa60bb" "64"
+		"CameraEntityData" "00000000-0000-0000-0000-000000000000" "65"
+		"CameraEntityData" "00000000-0000-0000-0000-000000000000" "66"
+		"SpatialPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "67"
+		"SpatialPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "68"
+		"SpawnLocationWeightGiverEntityData" "00000000-0000-0000-0000-000000000000" "69"
+	}
+}
+
+LayerData c8273e48-6faf-470b-8f94-32500ee1b97c 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "bb5aa4b2-0182-f6d2-48d3-15c47da0977e"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : edb57e9a-18e9-48ab-bc89-88834d6d8d9a,33"
+		"PointerRef" "" "internal : 45b36598-3991-48f7-953a-dbf2a60e0384,32"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,69"
+		"PointerRef" "" "internal : a2c970ea-0abd-4430-8d60-9f80a73c4f4a,62"
+		"PointerRef" "" "internal : 52904835-171b-4188-970e-b16723677d68,9"
+		"PointerRef" "" "internal : b53486e7-4f60-4b50-8c85-a5e6f31c3b3a,59"
+		"PointerRef" "" "internal : 9fceb759-0661-4db2-ab0a-bee7c7669a26,14"
+		"PointerRef" "" "internal : 69bcbadd-9733-464a-b372-f005e3bcb4ae,55"
+		"PointerRef" "" "internal : 899e1f0c-7906-4f0a-9e62-228b4c955d89,2"
+		"PointerRef" "" "internal : 09fc1491-acc6-49ce-b380-bcedb8fc40c8,27"
+		"PointerRef" "" "internal : b6b77969-ad7f-428a-b3ea-4a6508d63683,17"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,65"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,66"
+		"PointerRef" "" "internal : 69b68d9d-fe54-4be3-aa6f-c5fed20e6950,35"
+		"PointerRef" "" "internal : 256b95d1-56a7-4779-9e8a-96ae42e13040,51"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,67"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,68"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "Levels/MP/Tatooine_01/PlanetaryMissions_Logic"
+}
+
+SpawnLocationFinderShapeData 4a9dff09-0a27-4779-9b22-6d4caa8c3a6c 1
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-9.039541,68.65771,-5.402168"
+		"Vec3" "" "-20.59955,68.65771,-1.476124"
+		"Vec3" "" "-25.83427,68.65771,14.22804"
+		"Vec3" "" "-19.18181,68.65771,32.87674"
+		"Vec3" "" "-5.004446,68.65771,36.69372"
+		"Vec3" "" "-3.259542,68.65771,63.52166"
+		"Vec3" "" "19.09709,68.65771,63.08544"
+		"Vec3" "" "23.56841,68.65771,50.21675"
+		"Vec3" "" "23.89559,68.65771,38.11145"
+		"Vec3" "" "13.31708,68.65771,36.25749"
+		"Vec3" "" "13.5352,68.65771,28.84163"
+		"Vec3" "" "26.07672,68.65771,27.86013"
+		"Vec3" "" "23.35031,68.65771,16.40918"
+		"Vec3" "" "9.609156,68.65771,12.8103"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+SpatialPrefabReferenceObjectData 899e1f0c-7906-4f0a-9e62-228b4c955d89 2
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "-0.004032698,0.9997252,0.02307681"
+		"Vec3" "right" "0.8198747,0.01651765,-0.5723056"
+		"Vec3" "forward" "0.5725298,-0.01661212,0.8197166"
+	}
+	"PointerRef" "Blueprint" "external : 673ddc69-c2ca-4e79-8abd-668bf169ca2d,60395e1a-0683-4f91-b606-900a8a85105e"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "161357580"
+}
+
+AlternateSpawnEntityData bd228410-fd9d-427a-a8bd-6843cceb3f7a 3
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9952747,0,-0.09709337"
+		"Vec3" "forward" "0.09709337,0,0.9952747"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData 1d4abf13-1b79-497c-87cd-52a14c8532b4 4
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "13.12,64.86426,182.72"
+		"Vec3" "" "18.88,64.86426,181.12"
+		"Vec3" "" "15.36,64.86426,172.16"
+		"Vec3" "" "11.2,64.86426,173.44"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData fb79c31c-47e5-4ff8-a865-c7b3d07c3a56 5
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.7627896,0,-0.6466468"
+		"Vec3" "forward" "0.6466468,0,0.7627896"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 8af6b72a-aaf9-4f3f-ae37-a1e23cb1acd6 6
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9999976,0,-0.002034454"
+		"Vec3" "forward" "0.002034454,0,-0.9999976"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData d3cbf22b-5d51-475b-a2b3-246f668b728f 7
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "25.53938,577.897,-20.7646"
+		"Vec3" "" "43.57945,577.897,-5.015757"
+		"Vec3" "" "46.75229,577.897,56.3743"
+		"Vec3" "" "34.72351,577.897,66.20734"
+		"Vec3" "" "34.56,577.897,51.2"
+		"Vec3" "" "24.32,577.897,49.92"
+		"Vec3" "" "24.32,577.897,29.44"
+		"Vec3" "" "15.36,577.897,29.44"
+		"Vec3" "" "15.36,577.897,6.4"
+		"Vec3" "" "10.48487,577.897,-11.71684"
+		"Vec3" "" "18.99567,577.897,-8.879906"
+		"Vec3" "" "11.52,577.897,-15.36"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData c55a322e-67e3-46df-90cc-5e9cc2dfb8fd 8
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.999997,0,-0.002306461"
+		"Vec3" "forward" "0.002306461,0,0.999997"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData 52904835-171b-4188-970e-b16723677d68 9
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "9455669"
+}
+
+AlternateSpawnEntityData a5608b41-da01-4532-8353-3fb9c5b204d1 10
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.8795444,0,-0.4758161"
+		"Vec3" "forward" "0.4758161,0,-0.8795444"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 86c6104c-822a-410a-8baa-ac7aea730302 11
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9601125,0,0.2796147"
+		"Vec3" "forward" "-0.2796147,0,0.9601125"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData fc96614c-5e3f-424b-8ca7-6764ccb4c0a0 12
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-30.00607,65.06349,154.3869"
+		"Vec3" "" "-30.3116,65.06349,164.1542"
+		"Vec3" "" "12.57362,65.06349,164.8001"
+		"Vec3" "" "13.41222,65.06349,154.3537"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+SpawnLocationFinderShapeData e97b6850-1b73-4118-a33e-fd10e2277a2a 13
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-9.209572,88.17155,154.3193"
+		"Vec3" "" "-31.16857,88.17155,155.3844"
+		"Vec3" "" "-40.18493,88.17155,100.3952"
+		"Vec3" "" "-4.523232,88.17155,99.45068"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+LocatorEntityData 9fceb759-0661-4db2-ab0a-bee7c7669a26 14
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,-2.081669E-17"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,2.081669E-17,1"
+	}
+	"UInt32" "Flags" "30324569"
+}
+
+AlternateSpawnEntityData 9ed21b5b-95f5-4213-ac9e-4693e3540e7b 15
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9994053,0,-0.03448504"
+		"Vec3" "forward" "0.03448504,0,0.9994053"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 5012cf5f-7402-46a8-b936-af375a16d53b 16
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9294354,0,0.3689845"
+		"Vec3" "forward" "-0.3689845,0,-0.9294354"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData b6b77969-ad7f-428a-b3ea-4a6508d63683 17
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,0,1"
+		"Vec3" "right" "-1,0,0"
+		"Vec3" "forward" "0,1,0"
+	}
+	"PointerRef" "Blueprint" "external : dd855fb1-9f75-11e7-bb71-c98fa0ce3c53,1f8de943-895e-eddb-eaf7-f0ce7eab90bc"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "414677353"
+}
+
+AlternateSpawnEntityData de86186c-8fe0-45fb-8f0a-17c75065c3be 18
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9963365,0,-0.08551301"
+		"Vec3" "forward" "0.08551301,0,0.9963365"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 1079be6c-3dc5-4951-836a-278a5675e683 19
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9990287,0,0.04405537"
+		"Vec3" "forward" "-0.04405537,0,0.9990287"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+VolumeVectorShapeData c638056f-7de2-43fe-83be-56260b9482b7 20
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-19.45271,82.24,-5.314986"
+		"Vec3" "" "0.4034061,82.24,-8.233395"
+		"Vec3" "" "7.36,82.24,-13.44"
+		"Vec3" "" "19.52,82.24,-14.4"
+		"Vec3" "" "21.12,82.24,-12.8"
+		"Vec3" "" "29.76,82.24,-13.12"
+		"Vec3" "" "31.04,82.24,-10.56"
+		"Vec3" "" "31.36,82.24,-1.28"
+		"Vec3" "" "34.24,82.24,0.32"
+		"Vec3" "" "33.92,82.24,8.64"
+		"Vec3" "" "41.78425,82.24,8.565062"
+		"Vec3" "" "42.56686,82.24,17.77701"
+		"Vec3" "" "50.24947,82.24,37.26352"
+		"Vec3" "" "51.63255,82.24,110.8565"
+		"Vec3" "" "50.36782,82.24,117.7902"
+		"Vec3" "" "46.7805,82.24,118.064"
+		"Vec3" "" "35.08759,82.24,119.8153"
+		"Vec3" "" "14.48236,82.24,119.9905"
+		"Vec3" "" "14.42941,82.24,117.12"
+		"Vec3" "" "8.32,82.24,117.12"
+		"Vec3" "" "8.32,82.24,100.6341"
+		"Vec3" "" "-11.84945,82.24,100.6341"
+		"Vec3" "" "-11.74556,82.24,108.6341"
+		"Vec3" "" "-21.09787,82.24,108.6341"
+		"Vec3" "" "-22.72,82.24,109.76"
+		"Vec3" "" "-32,82.24,109.76"
+		"Vec3" "" "-32,82.24,114.56"
+		"Vec3" "" "-34.67296,82.24,114.7738"
+		"Vec3" "" "-48.798,82.24,113.8451"
+		"Vec3" "" "-46.623,82.24,91.16492"
+		"Vec3" "" "-46.1137,82.24,58.01724"
+		"Vec3" "" "-46.70542,82.24,38.58194"
+		"Vec3" "" "-35.55402,82.24,15.30135"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData 48af0472-6dfc-418e-a345-c8b01f9bb87d 21
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9839023,0,0.1787058"
+		"Vec3" "forward" "-0.1787058,0,-0.9839023"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData fb8c2d82-8a1b-4e1f-a512-45804c1616de 22
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9979072,0,-0.06465148"
+		"Vec3" "forward" "0.06465148,0,0.9979072"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData f86b1284-e16e-413b-bfbd-b9858215d4c0 23
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.8836095,0,-0.4682244"
+		"Vec3" "forward" "0.4682244,0,-0.8836095"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpawnLocationFinderShapeData c4b3d385-233d-4e50-b121-379a9ad81d26 24
+{
+	"TeamId" "Team" "Team2"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "1.648012,67.84,-9.437267"
+		"Vec3" "" "9.211164,67.84,-15.47596"
+		"Vec3" "" "11.52,67.84,-7.68"
+		"Vec3" "" "17.92,67.84,-15.36"
+		"Vec3" "" "19.2,67.84,-8.96"
+		"Vec3" "" "14.67548,67.84,34.40506"
+		"Vec3" "" "11.12879,67.84,54.08063"
+		"Vec3" "" "-3.84,67.84,48.64"
+		"Vec3" "" "-2.56,67.84,29.44"
+		"Vec3" "" "-23.04,67.84,28.16"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+VolumeVectorShapeData 3acda186-e462-4436-b6b1-dc62059d0016 25
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "-22.12034,82.24,36.16"
+		"Vec3" "" "-3.84,82.24,36.48"
+		"Vec3" "" "13.04905,82.24,36.48"
+		"Vec3" "" "13.03257,82.24,37.79939"
+		"Vec3" "" "23.36,82.24,37.76"
+		"Vec3" "" "23.36,82.24,32.96114"
+		"Vec3" "" "25.5944,82.24,31.10047"
+		"Vec3" "" "28.80495,82.24,30.63186"
+		"Vec3" "" "35.72698,82.24,34.82953"
+		"Vec3" "" "40.13722,82.24,38.24819"
+		"Vec3" "" "47.36,82.24,44.8"
+		"Vec3" "" "50.65345,82.24,57.96857"
+		"Vec3" "" "51.63255,82.24,110.8565"
+		"Vec3" "" "48.44781,82.24,118.4302"
+		"Vec3" "" "48.7005,82.24,145.8475"
+		"Vec3" "" "48.32,82.24,152.32"
+		"Vec3" "" "44.16,82.24,158.08"
+		"Vec3" "" "44.16,82.24,161.6"
+		"Vec3" "" "37.26712,82.24,168.5017"
+		"Vec3" "" "33.92,82.24,168.32"
+		"Vec3" "" "33.92,82.24,173.76"
+		"Vec3" "" "17.6,82.24,186.24"
+		"Vec3" "" "8.64,82.24,186.24"
+		"Vec3" "" "4.55117,82.24,170.56"
+		"Vec3" "" "4.55117,82.24,161.3615"
+		"Vec3" "" "-25.62559,82.24,161.3615"
+		"Vec3" "" "-31.68,82.24,155.84"
+		"Vec3" "" "-31.68,82.24,152"
+		"Vec3" "" "-36.48,82.24,149.76"
+		"Vec3" "" "-41.6,82.24,146.56"
+		"Vec3" "" "-46.72,82.24,141.44"
+		"Vec3" "" "-48.96,82.24,134.08"
+		"Vec3" "" "-48.96,82.24,123.84"
+		"Vec3" "" "-48.798,82.24,113.8451"
+		"Vec3" "" "-46.623,82.24,91.16492"
+		"Vec3" "" "-46.1137,82.24,57.69724"
+		"Vec3" "" "-46.70542,82.24,38.58194"
+		"Vec3" "" "-39.68,82.24,35.84"
+		"Vec3" "" "-33.28,82.24,35.84"
+		"Vec3" "" "-25.92,82.24,33.6"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData 543a798d-fc7f-4809-994b-fd55f1d73232 26
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9594556,0,0.2818594"
+		"Vec3" "forward" "-0.2818594,0,-0.9594556"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 09fc1491-acc6-49ce-b380-bcedb8fc40c8 27
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,0,-1"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,1,0"
+	}
+	"PointerRef" "Blueprint" "external : dd855fb1-9f75-11e7-bb71-c98fa0ce3c53,1f8de943-895e-eddb-eaf7-f0ce7eab90bc"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "435950737"
+}
+
+AlternateSpawnEntityData 3af38391-b97c-4247-a1ee-ac59584fe321 28
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9101089,0,0.4143682"
+		"Vec3" "forward" "-0.4143682,0,-0.9101089"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 25961294-62c6-4768-873b-26a18c6e4708 29
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9445673,0,0.3283172"
+		"Vec3" "forward" "-0.3283172,0,-0.9445673"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 348adc95-4213-43b6-9456-a6581c0987b9 30
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9574924,0,0.288458"
+		"Vec3" "forward" "-0.288458,0,-0.9574924"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 60554298-5197-42dc-bf53-5b8f3c5e982b 31
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.8606287,0,0.5092329"
+		"Vec3" "forward" "-0.5092329,0,-0.8606287"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+ObjectReferenceObjectData 45b36598-3991-48f7-953a-dbf2a60e0384 32
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.02073547,0,0.999785"
+		"Vec3" "forward" "-0.999785,0,0.02073547"
+	}
+	"PointerRef" "Blueprint" "external : dc3dc627-695a-4614-a757-d5e2e928eb56,4e9020f3-8371-48bf-a1d6-0f8b99a37900"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "28534168"
+}
+
+SpatialPrefabReferenceObjectData edb57e9a-18e9-48ab-bc89-88834d6d8d9a 33
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 4e70753b-e34d-4dda-aaec-c2180b67006e,a66199e1-47f1-2f5c-30d3-a4747b3fef2d"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "2109046426"
+}
+
+AlternateSpawnEntityData a5e2029b-a3bf-4335-81c7-3edd8223cfd4 34
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9994451,0,0.03329435"
+		"Vec3" "forward" "-0.03329435,0,0.9994451"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocalLocatorEntityData 69b68d9d-fe54-4be3-aa6f-c5fed20e6950 35
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.002797089,0.9400916,-0.3409105"
+		"Vec3" "right" "0.9999195,0.001588123,0.0125835"
+		"Vec3" "forward" "-0.01237105,0.3409183,0.9400116"
+	}
+	"UInt32" "Flags" "129404317"
+}
+
+AlternateSpawnEntityData cba44d9e-b6b7-4e23-a59b-bf93d34fde65 36
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9294353,0,0.3689845"
+		"Vec3" "forward" "-0.3689845,0,-0.9294353"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 6171539e-d465-466e-9a1a-ef1dc91cb93d 37
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9983381,0,0.05762357"
+		"Vec3" "forward" "-0.05762357,0,-0.9983381"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData b3c4c9a0-a1a5-4d06-870c-1b978b5fe70b 38
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.8305263,0,-0.5569792"
+		"Vec3" "forward" "0.5569792,0,-0.8305263"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 276dc9a6-a0c8-4bae-b4d9-ffd69610196b 39
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9987987,0,0.04899537"
+		"Vec3" "forward" "-0.04899537,0,0.9987987"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 963125ad-f810-4a1a-b6b3-4d14b08e23f0 40
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9185778,0,0.3952385"
+		"Vec3" "forward" "-0.3952385,0,-0.9185778"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 28ad17af-bb02-474b-a6a7-e0e16b2de561 41
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9992328,0,0.03915491"
+		"Vec3" "forward" "-0.03915491,0,0.9992328"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 46ad72af-30b7-4e72-bc23-baa000e8e520 42
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9865813,0,0.1632719"
+		"Vec3" "forward" "-0.1632719,0,-0.9865813"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 4573a3b0-067e-4f1e-81c7-f7cee6747c50 43
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9998647,0,0.01643568"
+		"Vec3" "forward" "-0.01643568,0,0.9998647"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData a98013b2-8577-4e42-82e8-9d890cf6a566 44
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9993415,0,-0.03627723"
+		"Vec3" "forward" "0.03627723,0,0.9993415"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 68171fb2-cf62-463a-af43-a10bf71aaa73 45
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9052287,0,0.4249236"
+		"Vec3" "forward" "-0.4249236,0,-0.9052287"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 6a14a1b3-1e34-45ea-b0c6-ba961b2ca7e9 46
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9475884,0,0.3194932"
+		"Vec3" "forward" "-0.3194932,0,-0.9475884"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 96ea82be-89fe-4f20-a5de-d032b352dbdd 47
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9999744,0,0.007109463"
+		"Vec3" "forward" "-0.007109463,0,0.9999744"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 7c0430c0-fe43-48d5-b04e-c10c19250d36 48
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.997997,0,0.06326236"
+		"Vec3" "forward" "-0.06326236,0,0.997997"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData b58e47cc-4ccb-4151-aa0c-f7b2ac808bce 49
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.8427716,0,-0.5382714"
+		"Vec3" "forward" "0.5382714,0,0.8427716"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData dafce4ce-4599-489e-a229-e9ccba34ad01 50
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9528411,0,0.3034682"
+		"Vec3" "forward" "-0.3034682,0,-0.9528411"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocalLocatorEntityData 256b95d1-56a7-4779-9e8a-96ae42e13040 51
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.02431452,0.9506069,0.3094435"
+		"Vec3" "right" "-0.9940717,-0.009820323,0.1082771"
+		"Vec3" "forward" "-0.1059678,0.3102418,-0.9447326"
+	}
+	"UInt32" "Flags" "124491217"
+}
+
+AlternateSpawnEntityData 976dfed1-a61b-4fe3-8914-337af58567aa 52
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9993414,0,-0.03627723"
+		"Vec3" "forward" "0.03627723,0,0.9993414"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 63170ed6-1a91-4395-b39f-59872f87b9b9 53
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.956054,0,0.2931896"
+		"Vec3" "forward" "-0.2931896,0,-0.956054"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData f3ec77db-e30a-4875-9c1e-5afe8bef1b25 54
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9414341,0,0.3371966"
+		"Vec3" "forward" "-0.3371966,0,-0.9414341"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 69bcbadd-9733-464a-b372-f005e3bcb4ae 55
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "-9.313224E-10,0.9999997,-2.980232E-08"
+		"Vec3" "right" "-1.490116E-08,7.450579E-09,0.9999997"
+		"Vec3" "forward" "-0.9999999,-9.31322E-10,2.235174E-08"
+	}
+	"PointerRef" "Blueprint" "external : 673ddc69-c2ca-4e79-8abd-668bf169ca2d,60395e1a-0683-4f91-b606-900a8a85105e"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "163363549"
+}
+
+AlternateSpawnEntityData 9aba3fe3-96d9-4349-97d6-84e92a3f9ec0 56
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9790531,0,0.2036047"
+		"Vec3" "forward" "-0.2036047,0,0.9790531"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 514ce7e3-8ce7-422d-bc0b-d79ef6f6e1fc 57
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9619223,0,0.273323"
+		"Vec3" "forward" "-0.273323,0,-0.9619223"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 52d81de6-d5e8-45a7-8f1e-3a319d7ad90d 58
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9991768,0,-0.04056429"
+		"Vec3" "forward" "0.04056429,0,-0.9991768"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData b53486e7-4f60-4b50-8c85-a5e6f31c3b3a 59
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.7804552,0,-0.6252117"
+		"Vec3" "forward" "0.6252117,0,0.7804552"
+	}
+	"UInt32" "Flags" "20219623"
+}
+
+SpawnLocationFinderShapeData 73ae6ce9-da42-4b35-b678-e3ab49305faf 60
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "9.459094,64.86816,18.81887"
+		"Vec3" "" "-1.28,64.86816,17.6"
+		"Vec3" "" "-0.64,64.86816,26.24"
+		"Vec3" "" "8.96,64.86816,26.56"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 367982e9-affd-42c8-8bfa-911b5fb81f3e 61
+{
+	"TeamId" "Team" "Team2"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.8231174,0,-0.5678716"
+		"Vec3" "forward" "0.5678716,0,0.8231174"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+LocatorEntityData a2c970ea-0abd-4430-8d60-9f80a73c4f4a 62
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "13201642"
+}
+
+SpawnLocationFinderShapeData 731d1beb-36ab-4a94-a5a1-96305e725f2c 63
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "39.10221,82.74979,153.9119"
+		"Vec3" "" "-9.282536,82.74979,154.9748"
+		"Vec3" "" "-5.54892,82.74979,99.70084"
+		"Vec3" "" "35.75205,82.74979,101.1683"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData 2b5946f2-8443-4ddf-a95c-423321fa60bb 64
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.9546046,0,0.2978752"
+		"Vec3" "forward" "-0.2978752,0,-0.9546046"
+	}
+	"UInt32" "Flags" "369098752"
+}
+
+CameraEntityData 00000000-0000-0000-0000-000000000000 65
+{
+	"Single" "Fov" "0"
+	"Single" "NearPlane" "0"
+	"Single" "FarPlane" "0"
+	"PointerRef" "PhysicalCameraBody" "null"
+	"PointerRef" "PhysicalCameraLens" "null"
+	"PointerRef" "RenderTarget" "null"
+	"PointerRef" "TransitionDataPack" "null"
+	"CString" "NameId" ""
+	"Int32" "Priority" "1"
+	"LocalPlayerViewId" "ViewId" "LocalPlayerViewId_RootView"
+	"Int32" "ObjectLayersMask" "65535"
+	"Single" "FocalLength" "35"
+	"Single" "FocusDistance" "1000"
+	"Single" "ExposureCompensation" "0"
+	"Single" "Aperture" "8"
+	"Single" "ShutterSpeed" "50"
+	"ExposureMode" "ExposureMode" "ExposureMode_AutoExposure"
+	"Single" "EV" "0"
+	"Single" "ISO" "100"
+	"Single" "SpotMeterScale" "1"
+	"Single" "SpotMeterOffsetX" "0"
+	"Single" "SpotMeterOffsetY" "0"
+	"AutoExposureMethod" "AutoExposureMethod" "AutoExposureMethod_UseGlobalSetting"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.002794097,0.9400942,-0.3409053"
+		"Vec3" "right" "0.9999193,0.001588457,0.01257641"
+		"Vec3" "forward" "-0.01236418,0.3409136,0.9400158"
+	}
+	"UInt32" "Flags" "30327958"
+}
+
+CameraEntityData 00000000-0000-0000-0000-000000000000 66
+{
+	"Single" "Fov" "0"
+	"Single" "NearPlane" "0"
+	"Single" "FarPlane" "0"
+	"PointerRef" "PhysicalCameraBody" "null"
+	"PointerRef" "PhysicalCameraLens" "null"
+	"PointerRef" "RenderTarget" "null"
+	"PointerRef" "TransitionDataPack" "null"
+	"CString" "NameId" ""
+	"Int32" "Priority" "1"
+	"LocalPlayerViewId" "ViewId" "LocalPlayerViewId_RootView"
+	"Int32" "ObjectLayersMask" "65535"
+	"Single" "FocalLength" "35"
+	"Single" "FocusDistance" "1000"
+	"Single" "ExposureCompensation" "0"
+	"Single" "Aperture" "8"
+	"Single" "ShutterSpeed" "50"
+	"ExposureMode" "ExposureMode" "ExposureMode_AutoExposure"
+	"Single" "EV" "0"
+	"Single" "ISO" "100"
+	"Single" "SpotMeterScale" "1"
+	"Single" "SpotMeterOffsetX" "0"
+	"Single" "SpotMeterOffsetY" "0"
+	"AutoExposureMethod" "AutoExposureMethod" "AutoExposureMethod_UseGlobalSetting"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.02431513,0.9506013,0.3094504"
+		"Vec3" "right" "-0.9940726,-0.009818565,0.1082706"
+		"Vec3" "forward" "-0.1059605,0.3102501,-0.9447321"
+	}
+	"UInt32" "Flags" "33401854"
+}
+
+SpatialPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 67
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.0153534,0.999879,0.002595024"
+		"Vec3" "right" "-0.3486259,0.007785764,-0.9372296"
+		"Vec3" "forward" "0.9371362,-0.01348492,-0.348703"
+	}
+	"PointerRef" "Blueprint" "external : 770ae998-c5e6-19bd-65b7-44ff8dc8bde1,877f1227-035e-7a33-cd20-64ca73f5aa6b"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "19673598"
+}
+
+SpatialPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 68
+{
+	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0.2383741,0.9687045,0.06921294"
+		"Vec3" "right" "0.6621928,-0.1099899,-0.7412173"
+		"Vec3" "forward" "0.7104075,-0.2225192,0.6676877"
+	}
+	"PointerRef" "Blueprint" "external : 214e6157-a228-d0a5-20d9-f18715d5621c,ebf36ed4-b1cf-4a41-2e21-b1fcc8f25e41"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "24379583"
+}
+
+SpawnLocationWeightGiverEntityData 00000000-0000-0000-0000-000000000000 69
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Int32" "FriendlyWeight" "0"
+	"Int32" "EnemyWeight" "-1"
+	"Boolean" "Enabled" "False"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "7629508"
+}
+

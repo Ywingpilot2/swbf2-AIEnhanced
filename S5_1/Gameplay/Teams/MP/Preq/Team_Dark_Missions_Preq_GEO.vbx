@@ -1,0 +1,2118 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S5_1/Gameplay/Teams/MP/Preq/Team_Dark_Missions_Preq_GEO"
+	"type" "WSTeamData"
+	"fid" "cc823aeb-306f-4c04-9052-533ac0d574b5"
+	
+	Objects
+	{
+		"WSTeamData" "af2e25ac-2e2a-4910-8abb-f2f60d23a00b" "0"
+		"AbilityToCharacterMappingData" "5f4db202-139b-30b2-a9c2-fe527ad253d5" "1"
+		"AbilityToCharacterMappingData" "26cdfa02-b793-75a8-a65e-f2271761390a" "2"
+		"AbilityToCharacterMappingData" "db3f3a05-dfab-bc15-1973-32099f6fb41b" "3"
+		"AbilityToCharacterMappingData" "5d37e705-2101-0a4c-a69e-4892a6e33033" "4"
+		"EmoteToCharacterMappingData" "ca2beb05-fbd8-293e-155e-2184ed06c5d7" "5"
+		"CharacterIdCollection" "28d88106-563a-4015-bb2e-89db5a47d5cd" "6"
+		"EmoteToCharacterMappingData" "cb5f3908-bd4b-9c05-903a-80a7e3456180" "7"
+		"AbilityToCharacterMappingData" "fd456e0a-97c7-36a4-4b3a-d882b608e185" "8"
+		"CharacterClassIdCollection" "56dcc30a-4534-1e41-4435-f4597833583b" "9"
+		"AbilityToCharacterMappingData" "a4c79f0b-ccee-b301-f8e9-ca239dd750df" "10"
+		"AbilityToCharacterMappingData" "05d7280d-f9c7-2d78-34a1-9f3c69e26a47" "11"
+		"AbilityToCharacterMappingData" "5473fb0d-1bdc-b1d7-1696-2f985dbc701e" "12"
+		"AbilityToCharacterMappingData" "c75f160f-0895-6da9-b047-e55095df32c2" "13"
+		"AbilityToCharacterMappingData" "20708411-4fe1-5298-2e68-f367913a8137" "14"
+		"AbilityToCharacterMappingData" "7cd97413-cb53-6ca6-6772-f8969b468d73" "15"
+		"AbilityToCharacterMappingData" "3e85a513-1fb6-4081-8f56-0564dda37234" "16"
+		"AbilityToCharacterMappingData" "6745e613-2875-64f0-708b-09ee64152eea" "17"
+		"AbilityToCharacterMappingData" "8b9ca414-8f23-ccfe-bc48-8001da412c30" "18"
+		"AbilityToCharacterMappingData" "ebe5c515-8c0f-5c08-3342-41c966f08388" "19"
+		"AbilityToCharacterMappingData" "945b2a17-1f47-a6d5-9840-693bd816212f" "20"
+		"AbilityToCharacterMappingData" "97372419-6e5a-d2fb-9aa7-92bec97513ab" "21"
+		"AbilityToCharacterMappingData" "d5847119-8e5c-bd3f-2a85-83d887789c9f" "22"
+		"AbilityToCharacterMappingData" "9f28091a-c296-1c46-fb7d-1f43a457484d" "23"
+		"AbilityToCharacterMappingData" "7c57491b-9585-b837-7562-80a305145e94" "24"
+		"AbilityToCharacterMappingData" "0f15611b-57a6-37e9-3767-88b3246bf625" "25"
+		"AbilityToCharacterMappingData" "f83c1f20-470f-8d83-3f19-3e78a8715a95" "26"
+		"CharacterIdData" "948bcd20-349b-6eea-8caf-919c9f74dc6c" "27"
+		"AbilityToCharacterMappingData" "0d264421-2bde-ded1-b7ac-21edf2e341b8" "28"
+		"AbilityToCharacterMappingData" "fd2ffc22-669b-f57c-6b32-44db7490a73b" "29"
+		"AbilityToCharacterMappingData" "c1264723-0e19-321a-6048-d98c965e9ad4" "30"
+		"AbilityToCharacterMappingData" "7bf08523-2f11-b0fc-ac86-819f7621c6e6" "31"
+		"AbilityToCharacterMappingData" "f63df223-4bb2-adf7-57e9-3dcddca212f3" "32"
+		"CharacterIdData" "bb5a9f24-d075-938f-50e2-54ec327babff" "33"
+		"AbilityToCharacterMappingData" "725b5125-a333-f038-cc9b-a89d3ce0481e" "34"
+		"AbilityToCharacterMappingData" "430e7625-e424-effb-40b7-afc737cdd10a" "35"
+		"AbilityToCharacterMappingData" "25619025-7b00-7d94-5c3d-f6f3fca79eb0" "36"
+		"AbilityToCharacterMappingData" "9eb84e26-411f-de3f-9e2d-a10457a9db77" "37"
+		"AbilityToCharacterMappingData" "01f78e26-6f28-edee-242c-80117fdf530b" "38"
+		"EmoteToCharacterMappingData" "a89ea326-da05-5f99-a367-44b3e76fd126" "39"
+		"AbilityToCharacterMappingData" "1f602227-b2e4-0bcd-98a0-28d067e96cb8" "40"
+		"AbilityToCharacterMappingData" "b750a627-557e-b27c-e6bc-da33e621aded" "41"
+		"AbilityToCharacterMappingData" "e33bd629-b14b-384b-3ada-0b42eecde33b" "42"
+		"AbilityToCharacterMappingData" "0f389a2b-2eed-6cb4-c8d7-eaa74d4fc7f2" "43"
+		"AbilityToCharacterMappingData" "a39ee02c-a600-6baf-405c-579eb9e436bb" "44"
+		"AbilityToCharacterMappingData" "4afd522d-219d-5a2b-ab9a-24db2fdd1ba1" "45"
+		"AbilityToCharacterMappingData" "c2ddd72e-431b-7a72-cae7-13851aee541f" "46"
+		"AbilityToCharacterMappingData" "453f272f-8b76-54c0-896d-9ff846d35f8b" "47"
+		"AbilityToCharacterMappingData" "aea83d2f-1a62-fad5-9086-8bbcd90f0567" "48"
+		"EmoteToCharacterMappingData" "973d7930-1afa-ffed-9609-03f5dd10fff3" "49"
+		"EmoteToCharacterMappingData" "06623432-bd16-aa15-1e13-0c80ec36ddca" "50"
+		"AbilityToCharacterMappingData" "fda64932-e7da-ce58-c289-174c8e743885" "51"
+		"AbilityToCharacterMappingData" "d1715e32-02bb-8038-b9ee-37150f67a246" "52"
+		"AbilityToCharacterMappingData" "a020cd32-9778-9903-3df1-337bc46d4c98" "53"
+		"EmoteToCharacterMappingData" "adb26237-34af-4b71-b3ba-6d7c5f360cc1" "54"
+		"AbilityToCharacterMappingData" "532dee38-0710-9b5d-5943-f7a47c45128c" "55"
+		"AbilityToCharacterMappingData" "10b6033b-6a9f-6134-9b40-60c80dd2b88c" "56"
+		"AbilityToCharacterMappingData" "c746253b-4fd8-eeca-1ad7-d7e641fabd25" "57"
+		"CharacterClassIdData" "88b0443b-cd1d-009e-8003-7d0dda3bc32f" "58"
+		"CharacterClassIdCollection" "4afa033d-356f-4cd8-bedc-0f8a4f982388" "59"
+		"AbilityToCharacterMappingData" "e06d053e-223b-1b22-3de4-2fdb7be7c153" "60"
+		"EmoteToCharacterMappingData" "5599963e-ab5a-5afc-8c39-d2955c90ad2f" "61"
+		"EmoteToCharacterMappingData" "27870840-e83c-070d-c38d-5f506a57f82f" "62"
+		"AbilityToCharacterMappingData" "cfb3f740-25d9-d712-a777-3dea652950e6" "63"
+		"AbilityToCharacterMappingData" "c8339141-2613-38c3-a226-b92887dbd7c8" "64"
+		"AbilityToCharacterMappingData" "a949fd41-94b7-7ed3-f6c9-bb4bb739dfa1" "65"
+		"EmoteToCharacterMappingData" "d0acff42-52c1-6a88-dab4-0a0c6435b610" "66"
+		"AbilityToCharacterMappingData" "d5b1f643-f3c2-3f00-566a-7c4b55384f94" "67"
+		"CharacterClassIdCollection" "921bca44-2b6c-4d4d-9fd2-c043e6eff68e" "68"
+		"AbilityToCharacterMappingData" "6483f844-65f5-46ce-9b73-dc6cbd6d3ccd" "69"
+		"AbilityToCharacterMappingData" "bd61c545-965f-50a8-5261-6893f4805ccb" "70"
+		"AbilityToCharacterMappingData" "183cf345-9d85-cfa4-0af6-31094afb39a0" "71"
+		"AbilityToCharacterMappingData" "8276d846-10f1-0c13-11f8-f493ae9ba84e" "72"
+		"AbilityToCharacterMappingData" "7ebbe246-6c34-2538-1249-915f06eeed1b" "73"
+		"AbilityToCharacterMappingData" "f56a2f48-87aa-8472-a5bd-4a885fb7d0be" "74"
+		"CharacterIdData" "04a2f348-744f-d8c8-23fa-a99f10c4c117" "75"
+		"AbilityToCharacterMappingData" "9d7a004c-e574-0ce4-ad89-5b5c7cf1ac8b" "76"
+		"AbilityToCharacterMappingData" "8aa7b850-4dd5-0445-a3a1-a675f373c2a5" "77"
+		"AbilityToCharacterMappingData" "df36c852-3e85-6562-776b-83924a419317" "78"
+		"CharacterClassIdData" "8cc62c55-da88-a591-fec3-22c7e1d9f038" "79"
+		"AbilityToCharacterMappingData" "6fdd8355-e3d4-b7b5-6f05-e4222a715947" "80"
+		"AbilityToCharacterMappingData" "f1e6e555-47c8-edee-210f-52d2bf8179fd" "81"
+		"AbilityToCharacterMappingData" "d2ee1f56-6812-0733-c35e-8b62ef047411" "82"
+		"WSDroidCustomizationKitList" "41c50a57-6a84-4516-9056-e3a32d4250e6" "83"
+		"AbilityToCharacterMappingData" "0772c157-21f4-7eb6-c30e-d335bcbeefc6" "84"
+		"EmoteToCharacterMappingData" "e3182d58-4799-2b84-7490-0bdf396bc5ec" "85"
+		"AbilityToCharacterMappingData" "71017759-417f-4e78-ad66-649150eadbe5" "86"
+		"AbilityToCharacterMappingData" "7ed08f5b-171b-8903-569e-37baed226b28" "87"
+		"AbilityToCharacterMappingData" "8fbaea5b-a15c-6c12-a213-67a56f100e40" "88"
+		"AbilityToCharacterMappingData" "66a81d5c-2584-cc38-62fb-3aaa6a7ab911" "89"
+		"AbilityToCharacterMappingData" "12ffa95c-c60d-0ac4-60a9-9f1b864d4711" "90"
+		"AbilityToCharacterMappingData" "a3349d5e-ae96-7f8a-dbb4-39821221803e" "91"
+		"AbilityToCharacterMappingData" "a9ae9a5f-fd82-2a37-38fc-bb6fdb1d427e" "92"
+		"AbilityToCharacterMappingData" "3ca92b62-b425-679e-2ab8-92b51cfb187c" "93"
+		"AbilityToCharacterMappingData" "92e1b162-8b82-0ff4-754b-e8a97fba4255" "94"
+		"AbilityToCharacterMappingData" "2a3a0b63-a424-b202-395e-ef40d8a17a73" "95"
+		"AbilityToCharacterMappingData" "fa0f5463-2c74-6aa2-c4dc-1a1eed65ae49" "96"
+		"CharacterIdData" "c11aee63-a3c1-d093-722b-f5820c07e7fb" "97"
+		"AbilityToCharacterMappingData" "a0b9d364-2fe4-f37c-bffb-4368d922a767" "98"
+		"AbilityToCharacterMappingData" "123a5965-ebb1-2d30-4db7-90afeea4d8a4" "99"
+		"EmoteToCharacterMappingData" "5dce6b67-1723-b76f-c198-e1a4f6291209" "100"
+		"AbilityToCharacterMappingData" "ae61b267-48ff-41e1-98ff-c6d40ab94cdb" "101"
+		"CharacterIdData" "a8f05c69-d69b-6b97-7245-758a3488aa34" "102"
+		"AbilityToCharacterMappingData" "27596169-0c2f-0b9f-2fd1-1698f5b78e78" "103"
+		"CharacterClassIdCollection" "a5369b69-ac9d-44a3-89ec-181cb34a698d" "104"
+		"AbilityToCharacterMappingData" "672b8f6a-f53a-c5e9-84d3-04f6af3ecdd7" "105"
+		"AbilityToCharacterMappingData" "6a6c836d-3d85-a4e9-1738-1da92cace48b" "106"
+		"AbilityToCharacterMappingData" "3397bc6d-a66f-9743-447b-d282a2f89bdd" "107"
+		"CharacterClassIdCollection" "cb10e76d-581e-420f-a4cf-d051127396f5" "108"
+		"AbilityToCharacterMappingData" "88d08770-bce4-4a41-bc10-d1d8f2d6f191" "109"
+		"AbilityToCharacterMappingData" "33b8e770-ab92-ae76-f112-45838f004200" "110"
+		"AbilityToCharacterMappingData" "97cf4d73-4532-78e5-70f6-d5d3a26b6c36" "111"
+		"AbilityToCharacterMappingData" "ffe3fe73-b025-9b99-6e69-d3f66d083ae6" "112"
+		"CharacterIdData" "696c9f74-c31c-1ed8-9c35-8da0ecff0a05" "113"
+		"AbilityToCharacterMappingData" "858ed174-1bef-39b2-b360-f1f82be57c8a" "114"
+		"EmoteToCharacterMappingData" "2e515477-eaec-72fd-3eb9-4683e76cfffa" "115"
+		"AbilityToCharacterMappingData" "2efc2778-0649-edb0-73bd-3a8d99e53d05" "116"
+		"AbilityToCharacterMappingData" "93d94179-8dea-82d1-4693-4fc65d156fbe" "117"
+		"AbilityToCharacterMappingData" "9c179179-7dfc-12ad-c804-9112dbbf57dc" "118"
+		"EmoteToCharacterMappingData" "4979a57b-b8de-a28f-a412-6bec6ee33c5d" "119"
+		"EmoteToCharacterMappingData" "d5e7d57b-4144-78b7-131b-e136ae06047f" "120"
+		"AbilityToCharacterMappingData" "fe8a897f-554f-6aaa-0e88-d71c216076f7" "121"
+		"AbilityToCharacterMappingData" "598b3a82-abc5-d873-1ad3-6c1f13d51b05" "122"
+		"EmoteToCharacterMappingData" "e7ff7786-4aea-9300-e900-3ca3bb3194e0" "123"
+		"AbilityToCharacterMappingData" "fab46d88-4b65-9bd8-6df8-f7adafa8785d" "124"
+		"AbilityToCharacterMappingData" "f03e8b89-5ceb-7dde-1c81-678cb0ef2bbc" "125"
+		"AbilityToCharacterMappingData" "e63f198a-b035-b053-4e48-f0876d9906b8" "126"
+		"AbilityToCharacterMappingData" "affd9b8d-d8ad-9734-a619-abfc0f4e7cb9" "127"
+		"AbilityToCharacterMappingData" "e52d7090-ed7b-c0ea-5078-e7acdd52c8a3" "128"
+		"AbilityToCharacterMappingData" "5fd1da90-ccdb-d972-a254-84157fce9927" "129"
+		"AbilityToCharacterMappingData" "47760592-f5a3-d1ca-f010-9dcc04052f7c" "130"
+		"EmoteToCharacterMappingData" "22649392-0b3e-bd52-5658-fdb33fafb69e" "131"
+		"CharacterClassIdData" "818f6794-1b77-3520-3ef7-ef704ff9bd58" "132"
+		"AbilityToCharacterMappingData" "17b08a95-7fae-49cf-aac4-70df951641d7" "133"
+		"CharacterClassIdData" "f344e296-00fc-6e70-016f-7aeece2892e7" "134"
+		"EmoteToCharacterMappingData" "85ac4c97-bc1c-2bf7-a0e5-ed2e01f169b2" "135"
+		"EmoteToCharacterMappingData" "51176b98-b2fe-5db4-ae27-8afc84539960" "136"
+		"AbilityToCharacterMappingData" "fa057499-c76e-ad45-580d-33ff064294d9" "137"
+		"AbilityToCharacterMappingData" "79e48799-57e9-24c6-09b0-64f18104083e" "138"
+		"AbilityToCharacterMappingData" "2070ab9a-aa3d-20dd-db79-3b6d1d3fb6e3" "139"
+		"AbilityToCharacterMappingData" "b5c16f9c-72ce-1d31-6d52-942496f00a5d" "140"
+		"CharacterIdCollection" "11aba89d-09df-4ad9-8f8e-7af9d3bcd83b" "141"
+		"AbilityToCharacterMappingData" "78b1c79d-223a-7a86-bb98-eaab88fe5c5e" "142"
+		"AbilityToCharacterMappingData" "d92218a0-6d6a-bc6c-1004-46fc0f06c902" "143"
+		"EmoteToCharacterMappingData" "7a8f02a1-928b-9fa6-b871-2d56bff5cb95" "144"
+		"EmoteToCharacterMappingData" "5b3eeaa3-4270-8f42-5c30-e122bac197bc" "145"
+		"CharacterClassIdCollection" "72e453a4-17fa-4255-bf61-e664ed8f0a43" "146"
+		"AbilityToCharacterMappingData" "8e223ea5-0373-7729-3375-8098b72a2554" "147"
+		"AbilityToCharacterMappingData" "72eb3ea7-35df-a687-623e-57a2786eb4a0" "148"
+		"AbilityToCharacterMappingData" "0d7fb3a7-61b1-6c8e-5a0c-82b0f89e9913" "149"
+		"AbilityToCharacterMappingData" "48f9cbaa-2ca8-ade7-e527-767d59290fc5" "150"
+		"AbilityToCharacterMappingData" "033217ab-50aa-ee51-3ae1-c74ee8f2d741" "151"
+		"AbilityToCharacterMappingData" "977134ad-a536-5200-eb7d-8df54f964c0e" "152"
+		"WSSoldierCustomizationKitList" "034287ad-d744-4365-9691-754929a38abb" "153"
+		"AbilityToCharacterMappingData" "ad4b5faf-470d-5d94-c6cd-25737dbccdd4" "154"
+		"AbilityToCharacterMappingData" "146a35b0-7422-4ac6-8f85-ff00f30894b3" "155"
+		"EmoteToCharacterMappingData" "ee159db0-ef5c-a553-ae4d-c7b0f57779a8" "156"
+		"CharacterClassIdCollection" "facbcbb2-158a-4475-9829-cac799e12e04" "157"
+		"AbilityToCharacterMappingData" "4c8c60b3-f980-dc32-3fd2-1e9884d26b30" "158"
+		"AbilityToCharacterMappingData" "6e88d6b4-7972-1c07-41af-b291bbbf447d" "159"
+		"AbilityToCharacterMappingData" "0e0369b6-eddb-d7f6-dc94-8cfbe27cc26f" "160"
+		"AbilityToCharacterMappingData" "42ccafb7-8608-92aa-dfdb-25ce92b6aff4" "161"
+		"EmoteToCharacterMappingData" "5415e9b8-59be-859a-5989-848afeaed784" "162"
+		"AbilityToCharacterMappingData" "578509b9-9924-3aff-85ee-4d5d71a65ce2" "163"
+		"AbilityToCharacterMappingData" "6c871cb9-e6cc-b569-e75a-029159d40f1b" "164"
+		"AbilityToCharacterMappingData" "fb1237ba-5bd5-57e8-c8b0-4d42e57ea48a" "165"
+		"AbilityToCharacterMappingData" "4fda41ba-af90-2950-2c4e-2d69933d2816" "166"
+		"AbilityToCharacterMappingData" "ee00a8bb-1574-b872-4657-0bd0a60fc5de" "167"
+		"AbilityToCharacterMappingData" "6fe573bc-d3d2-1097-29f0-6f903c0b7073" "168"
+		"AbilityToCharacterMappingData" "1fc78dbc-0f46-2579-5ca9-1f12a27a0661" "169"
+		"AbilityToCharacterMappingData" "d2ea96bc-871c-c5db-5bbb-dab48b5c494a" "170"
+		"AbilityToCharacterMappingData" "b15c10be-41d4-4e49-bb04-a6567ae664e0" "171"
+		"AbilityToCharacterMappingData" "b19d2bbe-80a8-5f2b-d87a-2d39ff5ad988" "172"
+		"AbilityToCharacterMappingData" "842e1bbf-ca43-602b-0a87-b8d89c8758a4" "173"
+		"AbilityToCharacterMappingData" "823a23bf-fe27-6898-5b6a-ae1ebbbd2c28" "174"
+		"AbilityToCharacterMappingData" "cbd0afbf-a48c-9ced-54e9-a131d867dcd2" "175"
+		"WSSoldierCustomizationKitList" "ca6acfc2-d4c5-0c4f-bd99-e9016d1e22e8" "176"
+		"AbilityToCharacterMappingData" "73bc30c3-814e-bfac-23e7-55e18494d7c6" "177"
+		"AbilityToCharacterMappingData" "cdad6bc5-f285-66d1-c679-5779dc292c32" "178"
+		"AbilityToCharacterMappingData" "a8bd37c7-e808-f91e-331f-a2ba02efdcf0" "179"
+		"AbilityToCharacterMappingData" "9fa67aca-3199-7a97-d0e6-4e44c3ccdb67" "180"
+		"EmoteToCharacterMappingData" "877ad7cb-2577-1163-bce2-08aac051dd2f" "181"
+		"EmoteToCharacterMappingData" "c4a5becd-d254-94e0-058a-5a5cb688f965" "182"
+		"AbilityToCharacterMappingData" "cc02e0cf-b5e9-f365-5eae-68dc4f531101" "183"
+		"AbilityToCharacterMappingData" "44931ed2-1522-2c14-83ac-914532681e6a" "184"
+		"AbilityToCharacterMappingData" "418d53d2-395e-c2f9-8434-ac9a7d12396b" "185"
+		"AbilityToCharacterMappingData" "a18c98d3-d94c-3763-9bbe-490f7bc044dd" "186"
+		"CharacterClassIdData" "f4ac1ad4-b7a5-472d-3783-4267cdf1685c" "187"
+		"AbilityToCharacterMappingData" "b41fd6d4-34b6-35ef-c3ef-f1c48ff79530" "188"
+		"AbilityToCharacterMappingData" "f65897d5-1390-91c9-8a94-1ff0d869cc74" "189"
+		"AbilityToCharacterMappingData" "c5d916d6-e20d-fd01-182e-a365f74f9d42" "190"
+		"AbilityToCharacterMappingData" "81a252d6-1350-7b9e-22df-e74e9926b333" "191"
+		"CharacterClassIdData" "1615a8d6-49d8-81d0-22ff-7ae521a90f86" "192"
+		"AbilityToCharacterMappingData" "10bcddd6-bcca-0e9c-a39e-65138815ef97" "193"
+		"AbilityToCharacterMappingData" "4f6c76d7-df78-a436-c156-2aeab549ba4d" "194"
+		"AbilityToCharacterMappingData" "b4ea8ed8-5c92-4e0c-5719-fc888366ec58" "195"
+		"AbilityToCharacterMappingData" "4ccba8d8-af88-7e5a-6ecc-323dd237b737" "196"
+		"AbilityToCharacterMappingData" "019cb4d8-eae1-4363-9109-0cae1709049d" "197"
+		"CharacterIdCollection" "f7a18fd9-2d88-45a0-bdc2-653786cf1b11" "198"
+		"AbilityToCharacterMappingData" "6d681dda-124f-e13c-6fff-20076939a110" "199"
+		"EmoteToCharacterMappingData" "c024f6db-5cb4-a28d-865c-156e0261e45a" "200"
+		"CharacterIdData" "c7f4f9dc-8043-4cd8-3a90-a03a71488efc" "201"
+		"AbilityToCharacterMappingData" "e612fedd-4545-c5f5-d991-776a4a48ef51" "202"
+		"CharacterIdCollection" "ac9f05df-7a3f-4d41-95c3-b21cdd49f960" "203"
+		"AbilityToCharacterMappingData" "d37921e0-e8bb-876f-a5c2-2e2fb3c99dd2" "204"
+		"CharacterIdData" "6f3249e0-58b9-8964-67bf-a15e30b6d43b" "205"
+		"AbilityToCharacterMappingData" "3e9d8ee1-8164-8841-9099-5b5e2a118871" "206"
+		"AbilityToCharacterMappingData" "0c87a2e2-24bd-3547-77ab-63bce89a698f" "207"
+		"AbilityToCharacterMappingData" "ddf6cbe3-85c9-5657-d264-a9191616304b" "208"
+		"EmoteToCharacterMappingData" "bb04dce5-3526-e6a1-11cb-4421f8cabcbf" "209"
+		"AbilityToCharacterMappingData" "d9ffe0e6-3858-2e85-5169-bcfffafaabc0" "210"
+		"AbilityToCharacterMappingData" "1d19f7e6-9de6-b87f-6ef4-68497789e368" "211"
+		"AbilityToCharacterMappingData" "6f59bde7-bd63-88aa-c2f7-27b1a3d03807" "212"
+		"EmoteToCharacterMappingData" "1400fce8-968e-6ee4-b46c-fe722e730746" "213"
+		"AbilityToCharacterMappingData" "c1b302e9-82f4-45ec-62c0-36e25bf83b5e" "214"
+		"AbilityToCharacterMappingData" "6e8f97ea-76dc-6c22-3f1c-6a596467bd7c" "215"
+		"EmoteToCharacterMappingData" "0bae17eb-e9a1-6ccd-0e27-fa04efb4450f" "216"
+		"EmoteToCharacterMappingData" "18c050eb-8e39-14d9-fcb3-541e2902ceb7" "217"
+		"AbilityToCharacterMappingData" "c943aeeb-da36-97e3-6eb6-a49b73531f83" "218"
+		"AbilityToCharacterMappingData" "51c1b3eb-da8a-2983-82eb-8e94fa35299a" "219"
+		"CharacterIdCollection" "e5ae42ed-9dcc-4584-bf9c-b00e994effa2" "220"
+		"CharacterClassIdData" "4f5c9ded-f85b-65db-0ac1-8d4af0795e49" "221"
+		"AbilityToCharacterMappingData" "abdef6ed-e2f9-7b37-ecb9-d2f89a147731" "222"
+		"AbilityToCharacterMappingData" "ab859cf1-9578-ec63-0f1f-ee5a15c0b512" "223"
+		"EmoteToCharacterMappingData" "4aba29f3-9743-d741-8ea3-ec93d40b11e5" "224"
+		"AbilityToCharacterMappingData" "6895c3f4-7dd4-1e19-a464-83e6745fb19d" "225"
+		"AbilityToCharacterMappingData" "34a6e9f4-3baf-3527-9065-d00be6ad3f59" "226"
+		"AbilityToCharacterMappingData" "c9b35ef8-b2a6-cdd3-7d17-359ee9bf16fc" "227"
+		"AbilityToCharacterMappingData" "e340adfb-e330-ab35-eb0f-b13e9ded413f" "228"
+		"AbilityToCharacterMappingData" "d937dffd-ce91-ffef-6347-2b3a9b26a53e" "229"
+	}
+}
+
+WSTeamData af2e25ac-2e2a-4910-8abb-f2f60d23a00b 0
+{
+	"PointerRef" "WSFaction" "external : 859e193b-bb4b-4299-8dd7-3761114f322d,a8dcef1c-edc1-42e8-ae7a-82e60b935b60"
+	"PointerRef" "Soldiers" "internal : 034287ad-d744-4365-9691-754929a38abb,153"
+	"PointerRef" "AutoPlayerSoldiers" "internal : ca6acfc2-d4c5-0c4f-bd99-e9016d1e22e8,176"
+	"PointerRef" "Heroes" "null"
+	"PointerRef" "AutoPlayerHeroes" "null"
+	"PointerRef" "SpecialSoldiers" "external : b5ed783f-3c37-40f6-80ce-b624e33b584b,b5f97819-1dd9-4eb3-b156-e0c85d98ead3"
+	"PointerRef" "AutoPlayerSpecialSoldiers" "external : 10e1d91d-3f88-4a7f-8b57-add8126e9f20,7dd98667-4c4e-45f0-9893-da1bcac74091"
+	"PointerRef" "Vehicles" "null"
+	"PointerRef" "AutoPlayerVehicles" "null"
+	"PointerRef" "HeroVehicles" "null"
+	"PointerRef" "AutoPlayerHeroVehicles" "null"
+	"PointerRef" "Droids" "internal : 41c50a57-6a84-4516-9056-e3a32d4250e6,83"
+	"PointerRef" "SoldierIdCollection" "internal : f7a18fd9-2d88-45a0-bdc2-653786cf1b11,198"
+	"PointerRef" "HeroIdCollection" "internal : ac9f05df-7a3f-4d41-95c3-b21cdd49f960,203"
+	"PointerRef" "SpecialSoldiersIdCollection" "internal : e5ae42ed-9dcc-4584-bf9c-b00e994effa2,220"
+	"PointerRef" "VehicleIdCollection" "internal : 11aba89d-09df-4ad9-8f8e-7af9d3bcd83b,141"
+	"PointerRef" "HeroVehicleIdCollection" "internal : 28d88106-563a-4015-bb2e-89db5a47d5cd,6"
+	"PointerRef" "TrooperClassIdCollection" "internal : 72e453a4-17fa-4255-bf61-e664ed8f0a43,146"
+	"PointerRef" "SpecialClassIdCollection" "internal : 4afa033d-356f-4cd8-bedc-0f8a4f982388,59"
+	"PointerRef" "VehicleClassIdCollection" "internal : a5369b69-ac9d-44a3-89ec-181cb34a698d,104"
+	"PointerRef" "HeroClassIdCollection" "internal : 921bca44-2b6c-4d4d-9fd2-c043e6eff68e,68"
+	"PointerRef" "HeroVehicleClassIdCollection" "internal : 56dcc30a-4534-1e41-4435-f4597833583b,9"
+	"List" "AllPlayerAbilities"
+	{
+		"PointerRef" "" "external : b8c3ba04-18d8-4bd6-86a6-11e9a65e69e8,7ab06601-f907-4a91-b7e5-4f72f98bca07"
+		"PointerRef" "" "external : 8217ce9b-2c40-42f4-95cc-af55de81a69b,34ba9c9a-45b6-4cab-bbfa-336b37e3f233"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+		"PointerRef" "" "external : 3ac1c9a3-5e3c-4188-adf2-f99bd40ff56f,ae6d47bd-e78b-4fe9-96f3-c3d9f98aca91"
+		"PointerRef" "" "external : 5bf297ce-034b-4efa-a195-0c12e14ee65c,8be68c2e-48de-44f1-99ac-4506949c2974"
+		"PointerRef" "" "external : d7354558-5109-4a59-a51e-e187835db427,f3d552f5-d37a-43be-a540-27e5cd72b323"
+		"PointerRef" "" "external : 4b30be53-e08a-47d6-b9d9-0fc1b46f8c45,0d28e9eb-bd01-49b3-b3fc-d3bf1c61c5fa"
+		"PointerRef" "" "external : 54df2b7d-a335-4996-9f47-9a7733e30061,48dd0a12-a841-41a5-81d2-3cdfa13da84e"
+		"PointerRef" "" "external : 1efc3a47-4d83-11e6-937a-fc6f9d2e66c4,2a481b82-76e5-671a-83a9-d4eea05a1c82"
+		"PointerRef" "" "external : 4397736c-6589-4ee1-9b8f-ee6a3519e752,f773e22c-1764-4346-a598-562230ec7ff9"
+		"PointerRef" "" "external : bab0779b-a88a-4342-867b-f0e37e77f902,200ffb32-5a40-4120-8159-c4630c0de293"
+		"PointerRef" "" "external : d47dd92d-2b20-4342-ab71-a12940d1ccac,72998dea-117c-4529-9160-8ddeae7b094e"
+		"PointerRef" "" "external : 376ba0f8-c7fe-44df-b949-d061c88590da,c9c2a254-d5ac-4b30-9256-7c47bca40a6f"
+		"PointerRef" "" "external : f99cfe70-8cfc-4a63-a477-1eca65e4fdd4,9607be1f-0ba5-475f-bae2-560b8487968c"
+		"PointerRef" "" "external : bfe5a8d6-426b-4bff-ae00-0099d578309d,d2523bb1-c359-42a7-a389-d029640f85ee"
+		"PointerRef" "" "external : e2cc3659-4d82-11e6-937a-fc6f9d2e66c4,823a22e8-4d76-5443-392e-88b201ec4cea"
+		"PointerRef" "" "external : d92e6831-d03d-471f-bb94-c9a6bbabc3d1,b30ad6db-4dbf-44b9-8378-9b7527ec1ae7"
+		"PointerRef" "" "external : 3c17257b-0ef0-4fc6-8230-74f8ad43c72c,a59cebc9-6392-4091-8ca7-9cab215df0b1"
+		"PointerRef" "" "external : 3db2c510-b632-4208-8f5a-7aece7e72d1e,d8a5cdcd-a242-46ab-b145-4999bb2ad6fd"
+		"PointerRef" "" "external : 7554c4b5-3d0d-408f-95b7-1d9cb2fd792c,a2fbb6c3-16e2-45a2-9f15-0658cbc9732e"
+		"PointerRef" "" "external : 2f11302c-7557-4436-8aa6-26f99daeb64a,5d96f852-dba2-43b4-b371-8f2bc492cb00"
+		"PointerRef" "" "external : a5c1d42b-0038-4655-8da2-b421eb84ae74,df758cac-2d91-4ebd-8ff6-9dbff055f7aa"
+		"PointerRef" "" "external : 2cfc06b7-ebfc-407d-82d2-7b10534d9714,d271ffea-7717-4f93-a4d0-8b235c1d5c16"
+		"PointerRef" "" "external : af12be68-13a4-4edf-97b8-fb5946831cf0,ff192baf-f62e-41a2-9845-5167f8993ca1"
+		"PointerRef" "" "external : 9f10fcf7-f093-44aa-aea4-a215c8795264,d573f677-120e-4e3f-a2c7-210e7f6cd137"
+		"PointerRef" "" "external : d62728fe-b94c-4d40-8bea-bfb67112536b,cdd4515d-29f2-409d-8cd6-cdf0ed6b2a6a"
+		"PointerRef" "" "external : 65bac81c-ad92-4577-98a2-dcc3759dc9f2,d064986e-85dd-4cbf-b7db-3a2ec44ba2e7"
+		"PointerRef" "" "external : 0c91afbd-9125-4419-9d1e-4d7d17f3f56c,5c631ba8-ab46-4e02-9de1-c3b0a5066f8f"
+		"PointerRef" "" "external : 02659ef8-638b-47b4-8931-cfa6a5e2dda9,e8cbff1b-9be6-4d59-b860-7a92bd8600e8"
+		"PointerRef" "" "external : 4d65dfc2-780c-48b7-ba28-87d3038579f5,5bd17bde-bb56-4612-a1e7-247096af5d84"
+		"PointerRef" "" "external : e3a18541-cd61-44ce-9600-f873657d94a1,35a507e1-1d6e-4e49-8a43-71f146c9e610"
+		"PointerRef" "" "external : c8135384-9401-47db-b7d8-51f01fd90bc9,ded56edf-283c-4ba6-ae22-851803d97917"
+		"PointerRef" "" "external : 21bea2ff-494b-49a0-916d-68988a5f5e30,fbf74272-2035-4644-9920-0b10e6adbbf5"
+		"PointerRef" "" "external : 14e7e601-6a7d-42af-8be5-04436f9c1874,50e844f6-a74d-4745-9b29-b37255380bed"
+		"PointerRef" "" "external : 07be2ec6-06e0-4df6-85f2-7df47c87a163,1cb12773-582a-40fe-8991-5b6a5a48fa2a"
+		"PointerRef" "" "external : 39b20403-cf81-4d2e-8ecf-0a8a8474d214,322182db-472d-4465-89e7-7e87276d0bbe"
+		"PointerRef" "" "external : 0d16b81a-93b5-45bc-a06f-ba058852c4c4,a8a2d2a8-beb3-46f4-a748-4d7125979663"
+		"PointerRef" "" "external : ef039af6-c444-4205-b65f-263c26b60db3,da356c7a-1315-4471-946a-6d7381b76ff9"
+		"PointerRef" "" "external : 28b33431-34d5-4bee-ac86-e55c150fc8ad,4e8cfb5a-e8bf-4c4e-8b10-2955ccc96f53"
+		"PointerRef" "" "external : c4cfa297-146e-456f-bdc7-2933f5af3211,8a85fab5-ac96-4cad-8386-8f588e9c4e6d"
+		"PointerRef" "" "external : 123d786c-5c9b-416e-ad07-551876622c62,e8b198ab-56ec-4d89-8025-02c37c4e277f"
+		"PointerRef" "" "external : 9af80205-ad21-4665-ae70-49f71901fd3a,7ab9f98a-a735-465f-9422-e1aba434dfd3"
+		"PointerRef" "" "external : 8ae1b2c4-8914-448b-a036-d4420b83021d,06f3dfe5-7c4a-4e44-aae8-d88311b3b207"
+		"PointerRef" "" "external : f1e8b710-4c27-4374-8420-2e1afb4bf2f6,ae711774-1d94-4da6-a815-94454ab09bf9"
+		"PointerRef" "" "external : a63a4df0-a5a1-11e6-98ba-cfe6e8237b3b,ba30eee5-4b21-566c-ab5f-d200db7bf9e9"
+		"PointerRef" "" "external : 1b6c3cec-9b25-4eae-9507-3425904e8945,d608d3d8-604d-4f88-93f9-fdeb54d0e3b0"
+		"PointerRef" "" "external : f6e000e8-8fef-4256-91d4-4125552fa864,507a3327-7e68-4a1d-a576-52572c1abcdf"
+		"PointerRef" "" "external : e66bf0f3-f67f-4db8-ab8f-bbfb17f80891,77873029-27b1-459e-a5d7-354776b18272"
+		"PointerRef" "" "external : a6f6c4e9-7e61-4b6e-b484-129a589c0d07,5fe61e5c-689d-4568-955c-843cbddbc56b"
+		"PointerRef" "" "external : 2500fd6a-60fe-4245-b370-01f116f55896,e77c5e17-b90e-40ab-b063-c7c3974c468c"
+		"PointerRef" "" "external : e292326d-b558-48a9-bf3c-95150ab51ec1,85f6fc4c-e580-4985-8e2c-a3af42a968c9"
+		"PointerRef" "" "external : b3de6ec0-e555-4e68-930f-6a6fbcafbe75,c36e6fae-1e02-471f-9452-f473ff13c37d"
+		"PointerRef" "" "external : b2c09bf5-ba6b-4357-bc17-176935aee7fa,7f48c08c-b283-4b5d-a01b-a5c451839194"
+		"PointerRef" "" "external : 87d43022-e4f8-450e-87e2-4ab109019b37,ee1cfeae-44d8-4820-9e9f-fc313c661f10"
+		"PointerRef" "" "external : 8cc2f7e9-9878-4ba1-b4ed-ca4d64551651,79aace51-f35b-4b76-b970-8ea4382f0b8c"
+		"PointerRef" "" "external : a1e7ea90-110b-4aaa-bd76-8a91d7d1b59c,bcf32516-0dc5-4cd9-bd1d-5c35b9593594"
+		"PointerRef" "" "external : 8a905e8a-4544-4025-b4d9-2d21ebc73b3f,9662a38c-7fec-4aea-84a6-3cb1f422e4b1"
+		"PointerRef" "" "external : cf284ceb-6987-4f9d-a66e-61a5ab471cec,d330ec0d-f398-410e-89af-48dcefb592fc"
+		"PointerRef" "" "external : b051d276-1745-4b94-9569-deccc0c378f6,60bc90be-cc5e-4f23-aa06-8ad1152676a5"
+		"PointerRef" "" "external : 12151e23-4d9e-4a23-bc5f-17a219c11880,c524f2b1-97cf-4fc8-aa79-940c9104be7b"
+		"PointerRef" "" "external : 9d1d53fb-8a9e-4c93-98df-3aa050b0bfc4,92b02b8d-44b5-48b1-89b6-c100a725923a"
+		"PointerRef" "" "external : 9c4f00aa-c670-4508-bf77-303927928ff0,59091d9a-55c7-44e6-a6a5-2766374daf37"
+		"PointerRef" "" "external : 863632a6-d3a9-4f81-bffd-09bc239e0e3c,ff396483-7d9f-4e94-acd4-876823f9b038"
+		"PointerRef" "" "external : 8dc105e5-6400-47b9-8f8e-5a793241edc6,2a678743-7db8-4452-8941-e76a785219b0"
+		"PointerRef" "" "external : 54bd127a-8cc8-464a-830d-b7842ff88f39,4231fc0b-2dbb-4a6c-b80e-4dc1c3b1d6dd"
+		"PointerRef" "" "external : d7e79574-6456-4bee-8bea-87324958ee7d,56283ef0-66cb-4c2a-b6ca-774c8db26dec"
+		"PointerRef" "" "external : 8a6dbf17-93e4-4994-b07b-7356dccfc1a3,9179d231-f40c-4df1-a62a-c18d89f3cfd9"
+		"PointerRef" "" "external : 58225b9d-8ed2-4677-8e5e-3f95e4262f63,d1406c60-1cc5-48d3-8f4a-7ec5efcb2ee5"
+		"PointerRef" "" "external : 41af3181-4915-441c-aede-9bdbe8ee1995,98988b9e-59f3-499b-8cdc-c91d1348d45b"
+		"PointerRef" "" "external : 3dfb3455-385d-4382-9772-44935e391cc6,14cde83b-e832-4137-9b1f-43e413c84551"
+		"PointerRef" "" "external : 18489eb0-0fef-41b5-ac25-cd6f7e542946,d043e76d-bb8e-428c-b94d-323b18fcc46e"
+		"PointerRef" "" "external : c470ad98-a88e-498d-8db5-b10aaceb7db6,dfc0b665-65ad-4881-9edc-2d95067164ef"
+		"PointerRef" "" "external : 98feffa4-7810-49a5-8020-f7d414629e2a,7be466e3-aab1-458c-bb25-0cd0c7062e6e"
+		"PointerRef" "" "external : 9cd9b4a8-a06d-422c-a042-2caf7388043f,9a7bcda2-6656-44d7-8fd4-494ffcd53785"
+		"PointerRef" "" "external : b8f15905-3002-470a-bf5f-de0ccdf4d9c2,8147f7ea-86ae-4250-a5ab-443c5bb96ae4"
+		"PointerRef" "" "external : 61ce7499-9223-47c8-911a-1502c31663b9,1677b093-0bbd-49ed-b2cb-51a0f5dda177"
+		"PointerRef" "" "external : 4a9784d5-768e-11e6-acb2-f4d9a6ac4baf,bf2c9097-7f2f-70ee-ecf9-40f8bb25eb15"
+		"PointerRef" "" "external : 81276b3d-7a5d-4222-beb1-ec0da11fdb9e,1a7fc629-c04c-44dc-9d4f-540799824b37"
+		"PointerRef" "" "external : 0ca7f59a-bc1e-4910-851b-53e50255c365,38834a76-3cde-43bd-ae13-989fcb036531"
+		"PointerRef" "" "external : 94bd8a1c-c4b4-4b8c-9927-9028c54ca62f,6e6f5300-a4db-4eb7-8d81-d46aea7cff98"
+		"PointerRef" "" "external : 967e5caf-4502-4b2b-b449-17e1199983ec,2f6c9b3b-9679-4461-87db-2f829de87d2d"
+		"PointerRef" "" "external : de101efc-743c-4613-bf05-373dfaabe958,9663b778-0e00-4a75-9608-056f10d772b8"
+		"PointerRef" "" "external : 25b9f4b2-5f8b-4e9e-9809-7dd2ad7a8eb2,2f062b05-923d-4469-9fbb-783713bd30a0"
+		"PointerRef" "" "external : b4fbd962-0a26-42f6-be18-d2bc13ec5792,a83d0eff-47a3-410b-84bf-5027b0a1a305"
+		"PointerRef" "" "external : 142c9b71-6222-4fad-a273-55ad78fc4f33,8a0bec1b-d7b7-4d89-9fd2-eb95cd4bfb8e"
+		"PointerRef" "" "external : 27e4f17f-9715-4382-beb6-7c8c73cdac44,16513eca-dd16-48bb-97e0-14d4646b20a2"
+		"PointerRef" "" "external : 3dd85f06-536d-4bdb-8e01-014297b33939,036130ed-668a-49d1-9658-0281c04904fb"
+		"PointerRef" "" "external : 0804a03e-382a-4644-8108-e8cc9d4b4da2,e2dbaa1e-3eb8-41e9-bf63-a046b51b4e1a"
+		"PointerRef" "" "external : 63c2e1d1-20fd-4914-9968-d5712459be35,dacb44d1-eec0-4774-9a37-9d20c375888c"
+		"PointerRef" "" "external : 23b70920-8df9-454c-a3f6-1d148838cfda,88313bb6-e07b-4dd7-83b0-ae454a4cb98c"
+		"PointerRef" "" "external : 077485d4-94ad-4a4f-b9c4-bee7d3b3d5c7,e45aabec-34b9-45f7-8570-0ade3ea7ca60"
+		"PointerRef" "" "external : 0a4bd34b-e85e-4aa2-8288-1f31a91580e5,1006c14d-45a0-42ff-8e70-83479a005faa"
+		"PointerRef" "" "external : b11be09b-de21-4115-9512-ec19a14cad93,5b97252c-3961-4484-8298-e24c4338357c"
+		"PointerRef" "" "external : e6f96d10-a20e-4fdf-8956-0292ae2cb6ba,54c75409-063a-47be-b47d-7423c5c67270"
+		"PointerRef" "" "external : 22197d10-e9d2-4706-ab2d-fb12e08f331d,c3bddcac-54b5-46c6-af7a-688660609e83"
+		"PointerRef" "" "external : a072349f-d6d3-4ad9-a1b7-f2e1c2ec85fb,b0253f92-0c85-40f3-a3e9-bc530c72e562"
+		"PointerRef" "" "external : e7c814e4-97b0-40da-b7f2-32084f65b147,bf73e025-ec2a-4ef8-a5cd-39799b35886f"
+		"PointerRef" "" "external : 40574c68-d553-4f24-ac3a-e127178341cf,2e12e16f-e8f5-4f5c-8ffd-f3c1331d46a7"
+		"PointerRef" "" "external : 3dbf3fa6-9954-42b2-a2da-e4284fea17fd,14e236cf-9477-45a3-8953-97b92b808180"
+		"PointerRef" "" "external : a6222d3a-bdfa-429a-a168-44fac9955079,728bc06d-bfb2-42f9-a503-a431ffc7740d"
+		"PointerRef" "" "external : c46f672f-5539-4dfc-84e7-29d3b429fc8f,fd5429d1-e55b-45cd-85e5-654b2a9956f4"
+		"PointerRef" "" "external : bdb7b2b7-2e36-46b9-8467-a7b283d3f391,505de7d1-fbbe-4674-aa98-f64485276fbf"
+		"PointerRef" "" "external : 30bf7d7d-948b-4763-966f-e334b61b22aa,78916947-6bc5-4114-a101-4f39d3817f9a"
+		"PointerRef" "" "external : ea666ef9-b789-4fe3-aecf-c7db4895e6c0,968209f9-ce4f-4d17-af98-907a67827baf"
+		"PointerRef" "" "external : 5059395c-7a84-4f60-aac2-66fb18d43fc1,d78927ea-d93e-44ee-bbf7-13c5f7e1e984"
+		"PointerRef" "" "external : 6cfccdd9-1eed-496d-8cfb-7afc617d3089,38550fb2-c7e4-4d23-8898-b1a5cc309872"
+		"PointerRef" "" "external : 43c29bf7-32be-4cec-9818-2163c62c4f4c,a2e845f3-495d-401c-9b80-bda8b10b21a1"
+		"PointerRef" "" "external : a6b8aac5-64d5-4c60-8acd-c0042be1a650,da0129d6-cbdc-4015-bc9b-1f87077a8657"
+		"PointerRef" "" "external : a310b946-5f98-4d75-8c0c-f1f5031ab86d,dd20f1b7-55d1-4a9c-85eb-d4c16c5f9fcf"
+		"PointerRef" "" "external : 3eccee18-d89e-11e6-a874-d06f4d4999b7,4a188d87-e21e-e185-f50e-c1f05886fc51"
+		"PointerRef" "" "external : 23587b73-cbcb-4f18-ba01-aee453c1b316,365942bf-eabb-46b4-acb0-63f8dcd9b0cc"
+		"PointerRef" "" "external : 1dac801b-7fc6-4e4d-8c6d-ea7eb50c9b0f,6a7ea7da-45af-41e2-9935-bb10bccd432a"
+		"PointerRef" "" "external : 293158bd-cd56-458d-92a3-3d70aadbbc36,90343223-e0a6-4d0e-ac68-1028c0b5fe42"
+		"PointerRef" "" "external : eb3a83f6-b396-4bdf-9fe8-581c1c7ce2ef,724bfbda-dc60-447b-901f-2855b7488bee"
+		"PointerRef" "" "external : 13521094-bff5-4fd5-9580-747bf918fa4e,2ce0eb4e-5a87-4d99-99e7-be270074da3c"
+		"PointerRef" "" "external : 614482b6-4e88-4b21-9cbf-fd55d09fff14,552a393a-255e-481d-87fb-069ab0eb7469"
+		"PointerRef" "" "external : b55ddc28-5c85-47c0-96d2-b46641fbbddf,7d0e16de-803f-49ae-8cfb-231124a111c0"
+		"PointerRef" "" "external : 2b5a0225-f745-4df2-91f8-479e02998698,b9ef3027-fa22-4a86-aea5-377779cb5dd4"
+		"PointerRef" "" "external : eec2093a-13ed-4ce4-abc6-a6f67dd15c65,d2f4ddbc-f1a8-4f97-8483-3c3f7f692523"
+		"PointerRef" "" "external : 6f4fab27-06a5-49a7-ad98-a615767d1f54,4a83ad03-37e2-4f5a-acd0-f430147882fc"
+		"PointerRef" "" "external : 47942b6c-486d-4ac5-93f3-e9fd5a079172,6071a489-cc46-40c8-83dc-7258adfcbc43"
+		"PointerRef" "" "external : aa23f5f0-397d-436d-bda6-e38af4613a62,8482451c-ee88-4b14-abe5-4e8a438380a3"
+		"PointerRef" "" "external : f8301594-e175-4325-996d-5be6ce417641,8b1c1b44-6269-4293-8cd0-31eb45f03de9"
+		"PointerRef" "" "external : a4e2d64c-7d85-449d-a1ba-7bf53f4294c9,de8268d1-07d2-48a1-b176-ea39c166df70"
+		"PointerRef" "" "external : ad40586f-5153-4dfa-87aa-1e002d580eb3,73877a3e-1865-4510-a676-ff0ccf3fa790"
+		"PointerRef" "" "external : e46dfd23-9b3d-45b8-bd1a-c3eea9119468,5bf88db6-3195-4c06-92a5-57372683b0d3"
+		"PointerRef" "" "external : 0f6a1687-5fe0-41b9-9861-336d22add2e3,244dcbe5-5346-438a-aa55-10f1c76d3060"
+		"PointerRef" "" "external : f2ca2102-c610-4be7-8ce5-35b2700a637a,21e6d076-50b0-4202-8207-2c3c98eb0c52"
+		"PointerRef" "" "external : 5402180d-ed3f-4ae7-bd99-bbf4305549ab,f972b97a-6e80-444a-b0df-d3083188b1f9"
+		"PointerRef" "" "external : 9ccbc5d1-668f-4571-b34c-fd1ad1121b73,85b0b8af-60d9-4fa4-9d50-0d31ff4f7bca"
+		"PointerRef" "" "external : 751eb5bd-52fd-426a-aea9-753817a429ab,7d141f38-5544-46ec-beb4-2d6c9a80815f"
+		"PointerRef" "" "external : 4376d9c1-3b28-4b11-8c8f-1f53a08dc04b,ac8662a4-38e6-4412-b220-44bedac07ce4"
+		"PointerRef" "" "external : 3034fb3d-b192-40f5-991f-c7d6b878b030,9cd81586-b518-4188-9a18-a8827ac25ecc"
+		"PointerRef" "" "external : de9941c9-4fa5-41e8-9c32-cf84f07ab6e1,c4094d40-f0c3-4f15-9e97-ae1538fd3be6"
+		"PointerRef" "" "external : 58fb4c05-e02f-4a07-8fac-28bfbdec5799,e0330eb5-9bea-49d3-9f37-5ccc758fe2db"
+		"PointerRef" "" "external : fa4b7484-4f41-43a1-a657-101b4d6efcb2,cd2b2ffb-3ee9-4163-9d6f-b8b52d379792"
+		"PointerRef" "" "external : c06d8872-c9da-4a9f-99b2-20f8e72ce7da,3fa33e71-3729-4e28-911e-ab3b262014eb"
+		"PointerRef" "" "external : 69926eab-d401-49a8-935e-d26a6e4e8f7f,9186379e-ce5b-44de-9757-bc1de2898277"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : 49decc1d-061b-41f6-b419-c73a76a84fff,9d758153-eed1-41ec-8bd8-f9a1dd90b4f1"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 55296ce8-b9da-4340-9c5b-ccb698549e93,19134a98-c4e3-4a10-a97c-8ab4929be241"
+		"PointerRef" "" "external : 98d5ba95-9da4-4f4c-b132-30b0c003f424,200cfbc0-4524-4f2f-9d38-6087a8159b05"
+		"PointerRef" "" "external : 80fdc8b1-5f76-4b61-9dd9-bd9406d86097,3311f98a-ab82-4ff1-b244-32795cfd934b"
+		"PointerRef" "" "external : 2309a184-2845-422d-9bf2-d65640cfe412,6d9f82d8-efe8-4356-9ae7-4ffba1461ab9"
+		"PointerRef" "" "external : a71ec1ca-b53e-409c-a19b-f5c139b90d41,34c5fba9-89bc-45ff-b250-9becdcdb9c8c"
+		"PointerRef" "" "external : 3ecb1683-cf39-4059-97f8-aaab6cb85a16,accd12a7-1b47-4d13-810a-25ce3536f8c6"
+		"PointerRef" "" "external : fc5e01f9-d7db-41d7-987c-ef5962520667,d9d6ed5d-c378-4939-8696-7d253360732c"
+		"PointerRef" "" "external : fbca2359-5144-4dd7-b093-cef05a1aaf6b,c4ee2fc2-6611-4f0a-a0ab-0b9b5a209924"
+		"PointerRef" "" "external : c4362ab7-bc7c-4f75-8a10-adb793ed126d,92de1228-d96b-4b15-86b6-45dc463d0d7e"
+		"PointerRef" "" "external : 57afd97e-f61a-4cce-8187-824742c745ee,468423d7-4414-4ed2-8dd1-6632e4b07e64"
+		"PointerRef" "" "external : 2afac815-f12a-4893-b88b-dd65f53e5b0a,497af7c2-cc1b-6abd-5ce1-b91a7e301d0a"
+		"PointerRef" "" "external : a6d31654-8370-437f-8869-2a6b61f4b2f5,70f5b3de-2328-44f1-bbcc-9e53c1fec901"
+		"PointerRef" "" "external : a9b017b2-bb16-40f1-bbf2-c058bdd8072a,359bb87b-2380-407f-a849-f15b80419542"
+		"PointerRef" "" "external : dbd117c1-72d2-432e-8634-424e95a002ad,b99951fc-4eb9-45f5-b889-1acd6ea0e232"
+		"PointerRef" "" "external : c1189ef9-9201-43cf-bc24-385b3df43ba3,ce354ac2-06be-4a11-b4eb-6bf4b4d965bf"
+		"PointerRef" "" "external : c0a72962-c960-429c-97f0-b2983c80ab1f,826831db-6364-4a14-ba05-ea463909b996"
+		"PointerRef" "" "external : 860cea28-d0d9-4ee3-bfdc-bc9d6c8855b5,53beb68f-1054-443d-9081-ef2014c028a6"
+		"PointerRef" "" "external : 103ac80b-565b-4110-9f8b-8f600848a83c,a2c4f334-4e35-4a28-8126-69e02197a24c"
+		"PointerRef" "" "external : a62cf84f-0802-48a4-9ed0-4019cb21e927,f913fffb-6eb5-4c35-9ec6-2faf56c40755"
+		"PointerRef" "" "external : a6f98de8-234f-4766-9d2b-8e8927f47f3d,650e212a-c155-484d-89f1-a7207b2daa7e"
+		"PointerRef" "" "external : 3a0bed91-1844-4f37-bcc5-e375feb69ee2,25d8d1c5-d0fa-4203-ab28-b88d118874ef"
+		"PointerRef" "" "external : 4fe89c19-468e-43ce-89c3-1daebfabd81c,a3926317-1889-4e26-991b-7da59a398be2"
+		"PointerRef" "" "external : a7e5bfd7-2c12-46de-b306-743db2f399b9,32e0db8a-66a3-4de3-9e73-2dce92259895"
+		"PointerRef" "" "external : a8fd41ba-2d93-42ae-ae5b-fe6a6ebfa5ea,f3843712-757d-4742-9dfb-2daa267bc4cd"
+		"PointerRef" "" "external : 077147c9-172f-4246-b77d-6ff6e3001e1c,c1411400-02b2-4d17-b61f-aa8ee15383f7"
+		"PointerRef" "" "external : 65a31f32-da07-40e4-bc38-4b703ed24181,3d7e4549-af43-46f2-bb99-81bb5f242890"
+		"PointerRef" "" "external : b671b4b2-6258-46da-bf13-c3c1b8f9327a,5aae2ccf-cb57-3f93-0a52-101a37b31ff3"
+		"PointerRef" "" "external : 67a2ce60-4ad0-40d0-b46e-763710d1f0ce,fdf57301-9d6b-4f14-992f-0f1fe6a89282"
+		"PointerRef" "" "external : 1168fd54-40b6-4370-bcb3-9e392301e87b,f91df68f-125b-40a0-a299-236a6b6161d3"
+	}
+	"List" "AbilityToCharacterMapping"
+	{
+		"PointerRef" "" "internal : 977134ad-a536-5200-eb7d-8df54f964c0e,152"
+		"PointerRef" "" "internal : cc02e0cf-b5e9-f365-5eae-68dc4f531101,183"
+		"PointerRef" "" "internal : 6483f844-65f5-46ce-9b73-dc6cbd6d3ccd,69"
+		"PointerRef" "" "internal : 146a35b0-7422-4ac6-8f85-ff00f30894b3,155"
+		"PointerRef" "" "internal : 6f59bde7-bd63-88aa-c2f7-27b1a3d03807,212"
+		"PointerRef" "" "internal : 7cd97413-cb53-6ca6-6772-f8969b468d73,15"
+		"PointerRef" "" "internal : abdef6ed-e2f9-7b37-ecb9-d2f89a147731,222"
+		"PointerRef" "" "internal : 72eb3ea7-35df-a687-623e-57a2786eb4a0,148"
+		"PointerRef" "" "internal : 8276d846-10f1-0c13-11f8-f493ae9ba84e,72"
+		"PointerRef" "" "internal : cfb3f740-25d9-d712-a777-3dea652950e6,63"
+		"PointerRef" "" "internal : 01f78e26-6f28-edee-242c-80117fdf530b,38"
+		"PointerRef" "" "internal : 51c1b3eb-da8a-2983-82eb-8e94fa35299a,219"
+		"PointerRef" "" "internal : 9c179179-7dfc-12ad-c804-9112dbbf57dc,118"
+		"PointerRef" "" "internal : 9fa67aca-3199-7a97-d0e6-4e44c3ccdb67,180"
+		"PointerRef" "" "internal : 4fda41ba-af90-2950-2c4e-2d69933d2816,166"
+		"PointerRef" "" "internal : c1264723-0e19-321a-6048-d98c965e9ad4,30"
+		"PointerRef" "" "internal : 123a5965-ebb1-2d30-4db7-90afeea4d8a4,99"
+		"PointerRef" "" "internal : ffe3fe73-b025-9b99-6e69-d3f66d083ae6,112"
+		"PointerRef" "" "internal : 6fdd8355-e3d4-b7b5-6f05-e4222a715947,80"
+		"PointerRef" "" "internal : a39ee02c-a600-6baf-405c-579eb9e436bb,44"
+		"PointerRef" "" "internal : 5d37e705-2101-0a4c-a69e-4892a6e33033,4"
+		"PointerRef" "" "internal : f63df223-4bb2-adf7-57e9-3dcddca212f3,32"
+		"PointerRef" "" "internal : 05d7280d-f9c7-2d78-34a1-9f3c69e26a47,11"
+		"PointerRef" "" "internal : 6745e613-2875-64f0-708b-09ee64152eea,17"
+		"PointerRef" "" "internal : 725b5125-a333-f038-cc9b-a89d3ce0481e,34"
+		"PointerRef" "" "internal : c2ddd72e-431b-7a72-cae7-13851aee541f,46"
+		"PointerRef" "" "internal : 0772c157-21f4-7eb6-c30e-d335bcbeefc6,84"
+		"PointerRef" "" "internal : e52d7090-ed7b-c0ea-5078-e7acdd52c8a3,128"
+		"PointerRef" "" "internal : d2ea96bc-871c-c5db-5bbb-dab48b5c494a,170"
+		"PointerRef" "" "internal : a18c98d3-d94c-3763-9bbe-490f7bc044dd,186"
+		"PointerRef" "" "internal : 3ca92b62-b425-679e-2ab8-92b51cfb187c,93"
+		"PointerRef" "" "internal : fda64932-e7da-ce58-c289-174c8e743885,51"
+		"PointerRef" "" "internal : d9ffe0e6-3858-2e85-5169-bcfffafaabc0,210"
+		"PointerRef" "" "internal : 4f6c76d7-df78-a436-c156-2aeab549ba4d,194"
+		"PointerRef" "" "internal : 0d7fb3a7-61b1-6c8e-5a0c-82b0f89e9913,149"
+		"PointerRef" "" "internal : 81a252d6-1350-7b9e-22df-e74e9926b333,191"
+		"PointerRef" "" "internal : 183cf345-9d85-cfa4-0af6-31094afb39a0,71"
+		"PointerRef" "" "internal : 34a6e9f4-3baf-3527-9065-d00be6ad3f59,226"
+		"PointerRef" "" "internal : 6e88d6b4-7972-1c07-41af-b291bbbf447d,159"
+		"PointerRef" "" "internal : 97cf4d73-4532-78e5-70f6-d5d3a26b6c36,111"
+		"PointerRef" "" "internal : 6d681dda-124f-e13c-6fff-20076939a110,199"
+		"PointerRef" "" "internal : 93d94179-8dea-82d1-4693-4fc65d156fbe,117"
+		"PointerRef" "" "internal : 842e1bbf-ca43-602b-0a87-b8d89c8758a4,173"
+		"PointerRef" "" "internal : c1b302e9-82f4-45ec-62c0-36e25bf83b5e,214"
+		"PointerRef" "" "internal : 9d7a004c-e574-0ce4-ad89-5b5c7cf1ac8b,76"
+		"PointerRef" "" "internal : b19d2bbe-80a8-5f2b-d87a-2d39ff5ad988,172"
+		"PointerRef" "" "internal : d5b1f643-f3c2-3f00-566a-7c4b55384f94,67"
+		"PointerRef" "" "internal : 4afd522d-219d-5a2b-ab9a-24db2fdd1ba1,45"
+		"PointerRef" "" "internal : 42ccafb7-8608-92aa-dfdb-25ce92b6aff4,161"
+		"PointerRef" "" "internal : 6895c3f4-7dd4-1e19-a464-83e6745fb19d,225"
+		"PointerRef" "" "internal : 578509b9-9924-3aff-85ee-4d5d71a65ce2,163"
+		"PointerRef" "" "internal : d92218a0-6d6a-bc6c-1004-46fc0f06c902,143"
+		"PointerRef" "" "internal : 12ffa95c-c60d-0ac4-60a9-9f1b864d4711,90"
+		"PointerRef" "" "internal : 5fd1da90-ccdb-d972-a254-84157fce9927,129"
+		"PointerRef" "" "internal : 47760592-f5a3-d1ca-f010-9dcc04052f7c,130"
+		"PointerRef" "" "internal : 6e8f97ea-76dc-6c22-3f1c-6a596467bd7c,215"
+		"PointerRef" "" "internal : 44931ed2-1522-2c14-83ac-914532681e6a,184"
+		"PointerRef" "" "internal : c9b35ef8-b2a6-cdd3-7d17-359ee9bf16fc,227"
+		"PointerRef" "" "internal : 2efc2778-0649-edb0-73bd-3a8d99e53d05,116"
+		"PointerRef" "" "internal : 6c871cb9-e6cc-b569-e75a-029159d40f1b,164"
+		"PointerRef" "" "internal : b41fd6d4-34b6-35ef-c3ef-f1c48ff79530,188"
+		"PointerRef" "" "internal : 019cb4d8-eae1-4363-9109-0cae1709049d,197"
+		"PointerRef" "" "internal : 8b9ca414-8f23-ccfe-bc48-8001da412c30,18"
+		"PointerRef" "" "internal : f03e8b89-5ceb-7dde-1c81-678cb0ef2bbc,125"
+		"PointerRef" "" "internal : 8fbaea5b-a15c-6c12-a213-67a56f100e40,88"
+		"PointerRef" "" "internal : fb1237ba-5bd5-57e8-c8b0-4d42e57ea48a,165"
+		"PointerRef" "" "internal : 88d08770-bce4-4a41-bc10-d1d8f2d6f191,109"
+		"PointerRef" "" "internal : e63f198a-b035-b053-4e48-f0876d9906b8,126"
+		"PointerRef" "" "internal : 418d53d2-395e-c2f9-8434-ac9a7d12396b,185"
+		"PointerRef" "" "internal : ad4b5faf-470d-5d94-c6cd-25737dbccdd4,154"
+		"PointerRef" "" "internal : a8bd37c7-e808-f91e-331f-a2ba02efdcf0,179"
+		"PointerRef" "" "internal : a0b9d364-2fe4-f37c-bffb-4368d922a767,98"
+		"PointerRef" "" "internal : 17b08a95-7fae-49cf-aac4-70df951641d7,133"
+		"PointerRef" "" "internal : 3397bc6d-a66f-9743-447b-d282a2f89bdd,107"
+		"PointerRef" "" "internal : 945b2a17-1f47-a6d5-9840-693bd816212f,20"
+		"PointerRef" "" "internal : ae61b267-48ff-41e1-98ff-c6d40ab94cdb,101"
+		"PointerRef" "" "internal : 430e7625-e424-effb-40b7-afc737cdd10a,35"
+		"PointerRef" "" "internal : 27596169-0c2f-0b9f-2fd1-1698f5b78e78,103"
+		"PointerRef" "" "internal : b4ea8ed8-5c92-4e0c-5719-fc888366ec58,195"
+		"PointerRef" "" "internal : d5847119-8e5c-bd3f-2a85-83d887789c9f,22"
+		"PointerRef" "" "internal : 73bc30c3-814e-bfac-23e7-55e18494d7c6,177"
+		"PointerRef" "" "internal : ebe5c515-8c0f-5c08-3342-41c966f08388,19"
+		"PointerRef" "" "internal : 858ed174-1bef-39b2-b360-f1f82be57c8a,114"
+		"PointerRef" "" "internal : d1715e32-02bb-8038-b9ee-37150f67a246,52"
+		"PointerRef" "" "internal : a4c79f0b-ccee-b301-f8e9-ca239dd750df,10"
+		"PointerRef" "" "internal : 2a3a0b63-a424-b202-395e-ef40d8a17a73,95"
+		"PointerRef" "" "internal : 9eb84e26-411f-de3f-9e2d-a10457a9db77,37"
+		"PointerRef" "" "internal : f83c1f20-470f-8d83-3f19-3e78a8715a95,26"
+		"PointerRef" "" "internal : c746253b-4fd8-eeca-1ad7-d7e641fabd25,57"
+		"PointerRef" "" "internal : c943aeeb-da36-97e3-6eb6-a49b73531f83,218"
+		"PointerRef" "" "internal : f56a2f48-87aa-8472-a5bd-4a885fb7d0be,74"
+		"PointerRef" "" "internal : fab46d88-4b65-9bd8-6df8-f7adafa8785d,124"
+		"PointerRef" "" "internal : 5f4db202-139b-30b2-a9c2-fe527ad253d5,1"
+		"PointerRef" "" "internal : b5c16f9c-72ce-1d31-6d52-942496f00a5d,140"
+		"PointerRef" "" "internal : 532dee38-0710-9b5d-5943-f7a47c45128c,55"
+		"PointerRef" "" "internal : 10b6033b-6a9f-6134-9b40-60c80dd2b88c,56"
+		"PointerRef" "" "internal : c75f160f-0895-6da9-b047-e55095df32c2,13"
+		"PointerRef" "" "internal : 9f28091a-c296-1c46-fb7d-1f43a457484d,23"
+		"PointerRef" "" "internal : 1f602227-b2e4-0bcd-98a0-28d067e96cb8,40"
+		"PointerRef" "" "internal : 0d264421-2bde-ded1-b7ac-21edf2e341b8,28"
+		"PointerRef" "" "internal : fd456e0a-97c7-36a4-4b3a-d882b608e185,8"
+		"PointerRef" "" "internal : cdad6bc5-f285-66d1-c679-5779dc292c32,178"
+		"PointerRef" "" "internal : 25619025-7b00-7d94-5c3d-f6f3fca79eb0,36"
+		"PointerRef" "" "internal : a949fd41-94b7-7ed3-f6c9-bb4bb739dfa1,65"
+		"PointerRef" "" "internal : fe8a897f-554f-6aaa-0e88-d71c216076f7,121"
+		"PointerRef" "" "internal : 1d19f7e6-9de6-b87f-6ef4-68497789e368,211"
+		"PointerRef" "" "internal : 20708411-4fe1-5298-2e68-f367913a8137,14"
+		"PointerRef" "" "internal : 97372419-6e5a-d2fb-9aa7-92bec97513ab,21"
+		"PointerRef" "" "internal : 26cdfa02-b793-75a8-a65e-f2271761390a,2"
+		"PointerRef" "" "internal : fd2ffc22-669b-f57c-6b32-44db7490a73b,29"
+		"PointerRef" "" "internal : c5d916d6-e20d-fd01-182e-a365f74f9d42,190"
+		"PointerRef" "" "internal : bd61c545-965f-50a8-5261-6893f4805ccb,70"
+		"PointerRef" "" "internal : 7c57491b-9585-b837-7562-80a305145e94,24"
+		"PointerRef" "" "internal : ab859cf1-9578-ec63-0f1f-ee5a15c0b512,223"
+		"PointerRef" "" "internal : 6a6c836d-3d85-a4e9-1738-1da92cace48b,106"
+		"PointerRef" "" "internal : f1e6e555-47c8-edee-210f-52d2bf8179fd,81"
+		"PointerRef" "" "internal : a020cd32-9778-9903-3df1-337bc46d4c98,53"
+		"PointerRef" "" "internal : affd9b8d-d8ad-9734-a619-abfc0f4e7cb9,127"
+		"PointerRef" "" "internal : 4c8c60b3-f980-dc32-3fd2-1e9884d26b30,158"
+		"PointerRef" "" "internal : df36c852-3e85-6562-776b-83924a419317,78"
+		"PointerRef" "" "internal : ee00a8bb-1574-b872-4657-0bd0a60fc5de,167"
+		"PointerRef" "" "internal : 3e9d8ee1-8164-8841-9099-5b5e2a118871,206"
+		"PointerRef" "" "internal : 0c87a2e2-24bd-3547-77ab-63bce89a698f,207"
+		"PointerRef" "" "internal : 8aa7b850-4dd5-0445-a3a1-a675f373c2a5,77"
+		"PointerRef" "" "internal : a9ae9a5f-fd82-2a37-38fc-bb6fdb1d427e,92"
+		"PointerRef" "" "internal : e340adfb-e330-ab35-eb0f-b13e9ded413f,228"
+		"PointerRef" "" "internal : 66a81d5c-2584-cc38-62fb-3aaa6a7ab911,89"
+		"PointerRef" "" "internal : 71017759-417f-4e78-ad66-649150eadbe5,86"
+		"PointerRef" "" "internal : d37921e0-e8bb-876f-a5c2-2e2fb3c99dd2,204"
+		"PointerRef" "" "internal : 79e48799-57e9-24c6-09b0-64f18104083e,138"
+		"PointerRef" "" "internal : 598b3a82-abc5-d873-1ad3-6c1f13d51b05,122"
+		"PointerRef" "" "internal : 8e223ea5-0373-7729-3375-8098b72a2554,147"
+		"PointerRef" "" "internal : e33bd629-b14b-384b-3ada-0b42eecde33b,42"
+		"PointerRef" "" "internal : 823a23bf-fe27-6898-5b6a-ae1ebbbd2c28,174"
+		"PointerRef" "" "internal : 4ccba8d8-af88-7e5a-6ecc-323dd237b737,196"
+		"PointerRef" "" "internal : db3f3a05-dfab-bc15-1973-32099f6fb41b,3"
+		"PointerRef" "" "internal : 2070ab9a-aa3d-20dd-db79-3b6d1d3fb6e3,139"
+		"PointerRef" "" "internal : f65897d5-1390-91c9-8a94-1ff0d869cc74,189"
+		"PointerRef" "" "internal : 7ebbe246-6c34-2538-1249-915f06eeed1b,73"
+		"PointerRef" "" "internal : 5473fb0d-1bdc-b1d7-1696-2f985dbc701e,12"
+		"PointerRef" "" "internal : 33b8e770-ab92-ae76-f112-45838f004200,110"
+		"PointerRef" "" "internal : fa0f5463-2c74-6aa2-c4dc-1a1eed65ae49,96"
+		"PointerRef" "" "internal : 033217ab-50aa-ee51-3ae1-c74ee8f2d741,151"
+		"PointerRef" "" "internal : fa057499-c76e-ad45-580d-33ff064294d9,137"
+		"PointerRef" "" "internal : 78b1c79d-223a-7a86-bb98-eaab88fe5c5e,142"
+		"PointerRef" "" "internal : d2ee1f56-6812-0733-c35e-8b62ef047411,82"
+		"PointerRef" "" "internal : 3e85a513-1fb6-4081-8f56-0564dda37234,16"
+		"PointerRef" "" "internal : 0e0369b6-eddb-d7f6-dc94-8cfbe27cc26f,160"
+		"PointerRef" "" "internal : aea83d2f-1a62-fad5-9086-8bbcd90f0567,48"
+		"PointerRef" "" "internal : 7bf08523-2f11-b0fc-ac86-819f7621c6e6,31"
+		"PointerRef" "" "internal : 0f389a2b-2eed-6cb4-c8d7-eaa74d4fc7f2,43"
+		"PointerRef" "" "internal : c8339141-2613-38c3-a226-b92887dbd7c8,64"
+		"PointerRef" "" "internal : b15c10be-41d4-4e49-bb04-a6567ae664e0,171"
+		"PointerRef" "" "internal : 672b8f6a-f53a-c5e9-84d3-04f6af3ecdd7,105"
+		"PointerRef" "" "internal : e612fedd-4545-c5f5-d991-776a4a48ef51,202"
+		"PointerRef" "" "internal : 10bcddd6-bcca-0e9c-a39e-65138815ef97,193"
+		"PointerRef" "" "internal : cbd0afbf-a48c-9ced-54e9-a131d867dcd2,175"
+		"PointerRef" "" "internal : e06d053e-223b-1b22-3de4-2fdb7be7c153,60"
+		"PointerRef" "" "internal : 48f9cbaa-2ca8-ade7-e527-767d59290fc5,150"
+		"PointerRef" "" "internal : 92e1b162-8b82-0ff4-754b-e8a97fba4255,94"
+		"PointerRef" "" "internal : a3349d5e-ae96-7f8a-dbb4-39821221803e,91"
+		"PointerRef" "" "internal : 7ed08f5b-171b-8903-569e-37baed226b28,87"
+		"PointerRef" "" "internal : 0f15611b-57a6-37e9-3767-88b3246bf625,25"
+		"PointerRef" "" "internal : ddf6cbe3-85c9-5657-d264-a9191616304b,208"
+		"PointerRef" "" "internal : 1fc78dbc-0f46-2579-5ca9-1f12a27a0661,169"
+		"PointerRef" "" "internal : 6fe573bc-d3d2-1097-29f0-6f903c0b7073,168"
+		"PointerRef" "" "internal : d937dffd-ce91-ffef-6347-2b3a9b26a53e,229"
+		"PointerRef" "" "internal : b750a627-557e-b27c-e6bc-da33e621aded,41"
+		"PointerRef" "" "internal : 453f272f-8b76-54c0-896d-9ff846d35f8b,47"
+	}
+	"List" "AllPlayerEmotes"
+	{
+		"PointerRef" "" "external : 7b16c701-9235-4378-9ce4-4cd18d39d563,6f810f4c-cd2a-43ee-8912-48dffb3e638d"
+		"PointerRef" "" "external : ec456203-d56d-4000-a283-acd171a53a82,2bda92d8-455a-4340-ad4a-94695cf6a8b8"
+		"PointerRef" "" "external : 1e5371c8-29a3-4bcb-916d-07325a66b487,89a14bc0-2f31-4af9-9edd-3412cfea0427"
+		"PointerRef" "" "external : c103c2e0-ad6a-4b0d-9615-71d3a3c7a2d7,36977fa6-b740-4713-bf33-5bcb1dea190a"
+		"PointerRef" "" "external : 4d866806-6e9d-46ae-9444-df89742551fc,ee26a02d-bf25-4bf8-90ef-207ce4d38340"
+		"PointerRef" "" "external : f86f4768-7712-4eff-b736-985d4205400c,5b11478d-8a3b-4c96-8066-9ba3a3dce595"
+		"PointerRef" "" "external : 10cbf2c4-c9b8-4c4d-a812-f5bd7aad8531,6d100904-4fe2-4837-a4b9-30432441faf9"
+		"PointerRef" "" "external : bdbcba57-083f-445c-b2c5-a54216d485a6,e2e6bde3-b200-4f4a-92a8-ca26971e9bd4"
+		"PointerRef" "" "external : be579f1b-ecd6-4e11-953b-996d5d7acced,8acf05f3-801b-48d4-829c-036f5566c680"
+		"PointerRef" "" "external : dec20e60-1b03-4f3f-b9f9-da0077fdd73a,ce507927-e8ca-4d47-921c-de019e305f0b"
+		"PointerRef" "" "external : e207101d-5f32-4aef-a371-90070929d67a,75e2328b-4629-4fc1-9830-67ab9bf53e62"
+		"PointerRef" "" "external : 097787ba-dbe6-47e6-89be-8e9de56d05f5,275c3427-688a-44a3-9da4-7bcbbc3b3ae8"
+		"PointerRef" "" "external : f3422a95-63ed-4ba6-bb91-b65e6e1394d3,082dc8c5-4b70-414f-8038-b9ab7f8565b8"
+		"PointerRef" "" "external : 73ef2475-5be1-4846-913f-a396dd48195c,043fbe67-d112-4c5c-a9ab-18489bce87a6"
+		"PointerRef" "" "external : f1668ec4-dda6-4045-8194-157a310dfbcc,e577daee-38bd-4ae9-a9d3-545598a5f283"
+		"PointerRef" "" "external : 9a7183e7-956f-42fc-b762-576c524caa36,28f35441-cf2a-4814-a462-f5ccbaaf4ef4"
+		"PointerRef" "" "external : 7f3f4cd4-21ff-44a0-9256-c8c492f00aa7,c3fdbce5-a741-4f42-bca0-0ec74fe78bb9"
+		"PointerRef" "" "external : edb702d1-3519-4600-bbb7-6d78065787d7,7ab06413-e4dc-4c17-80a9-546b139a3c6f"
+		"PointerRef" "" "external : e0d181db-f98a-45ba-af64-f7955e5db722,5d0fec7d-5082-4aae-af3e-38da0064ffde"
+		"PointerRef" "" "external : 6ee21e38-84ca-4148-9ee7-ca4e92990bfa,1130e73f-7236-4289-9e26-aaddf09bc150"
+		"PointerRef" "" "external : 5e4129c3-ee10-402b-aa8e-99deccd38c78,10a06a16-ebdd-4a00-a194-467c9b8506b6"
+		"PointerRef" "" "external : 10c428d5-4015-437a-bf3c-7cea92d26297,ed8a8231-478c-46c8-9de2-315752e9ba0f"
+		"PointerRef" "" "external : ae7ad02b-55b0-4f04-944c-cf19594d03c6,d7a1170b-87bf-4261-9235-d31368cef388"
+		"PointerRef" "" "external : 8f047ffd-68d9-4db4-b042-adb6816fb6bf,e6cefd05-230f-456d-868b-1a92ae412ce5"
+		"PointerRef" "" "external : bf5a9c36-fe45-4730-ba0b-990aeb18514f,b368b210-441b-408f-b8f8-ff8c5779c435"
+		"PointerRef" "" "external : 141ffdee-35ee-421c-aea6-176d8f79ea6b,595cb580-75ac-4544-983c-d0d947e363ed"
+		"PointerRef" "" "external : 0a92d0ae-2030-4246-8799-90482f33277e,e9fc673d-351f-43e2-b8b0-4e7db6d1ffdd"
+		"PointerRef" "" "external : 6a44622e-5d99-47da-8f1a-d4c0060429c0,ac7f51d1-9a08-4e73-a8a6-2f7a6c2a5f13"
+		"PointerRef" "" "external : 8804e176-2f39-4962-ae8e-f18a4498b2a2,9e6cd524-2e84-4db3-aad1-f1d5921bd197"
+		"PointerRef" "" "external : 2c19aee5-ab5f-4592-af4d-4e6da947c967,89b1161b-602c-44a2-9012-986d9a99f651"
+	}
+	"List" "EmoteToCharacterMapping"
+	{
+		"PointerRef" "" "internal : 5599963e-ab5a-5afc-8c39-d2955c90ad2f,61"
+		"PointerRef" "" "internal : 27870840-e83c-070d-c38d-5f506a57f82f,62"
+		"PointerRef" "" "internal : c4a5becd-d254-94e0-058a-5a5cb688f965,182"
+		"PointerRef" "" "internal : d5e7d57b-4144-78b7-131b-e136ae06047f,120"
+		"PointerRef" "" "internal : 2e515477-eaec-72fd-3eb9-4683e76cfffa,115"
+		"PointerRef" "" "internal : bb04dce5-3526-e6a1-11cb-4421f8cabcbf,209"
+		"PointerRef" "" "internal : 0bae17eb-e9a1-6ccd-0e27-fa04efb4450f,216"
+		"PointerRef" "" "internal : adb26237-34af-4b71-b3ba-6d7c5f360cc1,54"
+		"PointerRef" "" "internal : 973d7930-1afa-ffed-9609-03f5dd10fff3,49"
+		"PointerRef" "" "internal : ca2beb05-fbd8-293e-155e-2184ed06c5d7,5"
+		"PointerRef" "" "internal : d0acff42-52c1-6a88-dab4-0a0c6435b610,66"
+		"PointerRef" "" "internal : 51176b98-b2fe-5db4-ae27-8afc84539960,136"
+		"PointerRef" "" "internal : e7ff7786-4aea-9300-e900-3ca3bb3194e0,123"
+		"PointerRef" "" "internal : c024f6db-5cb4-a28d-865c-156e0261e45a,200"
+		"PointerRef" "" "internal : 5dce6b67-1723-b76f-c198-e1a4f6291209,100"
+		"PointerRef" "" "internal : 5b3eeaa3-4270-8f42-5c30-e122bac197bc,145"
+		"PointerRef" "" "internal : 1400fce8-968e-6ee4-b46c-fe722e730746,213"
+		"PointerRef" "" "internal : 4979a57b-b8de-a28f-a412-6bec6ee33c5d,119"
+		"PointerRef" "" "internal : 18c050eb-8e39-14d9-fcb3-541e2902ceb7,217"
+		"PointerRef" "" "internal : 7a8f02a1-928b-9fa6-b871-2d56bff5cb95,144"
+		"PointerRef" "" "internal : 22649392-0b3e-bd52-5658-fdb33fafb69e,131"
+		"PointerRef" "" "internal : 06623432-bd16-aa15-1e13-0c80ec36ddca,50"
+		"PointerRef" "" "internal : 4aba29f3-9743-d741-8ea3-ec93d40b11e5,224"
+		"PointerRef" "" "internal : cb5f3908-bd4b-9c05-903a-80a7e3456180,7"
+		"PointerRef" "" "internal : 5415e9b8-59be-859a-5989-848afeaed784,162"
+		"PointerRef" "" "internal : ee159db0-ef5c-a553-ae4d-c7b0f57779a8,156"
+		"PointerRef" "" "internal : a89ea326-da05-5f99-a367-44b3e76fd126,39"
+		"PointerRef" "" "internal : 877ad7cb-2577-1163-bce2-08aac051dd2f,181"
+		"PointerRef" "" "internal : e3182d58-4799-2b84-7490-0bdf396bc5ec,85"
+		"PointerRef" "" "internal : 85ac4c97-bc1c-2bf7-a0e5-ed2e01f169b2,135"
+	}
+	"List" "AllPlayerVoiceLines"
+	{
+	}
+	"List" "VoiceLineToCharacterMapping"
+	{
+	}
+	"UInt32" "WSPlanetId" "212635835"
+	"PointerRef" "Soldier" "null"
+	"List" "SoldierCustomization"
+	{
+	}
+	"List" "VehicleCustomization"
+	{
+	}
+	"FactionId" "Faction" "FactionRUS"
+	"CString" "Name" "S5_1/Gameplay/Teams/MP/Preq/Team_Dark_Missions_Preq_GEO"
+}
+
+AbilityToCharacterMappingData 5f4db202-139b-30b2-a9c2-fe527ad253d5 1
+{
+	"UInt32" "AbilityId" "2216247313"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 26cdfa02-b793-75a8-a65e-f2271761390a 2
+{
+	"UInt32" "AbilityId" "3576219965"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData db3f3a05-dfab-bc15-1973-32099f6fb41b 3
+{
+	"UInt32" "AbilityId" "3642608559"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 5d37e705-2101-0a4c-a69e-4892a6e33033 4
+{
+	"UInt32" "AbilityId" "1692227525"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData ca2beb05-fbd8-293e-155e-2184ed06c5d7 5
+{
+	"UInt32" "EmoteId" "2662680454"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterIdCollection 28d88106-563a-4015-bb2e-89db5a47d5cd 6
+{
+	"List" "Characters"
+	{
+	}
+}
+
+EmoteToCharacterMappingData cb5f3908-bd4b-9c05-903a-80a7e3456180 7
+{
+	"UInt32" "EmoteId" "4077767548"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData fd456e0a-97c7-36a4-4b3a-d882b608e185 8
+{
+	"UInt32" "AbilityId" "2960551794"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+CharacterClassIdCollection 56dcc30a-4534-1e41-4435-f4597833583b 9
+{
+	"List" "CharacterClasses"
+	{
+	}
+}
+
+AbilityToCharacterMappingData a4c79f0b-ccee-b301-f8e9-ca239dd750df 10
+{
+	"UInt32" "AbilityId" "1810825685"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 05d7280d-f9c7-2d78-34a1-9f3c69e26a47 11
+{
+	"UInt32" "AbilityId" "1728355184"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 5473fb0d-1bdc-b1d7-1696-2f985dbc701e 12
+{
+	"UInt32" "AbilityId" "2722498101"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData c75f160f-0895-6da9-b047-e55095df32c2 13
+{
+	"UInt32" "AbilityId" "2256032098"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 20708411-4fe1-5298-2e68-f367913a8137 14
+{
+	"UInt32" "AbilityId" "2568069131"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 7cd97413-cb53-6ca6-6772-f8969b468d73 15
+{
+	"UInt32" "AbilityId" "3350706083"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 3e85a513-1fb6-4081-8f56-0564dda37234 16
+{
+	"UInt32" "AbilityId" "3370479588"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData 6745e613-2875-64f0-708b-09ee64152eea 17
+{
+	"UInt32" "AbilityId" "1442458934"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 8b9ca414-8f23-ccfe-bc48-8001da412c30 18
+{
+	"UInt32" "AbilityId" "561158236"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData ebe5c515-8c0f-5c08-3342-41c966f08388 19
+{
+	"UInt32" "AbilityId" "1718341477"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 945b2a17-1f47-a6d5-9840-693bd816212f 20
+{
+	"UInt32" "AbilityId" "1627211730"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 97372419-6e5a-d2fb-9aa7-92bec97513ab 21
+{
+	"UInt32" "AbilityId" "761794896"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData d5847119-8e5c-bd3f-2a85-83d887789c9f 22
+{
+	"UInt32" "AbilityId" "2492512392"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 9f28091a-c296-1c46-fb7d-1f43a457484d 23
+{
+	"UInt32" "AbilityId" "3622493525"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 7c57491b-9585-b837-7562-80a305145e94 24
+{
+	"UInt32" "AbilityId" "7916410"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 0f15611b-57a6-37e9-3767-88b3246bf625 25
+{
+	"UInt32" "AbilityId" "45115411"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData f83c1f20-470f-8d83-3f19-3e78a8715a95 26
+{
+	"UInt32" "AbilityId" "1124329055"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterIdData 948bcd20-349b-6eea-8caf-919c9f74dc6c 27
+{
+	"UInt32" "CharacterId" "3584818048"
+	"UInt32" "CharacterClassId" "249780227"
+}
+
+AbilityToCharacterMappingData 0d264421-2bde-ded1-b7ac-21edf2e341b8 28
+{
+	"UInt32" "AbilityId" "451292249"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData fd2ffc22-669b-f57c-6b32-44db7490a73b 29
+{
+	"UInt32" "AbilityId" "2792334290"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData c1264723-0e19-321a-6048-d98c965e9ad4 30
+{
+	"UInt32" "AbilityId" "1503996142"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 7bf08523-2f11-b0fc-ac86-819f7621c6e6 31
+{
+	"UInt32" "AbilityId" "2637204992"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData f63df223-4bb2-adf7-57e9-3dcddca212f3 32
+{
+	"UInt32" "AbilityId" "1668879399"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterIdData bb5a9f24-d075-938f-50e2-54ec327babff 33
+{
+	"UInt32" "CharacterId" "3757561175"
+	"UInt32" "CharacterClassId" "969625474"
+}
+
+AbilityToCharacterMappingData 725b5125-a333-f038-cc9b-a89d3ce0481e 34
+{
+	"UInt32" "AbilityId" "2676124552"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 430e7625-e424-effb-40b7-afc737cdd10a 35
+{
+	"UInt32" "AbilityId" "1433058138"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 25619025-7b00-7d94-5c3d-f6f3fca79eb0 36
+{
+	"UInt32" "AbilityId" "868650477"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 9eb84e26-411f-de3f-9e2d-a10457a9db77 37
+{
+	"UInt32" "AbilityId" "3125692365"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 01f78e26-6f28-edee-242c-80117fdf530b 38
+{
+	"UInt32" "AbilityId" "3624537518"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData a89ea326-da05-5f99-a367-44b3e76fd126 39
+{
+	"UInt32" "EmoteId" "422448032"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 1f602227-b2e4-0bcd-98a0-28d067e96cb8 40
+{
+	"UInt32" "AbilityId" "2948997107"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData b750a627-557e-b27c-e6bc-da33e621aded 41
+{
+	"UInt32" "AbilityId" "3983928369"
+	"UInt32" "CharacterId" "3366605079"
+}
+
+AbilityToCharacterMappingData e33bd629-b14b-384b-3ada-0b42eecde33b 42
+{
+	"UInt32" "AbilityId" "1025122199"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 0f389a2b-2eed-6cb4-c8d7-eaa74d4fc7f2 43
+{
+	"UInt32" "AbilityId" "3575292000"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData a39ee02c-a600-6baf-405c-579eb9e436bb 44
+{
+	"UInt32" "AbilityId" "3056710594"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 4afd522d-219d-5a2b-ab9a-24db2fdd1ba1 45
+{
+	"UInt32" "AbilityId" "1845802927"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData c2ddd72e-431b-7a72-cae7-13851aee541f 46
+{
+	"UInt32" "AbilityId" "851643561"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 453f272f-8b76-54c0-896d-9ff846d35f8b 47
+{
+	"UInt32" "AbilityId" "2719438630"
+	"UInt32" "CharacterId" "3366605079"
+}
+
+AbilityToCharacterMappingData aea83d2f-1a62-fad5-9086-8bbcd90f0567 48
+{
+	"UInt32" "AbilityId" "3167686610"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+EmoteToCharacterMappingData 973d7930-1afa-ffed-9609-03f5dd10fff3 49
+{
+	"UInt32" "EmoteId" "3751851344"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 06623432-bd16-aa15-1e13-0c80ec36ddca 50
+{
+	"UInt32" "EmoteId" "3104954416"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData fda64932-e7da-ce58-c289-174c8e743885 51
+{
+	"UInt32" "AbilityId" "4203964993"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData d1715e32-02bb-8038-b9ee-37150f67a246 52
+{
+	"UInt32" "AbilityId" "3860146864"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData a020cd32-9778-9903-3df1-337bc46d4c98 53
+{
+	"UInt32" "AbilityId" "4049483848"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+EmoteToCharacterMappingData adb26237-34af-4b71-b3ba-6d7c5f360cc1 54
+{
+	"UInt32" "EmoteId" "3826660451"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 532dee38-0710-9b5d-5943-f7a47c45128c 55
+{
+	"UInt32" "AbilityId" "3307240951"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 10b6033b-6a9f-6134-9b40-60c80dd2b88c 56
+{
+	"UInt32" "AbilityId" "1734539845"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData c746253b-4fd8-eeca-1ad7-d7e641fabd25 57
+{
+	"UInt32" "AbilityId" "225384439"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterClassIdData 88b0443b-cd1d-009e-8003-7d0dda3bc32f 58
+{
+	"UInt32" "CharacterClassId" "249780227"
+}
+
+CharacterClassIdCollection 4afa033d-356f-4cd8-bedc-0f8a4f982388 59
+{
+	"List" "CharacterClasses"
+	{
+		"PointerRef" "" "internal : 88b0443b-cd1d-009e-8003-7d0dda3bc32f,58"
+		"PointerRef" "" "internal : f4ac1ad4-b7a5-472d-3783-4267cdf1685c,187"
+		"PointerRef" "" "internal : 4f5c9ded-f85b-65db-0ac1-8d4af0795e49,221"
+	}
+}
+
+AbilityToCharacterMappingData e06d053e-223b-1b22-3de4-2fdb7be7c153 60
+{
+	"UInt32" "AbilityId" "706542949"
+	"UInt32" "CharacterId" "808172395"
+}
+
+EmoteToCharacterMappingData 5599963e-ab5a-5afc-8c39-d2955c90ad2f 61
+{
+	"UInt32" "EmoteId" "4142595529"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 27870840-e83c-070d-c38d-5f506a57f82f 62
+{
+	"UInt32" "EmoteId" "4075711206"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData cfb3f740-25d9-d712-a777-3dea652950e6 63
+{
+	"UInt32" "AbilityId" "2789402506"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData c8339141-2613-38c3-a226-b92887dbd7c8 64
+{
+	"UInt32" "AbilityId" "2330945709"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData a949fd41-94b7-7ed3-f6c9-bb4bb739dfa1 65
+{
+	"UInt32" "AbilityId" "3054085021"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+EmoteToCharacterMappingData d0acff42-52c1-6a88-dab4-0a0c6435b610 66
+{
+	"UInt32" "EmoteId" "1027843992"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData d5b1f643-f3c2-3f00-566a-7c4b55384f94 67
+{
+	"UInt32" "AbilityId" "291683679"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+CharacterClassIdCollection 921bca44-2b6c-4d4d-9fd2-c043e6eff68e 68
+{
+	"List" "CharacterClasses"
+	{
+	}
+}
+
+AbilityToCharacterMappingData 6483f844-65f5-46ce-9b73-dc6cbd6d3ccd 69
+{
+	"UInt32" "AbilityId" "2794520075"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData bd61c545-965f-50a8-5261-6893f4805ccb 70
+{
+	"UInt32" "AbilityId" "2431789492"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 183cf345-9d85-cfa4-0af6-31094afb39a0 71
+{
+	"UInt32" "AbilityId" "71245370"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 8276d846-10f1-0c13-11f8-f493ae9ba84e 72
+{
+	"UInt32" "AbilityId" "575767357"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 7ebbe246-6c34-2538-1249-915f06eeed1b 73
+{
+	"UInt32" "AbilityId" "62851458"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData f56a2f48-87aa-8472-a5bd-4a885fb7d0be 74
+{
+	"UInt32" "AbilityId" "2964282142"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterIdData 04a2f348-744f-d8c8-23fa-a99f10c4c117 75
+{
+	"UInt32" "CharacterId" "808172395"
+	"UInt32" "CharacterClassId" "1023203649"
+}
+
+AbilityToCharacterMappingData 9d7a004c-e574-0ce4-ad89-5b5c7cf1ac8b 76
+{
+	"UInt32" "AbilityId" "2689155709"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 8aa7b850-4dd5-0445-a3a1-a675f373c2a5 77
+{
+	"UInt32" "AbilityId" "2454851336"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData df36c852-3e85-6562-776b-83924a419317 78
+{
+	"UInt32" "AbilityId" "2609277998"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+CharacterClassIdData 8cc62c55-da88-a591-fec3-22c7e1d9f038 79
+{
+	"UInt32" "CharacterClassId" "2150125963"
+}
+
+AbilityToCharacterMappingData 6fdd8355-e3d4-b7b5-6f05-e4222a715947 80
+{
+	"UInt32" "AbilityId" "3568791756"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData f1e6e555-47c8-edee-210f-52d2bf8179fd 81
+{
+	"UInt32" "AbilityId" "4214911261"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData d2ee1f56-6812-0733-c35e-8b62ef047411 82
+{
+	"UInt32" "AbilityId" "982924358"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+WSDroidCustomizationKitList 41c50a57-6a84-4516-9056-e3a32d4250e6 83
+{
+	"List" "Kits"
+	{
+	}
+	"CString" "Name" ""
+}
+
+AbilityToCharacterMappingData 0772c157-21f4-7eb6-c30e-d335bcbeefc6 84
+{
+	"UInt32" "AbilityId" "3678011673"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData e3182d58-4799-2b84-7490-0bdf396bc5ec 85
+{
+	"UInt32" "EmoteId" "3539990705"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 71017759-417f-4e78-ad66-649150eadbe5 86
+{
+	"UInt32" "AbilityId" "4283602256"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 7ed08f5b-171b-8903-569e-37baed226b28 87
+{
+	"UInt32" "AbilityId" "3332877897"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData 8fbaea5b-a15c-6c12-a213-67a56f100e40 88
+{
+	"UInt32" "AbilityId" "337027255"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 66a81d5c-2584-cc38-62fb-3aaa6a7ab911 89
+{
+	"UInt32" "AbilityId" "4268517917"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 12ffa95c-c60d-0ac4-60a9-9f1b864d4711 90
+{
+	"UInt32" "AbilityId" "3402036414"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData a3349d5e-ae96-7f8a-dbb4-39821221803e 91
+{
+	"UInt32" "AbilityId" "986943332"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData a9ae9a5f-fd82-2a37-38fc-bb6fdb1d427e 92
+{
+	"UInt32" "AbilityId" "3696708429"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 3ca92b62-b425-679e-2ab8-92b51cfb187c 93
+{
+	"UInt32" "AbilityId" "2933926665"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 92e1b162-8b82-0ff4-754b-e8a97fba4255 94
+{
+	"UInt32" "AbilityId" "597809438"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData 2a3a0b63-a424-b202-395e-ef40d8a17a73 95
+{
+	"UInt32" "AbilityId" "2151517730"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData fa0f5463-2c74-6aa2-c4dc-1a1eed65ae49 96
+{
+	"UInt32" "AbilityId" "3160438334"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+CharacterIdData c11aee63-a3c1-d093-722b-f5820c07e7fb 97
+{
+	"UInt32" "CharacterId" "3055704543"
+	"UInt32" "CharacterClassId" "2652097264"
+}
+
+AbilityToCharacterMappingData a0b9d364-2fe4-f37c-bffb-4368d922a767 98
+{
+	"UInt32" "AbilityId" "1482881248"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 123a5965-ebb1-2d30-4db7-90afeea4d8a4 99
+{
+	"UInt32" "AbilityId" "297603319"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 5dce6b67-1723-b76f-c198-e1a4f6291209 100
+{
+	"UInt32" "EmoteId" "1367126480"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData ae61b267-48ff-41e1-98ff-c6d40ab94cdb 101
+{
+	"UInt32" "AbilityId" "3844780840"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterIdData a8f05c69-d69b-6b97-7245-758a3488aa34 102
+{
+	"UInt32" "CharacterId" "4274546796"
+	"UInt32" "CharacterClassId" "177871711"
+}
+
+AbilityToCharacterMappingData 27596169-0c2f-0b9f-2fd1-1698f5b78e78 103
+{
+	"UInt32" "AbilityId" "1567665972"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterClassIdCollection a5369b69-ac9d-44a3-89ec-181cb34a698d 104
+{
+	"List" "CharacterClasses"
+	{
+	}
+}
+
+AbilityToCharacterMappingData 672b8f6a-f53a-c5e9-84d3-04f6af3ecdd7 105
+{
+	"UInt32" "AbilityId" "2805022687"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData 6a6c836d-3d85-a4e9-1738-1da92cace48b 106
+{
+	"UInt32" "AbilityId" "399185098"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 3397bc6d-a66f-9743-447b-d282a2f89bdd 107
+{
+	"UInt32" "AbilityId" "1493246213"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterClassIdCollection cb10e76d-581e-420f-a4cf-d051127396f5 108
+{
+	"List" "CharacterClasses"
+	{
+	}
+}
+
+AbilityToCharacterMappingData 88d08770-bce4-4a41-bc10-d1d8f2d6f191 109
+{
+	"UInt32" "AbilityId" "2826124950"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 33b8e770-ab92-ae76-f112-45838f004200 110
+{
+	"UInt32" "AbilityId" "1305577935"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 97cf4d73-4532-78e5-70f6-d5d3a26b6c36 111
+{
+	"UInt32" "AbilityId" "3052569938"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData ffe3fe73-b025-9b99-6e69-d3f66d083ae6 112
+{
+	"UInt32" "AbilityId" "1029427557"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterIdData 696c9f74-c31c-1ed8-9c35-8da0ecff0a05 113
+{
+	"UInt32" "CharacterId" "3366605079"
+	"UInt32" "CharacterClassId" "1023203649"
+}
+
+AbilityToCharacterMappingData 858ed174-1bef-39b2-b360-f1f82be57c8a 114
+{
+	"UInt32" "AbilityId" "2840564518"
+	"UInt32" "CharacterId" "985740665"
+}
+
+EmoteToCharacterMappingData 2e515477-eaec-72fd-3eb9-4683e76cfffa 115
+{
+	"UInt32" "EmoteId" "2785949880"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 2efc2778-0649-edb0-73bd-3a8d99e53d05 116
+{
+	"UInt32" "AbilityId" "1475551351"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 93d94179-8dea-82d1-4693-4fc65d156fbe 117
+{
+	"UInt32" "AbilityId" "1567252175"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 9c179179-7dfc-12ad-c804-9112dbbf57dc 118
+{
+	"UInt32" "AbilityId" "221503408"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 4979a57b-b8de-a28f-a412-6bec6ee33c5d 119
+{
+	"UInt32" "EmoteId" "2609789561"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData d5e7d57b-4144-78b7-131b-e136ae06047f 120
+{
+	"UInt32" "EmoteId" "2835069890"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData fe8a897f-554f-6aaa-0e88-d71c216076f7 121
+{
+	"UInt32" "AbilityId" "1048195339"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 598b3a82-abc5-d873-1ad3-6c1f13d51b05 122
+{
+	"UInt32" "AbilityId" "2997633895"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+EmoteToCharacterMappingData e7ff7786-4aea-9300-e900-3ca3bb3194e0 123
+{
+	"UInt32" "EmoteId" "974735310"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData fab46d88-4b65-9bd8-6df8-f7adafa8785d 124
+{
+	"UInt32" "AbilityId" "356304430"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData f03e8b89-5ceb-7dde-1c81-678cb0ef2bbc 125
+{
+	"UInt32" "AbilityId" "2360114672"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData e63f198a-b035-b053-4e48-f0876d9906b8 126
+{
+	"UInt32" "AbilityId" "604572464"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData affd9b8d-d8ad-9734-a619-abfc0f4e7cb9 127
+{
+	"UInt32" "AbilityId" "3318807338"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData e52d7090-ed7b-c0ea-5078-e7acdd52c8a3 128
+{
+	"UInt32" "AbilityId" "3382711210"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 5fd1da90-ccdb-d972-a254-84157fce9927 129
+{
+	"UInt32" "AbilityId" "4270198374"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 47760592-f5a3-d1ca-f010-9dcc04052f7c 130
+{
+	"UInt32" "AbilityId" "1064253833"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+EmoteToCharacterMappingData 22649392-0b3e-bd52-5658-fdb33fafb69e 131
+{
+	"UInt32" "EmoteId" "2732336600"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterClassIdData 818f6794-1b77-3520-3ef7-ef704ff9bd58 132
+{
+	"UInt32" "CharacterClassId" "177871711"
+}
+
+AbilityToCharacterMappingData 17b08a95-7fae-49cf-aac4-70df951641d7 133
+{
+	"UInt32" "AbilityId" "717026046"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterClassIdData f344e296-00fc-6e70-016f-7aeece2892e7 134
+{
+	"UInt32" "CharacterClassId" "969625474"
+}
+
+EmoteToCharacterMappingData 85ac4c97-bc1c-2bf7-a0e5-ed2e01f169b2 135
+{
+	"UInt32" "EmoteId" "2516468050"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 51176b98-b2fe-5db4-ae27-8afc84539960 136
+{
+	"UInt32" "EmoteId" "630713458"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData fa057499-c76e-ad45-580d-33ff064294d9 137
+{
+	"UInt32" "AbilityId" "1153513409"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData 79e48799-57e9-24c6-09b0-64f18104083e 138
+{
+	"UInt32" "AbilityId" "4282823045"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 2070ab9a-aa3d-20dd-db79-3b6d1d3fb6e3 139
+{
+	"UInt32" "AbilityId" "3863881882"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData b5c16f9c-72ce-1d31-6d52-942496f00a5d 140
+{
+	"UInt32" "AbilityId" "771333866"
+	"UInt32" "CharacterId" "985740665"
+}
+
+CharacterIdCollection 11aba89d-09df-4ad9-8f8e-7af9d3bcd83b 141
+{
+	"List" "Characters"
+	{
+	}
+}
+
+AbilityToCharacterMappingData 78b1c79d-223a-7a86-bb98-eaab88fe5c5e 142
+{
+	"UInt32" "AbilityId" "2106745409"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData d92218a0-6d6a-bc6c-1004-46fc0f06c902 143
+{
+	"UInt32" "AbilityId" "2150913216"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+EmoteToCharacterMappingData 7a8f02a1-928b-9fa6-b871-2d56bff5cb95 144
+{
+	"UInt32" "EmoteId" "3561107876"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 5b3eeaa3-4270-8f42-5c30-e122bac197bc 145
+{
+	"UInt32" "EmoteId" "2510561060"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterClassIdCollection 72e453a4-17fa-4255-bf61-e664ed8f0a43 146
+{
+	"List" "CharacterClasses"
+	{
+		"PointerRef" "" "internal : f344e296-00fc-6e70-016f-7aeece2892e7,134"
+		"PointerRef" "" "internal : 1615a8d6-49d8-81d0-22ff-7ae521a90f86,192"
+		"PointerRef" "" "internal : 8cc62c55-da88-a591-fec3-22c7e1d9f038,79"
+		"PointerRef" "" "internal : 818f6794-1b77-3520-3ef7-ef704ff9bd58,132"
+	}
+}
+
+AbilityToCharacterMappingData 8e223ea5-0373-7729-3375-8098b72a2554 147
+{
+	"UInt32" "AbilityId" "3425595462"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 72eb3ea7-35df-a687-623e-57a2786eb4a0 148
+{
+	"UInt32" "AbilityId" "2669137364"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 0d7fb3a7-61b1-6c8e-5a0c-82b0f89e9913 149
+{
+	"UInt32" "AbilityId" "3024178545"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 48f9cbaa-2ca8-ade7-e527-767d59290fc5 150
+{
+	"UInt32" "AbilityId" "4260474272"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData 033217ab-50aa-ee51-3ae1-c74ee8f2d741 151
+{
+	"UInt32" "AbilityId" "372055000"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData 977134ad-a536-5200-eb7d-8df54f964c0e 152
+{
+	"UInt32" "AbilityId" "3588831639"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+WSSoldierCustomizationKitList 034287ad-d744-4365-9691-754929a38abb 153
+{
+	"List" "Kits"
+	{
+		"PointerRef" "" "external : a379ec24-2ad9-4706-a015-5e407b8f8a32,5662038c-c616-4459-baf9-e78224bc712c"
+		"PointerRef" "" "external : ad117bdc-fcc9-4d47-8e1f-6660e9f36d2d,c99c5519-12a6-436c-add4-8beaae3e49cf"
+		"PointerRef" "" "external : fd9bf138-8594-44b0-90ef-dba1d2380119,62e7a577-4248-46a1-9fe9-a8ce9a2b6da2"
+		"PointerRef" "" "external : e34bb473-dfe7-48f7-9dc7-852c66890dc6,5c4a9212-620a-4eda-a96f-2d27c7e4e542"
+	}
+	"CString" "Name" ""
+}
+
+AbilityToCharacterMappingData ad4b5faf-470d-5d94-c6cd-25737dbccdd4 154
+{
+	"UInt32" "AbilityId" "743174944"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 146a35b0-7422-4ac6-8f85-ff00f30894b3 155
+{
+	"UInt32" "AbilityId" "1215812331"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData ee159db0-ef5c-a553-ae4d-c7b0f57779a8 156
+{
+	"UInt32" "EmoteId" "378962664"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterClassIdCollection facbcbb2-158a-4475-9829-cac799e12e04 157
+{
+	"List" "CharacterClasses"
+	{
+	}
+}
+
+AbilityToCharacterMappingData 4c8c60b3-f980-dc32-3fd2-1e9884d26b30 158
+{
+	"UInt32" "AbilityId" "345436654"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 6e88d6b4-7972-1c07-41af-b291bbbf447d 159
+{
+	"UInt32" "AbilityId" "709597932"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 0e0369b6-eddb-d7f6-dc94-8cfbe27cc26f 160
+{
+	"UInt32" "AbilityId" "1723433151"
+	"UInt32" "CharacterId" "2148737948"
+}
+
+AbilityToCharacterMappingData 42ccafb7-8608-92aa-dfdb-25ce92b6aff4 161
+{
+	"UInt32" "AbilityId" "3539219681"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+EmoteToCharacterMappingData 5415e9b8-59be-859a-5989-848afeaed784 162
+{
+	"UInt32" "EmoteId" "1480659360"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 578509b9-9924-3aff-85ee-4d5d71a65ce2 163
+{
+	"UInt32" "AbilityId" "1117701799"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 6c871cb9-e6cc-b569-e75a-029159d40f1b 164
+{
+	"UInt32" "AbilityId" "78181979"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData fb1237ba-5bd5-57e8-c8b0-4d42e57ea48a 165
+{
+	"UInt32" "AbilityId" "484419666"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 4fda41ba-af90-2950-2c4e-2d69933d2816 166
+{
+	"UInt32" "AbilityId" "121901839"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData ee00a8bb-1574-b872-4657-0bd0a60fc5de 167
+{
+	"UInt32" "AbilityId" "1132029295"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 6fe573bc-d3d2-1097-29f0-6f903c0b7073 168
+{
+	"UInt32" "AbilityId" "2101595461"
+	"UInt32" "CharacterId" "3366605079"
+}
+
+AbilityToCharacterMappingData 1fc78dbc-0f46-2579-5ca9-1f12a27a0661 169
+{
+	"UInt32" "AbilityId" "3129514373"
+	"UInt32" "CharacterId" "3366605079"
+}
+
+AbilityToCharacterMappingData d2ea96bc-871c-c5db-5bbb-dab48b5c494a 170
+{
+	"UInt32" "AbilityId" "3366912551"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData b15c10be-41d4-4e49-bb04-a6567ae664e0 171
+{
+	"UInt32" "AbilityId" "3193283672"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData b19d2bbe-80a8-5f2b-d87a-2d39ff5ad988 172
+{
+	"UInt32" "AbilityId" "2713865814"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 842e1bbf-ca43-602b-0a87-b8d89c8758a4 173
+{
+	"UInt32" "AbilityId" "806483488"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 823a23bf-fe27-6898-5b6a-ae1ebbbd2c28 174
+{
+	"UInt32" "AbilityId" "1791281183"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData cbd0afbf-a48c-9ced-54e9-a131d867dcd2 175
+{
+	"UInt32" "AbilityId" "3009047027"
+	"UInt32" "CharacterId" "808172395"
+}
+
+WSSoldierCustomizationKitList ca6acfc2-d4c5-0c4f-bd99-e9016d1e22e8 176
+{
+	"List" "Kits"
+	{
+		"PointerRef" "" "external : d9eb270f-f76f-4799-8bc0-0798e4b19177,2579dcb4-1a19-4e90-aa15-76cf90c19550"
+		"PointerRef" "" "external : d9eb270f-f76f-4799-8bc0-0798e4b19177,2579dcb4-1a19-4e90-aa15-76cf90c19550"
+		"PointerRef" "" "external : 5f41f742-10ed-46d3-98bd-3fe627f7f70b,59e2e6ec-5a99-4af6-bc91-09728345e5a0"
+		"PointerRef" "" "external : f37ddf71-0031-40cd-a156-f263dbbce22e,545f9a2b-740c-490a-abfd-c26a987caf83"
+		"PointerRef" "" "external : f37ddf71-0031-40cd-a156-f263dbbce22e,545f9a2b-740c-490a-abfd-c26a987caf83"
+		"PointerRef" "" "external : 5652a3b9-4466-41b9-9d73-afaeffbb1cf9,083eded0-20c3-4274-a1dc-0296913dc608"
+		"PointerRef" "" "external : 38199642-ee44-4264-859a-3ada6aa3fb9f,aa33d1a4-29ea-4cc6-b662-b6a049da37c7"
+		"PointerRef" "" "external : d968ef5b-48a2-4d9c-af7c-77f6c67c1867,0a35879f-06fa-48c2-9ae7-d7fc8ce03410"
+		"PointerRef" "" "external : ecc13d99-a8e4-4519-b1bc-27ead7621c90,770e4cf7-87da-4c08-a32d-e8bf1910abd6"
+		"PointerRef" "" "external : b9b3b222-e8bc-4ee3-9e90-5bbdb8ee3692,1a96eaa7-8645-4ccc-b606-fae81d53fcb7"
+		"PointerRef" "" "external : 1ca96d7e-886d-407f-85ef-97ec3b4a36c0,3a4d897b-bb45-4da1-bf2b-3f2b43e1ba2a"
+		"PointerRef" "" "external : 29f75c8f-2534-485f-a309-2ca6cdaba241,b574a034-f968-4a05-9899-5eafe1adb6b7"
+		"PointerRef" "" "external : 38199642-ee44-4264-859a-3ada6aa3fb9f,aa33d1a4-29ea-4cc6-b662-b6a049da37c7"
+	}
+	"CString" "Name" ""
+}
+
+AbilityToCharacterMappingData 73bc30c3-814e-bfac-23e7-55e18494d7c6 177
+{
+	"UInt32" "AbilityId" "1434397811"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData cdad6bc5-f285-66d1-c679-5779dc292c32 178
+{
+	"UInt32" "AbilityId" "1188351476"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData a8bd37c7-e808-f91e-331f-a2ba02efdcf0 179
+{
+	"UInt32" "AbilityId" "3459479976"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 9fa67aca-3199-7a97-d0e6-4e44c3ccdb67 180
+{
+	"UInt32" "AbilityId" "2632298617"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 877ad7cb-2577-1163-bce2-08aac051dd2f 181
+{
+	"UInt32" "EmoteId" "2530359577"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData c4a5becd-d254-94e0-058a-5a5cb688f965 182
+{
+	"UInt32" "EmoteId" "1536958357"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData cc02e0cf-b5e9-f365-5eae-68dc4f531101 183
+{
+	"UInt32" "AbilityId" "2179217815"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 44931ed2-1522-2c14-83ac-914532681e6a 184
+{
+	"UInt32" "AbilityId" "3653165616"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 418d53d2-395e-c2f9-8434-ac9a7d12396b 185
+{
+	"UInt32" "AbilityId" "1078739429"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData a18c98d3-d94c-3763-9bbe-490f7bc044dd 186
+{
+	"UInt32" "AbilityId" "1439765211"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterClassIdData f4ac1ad4-b7a5-472d-3783-4267cdf1685c 187
+{
+	"UInt32" "CharacterClassId" "641739279"
+}
+
+AbilityToCharacterMappingData b41fd6d4-34b6-35ef-c3ef-f1c48ff79530 188
+{
+	"UInt32" "AbilityId" "2153790338"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData f65897d5-1390-91c9-8a94-1ff0d869cc74 189
+{
+	"UInt32" "AbilityId" "1156568985"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData c5d916d6-e20d-fd01-182e-a365f74f9d42 190
+{
+	"UInt32" "AbilityId" "4198410698"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 81a252d6-1350-7b9e-22df-e74e9926b333 191
+{
+	"UInt32" "AbilityId" "1872752361"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterClassIdData 1615a8d6-49d8-81d0-22ff-7ae521a90f86 192
+{
+	"UInt32" "CharacterClassId" "2652097264"
+}
+
+AbilityToCharacterMappingData 10bcddd6-bcca-0e9c-a39e-65138815ef97 193
+{
+	"UInt32" "AbilityId" "2194032901"
+	"UInt32" "CharacterId" "808172395"
+}
+
+AbilityToCharacterMappingData 4f6c76d7-df78-a436-c156-2aeab549ba4d 194
+{
+	"UInt32" "AbilityId" "2092973049"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData b4ea8ed8-5c92-4e0c-5719-fc888366ec58 195
+{
+	"UInt32" "AbilityId" "698647930"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 4ccba8d8-af88-7e5a-6ecc-323dd237b737 196
+{
+	"UInt32" "AbilityId" "3317990732"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+AbilityToCharacterMappingData 019cb4d8-eae1-4363-9109-0cae1709049d 197
+{
+	"UInt32" "AbilityId" "3603932002"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+CharacterIdCollection f7a18fd9-2d88-45a0-bdc2-653786cf1b11 198
+{
+	"List" "Characters"
+	{
+		"PointerRef" "" "internal : bb5a9f24-d075-938f-50e2-54ec327babff,33"
+		"PointerRef" "" "internal : c11aee63-a3c1-d093-722b-f5820c07e7fb,97"
+		"PointerRef" "" "internal : 6f3249e0-58b9-8964-67bf-a15e30b6d43b,205"
+		"PointerRef" "" "internal : a8f05c69-d69b-6b97-7245-758a3488aa34,102"
+	}
+}
+
+AbilityToCharacterMappingData 6d681dda-124f-e13c-6fff-20076939a110 199
+{
+	"UInt32" "AbilityId" "3295139640"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+EmoteToCharacterMappingData c024f6db-5cb4-a28d-865c-156e0261e45a 200
+{
+	"UInt32" "EmoteId" "2245772894"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterIdData c7f4f9dc-8043-4cd8-3a90-a03a71488efc 201
+{
+	"UInt32" "CharacterId" "2148737948"
+	"UInt32" "CharacterClassId" "641739279"
+}
+
+AbilityToCharacterMappingData e612fedd-4545-c5f5-d991-776a4a48ef51 202
+{
+	"UInt32" "AbilityId" "4026974446"
+	"UInt32" "CharacterId" "808172395"
+}
+
+CharacterIdCollection ac9f05df-7a3f-4d41-95c3-b21cdd49f960 203
+{
+	"List" "Characters"
+	{
+	}
+}
+
+AbilityToCharacterMappingData d37921e0-e8bb-876f-a5c2-2e2fb3c99dd2 204
+{
+	"UInt32" "AbilityId" "3140427571"
+	"UInt32" "CharacterId" "3584818048"
+}
+
+CharacterIdData 6f3249e0-58b9-8964-67bf-a15e30b6d43b 205
+{
+	"UInt32" "CharacterId" "985740665"
+	"UInt32" "CharacterClassId" "2150125963"
+}
+
+AbilityToCharacterMappingData 3e9d8ee1-8164-8841-9099-5b5e2a118871 206
+{
+	"UInt32" "AbilityId" "1771408819"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 0c87a2e2-24bd-3547-77ab-63bce89a698f 207
+{
+	"UInt32" "AbilityId" "596580334"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData ddf6cbe3-85c9-5657-d264-a9191616304b 208
+{
+	"UInt32" "AbilityId" "1608112225"
+	"UInt32" "CharacterId" "3366605079"
+}
+
+EmoteToCharacterMappingData bb04dce5-3526-e6a1-11cb-4421f8cabcbf 209
+{
+	"UInt32" "EmoteId" "410977909"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData d9ffe0e6-3858-2e85-5169-bcfffafaabc0 210
+{
+	"UInt32" "AbilityId" "4279356757"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 1d19f7e6-9de6-b87f-6ef4-68497789e368 211
+{
+	"UInt32" "AbilityId" "1142950337"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData 6f59bde7-bd63-88aa-c2f7-27b1a3d03807 212
+{
+	"UInt32" "AbilityId" "4161146400"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 1400fce8-968e-6ee4-b46c-fe722e730746 213
+{
+	"UInt32" "EmoteId" "4182898609"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData c1b302e9-82f4-45ec-62c0-36e25bf83b5e 214
+{
+	"UInt32" "AbilityId" "2857675761"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 6e8f97ea-76dc-6c22-3f1c-6a596467bd7c 215
+{
+	"UInt32" "AbilityId" "2784914640"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+EmoteToCharacterMappingData 0bae17eb-e9a1-6ccd-0e27-fa04efb4450f 216
+{
+	"UInt32" "EmoteId" "3103627591"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+EmoteToCharacterMappingData 18c050eb-8e39-14d9-fcb3-541e2902ceb7 217
+{
+	"UInt32" "EmoteId" "2224831957"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData c943aeeb-da36-97e3-6eb6-a49b73531f83 218
+{
+	"UInt32" "AbilityId" "147312367"
+	"UInt32" "CharacterId" "985740665"
+}
+
+AbilityToCharacterMappingData 51c1b3eb-da8a-2983-82eb-8e94fa35299a 219
+{
+	"UInt32" "AbilityId" "335064668"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+CharacterIdCollection e5ae42ed-9dcc-4584-bf9c-b00e994effa2 220
+{
+	"List" "Characters"
+	{
+		"PointerRef" "" "internal : 948bcd20-349b-6eea-8caf-919c9f74dc6c,27"
+		"PointerRef" "" "internal : c7f4f9dc-8043-4cd8-3a90-a03a71488efc,201"
+		"PointerRef" "" "internal : 04a2f348-744f-d8c8-23fa-a99f10c4c117,75"
+		"PointerRef" "" "internal : 696c9f74-c31c-1ed8-9c35-8da0ecff0a05,113"
+	}
+}
+
+CharacterClassIdData 4f5c9ded-f85b-65db-0ac1-8d4af0795e49 221
+{
+	"UInt32" "CharacterClassId" "1023203649"
+}
+
+AbilityToCharacterMappingData abdef6ed-e2f9-7b37-ecb9-d2f89a147731 222
+{
+	"UInt32" "AbilityId" "2485004088"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData ab859cf1-9578-ec63-0f1f-ee5a15c0b512 223
+{
+	"UInt32" "AbilityId" "1818550092"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+EmoteToCharacterMappingData 4aba29f3-9743-d741-8ea3-ec93d40b11e5 224
+{
+	"UInt32" "EmoteId" "4020660253"
+	"UInt32" "CharacterId" "3757561175"
+}
+
+AbilityToCharacterMappingData 6895c3f4-7dd4-1e19-a464-83e6745fb19d 225
+{
+	"UInt32" "AbilityId" "1289586509"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData 34a6e9f4-3baf-3527-9065-d00be6ad3f59 226
+{
+	"UInt32" "AbilityId" "3779657404"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData c9b35ef8-b2a6-cdd3-7d17-359ee9bf16fc 227
+{
+	"UInt32" "AbilityId" "540689438"
+	"UInt32" "CharacterId" "3055704543"
+}
+
+AbilityToCharacterMappingData e340adfb-e330-ab35-eb0f-b13e9ded413f 228
+{
+	"UInt32" "AbilityId" "2937199213"
+	"UInt32" "CharacterId" "4274546796"
+}
+
+AbilityToCharacterMappingData d937dffd-ce91-ffef-6347-2b3a9b26a53e 229
+{
+	"UInt32" "AbilityId" "4057448173"
+	"UInt32" "CharacterId" "3366605079"
+}
+

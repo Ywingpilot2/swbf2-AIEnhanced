@@ -1,0 +1,89 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S7_2/Gameplay/Kits/AP/Specials/Droideka/GP_Special_Droideka_AP"
+	"type" "WSSoldierCustomizationGameplayAsset"
+	"fid" "32ec166d-744d-4c69-a0a6-510ea152c2b3"
+	
+	Objects
+	{
+		"WSSoldierCustomizationGameplayAsset" "3c9a4576-f996-4f96-88bf-3cc188eed6fd" "0"
+		"PlayerAbilityCollection" "f91d7799-87fd-7161-aa58-ca6ad6b250b6" "1"
+		"PlayerAbilityCustomization" "a35694ea-2578-40c8-87d1-58e50e794f58" "2"
+	}
+}
+
+WSSoldierCustomizationGameplayAsset 3c9a4576-f996-4f96-88bf-3cc188eed6fd 0
+{
+	"UInt32" "Identifier" "549818198"
+	"PointerRef" "Class" "external : 5feead8b-df9d-43ea-b6f5-245435716fff,bbf46651-8961-4a97-82a4-bbf9127ea566"
+	"PointerRef" "Abilities" "internal : a35694ea-2578-40c8-87d1-58e50e794f58,2"
+	"List" "AffectorsAppliedOnSpawn"
+	{
+		"PointerRef" "" "external : d4f1e526-3604-4c59-86e5-d7a2ce11f136,d82254e5-5765-4e61-a727-852b443df87f"
+		"PointerRef" "" "external : 7079a737-9d60-4266-9203-e04b37fbe514,9534862c-e4be-416b-8358-0cedf6988e01"
+		"PointerRef" "" "external : 98a60516-5998-44c9-bd18-c4201eaa1987,f7b745e6-59e1-403a-a106-fa89d92670c4"
+		"PointerRef" "" "external : 19d0bfa5-6980-4b73-976b-0704eb2f23a5,267b24c4-606d-48e2-9495-fb84bc34da8f"
+		"PointerRef" "" "external : 1f308861-7ce8-4ae5-b33a-4c26ebe3acbc,2fbb2bd5-e574-47b6-b956-654ed96e7686"
+	}
+	"PointerRef" "Unlock" "null"
+	"PointerRef" "GateUnlock" "null"
+	"WSKitSpawnerType" "SpawnerType" "WSKitSpawnerType_Default"
+	"CString" "KillswitchName" "KS_Special_Droideka"
+	"CString" "Name" "S7_2/Gameplay/Kits/AP/Specials/Droideka/GP_Special_Droideka_AP"
+}
+
+PlayerAbilityCollection f91d7799-87fd-7161-aa58-ca6ad6b250b6 1
+{
+	"List" "Abilities"
+	{
+		"PointerRef" "" "external : a8fd41ba-2d93-42ae-ae5b-fe6a6ebfa5ea,f3843712-757d-4742-9dfb-2daa267bc4cd"
+		"PointerRef" "" "external : f2acb506-6902-43fc-b4b2-7b38bef297cf,05a2bac6-63ca-4edc-8bfe-630efc133f42"
+		"PointerRef" "" "external : 65a31f32-da07-40e4-bc38-4b703ed24181,3d7e4549-af43-46f2-bb99-81bb5f242890"
+		"PointerRef" "" "external : b671b4b2-6258-46da-bf13-c3c1b8f9327a,5aae2ccf-cb57-3f93-0a52-101a37b31ff3"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : 44b1a7dc-17ad-4603-83e6-f53e1380d33d,a8bff8d9-e852-46ba-b666-ecf47c2b3c32"
+		"PointerRef" "" "external : 6a6bc7af-46ef-4aad-8ce7-67814a86ac07,62102796-bf59-ef04-522f-01b34cff6932"
+		"PointerRef" "" "external : b8c3ba04-18d8-4bd6-86a6-11e9a65e69e8,7ab06601-f907-4a91-b7e5-4f72f98bca07"
+		"PointerRef" "" "external : 8217ce9b-2c40-42f4-95cc-af55de81a69b,34ba9c9a-45b6-4cab-bbfa-336b37e3f233"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+}
+
+PlayerAbilityCustomization a35694ea-2578-40c8-87d1-58e50e794f58 2
+{
+	"PointerRef" "AllAbilities" "internal : f91d7799-87fd-7161-aa58-ca6ad6b250b6,1"
+	"List" "AdditionalAbilities"
+	{
+		"PointerRef" "" "external : e14448ad-2a8b-459c-8a96-7d5f709ed523,b7a4b57b-c0d9-4ef0-947f-deea9e9fc15b"
+	}
+	"List" "DefaultAbilities"
+	{
+		"PointerRef" "" "external : a8fd41ba-2d93-42ae-ae5b-fe6a6ebfa5ea,f3843712-757d-4742-9dfb-2daa267bc4cd"
+		"PointerRef" "" "external : f2acb506-6902-43fc-b4b2-7b38bef297cf,05a2bac6-63ca-4edc-8bfe-630efc133f42"
+		"PointerRef" "" "external : 65a31f32-da07-40e4-bc38-4b703ed24181,3d7e4549-af43-46f2-bb99-81bb5f242890"
+		"PointerRef" "" "external : b671b4b2-6258-46da-bf13-c3c1b8f9327a,5aae2ccf-cb57-3f93-0a52-101a37b31ff3"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : 44b1a7dc-17ad-4603-83e6-f53e1380d33d,a8bff8d9-e852-46ba-b666-ecf47c2b3c32"
+		"PointerRef" "" "external : 6a6bc7af-46ef-4aad-8ce7-67814a86ac07,62102796-bf59-ef04-522f-01b34cff6932"
+	}
+	"List" "AbilityBlockingRules"
+	{
+	}
+	"List" "Emotes"
+	{
+	}
+	"List" "VoiceLines"
+	{
+	}
+	"List" "VictoryPoses"
+	{
+	}
+	"CString" "Name" ""
+}
+

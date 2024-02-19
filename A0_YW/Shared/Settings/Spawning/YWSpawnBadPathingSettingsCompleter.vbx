@@ -1,0 +1,496 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_YW/Shared/Settings/Spawning/YWSpawnBadPathingSettingsCompleter"
+	"type" "LogicPrefabBlueprint"
+	"fid" "2e7c6e7e-7912-4dfd-bcbd-944136129377"
+	
+	Objects
+	{
+		"LogicPrefabBlueprint" "dcd984a7-2268-c02a-aa4b-7e3c114ca682" "0"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "1"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "2"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "3"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "4"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "5"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "6"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "7"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "8"
+		"AutoPlayerSettingsEntityData" "00000000-0000-0000-0000-000000000000" "9"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "10"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "11"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "12"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "13"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "14"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "15"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "16"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "17"
+		"GameSettingsEntityData" "00000000-0000-0000-0000-000000000000" "18"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "19"
+	}
+}
+
+LogicPrefabBlueprint dcd984a7-2268-c02a-aa4b-7e3c114ca682 0
+{
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,1"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,2"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,3"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,4"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,5"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,6"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,7"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,8"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,9"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,14"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,16"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,15"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,18"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,13"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,12"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,11"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,10"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,17"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,1"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,6"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,7"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,19"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,9"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1419411609"
+				"CString" "Name" "ApplySetting"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+	}
+	"UInt16" "Flags" "14"
+	"List" "PropertyConnections"
+	{
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,14"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,1"
+			"Int32" "SourceFieldId" "1921402959"
+			"Int32" "TargetFieldId" "-255832345"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "SpecialSpawnProbability_GameplayStunt"
+			"CString" "TargetField" "SpecialSpawnProbability_Gameplay"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,16"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"Int32" "SourceFieldId" "469864990"
+			"Int32" "TargetFieldId" "1476906838"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "HeroSpawnProbability_GameplayStunt"
+			"CString" "TargetField" "HeroSpawnProbability_Gameplay"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"Int32" "SourceFieldId" "-480312424"
+			"Int32" "TargetFieldId" "1676531728"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "AllowRespawnStunt"
+			"CString" "TargetField" "AllowRespawn"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,18"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"Int32" "SourceFieldId" "-713657904"
+			"Int32" "TargetFieldId" "1137552600"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "AllowSuicideStunt"
+			"CString" "TargetField" "AllowSuicide"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"Int32" "SourceFieldId" "-1239637057"
+			"Int32" "TargetFieldId" "1442344919"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "AllowGameplayBotsToJoinPlayerSquadsStunt"
+			"CString" "TargetField" "AllowGameplayBotsToJoinPlayerSquads"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,6"
+			"Int32" "SourceFieldId" "317965513"
+			"Int32" "TargetFieldId" "-1040792415"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "SquadSpawnProbabilityStunt"
+			"CString" "TargetField" "SquadSpawnProbability"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,12"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,7"
+			"Int32" "SourceFieldId" "-486498546"
+			"Int32" "TargetFieldId" "1921284678"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "AllowGameplayBotsToFormOwnSquadsStunt"
+			"CString" "TargetField" "AllowGameplayBotsToFormOwnSquads"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,10"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"Int32" "SourceFieldId" "-135823712"
+			"Int32" "TargetFieldId" "1129262082"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "InitialRespawnDelayBadPathingStunt"
+			"CString" "TargetField" "InitialRespawnDelay"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,9"
+			"Int32" "SourceFieldId" "415244052"
+			"Int32" "TargetFieldId" "684347420"
+			"UInt32" "Flags" "1"
+			"CString" "SourceField" "RespawnDelayStunt"
+			"CString" "TargetField" "RespawnDelay"
+		}
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,19"
+	"CString" "Name" "A0_YW/Shared/Settings/Spawning/YWSpawnBadPathingSettingsCompleter"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 1
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Float"
+		"CString" "Name" "SpecialSpawnProbability_Gameplay"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 2
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Float"
+		"CString" "Name" "HeroSpawnProbability_Gameplay"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 3
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Bool"
+		"CString" "Name" "AllowRespawn"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 4
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Bool"
+		"CString" "Name" "AllowSuicide"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 5
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Bool"
+		"CString" "Name" "AllowGameplayBotsToJoinPlayerSquads"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 6
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Float"
+		"CString" "Name" "SquadSpawnProbability"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 7
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Bool"
+		"CString" "Name" "AllowGameplayBotsToFormOwnSquads"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 8
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Float"
+		"CString" "Name" "InitialRespawnDelay"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+AutoPlayerSettingsEntityData 00000000-0000-0000-0000-000000000000 9
+{
+	"AutoPlayerSettingsChoice" "Choice" 
+	{
+		"AutoPlayerSettingsKind" "Kind" "Kind_Float"
+		"CString" "Name" "RespawnDelay"
+	}
+	"UInt32" "Flags" "475511274"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 10
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,b70a0507-7da2-0e96-d396-5ca3de47ffed"
+	"Int32" "OutputPropertyHash" "-135823712"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 11
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,5c984528-bd21-47e6-522e-2d7074572815"
+	"Int32" "OutputPropertyHash" "317965513"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 12
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,921ae88b-55dd-13e9-cd1d-b8fe2272ed9e"
+	"Int32" "OutputPropertyHash" "-486498546"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 13
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,b6fd7ed7-6924-88eb-912a-77efafb8ce83"
+	"Int32" "OutputPropertyHash" "-1239637057"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 14
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,2977549c-560b-cd6d-99b1-abf37ddea4c9"
+	"Int32" "OutputPropertyHash" "1921402959"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 15
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,83f05111-769f-3030-6892-325b44a0f08d"
+	"Int32" "OutputPropertyHash" "-480312424"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 16
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,4a7ac498-a86e-83b6-c88b-2c2f3d5190f6"
+	"Int32" "OutputPropertyHash" "469864990"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 17
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,19c53cd3-f2ae-02d5-39dd-a3367c8de434"
+	"Int32" "OutputPropertyHash" "415244052"
+	"UInt32" "Flags" "30402497"
+}
+
+GameSettingsEntityData 00000000-0000-0000-0000-000000000000 18
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "GameSetting" "external : d872700e-0a1e-4e5b-8adc-f001ee8082f2,237fb42a-c5a2-5e70-6238-fb20a8645a19"
+	"Int32" "OutputPropertyHash" "-713657904"
+	"UInt32" "Flags" "30402497"
+}
+
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 19
+{
+	"List" "InputEvents"
+	{
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-731557207"
+			"CString" "Name" "CompleteSettings"
+		}
+	}
+	"List" "OutputEvents"
+	{
+	}
+	"List" "InputLinks"
+	{
+	}
+	"List" "OutputLinks"
+	{
+	}
+	"List" "Fields"
+	{
+	}
+}
+

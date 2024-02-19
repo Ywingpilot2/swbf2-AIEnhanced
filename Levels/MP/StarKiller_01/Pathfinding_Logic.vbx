@@ -1,0 +1,102 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Levels/MP/StarKiller_01/Pathfinding_Logic"
+	"type" "LayerData"
+	"fid" "9cae6e2d-f115-4fb9-82cb-265f8d775eba"
+	
+	Objects
+	{
+		"LayerData" "57f7ab53-8380-4b31-9141-e287f6916c8b" "0"
+		"SyncedBoolEntityData" "4de92d0c-7e0d-42ff-8ed8-3874c7d9d007" "1"
+		"InclusionSettingEntityData" "d9cc7c56-d820-4a53-abcf-4f917f99930a" "2"
+		"PathfindingStreamEntityData" "0c15e866-d02e-4feb-991c-e3f9ca1f3a22" "3"
+		"PathfindingStreamEntityData" "a79a4bc8-49b3-7b72-5b88-f14028cffdbd" "4"
+	}
+}
+
+LayerData 57f7ab53-8380-4b31-9141-e287f6916c8b 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "c06c3b04-f4a3-3726-60a5-0abbad1082b4"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 4de92d0c-7e0d-42ff-8ed8-3874c7d9d007,1"
+		"PointerRef" "" "internal : 0c15e866-d02e-4feb-991c-e3f9ca1f3a22,3"
+		"PointerRef" "" "internal : a79a4bc8-49b3-7b72-5b88-f14028cffdbd,4"
+		"PointerRef" "" "internal : d9cc7c56-d820-4a53-abcf-4f917f99930a,2"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "Levels/MP/StarKiller_01/Pathfinding_Logic"
+}
+
+SyncedBoolEntityData 4de92d0c-7e0d-42ff-8ed8-3874c7d9d007 1
+{
+	"UInt32" "Flags" "300494092"
+}
+
+InclusionSettingEntityData d9cc7c56-d820-4a53-abcf-4f917f99930a 2
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+		"CString" "" "PlanetaryBattles"
+		"CString" "" "Blast"
+		"CString" "" "HeroesVersusVillains"
+		"CString" "" "SkirmishBlast"
+		"CString" "" "PlanetaryMissions"
+		"CString" "" "SkirmishOnslaught"
+		"CString" "" "SkirmishDuel"
+		"CString" "" "ModeC"
+		"CString" "" "Mode1"
+		"CString" "" "Mode2"
+		"CString" "" "Mode3"
+		"CString" "" "Mode6"
+		"CString" "" "Mode5"
+		"CString" "" "Mode4"
+		"CString" "" "Mode7"
+		"CString" "" "Mode8"
+		"CString" "" "Mode9"
+		"CString" "" "ModeDefend"
+		"CString" "" "ModeE"
+		"CString" "" "ModeF"
+		"CString" "" "HeroArena"
+		"CString" "" "Mode6"
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "30178390"
+}
+
+PathfindingStreamEntityData 0c15e866-d02e-4feb-991c-e3f9ca1f3a22 3
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : 2bdfaf19-3bdb-5fc7-a47f-e415f751a85f,2bdfaf19-3bdb-5fc7-a47f-e415f751a85f"
+	"Boolean" "Autoload" "True"
+	"UInt32" "Flags" "68544614"
+}
+
+PathfindingStreamEntityData a79a4bc8-49b3-7b72-5b88-f14028cffdbd 4
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : ba16f6b2-e93a-baa9-7199-dc4743e43124,ba16f6b2-e93a-baa9-7199-dc4743e43124"
+	"Boolean" "Autoload" "True"
+	"UInt32" "Flags" "68544614"
+}
+

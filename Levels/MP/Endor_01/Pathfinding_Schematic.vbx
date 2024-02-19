@@ -1,0 +1,244 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Levels/MP/Endor_01/Pathfinding_Schematic"
+	"type" "LayerData"
+	"fid" "f65be42e-fde3-4aba-90ea-23b315503c5a"
+	
+	Objects
+	{
+		"LayerData" "421dd547-7f3b-44f7-be35-6337cba14118" "0"
+		"CompareBoolEntityData" "5cbb7d1d-ef3a-4616-9dfa-085112a21ab6" "1"
+		"SchematicChannelEntityData" "d9e5e722-fdd8-4ce6-ab3d-4d0c45321c16" "2"
+		"AndEntityData" "2e62ae36-2599-4adc-85bf-98144ecc975c" "3"
+		"InclusionSettingEntityData" "0a51e150-54e2-4d99-b1c5-ad0f9dbfa047" "4"
+		"PathfindingStreamEntityData" "258e8f59-3672-464f-bf15-0d67197d5eab" "5"
+		"InclusionSettingEntityData" "c8f87272-ce61-4f34-8c3e-19030e5bc5d7" "6"
+		"CompareBoolEntityData" "3e45e489-4fb3-4397-8771-db4924a14617" "7"
+		"OrEntityData" "69a0d88a-eb79-4918-b7b8-87e6d70c3357" "8"
+		"SettingEntityData" "01839da9-ae5d-40b4-bcd5-6bc11fb514d7" "9"
+		"SyncedBoolEntityData" "5e944cb9-afd2-4b07-b978-87e2b5038a79" "10"
+		"PathfindingStreamEntityData" "634eb5c7-bd3f-462c-a564-d7e9906f95a0" "11"
+		"CompareBoolEntityData" "098203cf-1730-4137-80a1-af3fe38bc419" "12"
+		"PathfindingStreamEntityData" "2add20d1-d760-4dda-bbf8-460aca32e7db" "13"
+		"AndEntityData" "ab9140e2-9fcc-4bd9-9c91-154f0ffadc06" "14"
+		"PathfindingStreamEntityData" "719d7de2-9824-41b5-966a-66b871bbeb24" "15"
+		"InclusionSettingEntityData" "daf7acef-7a4a-48e9-9ab4-69ee64ea4082" "16"
+	}
+}
+
+LayerData 421dd547-7f3b-44f7-be35-6337cba14118 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "a9162557-0c0d-f4e4-9d12-1886d05be8bb"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 634eb5c7-bd3f-462c-a564-d7e9906f95a0,11"
+		"PointerRef" "" "internal : c8f87272-ce61-4f34-8c3e-19030e5bc5d7,6"
+		"PointerRef" "" "internal : daf7acef-7a4a-48e9-9ab4-69ee64ea4082,16"
+		"PointerRef" "" "internal : 5e944cb9-afd2-4b07-b978-87e2b5038a79,10"
+		"PointerRef" "" "internal : 719d7de2-9824-41b5-966a-66b871bbeb24,15"
+		"PointerRef" "" "internal : 01839da9-ae5d-40b4-bcd5-6bc11fb514d7,9"
+		"PointerRef" "" "internal : 2e62ae36-2599-4adc-85bf-98144ecc975c,3"
+		"PointerRef" "" "internal : 2add20d1-d760-4dda-bbf8-460aca32e7db,13"
+		"PointerRef" "" "internal : 3e45e489-4fb3-4397-8771-db4924a14617,7"
+		"PointerRef" "" "internal : 0a51e150-54e2-4d99-b1c5-ad0f9dbfa047,4"
+		"PointerRef" "" "internal : 098203cf-1730-4137-80a1-af3fe38bc419,12"
+		"PointerRef" "" "internal : d9e5e722-fdd8-4ce6-ab3d-4d0c45321c16,2"
+		"PointerRef" "" "internal : 69a0d88a-eb79-4918-b7b8-87e6d70c3357,8"
+		"PointerRef" "" "internal : ab9140e2-9fcc-4bd9-9c91-154f0ffadc06,14"
+		"PointerRef" "" "internal : 5cbb7d1d-ef3a-4616-9dfa-085112a21ab6,1"
+		"PointerRef" "" "internal : 258e8f59-3672-464f-bf15-0d67197d5eab,5"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "Levels/MP/Endor_01/Pathfinding_Schematic"
+}
+
+CompareBoolEntityData 5cbb7d1d-ef3a-4616-9dfa-085112a21ab6 1
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "280722717"
+}
+
+SchematicChannelEntityData d9e5e722-fdd8-4ce6-ab3d-4d0c45321c16 2
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "Channel" "external : a1e9d635-cb07-41ea-a458-57f52e7541b6,85f8f279-861f-4714-9dc7-adc7a77fc2ea"
+	"List" "InputProperties"
+	{
+	}
+	"List" "InputRefProperties"
+	{
+	}
+	"List" "OutputProperties"
+	{
+		"Int32" "" "4"
+		"Int32" "" "5"
+	}
+	"List" "OutputRefProperties"
+	{
+	}
+	"UInt32" "Flags" "31844130"
+}
+
+AndEntityData 2e62ae36-2599-4adc-85bf-98144ecc975c 3
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "274902582"
+}
+
+InclusionSettingEntityData 0a51e150-54e2-4d99-b1c5-ad0f9dbfa047 4
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+		"CString" "" "PlanetaryBattles"
+		"CString" "" "Blast"
+		"CString" "" "HeroesVersusVillains"
+		"CString" "" "SkirmishBlast"
+		"CString" "" "PlanetaryMissions"
+		"CString" "" "SkirmishOnslaught"
+		"CString" "" "SkirmishDuel"
+		"CString" "" "ModeC"
+		"CString" "" "Mode1"
+		"CString" "" "Mode2"
+		"CString" "" "Mode3"
+		"CString" "" "Mode6"
+		"CString" "" "Mode5"
+		"CString" "" "Mode4"
+		"CString" "" "Mode7"
+		"CString" "" "Mode8"
+		"CString" "" "Mode9"
+		"CString" "" "ModeDefend"
+		"CString" "" "ModeE"
+		"CString" "" "ModeF"
+		"CString" "" "HeroArena"
+		"CString" "" "Mode6"
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "5366096"
+}
+
+PathfindingStreamEntityData 258e8f59-3672-464f-bf15-0d67197d5eab 5
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : f7803753-9e1c-f950-1f77-d9311a93b686,f7803753-9e1c-f950-1f77-d9311a93b686"
+	"Boolean" "Autoload" "False"
+	"UInt32" "Flags" "93228889"
+}
+
+InclusionSettingEntityData c8f87272-ce61-4f34-8c3e-19030e5bc5d7 6
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "16282226"
+}
+
+CompareBoolEntityData 3e45e489-4fb3-4397-8771-db4924a14617 7
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "273015945"
+}
+
+OrEntityData 69a0d88a-eb79-4918-b7b8-87e6d70c3357 8
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "295753866"
+}
+
+SettingEntityData 01839da9-ae5d-40b4-bcd5-6bc11fb514d7 9
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"CString" "BoolSettingName" "Game.ScriptedPlaythrough"
+	"CString" "IntSettingName" ""
+	"CString" "FloatSettingName" ""
+	"CString" "UintSettingName" ""
+	"UInt32" "Flags" "25402793"
+}
+
+SyncedBoolEntityData 5e944cb9-afd2-4b07-b978-87e2b5038a79 10
+{
+	"UInt32" "Flags" "278154425"
+}
+
+PathfindingStreamEntityData 634eb5c7-bd3f-462c-a564-d7e9906f95a0 11
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : c051aa16-415a-9dd4-42c7-dc3371a59a09,c051aa16-415a-9dd4-42c7-dc3371a59a09"
+	"Boolean" "Autoload" "True"
+	"UInt32" "Flags" "89044423"
+}
+
+CompareBoolEntityData 098203cf-1730-4137-80a1-af3fe38bc419 12
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "True"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "293733327"
+}
+
+PathfindingStreamEntityData 2add20d1-d760-4dda-bbf8-460aca32e7db 13
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : 06408331-bc7f-bfba-28eb-3056f8f9ead4,06408331-bc7f-bfba-28eb-3056f8f9ead4"
+	"Boolean" "Autoload" "False"
+	"UInt32" "Flags" "81600721"
+}
+
+AndEntityData ab9140e2-9fcc-4bd9-9c91-154f0ffadc06 14
+{
+	"Realm" "Realm" "Realm_Server"
+	"UInt32" "InputCount" "2"
+	"UInt32" "Flags" "294732002"
+}
+
+PathfindingStreamEntityData 719d7de2-9824-41b5-966a-66b871bbeb24 15
+{
+	"Realm" "Realm" "Realm_Server"
+	"PointerRef" "PathfindingBlobs" "external : 64f83856-8b1a-38e2-e00e-5388c56834ef,64f83856-8b1a-38e2-e00e-5388c56834ef"
+	"Boolean" "Autoload" "False"
+	"UInt32" "Flags" "94207458"
+}
+
+InclusionSettingEntityData daf7acef-7a4a-48e9-9ab4-69ee64ea4082 16
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "Settings"
+	{
+	}
+	"CString" "Setting" "GameMode"
+	"UInt32" "Flags" "16231663"
+}
+

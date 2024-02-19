@@ -1,0 +1,150 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S7_2/Gameplay/Kits/AP/Specials/ARC/GP_Special_ARC_AP"
+	"type" "WSSoldierCustomizationGameplayAsset"
+	"fid" "702e3cd8-f0db-4900-9f5a-38e75c9e5ba3"
+	
+	Objects
+	{
+		"WSSoldierCustomizationGameplayAsset" "444618c5-f0df-4279-8661-7158db92b452" "0"
+		"PlayerAbilityCustomizeBlockingRule" "481a0209-f310-1b59-40e6-d1e47af43a8e" "1"
+		"PlayerAbilityCollection" "f979f834-2939-7655-c549-e15bf4a349f3" "2"
+		"PlayerAbilityCustomizeBlockingRuleGroup" "c6bce23c-f356-a5d2-3b43-8f622e449019" "3"
+		"PlayerAbilityCustomizeBlockingRule" "25c7a259-b709-5426-78b0-fde1cd54c044" "4"
+		"PlayerAbilityCustomizeBlockingRule" "ed6ae25e-a776-98c3-2039-766033e84c52" "5"
+		"PlayerAbilityCustomizeBlockingRule" "33d5276b-b0f2-aebb-7a8a-863c3b3e1680" "6"
+		"PlayerAbilityCustomizeBlockingRule" "2c0d838b-e3bc-9769-5f77-3eff590f1b49" "7"
+		"PlayerAbilityCustomization" "e26f49e5-d578-4e1b-8d83-a302397198c0" "8"
+	}
+}
+
+WSSoldierCustomizationGameplayAsset 444618c5-f0df-4279-8661-7158db92b452 0
+{
+	"UInt32" "Identifier" "1469533530"
+	"PointerRef" "Class" "external : 9028a372-a40e-4f55-869a-b1dc08ccc000,61dad216-73da-4485-a0c6-9f207b3187b6"
+	"PointerRef" "Abilities" "internal : e26f49e5-d578-4e1b-8d83-a302397198c0,8"
+	"List" "AffectorsAppliedOnSpawn"
+	{
+		"PointerRef" "" "external : a50d64cb-1606-44c4-a83a-82fa4c947b35,46ac6181-945a-42d1-92dc-4fc7cb8f6f85"
+		"PointerRef" "" "external : 1db96907-4dba-4a01-b64d-36d8a249af1b,7941e3ab-8577-4102-aa16-d2892b7e1e70"
+		"PointerRef" "" "external : 3bdcad52-3993-4a87-81c3-a97b8a89b79b,94002c5d-0801-41f5-b1d5-ad6a22a8058f"
+		"PointerRef" "" "external : 04c83ea9-3ae7-4a58-bea5-7430f1ac243b,c8fb7041-33b4-405c-beeb-febbb185fc96"
+	}
+	"PointerRef" "Unlock" "null"
+	"PointerRef" "GateUnlock" "null"
+	"WSKitSpawnerType" "SpawnerType" "WSKitSpawnerType_Default"
+	"CString" "KillswitchName" "KS_Special_ARC"
+	"CString" "Name" "S7_2/Gameplay/Kits/AP/Specials/ARC/GP_Special_ARC_AP"
+}
+
+PlayerAbilityCustomizeBlockingRule 481a0209-f310-1b59-40e6-d1e47af43a8e 1
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "1005984200"
+}
+
+PlayerAbilityCollection f979f834-2939-7655-c549-e15bf4a349f3 2
+{
+	"List" "Abilities"
+	{
+		"PointerRef" "" "external : 82ec1e35-048b-4a5a-a357-558c82c040ef,dda4a887-8743-4497-90ce-ba816caff029"
+		"PointerRef" "" "external : 856a439c-a8b8-471c-a817-ed5c792c6ec1,d5889ef4-ba00-4c9a-8830-081b4870ccbe"
+		"PointerRef" "" "external : 677df050-1348-4a13-9414-ac13b8b08a4e,77e13913-c0d1-4dc9-9e20-aea4ce6ba2b4"
+		"PointerRef" "" "external : d0572f97-6542-4296-85da-04bc098946dd,b53f9ec7-5dcb-4f1b-b6b1-b79c5dcf9b88"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : c1c65ce9-d26c-4e05-91f9-d1651582fcc5,73c9e2b9-f59e-2d36-5b2d-6d8e35819a03"
+		"PointerRef" "" "external : 8dc3b097-b092-42ea-b5a5-a00be3583bad,bad635ae-8df9-438b-8558-348407c194ac"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+}
+
+PlayerAbilityCustomizeBlockingRuleGroup c6bce23c-f356-a5d2-3b43-8f622e449019 3
+{
+	"List" "Rules"
+	{
+		"PointerRef" "" "internal : 2c0d838b-e3bc-9769-5f77-3eff590f1b49,7"
+		"PointerRef" "" "internal : 33d5276b-b0f2-aebb-7a8a-863c3b3e1680,6"
+		"PointerRef" "" "internal : 25c7a259-b709-5426-78b0-fde1cd54c044,4"
+		"PointerRef" "" "internal : ed6ae25e-a776-98c3-2039-766033e84c52,5"
+		"PointerRef" "" "internal : 481a0209-f310-1b59-40e6-d1e47af43a8e,1"
+	}
+	"UInt32" "MaxOffenders" "2"
+}
+
+PlayerAbilityCustomizeBlockingRule 25c7a259-b709-5426-78b0-fde1cd54c044 4
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "1704672117"
+}
+
+PlayerAbilityCustomizeBlockingRule ed6ae25e-a776-98c3-2039-766033e84c52 5
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "201590153"
+}
+
+PlayerAbilityCustomizeBlockingRule 33d5276b-b0f2-aebb-7a8a-863c3b3e1680 6
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "910010282"
+}
+
+PlayerAbilityCustomizeBlockingRule 2c0d838b-e3bc-9769-5f77-3eff590f1b49 7
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "155801185"
+}
+
+PlayerAbilityCustomization e26f49e5-d578-4e1b-8d83-a302397198c0 8
+{
+	"PointerRef" "AllAbilities" "internal : f979f834-2939-7655-c549-e15bf4a349f3,2"
+	"List" "AdditionalAbilities"
+	{
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+	"List" "DefaultAbilities"
+	{
+		"PointerRef" "" "external : 82ec1e35-048b-4a5a-a357-558c82c040ef,dda4a887-8743-4497-90ce-ba816caff029"
+		"PointerRef" "" "external : 856a439c-a8b8-471c-a817-ed5c792c6ec1,d5889ef4-ba00-4c9a-8830-081b4870ccbe"
+		"PointerRef" "" "external : 677df050-1348-4a13-9414-ac13b8b08a4e,77e13913-c0d1-4dc9-9e20-aea4ce6ba2b4"
+		"PointerRef" "" "external : d0572f97-6542-4296-85da-04bc098946dd,b53f9ec7-5dcb-4f1b-b6b1-b79c5dcf9b88"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : c1c65ce9-d26c-4e05-91f9-d1651582fcc5,73c9e2b9-f59e-2d36-5b2d-6d8e35819a03"
+		"PointerRef" "" "external : 8dc3b097-b092-42ea-b5a5-a00be3583bad,bad635ae-8df9-438b-8558-348407c194ac"
+	}
+	"List" "AbilityBlockingRules"
+	{
+		"PointerRef" "" "internal : c6bce23c-f356-a5d2-3b43-8f622e449019,3"
+	}
+	"List" "Emotes"
+	{
+	}
+	"List" "VoiceLines"
+	{
+	}
+	"List" "VictoryPoses"
+	{
+	}
+	"CString" "Name" ""
+}
+

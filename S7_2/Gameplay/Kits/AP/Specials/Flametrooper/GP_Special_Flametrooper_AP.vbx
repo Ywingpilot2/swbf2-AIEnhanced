@@ -1,0 +1,152 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S7_2/Gameplay/Kits/AP/Specials/Flametrooper/GP_Special_Flametrooper_AP"
+	"type" "WSSoldierCustomizationGameplayAsset"
+	"fid" "c0b725d1-f03e-41b1-b81a-b3970068bae2"
+	
+	Objects
+	{
+		"WSSoldierCustomizationGameplayAsset" "3fc5e917-1d4b-4c9a-a235-30ca909b7fcc" "0"
+		"PlayerAbilityCustomization" "44bd2b04-cd09-4846-9d75-c4f01c924acd" "1"
+		"PlayerAbilityCustomizeBlockingRuleGroup" "bef33a19-47f8-0ffd-69af-b05f8239245f" "2"
+		"PlayerAbilityCustomizeBlockingRule" "f2ae971b-3dcb-71f6-fb2a-ec14aa6259c6" "3"
+		"PlayerAbilityCustomizeBlockingRule" "49b5e82f-b403-89d4-be12-c23c1bb5978a" "4"
+		"PlayerAbilityCustomizeBlockingRule" "71fc5a44-6e51-5504-d2ea-b207363aa10b" "5"
+		"PlayerAbilityCustomizeBlockingRule" "740f4b89-e7de-58ff-9bed-761cb9a75d99" "6"
+		"PlayerAbilityCollection" "5f8f09b6-7a28-531b-611e-f794207152d2" "7"
+		"PlayerAbilityCustomizeBlockingRule" "34c81dc9-aaa6-287f-37aa-0a2d9d4c1c76" "8"
+	}
+}
+
+WSSoldierCustomizationGameplayAsset 3fc5e917-1d4b-4c9a-a235-30ca909b7fcc 0
+{
+	"UInt32" "Identifier" "133776903"
+	"PointerRef" "Class" "external : 7180fe3e-f1d3-4d54-ad8d-b30a78c9cd23,63d69f71-4e9e-468d-9c50-8691a7cffb4c"
+	"PointerRef" "Abilities" "internal : 44bd2b04-cd09-4846-9d75-c4f01c924acd,1"
+	"List" "AffectorsAppliedOnSpawn"
+	{
+		"PointerRef" "" "external : 446d0d9f-fd70-4544-8442-a6f46a80263a,c9c10b39-0dc8-46b6-878a-fbbf5c2dc200"
+		"PointerRef" "" "external : 7079a737-9d60-4266-9203-e04b37fbe514,9534862c-e4be-416b-8358-0cedf6988e01"
+		"PointerRef" "" "external : 0f239822-64d1-43e3-8941-84de442a1d80,33354dca-4649-4a87-bb40-a537bf33f1ef"
+		"PointerRef" "" "external : 1f308861-7ce8-4ae5-b33a-4c26ebe3acbc,2fbb2bd5-e574-47b6-b956-654ed96e7686"
+	}
+	"PointerRef" "Unlock" "null"
+	"PointerRef" "GateUnlock" "null"
+	"WSKitSpawnerType" "SpawnerType" "WSKitSpawnerType_Default"
+	"CString" "KillswitchName" "KS_Special_Flametrooper"
+	"CString" "Name" "S7_2/Gameplay/Kits/AP/Specials/Flametrooper/GP_Special_Flametrooper_AP"
+}
+
+PlayerAbilityCustomization 44bd2b04-cd09-4846-9d75-c4f01c924acd 1
+{
+	"PointerRef" "AllAbilities" "internal : 5f8f09b6-7a28-531b-611e-f794207152d2,7"
+	"List" "AdditionalAbilities"
+	{
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+	"List" "DefaultAbilities"
+	{
+		"PointerRef" "" "external : 8dce6774-a070-43b0-a6c0-096363071971,f357cfe5-bc33-4b7e-b86c-222a9c64eae1"
+		"PointerRef" "" "external : 12ea5da3-3b26-4844-96e7-ab7d316e304e,00e95af2-0ee4-41f7-af95-98dad9e5e578"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : c1c65ce9-d26c-4e05-91f9-d1651582fcc5,73c9e2b9-f59e-2d36-5b2d-6d8e35819a03"
+		"PointerRef" "" "external : bc4b24b9-1e60-49ff-9aa3-12f5f7487552,3890de60-a21e-427f-8369-897e9ae6e0f9"
+		"PointerRef" "" "external : f79b2665-a320-4d6a-9d51-29e06e5467a6,0e5483ba-7bf9-439e-98e4-de2b8d32e6f1"
+		"PointerRef" "" "external : a7e5bfd7-2c12-46de-b306-743db2f399b9,32e0db8a-66a3-4de3-9e73-2dce92259895"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : c99c9d1f-e546-4c9a-b937-69f391436e2a,e8300dca-2ebc-49af-9711-a8deb2577565"
+	}
+	"List" "AbilityBlockingRules"
+	{
+		"PointerRef" "" "internal : bef33a19-47f8-0ffd-69af-b05f8239245f,2"
+	}
+	"List" "Emotes"
+	{
+	}
+	"List" "VoiceLines"
+	{
+	}
+	"List" "VictoryPoses"
+	{
+	}
+	"CString" "Name" ""
+}
+
+PlayerAbilityCustomizeBlockingRuleGroup bef33a19-47f8-0ffd-69af-b05f8239245f 2
+{
+	"List" "Rules"
+	{
+		"PointerRef" "" "internal : 71fc5a44-6e51-5504-d2ea-b207363aa10b,5"
+		"PointerRef" "" "internal : f2ae971b-3dcb-71f6-fb2a-ec14aa6259c6,3"
+		"PointerRef" "" "internal : 34c81dc9-aaa6-287f-37aa-0a2d9d4c1c76,8"
+		"PointerRef" "" "internal : 49b5e82f-b403-89d4-be12-c23c1bb5978a,4"
+		"PointerRef" "" "internal : 740f4b89-e7de-58ff-9bed-761cb9a75d99,6"
+	}
+	"UInt32" "MaxOffenders" "2"
+}
+
+PlayerAbilityCustomizeBlockingRule f2ae971b-3dcb-71f6-fb2a-ec14aa6259c6 3
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "3009047027"
+}
+
+PlayerAbilityCustomizeBlockingRule 49b5e82f-b403-89d4-be12-c23c1bb5978a 4
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "2194032901"
+}
+
+PlayerAbilityCustomizeBlockingRule 71fc5a44-6e51-5504-d2ea-b207363aa10b 5
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "2805022687"
+}
+
+PlayerAbilityCustomizeBlockingRule 740f4b89-e7de-58ff-9bed-761cb9a75d99 6
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "4026974446"
+}
+
+PlayerAbilityCollection 5f8f09b6-7a28-531b-611e-f794207152d2 7
+{
+	"List" "Abilities"
+	{
+		"PointerRef" "" "external : 8dce6774-a070-43b0-a6c0-096363071971,f357cfe5-bc33-4b7e-b86c-222a9c64eae1"
+		"PointerRef" "" "external : 12ea5da3-3b26-4844-96e7-ab7d316e304e,00e95af2-0ee4-41f7-af95-98dad9e5e578"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : c1c65ce9-d26c-4e05-91f9-d1651582fcc5,73c9e2b9-f59e-2d36-5b2d-6d8e35819a03"
+		"PointerRef" "" "external : bc4b24b9-1e60-49ff-9aa3-12f5f7487552,3890de60-a21e-427f-8369-897e9ae6e0f9"
+		"PointerRef" "" "external : f79b2665-a320-4d6a-9d51-29e06e5467a6,0e5483ba-7bf9-439e-98e4-de2b8d32e6f1"
+		"PointerRef" "" "external : a7e5bfd7-2c12-46de-b306-743db2f399b9,32e0db8a-66a3-4de3-9e73-2dce92259895"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : c99c9d1f-e546-4c9a-b937-69f391436e2a,e8300dca-2ebc-49af-9711-a8deb2577565"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+}
+
+PlayerAbilityCustomizeBlockingRule 34c81dc9-aaa6-287f-37aa-0a2d9d4c1c76 8
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "3193283672"
+}
+

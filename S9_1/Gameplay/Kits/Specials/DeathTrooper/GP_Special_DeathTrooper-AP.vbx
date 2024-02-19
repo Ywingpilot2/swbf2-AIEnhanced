@@ -1,0 +1,150 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "S9_1/Gameplay/Kits/Specials/DeathTrooper/GP_Special_DeathTrooper-AP"
+	"type" "WSSoldierCustomizationGameplayAsset"
+	"fid" "f85ccd3a-c3f9-40c5-a6a6-ef94a42ccbf6"
+	
+	Objects
+	{
+		"WSSoldierCustomizationGameplayAsset" "713ac2d0-dc8f-412e-bb1b-d474928d551b" "0"
+		"PlayerAbilityCustomizeBlockingRule" "02722f02-0f75-6ec6-b05d-b17fe4e6e0aa" "1"
+		"PlayerAbilityCustomizeBlockingRule" "302c9738-429a-a251-d8b1-217d8309408d" "2"
+		"PlayerAbilityCustomizeBlockingRuleGroup" "4511053d-b66f-cca0-34ec-fa061212d017" "3"
+		"PlayerAbilityCollection" "3e837a54-7f8f-e139-e1f4-137f6a6060ba" "4"
+		"PlayerAbilityCustomizeBlockingRule" "b610345a-6de4-528d-6cad-d1ee3ba7e36d" "5"
+		"PlayerAbilityCustomizeBlockingRule" "6387c16a-9a5f-08c3-bcf7-9d5e07221f4c" "6"
+		"PlayerAbilityCustomizeBlockingRule" "07bb0b6c-a385-d6a2-e1ef-62c4ecad7c63" "7"
+		"PlayerAbilityCustomization" "bc4ae6d2-d0ec-4257-8aa5-2bb33f62f65b" "8"
+	}
+}
+
+WSSoldierCustomizationGameplayAsset 713ac2d0-dc8f-412e-bb1b-d474928d551b 0
+{
+	"UInt32" "Identifier" "2924777947"
+	"PointerRef" "Class" "external : 7180fe3e-f1d3-4d54-ad8d-b30a78c9cd23,63d69f71-4e9e-468d-9c50-8691a7cffb4c"
+	"PointerRef" "Abilities" "internal : bc4ae6d2-d0ec-4257-8aa5-2bb33f62f65b,8"
+	"List" "AffectorsAppliedOnSpawn"
+	{
+		"PointerRef" "" "external : 2d84116c-a024-426f-a153-105945a9eca6,0519628b-710b-4b34-9ff6-77b2c6522363"
+		"PointerRef" "" "external : 7079a737-9d60-4266-9203-e04b37fbe514,9534862c-e4be-416b-8358-0cedf6988e01"
+		"PointerRef" "" "external : 97e9e3b6-ea5d-49f5-af50-740b96491271,4560dde9-ebb4-4c1b-a69b-ad8ce62be19b"
+		"PointerRef" "" "external : 1f308861-7ce8-4ae5-b33a-4c26ebe3acbc,2fbb2bd5-e574-47b6-b956-654ed96e7686"
+	}
+	"PointerRef" "Unlock" "null"
+	"PointerRef" "GateUnlock" "null"
+	"WSKitSpawnerType" "SpawnerType" "WSKitSpawnerType_Default"
+	"CString" "KillswitchName" "KS_Special_DeathTrooper"
+	"CString" "Name" "S9_1/Gameplay/Kits/Specials/DeathTrooper/GP_Special_DeathTrooper-AP"
+}
+
+PlayerAbilityCustomizeBlockingRule 02722f02-0f75-6ec6-b05d-b17fe4e6e0aa 1
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "2194032901"
+}
+
+PlayerAbilityCustomizeBlockingRule 302c9738-429a-a251-d8b1-217d8309408d 2
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "3193283672"
+}
+
+PlayerAbilityCustomizeBlockingRuleGroup 4511053d-b66f-cca0-34ec-fa061212d017 3
+{
+	"List" "Rules"
+	{
+		"PointerRef" "" "internal : 6387c16a-9a5f-08c3-bcf7-9d5e07221f4c,6"
+		"PointerRef" "" "internal : 07bb0b6c-a385-d6a2-e1ef-62c4ecad7c63,7"
+		"PointerRef" "" "internal : 302c9738-429a-a251-d8b1-217d8309408d,2"
+		"PointerRef" "" "internal : 02722f02-0f75-6ec6-b05d-b17fe4e6e0aa,1"
+		"PointerRef" "" "internal : b610345a-6de4-528d-6cad-d1ee3ba7e36d,5"
+	}
+	"UInt32" "MaxOffenders" "2"
+}
+
+PlayerAbilityCollection 3e837a54-7f8f-e139-e1f4-137f6a6060ba 4
+{
+	"List" "Abilities"
+	{
+		"PointerRef" "" "external : d0895bae-debc-44b9-a9a0-6d059a1b15de,31c5b664-2bd6-4097-9efa-e90d14b1af78"
+		"PointerRef" "" "external : 6fec1d89-20ff-4141-8d48-fc26f8710041,d8bf8267-e070-4739-9bde-71ae8f09b232"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : c41a3379-d994-4f2b-b48d-f6db60d369c8,4ff64b09-f4f2-4642-be3e-d9a7c84a3c73"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : 6aea5f83-0dd3-44c1-a884-5240fd7cef4a,1b1847e3-6f1c-47f9-a219-cc4381be04ed"
+		"PointerRef" "" "external : a6f98de8-234f-4766-9d2b-8e8927f47f3d,650e212a-c155-484d-89f1-a7207b2daa7e"
+		"PointerRef" "" "external : a7e5bfd7-2c12-46de-b306-743db2f399b9,32e0db8a-66a3-4de3-9e73-2dce92259895"
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+}
+
+PlayerAbilityCustomizeBlockingRule b610345a-6de4-528d-6cad-d1ee3ba7e36d 5
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "4026974446"
+}
+
+PlayerAbilityCustomizeBlockingRule 6387c16a-9a5f-08c3-bcf7-9d5e07221f4c 6
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "2805022687"
+}
+
+PlayerAbilityCustomizeBlockingRule 07bb0b6c-a385-d6a2-e1ef-62c4ecad7c63 7
+{
+	"List" "PlayerAbilityBlocked"
+	{
+	}
+	"UInt32" "PlayerAbilitySource" "3009047027"
+}
+
+PlayerAbilityCustomization bc4ae6d2-d0ec-4257-8aa5-2bb33f62f65b 8
+{
+	"PointerRef" "AllAbilities" "internal : 3e837a54-7f8f-e139-e1f4-137f6a6060ba,4"
+	"List" "AdditionalAbilities"
+	{
+		"PointerRef" "" "external : 98b812d4-28dc-440a-8be8-8bcea6e5c54b,ea2c5a6e-7b50-4c57-9ca5-882d4b197b93"
+	}
+	"List" "DefaultAbilities"
+	{
+		"PointerRef" "" "external : d0895bae-debc-44b9-a9a0-6d059a1b15de,31c5b664-2bd6-4097-9efa-e90d14b1af78"
+		"PointerRef" "" "external : 6fec1d89-20ff-4141-8d48-fc26f8710041,d8bf8267-e070-4739-9bde-71ae8f09b232"
+		"PointerRef" "" "external : 360b3c63-b8b0-48b6-995a-24f2cf61bce4,4d542ece-8368-4c70-af76-5efbaa062b54"
+		"PointerRef" "" "external : 7ddcad84-a058-4fce-9fd8-dad5393e54ee,90bf65ff-80fe-444a-9e1a-1c6b80fd78dd"
+		"PointerRef" "" "external : c41a3379-d994-4f2b-b48d-f6db60d369c8,4ff64b09-f4f2-4642-be3e-d9a7c84a3c73"
+		"PointerRef" "" "external : 67c8c768-feff-4d87-b406-db910b30c6e7,72147c83-ab68-41a7-8f54-2dfab88470ac"
+		"PointerRef" "" "external : 6aea5f83-0dd3-44c1-a884-5240fd7cef4a,1b1847e3-6f1c-47f9-a219-cc4381be04ed"
+		"PointerRef" "" "external : a6f98de8-234f-4766-9d2b-8e8927f47f3d,650e212a-c155-484d-89f1-a7207b2daa7e"
+		"PointerRef" "" "external : a7e5bfd7-2c12-46de-b306-743db2f399b9,32e0db8a-66a3-4de3-9e73-2dce92259895"
+	}
+	"List" "AbilityBlockingRules"
+	{
+		"PointerRef" "" "internal : 4511053d-b66f-cca0-34ec-fa061212d017,3"
+	}
+	"List" "Emotes"
+	{
+	}
+	"List" "VoiceLines"
+	{
+	}
+	"List" "VictoryPoses"
+	{
+	}
+	"CString" "Name" ""
+}
+

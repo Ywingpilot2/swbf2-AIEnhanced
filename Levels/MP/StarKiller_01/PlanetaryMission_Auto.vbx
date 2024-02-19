@@ -1,0 +1,136 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "Levels/MP/StarKiller_01/PlanetaryMission_Auto"
+	"type" "LayerData"
+	"fid" "ba37ca95-bd23-49ae-abeb-24912f676c70"
+	
+	Objects
+	{
+		"LayerData" "838d4f50-f9ba-4086-a228-4bf7cf1b0e00" "0"
+		"AlternateSpawnEntityData" "41c65a64-4c1f-4b34-ba98-a6cea37770d5" "1"
+		"SchematicChannelEntityData" "b21631ac-d61b-8f99-33ea-c9c9de72b5cf" "2"
+		"AlternateSpawnEntityData" "90c078cd-e36c-4139-a458-2c7c9dfa701a" "3"
+		"LocalLocatorEntityData" "c7a51cde-c723-c80b-02d1-a8ff3aa82629" "4"
+		"LocalLocatorEntityData" "578e3ce4-c90f-a49e-aebb-545c2f050dc9" "5"
+	}
+}
+
+LayerData 838d4f50-f9ba-4086-a228-4bf7cf1b0e00 0
+{
+	"Guid" "HackToSolveRealTimeTweakingIssue" "3673f52c-de97-74e4-452f-dbd7fdeed185"
+	"Boolean" "Enabled" "True"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : c7a51cde-c723-c80b-02d1-a8ff3aa82629,4"
+		"PointerRef" "" "internal : 578e3ce4-c90f-a49e-aebb-545c2f050dc9,5"
+		"PointerRef" "" "internal : b21631ac-d61b-8f99-33ea-c9c9de72b5cf,2"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+	}
+	"UInt16" "Flags" "0"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "null"
+	"CString" "Name" "Levels/MP/StarKiller_01/PlanetaryMission_Auto"
+}
+
+AlternateSpawnEntityData 41c65a64-4c1f-4b34-ba98-a6cea37770d5 1
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "-0.991466,0,0.1303634"
+		"Vec3" "forward" "-0.1303634,0,-0.991466"
+	}
+	"UInt32" "Flags" "100663296"
+}
+
+SchematicChannelEntityData b21631ac-d61b-8f99-33ea-c9c9de72b5cf 2
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "Channel" "external : 2cf42764-cf48-4120-88c4-fd7c69019940,3ba49729-8e4b-44bd-9bba-25db20c1175d"
+	"List" "InputProperties"
+	{
+		"Int32" "" "0"
+		"Int32" "" "1"
+		"Int32" "" "2"
+		"Int32" "" "3"
+	}
+	"List" "InputRefProperties"
+	{
+	}
+	"List" "OutputProperties"
+	{
+	}
+	"List" "OutputRefProperties"
+	{
+	}
+	"UInt32" "Flags" "480927910"
+}
+
+AlternateSpawnEntityData 90c078cd-e36c-4139-a458-2c7c9dfa701a 3
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "0.9972259,0,-0.07442939"
+		"Vec3" "forward" "0.07442939,0,0.9972259"
+	}
+	"UInt32" "Flags" "100663296"
+}
+
+LocalLocatorEntityData c7a51cde-c723-c80b-02d1-a8ff3aa82629 4
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "20.85,1278.09,1003.76"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "20399823"
+}
+
+LocalLocatorEntityData 578e3ce4-c90f-a49e-aebb-545c2f050dc9 5
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "34.08,1278.78,1044.45"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"UInt32" "Flags" "20399823"
+}
+
