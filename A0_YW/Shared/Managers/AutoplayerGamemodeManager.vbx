@@ -29,6 +29,8 @@ FILEDATA
 		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "14"
 		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "15"
 		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "16"
+		"LogicPrefabReferenceObjectData" "a0ac0d07-10e1-fe90-b5ab-42b0425e1448" "17"
+		"LogicPrefabReferenceObjectData" "fb6b51df-89a1-8501-35dd-4e7b2d586950" "18"
 	}
 }
 
@@ -52,6 +54,8 @@ LogicPrefabBlueprint 54f2f86e-80e7-9c20-a263-475f60ada330 0
 		"PointerRef" "" "internal : 7b25e183-44ca-ef7c-4d7c-d140992805f0,3"
 		"PointerRef" "" "internal : bff5350c-b567-7274-ea0b-905c597a376c,1"
 		"PointerRef" "" "internal : aa5a03a7-da24-d952-9d0c-37b6c6f3aca5,8"
+		"PointerRef" "" "internal : a0ac0d07-10e1-fe90-b5ab-42b0425e1448,17"
+		"PointerRef" "" "internal : fb6b51df-89a1-8501-35dd-4e7b2d586950,18"
 	}
 	"PointerRef" "Schematics" "null"
 	"List" "EventConnections"
@@ -133,6 +137,86 @@ LogicPrefabBlueprint 54f2f86e-80e7-9c20-a263-475f60ada330 0
 			{
 				"Int32" "Id" "1266103925"
 				"CString" "Name" "InitiateManager"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 4ad9438b-3354-70e0-dad2-b2496135654c,4"
+			"PointerRef" "Target" "internal : a0ac0d07-10e1-fe90-b5ab-42b0425e1448,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 94164eac-035b-ac5d-ccbb-bd9419c99ed4,9"
+			"PointerRef" "Target" "internal : a0ac0d07-10e1-fe90-b5ab-42b0425e1448,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 9854aa69-da9a-23c0-730d-ecd84efab8e8,2"
+			"PointerRef" "Target" "internal : a0ac0d07-10e1-fe90-b5ab-42b0425e1448,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : f1b38597-92fe-c211-4505-e72563055228,5"
+			"PointerRef" "Target" "internal : a0ac0d07-10e1-fe90-b5ab-42b0425e1448,17"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : bff5350c-b567-7274-ea0b-905c597a376c,1"
+			"PointerRef" "Target" "internal : fb6b51df-89a1-8501-35dd-4e7b2d586950,18"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-358781735"
+				"CString" "Name" "OnActivated"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
 			}
 			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
 		}
@@ -515,5 +599,83 @@ InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 16
 	"List" "Fields"
 	{
 	}
+}
+
+LogicPrefabReferenceObjectData a0ac0d07-10e1-fe90-b5ab-42b0425e1448 17
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 269f1e7e-6aab-4fe2-a0b5-6f5591f42b86,830b921b-7c01-37b9-0613-69ae6c97d9d3"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "78384391"
+}
+
+LogicPrefabReferenceObjectData fb6b51df-89a1-8501-35dd-4e7b2d586950 18
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+		"Vec3" "up" "0,1,0"
+		"Vec3" "right" "1,0,0"
+		"Vec3" "forward" "0,0,1"
+	}
+	"PointerRef" "Blueprint" "external : 87a5c716-9f83-4ba5-85ba-96379334b4f8,2663669c-5b04-212d-90df-7683bd9400d0"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "74142175"
 }
 
