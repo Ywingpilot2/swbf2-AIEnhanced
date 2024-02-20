@@ -12,22 +12,22 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "75db5b95-d3d7-c36c-ab6c-ce68e97b0776" "0"
-		"CompareBoolEntityData" "188f7908-59f2-cda1-4a46-32e7e343a6d5" "1"
-		"CompareBoolEntityData" "3f8f913c-89a7-82ed-3bc8-fb6d92f7e080" "2"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "3"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "4"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "5"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "6"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "7"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "8"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "9"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "10"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "11"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "12"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "13"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "14"
-		"SchematicChannelEntityData" "00000000-0000-0000-0000-000000000000" "15"
+		"LogicPrefabBlueprint" "75db5b95-d3d7-c36c-ab6c-ce68e97b0776" "0" "True"
+		"CompareBoolEntityData" "188f7908-59f2-cda1-4a46-32e7e343a6d5" "1" "False"
+		"CompareBoolEntityData" "3f8f913c-89a7-82ed-3bc8-fb6d92f7e080" "2" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "5" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "7" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "11" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "14" "False"
+		"SchematicChannelEntityData" "00000000-0000-0000-0000-000000000000" "15" "False"
 	}
 }
 
@@ -297,9 +297,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 4
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : ce593baf-97fd-4e3c-984a-78208daafa2c,726b723c-a863-01b8-5b54-c4a796f7f770"
 	"PointerRef" "ObjectVariation" "null"
@@ -336,9 +333,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 5
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 3ded580d-3fda-473b-86f7-211225ff0040,aef7e6bc-ce2a-e9c9-aa6d-765944a59161"
 	"PointerRef" "ObjectVariation" "null"
@@ -375,9 +369,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 6
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 16657c37-e682-4712-98ea-bb76636d3be4,ca721d50-6eea-3ff3-ff22-27f9663db411"
 	"PointerRef" "ObjectVariation" "null"
@@ -414,9 +405,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 7
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : ce593baf-97fd-4e3c-984a-78208daafa2c,726b723c-a863-01b8-5b54-c4a796f7f770"
 	"PointerRef" "ObjectVariation" "null"
@@ -453,9 +441,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 8
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 16657c37-e682-4712-98ea-bb76636d3be4,ca721d50-6eea-3ff3-ff22-27f9663db411"
 	"PointerRef" "ObjectVariation" "null"
@@ -492,9 +477,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 9
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : ce593baf-97fd-4e3c-984a-78208daafa2c,726b723c-a863-01b8-5b54-c4a796f7f770"
 	"PointerRef" "ObjectVariation" "null"
@@ -531,9 +513,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 10
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 3ded580d-3fda-473b-86f7-211225ff0040,aef7e6bc-ce2a-e9c9-aa6d-765944a59161"
 	"PointerRef" "ObjectVariation" "null"
@@ -570,9 +549,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 11
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 3e8e16a6-e121-11e9-8f1b-9777a26a3cfe,da220db2-f9f2-d1c5-486a-952b292397dc"
 	"PointerRef" "ObjectVariation" "null"
@@ -609,9 +585,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 12
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 3e8e16a6-e121-11e9-8f1b-9777a26a3cfe,da220db2-f9f2-d1c5-486a-952b292397dc"
 	"PointerRef" "ObjectVariation" "null"
@@ -648,9 +621,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 13
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 3e8e16a6-e121-11e9-8f1b-9777a26a3cfe,da220db2-f9f2-d1c5-486a-952b292397dc"
 	"PointerRef" "ObjectVariation" "null"
@@ -687,9 +657,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 14
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 3e8e16a6-e121-11e9-8f1b-9777a26a3cfe,da220db2-f9f2-d1c5-486a-952b292397dc"
 	"PointerRef" "ObjectVariation" "null"

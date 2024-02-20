@@ -12,17 +12,17 @@ FILEDATA
 	
 	Objects
 	{
-		"LayerData" "1c27624d-3e05-4c6a-9caa-64e7e2a8fd9c" "0"
-		"PathfindingStreamEntityData" "0b154953-d542-ccda-0879-14bf108921dd" "1"
-		"SyncedBoolEntityData" "6f002d59-e1a3-409d-8543-e579dec0dd6d" "2"
-		"PathfindingStreamEntityData" "3cb7df62-4987-6fbc-4042-bd426df6c4d9" "3"
-		"SyncedBoolEntityData" "690f186b-4112-48d5-ba3f-08463580277e" "4"
-		"AndEntityData" "25d69f99-3310-4d8c-966b-d149627d01e2" "5"
-		"SettingEntityData" "9c2b12a8-1fdf-4d86-b4c3-cdf75ee73327" "6"
-		"PathfindingStreamEntityData" "e2e4c6b0-8a51-4eb6-949b-912b9f157b8b" "7"
-		"PathfindingStreamEntityData" "4f850cc1-a237-4c93-93fb-990843756023" "8"
-		"InclusionSettingEntityData" "498247c5-267a-4b73-9dc0-bbfb7180d12a" "9"
-		"InclusionSettingEntityData" "0fcf03e0-4e9b-4d16-8097-4487190032bd" "10"
+		"LayerData" "1c27624d-3e05-4c6a-9caa-64e7e2a8fd9c" "0" "True"
+		"PathfindingStreamEntityData" "0b154953-d542-ccda-0879-14bf108921dd" "1" "False"
+		"SyncedBoolEntityData" "6f002d59-e1a3-409d-8543-e579dec0dd6d" "2" "False"
+		"PathfindingStreamEntityData" "3cb7df62-4987-6fbc-4042-bd426df6c4d9" "3" "False"
+		"SyncedBoolEntityData" "690f186b-4112-48d5-ba3f-08463580277e" "4" "False"
+		"AndEntityData" "25d69f99-3310-4d8c-966b-d149627d01e2" "5" "False"
+		"SettingEntityData" "9c2b12a8-1fdf-4d86-b4c3-cdf75ee73327" "6" "False"
+		"PathfindingStreamEntityData" "e2e4c6b0-8a51-4eb6-949b-912b9f157b8b" "7" "False"
+		"PathfindingStreamEntityData" "4f850cc1-a237-4c93-93fb-990843756023" "8" "False"
+		"InclusionSettingEntityData" "498247c5-267a-4b73-9dc0-bbfb7180d12a" "9" "False"
+		"InclusionSettingEntityData" "0fcf03e0-4e9b-4d16-8097-4487190032bd" "10" "False"
 	}
 }
 

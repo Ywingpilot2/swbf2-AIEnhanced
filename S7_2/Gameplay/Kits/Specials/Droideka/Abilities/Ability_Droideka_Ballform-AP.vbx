@@ -12,10 +12,10 @@ FILEDATA
 	
 	Objects
 	{
-		"RetriggerablePlayerAbilityAsset" "05a2bac6-63ca-4edc-8bfe-630efc133f42" "0"
-		"CharacterStateBoolChannelValueData" "7940103d-55ca-4122-a78c-cdb66858186d" "1"
-		"CharacterStateBoolChannelValueData" "77ab8763-4d20-46dd-beb5-87717e255874" "2"
-		"CharacterStateBoolRequiredChannelValueData" "41e5abc7-873e-48c9-b932-9e6d8b6594ae" "3"
+		"RetriggerablePlayerAbilityAsset" "05a2bac6-63ca-4edc-8bfe-630efc133f42" "0" "True"
+		"CharacterStateBoolChannelValueData" "7940103d-55ca-4122-a78c-cdb66858186d" "1" "False"
+		"CharacterStateBoolChannelValueData" "77ab8763-4d20-46dd-beb5-87717e255874" "2" "False"
+		"CharacterStateBoolRequiredChannelValueData" "41e5abc7-873e-48c9-b932-9e6d8b6594ae" "3" "False"
 	}
 }
 

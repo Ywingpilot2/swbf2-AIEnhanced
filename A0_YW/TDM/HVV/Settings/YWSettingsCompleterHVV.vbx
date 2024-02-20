@@ -12,11 +12,11 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "2663669c-5b04-212d-90df-7683bd9400d0" "0"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "1"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "2"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "3"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "4"
+		"LogicPrefabBlueprint" "2663669c-5b04-212d-90df-7683bd9400d0" "0" "True"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "1" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "4" "False"
 	}
 }
 
@@ -141,9 +141,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 2
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 30eab93f-d9af-4763-950c-0d219c7f1d0f,85c7c467-e9f5-eac8-f8df-5c5c161005f1"
 	"PointerRef" "ObjectVariation" "null"
@@ -180,9 +177,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 3
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 69116950-39a6-4fc5-bf33-c67d7ef6910e,5935ead3-7abd-a3ac-5a83-297d0da7be0e"
 	"PointerRef" "ObjectVariation" "null"
@@ -219,9 +213,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 4
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : 31beb8cd-8033-40b3-aec9-47e0708aa59f,6165236c-96eb-bce0-c286-db6f70a2a766"
 	"PointerRef" "ObjectVariation" "null"

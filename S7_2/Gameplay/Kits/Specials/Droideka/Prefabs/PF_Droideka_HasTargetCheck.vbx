@@ -12,14 +12,14 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "25bf3dca-f330-3018-17d7-78417e42af7d" "0"
-		"DistributedOrInputEntityData" "00000000-0000-0000-0000-000000000000" "1"
-		"DynamicQueryFilterEntityData" "00000000-0000-0000-0000-000000000000" "2"
-		"EntityTransformLinkData" "00000000-0000-0000-0000-000000000000" "3"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "4"
-		"MathEntityData" "00000000-0000-0000-0000-000000000000" "5"
-		"SphereQueryEntityData" "00000000-0000-0000-0000-000000000000" "6"
-		"TransformQueryEntityData" "00000000-0000-0000-0000-000000000000" "7"
+		"LogicPrefabBlueprint" "25bf3dca-f330-3018-17d7-78417e42af7d" "0" "True"
+		"DistributedOrInputEntityData" "00000000-0000-0000-0000-000000000000" "1" "False"
+		"DynamicQueryFilterEntityData" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"EntityTransformLinkData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"MathEntityData" "00000000-0000-0000-0000-000000000000" "5" "False"
+		"SphereQueryEntityData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"TransformQueryEntityData" "00000000-0000-0000-0000-000000000000" "7" "False"
 	}
 }
 
@@ -212,21 +212,15 @@ DynamicQueryFilterEntityData 00000000-0000-0000-0000-000000000000 2
 	}
 	"LinearTransform" "StartTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"LinearTransform" "LineOfSightStartTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"QueryEntityResult" "Input" 
 	{

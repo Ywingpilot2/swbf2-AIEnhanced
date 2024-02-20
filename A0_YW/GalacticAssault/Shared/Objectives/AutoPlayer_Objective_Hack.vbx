@@ -12,11 +12,11 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "62732815-593b-0700-d35b-995e2888b9f3" "0"
-		"AutoPlayerInteractObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "1"
-		"AutoPlayerMoveObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "2"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "3"
-		"TransformSplitterEntityData" "00000000-0000-0000-0000-000000000000" "4"
+		"LogicPrefabBlueprint" "62732815-593b-0700-d35b-995e2888b9f3" "0" "True"
+		"AutoPlayerInteractObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "1" "False"
+		"AutoPlayerMoveObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"TransformSplitterEntityData" "00000000-0000-0000-0000-000000000000" "4" "False"
 	}
 }
 
@@ -272,9 +272,6 @@ TransformSplitterEntityData 00000000-0000-0000-0000-000000000000 4
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"UInt32" "Flags" "270546303"
 }

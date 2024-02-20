@@ -12,22 +12,22 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "bb9a1ae5-836b-67bf-7fca-483e6c6c1f61" "0"
-		"TeamFilterEntityData" "fe201db1-ff31-634a-9fe1-02550b92044c" "2"
-		"TeamFilterEntityData" "350577bb-7bc9-5862-57bf-828f1519d2c6" "3"
-		"AutoplayerIsGameplayEntityData" "8c0cf0ca-dcfe-84cc-bdc9-731084f85011" "4"
-		"AutoplayerIsGameplayEntityData" "1bfb68e1-7168-772f-b9ad-f58c534c334f" "5"
-		"ConsoleCommandEntityData" "9ea0a5eb-e079-869c-b666-601a8f45c514" "6"
-		"AutoPlayerEntityData" "00000000-0000-0000-0000-000000000000" "7"
-		"AutoPlayerManagerEntityData" "00000000-0000-0000-0000-000000000000" "8"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9"
-		"ConsoleCommandEntityData" "00000000-0000-0000-0000-000000000000" "10"
-		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "11"
-		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "12"
-		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "13"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "14"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15"
-		"SelectIntEntityData" "00000000-0000-0000-0000-000000000000" "17"
+		"LogicPrefabBlueprint" "bb9a1ae5-836b-67bf-7fca-483e6c6c1f61" "0" "True"
+		"TeamFilterEntityData" "fe201db1-ff31-634a-9fe1-02550b92044c" "2" "False"
+		"TeamFilterEntityData" "350577bb-7bc9-5862-57bf-828f1519d2c6" "3" "False"
+		"AutoplayerIsGameplayEntityData" "8c0cf0ca-dcfe-84cc-bdc9-731084f85011" "4" "False"
+		"AutoplayerIsGameplayEntityData" "1bfb68e1-7168-772f-b9ad-f58c534c334f" "5" "False"
+		"ConsoleCommandEntityData" "9ea0a5eb-e079-869c-b666-601a8f45c514" "6" "False"
+		"AutoPlayerEntityData" "00000000-0000-0000-0000-000000000000" "7" "False"
+		"AutoPlayerManagerEntityData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"ConsoleCommandEntityData" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "11" "False"
+		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "14" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15" "False"
+		"SelectIntEntityData" "00000000-0000-0000-0000-000000000000" "17" "False"
 	}
 }
 
@@ -458,9 +458,6 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 15
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"PointerRef" "Blueprint" "external : d4ea04b0-8892-440f-8a74-36db44d9fbf6,ef835c06-8793-cad1-3261-e8cc2e5bf705"
 	"PointerRef" "ObjectVariation" "null"

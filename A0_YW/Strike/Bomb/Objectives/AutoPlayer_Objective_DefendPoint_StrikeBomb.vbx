@@ -12,14 +12,14 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "da8db7ce-4e98-8752-4511-4cd297e5efe9" "0"
-		"RandomDelayEntityData" "41e9a095-e31b-29a4-7fc3-7091585f51c5" "1"
-		"DelayEntityData" "bbf572e6-4ce1-dd0e-609c-a3d138d4649d" "2"
-		"AutoPlayerDefendObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "3"
-		"AutoPlayerInteractObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "4"
-		"AutoPlayerMoveObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "5"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "6"
-		"TransformSplitterEntityData" "00000000-0000-0000-0000-000000000000" "7"
+		"LogicPrefabBlueprint" "da8db7ce-4e98-8752-4511-4cd297e5efe9" "0" "True"
+		"RandomDelayEntityData" "41e9a095-e31b-29a4-7fc3-7091585f51c5" "1" "False"
+		"DelayEntityData" "bbf572e6-4ce1-dd0e-609c-a3d138d4649d" "2" "False"
+		"AutoPlayerDefendObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"AutoPlayerInteractObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"AutoPlayerMoveObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "5" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"TransformSplitterEntityData" "00000000-0000-0000-0000-000000000000" "7" "False"
 	}
 }
 
@@ -428,9 +428,6 @@ TransformSplitterEntityData 00000000-0000-0000-0000-000000000000 7
 		"Vec3" "Translate" "3.402823E+38,0,0"
 		"Vec3" "Rotation" "3.402823E+38,0,0"
 		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"UInt32" "Flags" "286494790"
 }

@@ -12,17 +12,17 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "efd4b46d-a6b5-0d47-9969-99a0d3ee8eb8" "0"
-		"AndEntityData" "2f146d0d-4a91-cd6d-3704-4fade7797ba6" "1"
-		"AndEntityData" "93cb68b8-9569-ddf8-08e5-3e4240705c98" "2"
-		"CompareBoolEntityData" "531d16d6-acc1-298b-d8d2-4fc09361c8d4" "3"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "4"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "5"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "6"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "7"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "8"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "10"
+		"LogicPrefabBlueprint" "efd4b46d-a6b5-0d47-9969-99a0d3ee8eb8" "0" "True"
+		"AndEntityData" "2f146d0d-4a91-cd6d-3704-4fade7797ba6" "1" "False"
+		"AndEntityData" "93cb68b8-9569-ddf8-08e5-3e4240705c98" "2" "False"
+		"CompareBoolEntityData" "531d16d6-acc1-298b-d8d2-4fc09361c8d4" "3" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "5" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "7" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "10" "False"
 	}
 }
 

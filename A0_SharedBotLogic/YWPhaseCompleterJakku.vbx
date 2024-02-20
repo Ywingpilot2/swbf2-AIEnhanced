@@ -12,21 +12,21 @@ FILEDATA
 	
 	Objects
 	{
-		"LogicPrefabBlueprint" "8a51b5b2-7f03-5515-9d8c-9b9581fe062b" "0"
-		"AndEntityData" "2f146d0d-4a91-cd6d-3704-4fade7797ba6" "1"
-		"CompareBoolEntityData" "49e6af30-2cb8-989e-164b-78c992ee4090" "2"
-		"CompareBoolEntityData" "5aed8c50-1158-31e9-9c9f-c34e5dcfed32" "3"
-		"CompareBoolEntityData" "0202fc6a-9347-1a76-b553-150975ecd0e5" "4"
-		"AndEntityData" "4f5b5e84-5013-a4e1-f1f6-33ef2e6ac708" "5"
-		"AndEntityData" "93cb68b8-9569-ddf8-08e5-3e4240705c98" "6"
-		"CompareBoolEntityData" "531d16d6-acc1-298b-d8d2-4fc09361c8d4" "7"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "8"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "10"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "11"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "12"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "13"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "14"
+		"LogicPrefabBlueprint" "8a51b5b2-7f03-5515-9d8c-9b9581fe062b" "0" "True"
+		"AndEntityData" "2f146d0d-4a91-cd6d-3704-4fade7797ba6" "1" "False"
+		"CompareBoolEntityData" "49e6af30-2cb8-989e-164b-78c992ee4090" "2" "False"
+		"CompareBoolEntityData" "5aed8c50-1158-31e9-9c9f-c34e5dcfed32" "3" "False"
+		"CompareBoolEntityData" "0202fc6a-9347-1a76-b553-150975ecd0e5" "4" "False"
+		"AndEntityData" "4f5b5e84-5013-a4e1-f1f6-33ef2e6ac708" "5" "False"
+		"AndEntityData" "93cb68b8-9569-ddf8-08e5-3e4240705c98" "6" "False"
+		"CompareBoolEntityData" "531d16d6-acc1-298b-d8d2-4fc09361c8d4" "7" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "11" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "14" "False"
 	}
 }
 

@@ -12,37 +12,37 @@ FILEDATA
 	
 	Objects
 	{
-		"SubWorldData" "57d62a4e-7655-46c4-8e70-1bdb66d1d741" "0"
-		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "1"
-		"GroupHavokAsset" "00000000-0000-0000-0000-000000000000" "2"
-		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "3"
-		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "4"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "5"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "6"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "7"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "8"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "9"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "10"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "11"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "12"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "13"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "14"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "16"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "17"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "18"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "19"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "20"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "21"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "22"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "23"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "24"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "25"
-		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "26"
-		"ShadowExtrusionDataEntityData" "00000000-0000-0000-0000-000000000000" "27"
-		"StaticModelGroupEntityData" "00000000-0000-0000-0000-000000000000" "28"
-		"StaticModelGroupHealthComponentData" "00000000-0000-0000-0000-000000000000" "29"
-		"StaticModelGroupPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "30"
+		"SubWorldData" "57d62a4e-7655-46c4-8e70-1bdb66d1d741" "0" "True"
+		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "1" "False"
+		"GroupHavokAsset" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "5" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "7" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "11" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "14" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "16" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "17" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "18" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "19" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "20" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "21" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "22" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "23" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "24" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "25" "False"
+		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "26" "False"
+		"ShadowExtrusionDataEntityData" "00000000-0000-0000-0000-000000000000" "27" "False"
+		"StaticModelGroupEntityData" "00000000-0000-0000-0000-000000000000" "28" "False"
+		"StaticModelGroupHealthComponentData" "00000000-0000-0000-0000-000000000000" "29" "False"
+		"StaticModelGroupPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "30" "False"
 	}
 }
 
@@ -17827,12 +17827,9 @@ GroupRigidBodyData 00000000-0000-0000-0000-000000000000 3
 	}
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"Vec3" "CenterOfMass" "0,0,0"
 	"Vec3" "InertiaModifier" "1,1,1"
@@ -17938,12 +17935,9 @@ GroupRigidBodyData 00000000-0000-0000-0000-000000000000 4
 	}
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"Vec3" "CenterOfMass" "0,0,0"
 	"Vec3" "InertiaModifier" "1,1,1"
@@ -18698,12 +18692,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 6
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : b7737aaf-d648-4f1e-b1ce-3d3ce2afe8dd,efc8973c-4ddf-4401-8c60-525df833fea7"
 	"PointerRef" "ObjectVariation" "null"
@@ -18735,12 +18726,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 7
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 9571b645-daf1-4f1e-8f0a-c222ca7a271b,7cac0d28-9066-40e3-a0b4-6258ee2421c6"
 	"PointerRef" "ObjectVariation" "null"
@@ -18772,12 +18760,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 8
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 9803ba81-4d60-4b98-a474-f9a8c66580de,2359e76b-b2c8-4ea2-a48c-a84d93de91b0"
 	"PointerRef" "ObjectVariation" "null"
@@ -18809,12 +18794,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 9
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : d01b1655-0e49-4a5c-ab12-150fad489da9,9c5ceb5e-04fc-431a-85b8-46d238b5c44f"
 	"PointerRef" "ObjectVariation" "null"
@@ -18846,12 +18828,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 10
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 9c2e48b8-28b0-49c7-8568-a68a16db5c6c,2648a34e-ba91-43d3-a483-ba8960fe1fc4"
 	"PointerRef" "ObjectVariation" "null"
@@ -18883,12 +18862,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 11
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 1472270f-90fd-41d6-a05f-9eab257989ae,bdaff662-4c24-4ac2-a2d2-1d35477b6987"
 	"PointerRef" "ObjectVariation" "null"
@@ -18920,12 +18896,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 12
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : c033da6c-f7ac-4b6f-913f-5b2b87f4ac13,f92261f9-d396-4fa1-b015-5d3e30bb1ffc"
 	"PointerRef" "ObjectVariation" "null"
@@ -18957,12 +18930,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 13
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 8afc1104-3f57-4688-9248-094d3eba1b7e,ba3f8290-753e-49f0-b53d-c5365f75d117"
 	"PointerRef" "ObjectVariation" "null"
@@ -18994,12 +18964,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 14
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : bc74860f-39ae-41bb-bc48-13e8340d072d,548ac9e4-ed4f-454b-a691-f8eb0eb92a78"
 	"PointerRef" "ObjectVariation" "null"
@@ -19031,12 +18998,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 15
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : e20c5ba6-0cb3-44fb-9f23-b59390c97b07,4a9ea1a2-f6ee-4108-bfe1-fd7ab6b76be4"
 	"PointerRef" "ObjectVariation" "null"
@@ -19068,12 +19032,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 16
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : fde67540-8130-473a-a108-b2571fd48da6,0235cba6-6856-4da2-840f-6b6f3b944984"
 	"PointerRef" "ObjectVariation" "null"
@@ -19105,12 +19066,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 17
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 468e61e8-8c97-41a3-a91a-2125e250aae3,f9cf7f99-d247-425d-9d8c-baa2e7edce4d"
 	"PointerRef" "ObjectVariation" "null"
@@ -19142,12 +19100,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 18
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 8564cf46-2e4e-4d7b-b36c-fc4baf343a3e,fd55dbbf-56fb-4939-83af-f41b1ecbefc0"
 	"PointerRef" "ObjectVariation" "null"
@@ -19179,12 +19134,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 19
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 17ab8edf-715e-42d8-819f-a881bdac5891,2b47eeca-bfaf-424a-83c3-53ec20d91f42"
 	"PointerRef" "ObjectVariation" "null"
@@ -19216,12 +19168,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 20
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : bd683a61-06d2-42a4-83df-30fac95002a9,c600c45e-ff50-4ef9-9761-c503f72c9497"
 	"PointerRef" "ObjectVariation" "null"
@@ -19253,12 +19202,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 21
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 030a07e7-de55-4f1e-a388-c404ea767688,27c7b9f2-f557-4b54-9d23-28d852c56ba1"
 	"PointerRef" "ObjectVariation" "null"
@@ -19290,12 +19236,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 22
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : c70d7a9a-7a29-4031-a152-db06997b7e7b,6f881718-aa81-4a7e-a1ca-70344fa39b4d"
 	"PointerRef" "ObjectVariation" "null"
@@ -19327,12 +19270,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 23
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 5c7b6e0b-f880-40e2-9c61-65cad3139348,f89800ae-2f45-411b-8e83-a8cb33d65c8b"
 	"PointerRef" "ObjectVariation" "null"
@@ -19364,12 +19304,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 24
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 87aced60-38d7-44ac-94db-686d6e77bb0e,29e61125-c9cc-456e-985f-d100fd7d5278"
 	"PointerRef" "ObjectVariation" "null"
@@ -19401,12 +19338,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 25
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : de59b7b2-a371-4606-a2ee-0d8c42c282ce,614f9792-07e3-4059-a7a8-2b782bf602e0"
 	"PointerRef" "ObjectVariation" "null"
@@ -19687,84 +19621,57 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0,0,-1"
-					"Vec3" "forward" "1,0,0"
+					"Vec3" "Translate" "-52.6245,-28.78439,-42.14719"
+					"Vec3" "Rotation" "0,90,0"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0,0,-1"
-					"Vec3" "forward" "1,0,0"
+					"Vec3" "Translate" "-54.32721,-28.78439,-54.74881"
+					"Vec3" "Rotation" "0,90,0"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0,0,-1"
-					"Vec3" "forward" "1,0,0"
+					"Vec3" "Translate" "-48.26292,-28.78439,-37.06659"
+					"Vec3" "Rotation" "0,90,0"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "-1,0,0"
-					"Vec3" "forward" "0,0,-1"
+					"Vec3" "Translate" "1.274384,-28.77424,-80.81935"
+					"Vec3" "Rotation" "180,0,180"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "-1,0,0"
-					"Vec3" "forward" "0,0,-1"
+					"Vec3" "Translate" "3.280436,-28.77424,-78.81306"
+					"Vec3" "Rotation" "180,0,180"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "-1,0,0"
-					"Vec3" "forward" "0,0,-1"
+					"Vec3" "Translate" "12.01223,-28.77424,-57.24196"
+					"Vec3" "Rotation" "180,0,180"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "1,0,0"
-					"Vec3" "forward" "0,0,1"
+					"Vec3" "Translate" "-45.62415,-28.77107,-78.81094"
+					"Vec3" "Rotation" "0,0,0"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "1,0,0"
-					"Vec3" "forward" "0,0,1"
+					"Vec3" "Translate" "-43.62329,-28.77107,-80.82359"
+					"Vec3" "Rotation" "0,0,0"
+					"Vec3" "Scale" "1,1,1"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "1,0,0"
-					"Vec3" "forward" "0,0,1"
+					"Vec3" "Translate" "-54.371,-28.77107,-57.21856"
+					"Vec3" "Rotation" "0,0,0"
+					"Vec3" "Scale" "1,1,1"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -19803,21 +19710,15 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.4244,0,0"
-					"Vec3" "right" "0,0.4244,0"
-					"Vec3" "forward" "0,0,0.4244"
+					"Vec3" "Translate" "-22.57343,-3.753891,56.08049"
+					"Vec3" "Rotation" "0,0,90"
+					"Vec3" "Scale" "0.4244,0.4244,0.4244"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.4237975,0.0186956,0.01271053"
-					"Vec3" "right" "0.01870399,0.4239877,5.820766E-11"
-					"Vec3" "forward" "0.01269818,-0.0005601738,0.4242097"
+					"Vec3" "Translate" "-22.3051,8.743196,56.08049"
+					"Vec3" "Rotation" "1.716232,-7.858278E-09,87.47406"
+					"Vec3" "Scale" "0.4244,0.4244001,0.4244"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -19856,12 +19757,9 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.4802999,0,0"
-					"Vec3" "right" "0,0.4802999,0"
-					"Vec3" "forward" "0,0,0.4802999"
+					"Vec3" "Translate" "-25.76957,-29.6049,51.49035"
+					"Vec3" "Rotation" "0,0,90"
+					"Vec3" "Scale" "0.4802999,0.4802999,0.4802999"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -19900,12 +19798,9 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.06093438,0,-0.3961409"
-					"Vec3" "right" "0.3961409,0,-0.06093438"
-					"Vec3" "forward" "0,0.4008,0"
+					"Vec3" "Translate" "-119.7592,-19.25611,61.74072"
+					"Vec3" "Rotation" "-90,8.744697,0"
+					"Vec3" "Scale" "0.4008,0.4008,0.4008"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -19944,30 +19839,21 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,0,-0.4676"
-					"Vec3" "right" "0,-0.4676,0"
-					"Vec3" "forward" "0.4676,0,0"
+					"Vec3" "Translate" "-119.587,-18.15946,61.71292"
+					"Vec3" "Rotation" "-90,0,-90"
+					"Vec3" "Scale" "0.4676,0.4676,0.4676"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.04726815,0,-0.4652047"
-					"Vec3" "right" "0,-0.4676,0"
-					"Vec3" "forward" "0.4652047,0,-0.04726815"
+					"Vec3" "Translate" "-120.0285,-18.15946,61.76483"
+					"Vec3" "Rotation" "-95.80175,0,-90"
+					"Vec3" "Scale" "0.4676,0.4676,0.4676"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.04726814,0,-0.4652047"
-					"Vec3" "right" "0,-0.4676,0"
-					"Vec3" "forward" "0.4652047,0,-0.04726814"
+					"Vec3" "Translate" "-120.4596,-18.15947,61.82729"
+					"Vec3" "Rotation" "-95.80175,0,-90"
+					"Vec3" "Scale" "0.4676,0.4676,0.4676"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -20006,12 +19892,9 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.08434298,0.00555153,-0.6274323"
-					"Vec3" "right" "0.6274565,0.000180144,-0.08434466"
-					"Vec3" "forward" "0.000561073,0.6330757,0.005526068"
+					"Vec3" "Translate" "-119.9947,-20.17491,61.77011"
+					"Vec3" "Rotation" "-89.49538,7.655984,0.01644973"
+					"Vec3" "Scale" "0.6331001,0.6331002,0.6331"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -20050,12 +19933,9 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "-0.999976,0.006934407,-0.0005786788"
-					"Vec3" "right" "-0.006935204,-0.9999751,0.001368508"
-					"Vec3" "forward" "0.0005691647,-0.001372489,-0.999999"
+					"Vec3" "Translate" "-22.71135,-8.37659,55.69511"
+					"Vec3" "Rotation" "-179.9668,-0.07840977,-90.39736"
+					"Vec3" "Scale" "1,1,1"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -20094,84 +19974,57 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 			{
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071067"
-					"Vec3" "forward" "0.7071067,0,0.7071068"
+					"Vec3" "Translate" "81.51891,-20.16147,255.2378"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "0.9999999,1,0.9999999"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071067"
-					"Vec3" "forward" "0.7071067,0,0.7071068"
+					"Vec3" "Translate" "81.27296,-20.26122,255.5607"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "0.9999999,1,0.9999999"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071067"
-					"Vec3" "forward" "0.7071067,0,0.7071068"
+					"Vec3" "Translate" "81.17802,-20.35124,255.6073"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "0.9999999,1,0.9999999"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071067"
-					"Vec3" "forward" "0.7071067,0,0.7071068"
+					"Vec3" "Translate" "83.57745,-20.17698,253.6989"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "0.9999999,1,0.9999999"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071067"
-					"Vec3" "forward" "0.7071067,0,0.7071068"
+					"Vec3" "Translate" "83.50066,-20.16159,253.7277"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "0.9999999,1,0.9999999"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071067"
-					"Vec3" "forward" "0.7071067,0,0.7071068"
+					"Vec3" "Translate" "83.87012,-20.17563,253.3415"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "0.9999999,1,0.9999999"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7071068,0,-0.7071068"
-					"Vec3" "forward" "0.4089198,0,0.4089199"
+					"Vec3" "Translate" "83.68079,-20.17563,252.5912"
+					"Vec3" "Rotation" "0,45,0"
+					"Vec3" "Scale" "1,1,0.5783001"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.6986711,0,-0.7154431"
-					"Vec3" "forward" "0.4516592,0,0.441071"
+					"Vec3" "Translate" "80.2644,-20.01274,250.7383"
+					"Vec3" "Rotation" "0,45.67952,0"
+					"Vec3" "Scale" "1,1,0.6313"
 				}
 				"LinearTransform" ""
 				{
-					"Vec3" "Translate" "3.402823E+38,0,0"
-					"Vec3" "Rotation" "3.402823E+38,0,0"
-					"Vec3" "Scale" "3.402823E+38,0,0"
-					"Vec3" "up" "0,1,0"
-					"Vec3" "right" "0.7018685,0,-0.7123066"
-					"Vec3" "forward" "0.4496791,0,0.4430895"
+					"Vec3" "Translate" "86.00711,-20.01474,256.3928"
+					"Vec3" "Rotation" "0,45.4229,0"
+					"Vec3" "Scale" "1,1,0.6313"
 				}
 			}
 			"List" "InstanceObjectVariation"
@@ -20342,12 +20195,9 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 28
 	"Byte" "ServerRuntimeTransformationCount" "0"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"UInt32" "Flags" "27595284"
 }
@@ -20359,12 +20209,9 @@ StaticModelGroupHealthComponentData 00000000-0000-0000-0000-000000000000 29
 	"Boolean" "Excluded" "False"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"List" "Components"
 	{
@@ -20613,12 +20460,9 @@ StaticModelGroupPhysicsComponentData 00000000-0000-0000-0000-000000000000 30
 	"Boolean" "Excluded" "False"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"List" "Components"
 	{

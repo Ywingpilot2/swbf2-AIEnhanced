@@ -12,21 +12,21 @@ FILEDATA
 	
 	Objects
 	{
-		"SubWorldData" "ffac3be6-566c-40b9-8ddf-94c441b586ff" "0"
-		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "1"
-		"GroupHavokAsset" "00000000-0000-0000-0000-000000000000" "2"
-		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "3"
-		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "4"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "5"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "6"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "7"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "8"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "9"
-		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "10"
-		"ShadowExtrusionDataEntityData" "00000000-0000-0000-0000-000000000000" "11"
-		"StaticModelGroupEntityData" "00000000-0000-0000-0000-000000000000" "12"
-		"StaticModelGroupHealthComponentData" "00000000-0000-0000-0000-000000000000" "13"
-		"StaticModelGroupPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "14"
+		"SubWorldData" "ffac3be6-566c-40b9-8ddf-94c441b586ff" "0" "True"
+		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "1" "False"
+		"GroupHavokAsset" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "5" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "7" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"ShadowExtrusionDataEntityData" "00000000-0000-0000-0000-000000000000" "11" "False"
+		"StaticModelGroupEntityData" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"StaticModelGroupHealthComponentData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"StaticModelGroupPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "14" "False"
 	}
 }
 
@@ -3344,12 +3344,9 @@ GroupRigidBodyData 00000000-0000-0000-0000-000000000000 3
 	}
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"Vec3" "CenterOfMass" "0,0,0"
 	"Vec3" "InertiaModifier" "1,1,1"
@@ -3450,12 +3447,9 @@ GroupRigidBodyData 00000000-0000-0000-0000-000000000000 4
 	}
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"Vec3" "CenterOfMass" "0,0,0"
 	"Vec3" "InertiaModifier" "1,1,1"
@@ -3631,12 +3625,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 6
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 57a257f0-6117-4534-bfa3-a512d371bcb4,2382fc66-f8f7-407f-946e-77157538cc59"
 	"PointerRef" "ObjectVariation" "null"
@@ -3668,12 +3659,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 7
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : 22d42601-f9d2-4aa3-b809-6a9977dccea1,f6ef36a4-ebfe-44cb-8fb6-0b5a156c8697"
 	"PointerRef" "ObjectVariation" "null"
@@ -3705,12 +3693,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 8
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : ca5e1dac-2183-4915-bf4d-98a7be0176d0,d3f52314-9444-4de0-b063-5766c30294c5"
 	"PointerRef" "ObjectVariation" "null"
@@ -3742,12 +3727,9 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 9
 	"StreamRealm" "StreamRealm" "StreamRealm_None"
 	"LinearTransform" "BlueprintTransform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"PointerRef" "Blueprint" "external : ba37ca95-bd23-49ae-abeb-24912f676c70,838d4f50-f9ba-4086-a228-4bf7cf1b0e00"
 	"PointerRef" "ObjectVariation" "null"
@@ -4947,12 +4929,9 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 12
 	"Byte" "ServerRuntimeTransformationCount" "0"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"UInt32" "Flags" "28347415"
 }
@@ -4964,12 +4943,9 @@ StaticModelGroupHealthComponentData 00000000-0000-0000-0000-000000000000 13
 	"Boolean" "Excluded" "False"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"List" "Components"
 	{
@@ -6469,12 +6445,9 @@ StaticModelGroupPhysicsComponentData 00000000-0000-0000-0000-000000000000 14
 	"Boolean" "Excluded" "False"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
 	}
 	"List" "Components"
 	{

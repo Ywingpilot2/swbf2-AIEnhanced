@@ -12,8 +12,8 @@ FILEDATA
 	
 	Objects
 	{
-		"RetriggerablePlayerAbilityAsset" "a8bff8d9-e852-46ba-b666-ecf47c2b3c32" "0"
-		"CharacterStateBoolRequiredChannelValueData" "e87420a8-d075-4d5c-b078-6fcc2ec74e53" "1"
+		"RetriggerablePlayerAbilityAsset" "a8bff8d9-e852-46ba-b666-ecf47c2b3c32" "0" "True"
+		"CharacterStateBoolRequiredChannelValueData" "e87420a8-d075-4d5c-b078-6fcc2ec74e53" "1" "False"
 	}
 }
 

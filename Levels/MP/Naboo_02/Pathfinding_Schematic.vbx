@@ -12,10 +12,10 @@ FILEDATA
 	
 	Objects
 	{
-		"LayerData" "a86dd9ae-7e7f-40d2-a22c-5091521f869f" "0"
-		"SyncedBoolEntityData" "6773d473-f53b-4ad7-ba1a-f2032ffdaa66" "1"
-		"InclusionSettingEntityData" "8d20ff83-0507-4c59-9372-756cc9897cd3" "2"
-		"PathfindingStreamEntityData" "cff5d7eb-794f-401f-b2b2-763287baaa42" "3"
+		"LayerData" "a86dd9ae-7e7f-40d2-a22c-5091521f869f" "0" "True"
+		"SyncedBoolEntityData" "6773d473-f53b-4ad7-ba1a-f2032ffdaa66" "1" "False"
+		"InclusionSettingEntityData" "8d20ff83-0507-4c59-9372-756cc9897cd3" "2" "False"
+		"PathfindingStreamEntityData" "cff5d7eb-794f-401f-b2b2-763287baaa42" "3" "False"
 	}
 }
 

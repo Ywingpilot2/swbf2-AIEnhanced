@@ -12,12 +12,12 @@ FILEDATA
 	
 	Objects
 	{
-		"LayerData" "838d4f50-f9ba-4086-a228-4bf7cf1b0e00" "0"
-		"AlternateSpawnEntityData" "41c65a64-4c1f-4b34-ba98-a6cea37770d5" "1"
-		"SchematicChannelEntityData" "b21631ac-d61b-8f99-33ea-c9c9de72b5cf" "2"
-		"AlternateSpawnEntityData" "90c078cd-e36c-4139-a458-2c7c9dfa701a" "3"
-		"LocalLocatorEntityData" "c7a51cde-c723-c80b-02d1-a8ff3aa82629" "4"
-		"LocalLocatorEntityData" "578e3ce4-c90f-a49e-aebb-545c2f050dc9" "5"
+		"LayerData" "838d4f50-f9ba-4086-a228-4bf7cf1b0e00" "0" "True"
+		"AlternateSpawnEntityData" "7acb9a93-0ae1-47d5-a460-e7ba1b578978" "1" "True"
+		"AlternateSpawnEntityData" "cb0d9600-f7fe-4baa-a136-e9f3c5ed5f7c" "2" "True"
+		"SchematicChannelEntityData" "b21631ac-d61b-8f99-33ea-c9c9de72b5cf" "2" "False"
+		"LocalLocatorEntityData" "c7a51cde-c723-c80b-02d1-a8ff3aa82629" "4" "False"
+		"LocalLocatorEntityData" "578e3ce4-c90f-a49e-aebb-545c2f050dc9" "5" "False"
 	}
 }
 
@@ -47,19 +47,30 @@ LayerData 838d4f50-f9ba-4086-a228-4bf7cf1b0e00 0
 	"CString" "Name" "Levels/MP/StarKiller_01/PlanetaryMission_Auto"
 }
 
-AlternateSpawnEntityData 41c65a64-4c1f-4b34-ba98-a6cea37770d5 1
+AlternateSpawnEntityData 7acb9a93-0ae1-47d5-a460-e7ba1b578978 1
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"
 	"Boolean" "Enabled" "True"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "-0.991466,0,0.1303634"
-		"Vec3" "forward" "-0.1303634,0,-0.991466"
+		"Vec3" "Translate" "35.20333,1278.997,1044.952"
+		"Vec3" "Rotation" "180,-7.490596,180"
+		"Vec3" "Scale" "0.9999997,1,0.9999997"
+	}
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData cb0d9600-f7fe-4baa-a136-e9f3c5ed5f7c 2
+{
+	"TeamId" "Team" "Team1"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "21.36494,1278.164,1003.535"
+		"Vec3" "Rotation" "0,4.268439,0"
+		"Vec3" "Scale" "0.9999996,1,0.9999996"
 	}
 	"UInt32" "Flags" "100663296"
 }
@@ -87,23 +98,6 @@ SchematicChannelEntityData b21631ac-d61b-8f99-33ea-c9c9de72b5cf 2
 	"UInt32" "Flags" "480927910"
 }
 
-AlternateSpawnEntityData 90c078cd-e36c-4139-a458-2c7c9dfa701a 3
-{
-	"TeamId" "Team" "Team1"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "3.402823E+38,0,0"
-		"Vec3" "Rotation" "3.402823E+38,0,0"
-		"Vec3" "Scale" "3.402823E+38,0,0"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "0.9972259,0,-0.07442939"
-		"Vec3" "forward" "0.07442939,0,0.9972259"
-	}
-	"UInt32" "Flags" "100663296"
-}
-
 LocalLocatorEntityData c7a51cde-c723-c80b-02d1-a8ff3aa82629 4
 {
 	"Realm" "Realm" "Realm_ClientAndServer"
@@ -112,9 +106,6 @@ LocalLocatorEntityData c7a51cde-c723-c80b-02d1-a8ff3aa82629 4
 		"Vec3" "Translate" "20.85,1278.09,1003.76"
 		"Vec3" "Rotation" "0,0,0"
 		"Vec3" "Scale" "1,1,1"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"UInt32" "Flags" "20399823"
 }
@@ -127,9 +118,6 @@ LocalLocatorEntityData 578e3ce4-c90f-a49e-aebb-545c2f050dc9 5
 		"Vec3" "Translate" "34.08,1278.78,1044.45"
 		"Vec3" "Rotation" "0,0,0"
 		"Vec3" "Scale" "1,1,1"
-		"Vec3" "up" "0,1,0"
-		"Vec3" "right" "1,0,0"
-		"Vec3" "forward" "0,0,1"
 	}
 	"UInt32" "Flags" "20399823"
 }

@@ -12,15 +12,15 @@ FILEDATA
 	
 	Objects
 	{
-		"WSSoldierCustomizationGameplayAsset" "3fc5e917-1d4b-4c9a-a235-30ca909b7fcc" "0"
-		"PlayerAbilityCustomization" "44bd2b04-cd09-4846-9d75-c4f01c924acd" "1"
-		"PlayerAbilityCustomizeBlockingRuleGroup" "bef33a19-47f8-0ffd-69af-b05f8239245f" "2"
-		"PlayerAbilityCustomizeBlockingRule" "f2ae971b-3dcb-71f6-fb2a-ec14aa6259c6" "3"
-		"PlayerAbilityCustomizeBlockingRule" "49b5e82f-b403-89d4-be12-c23c1bb5978a" "4"
-		"PlayerAbilityCustomizeBlockingRule" "71fc5a44-6e51-5504-d2ea-b207363aa10b" "5"
-		"PlayerAbilityCustomizeBlockingRule" "740f4b89-e7de-58ff-9bed-761cb9a75d99" "6"
-		"PlayerAbilityCollection" "5f8f09b6-7a28-531b-611e-f794207152d2" "7"
-		"PlayerAbilityCustomizeBlockingRule" "34c81dc9-aaa6-287f-37aa-0a2d9d4c1c76" "8"
+		"WSSoldierCustomizationGameplayAsset" "3fc5e917-1d4b-4c9a-a235-30ca909b7fcc" "0" "True"
+		"PlayerAbilityCustomization" "44bd2b04-cd09-4846-9d75-c4f01c924acd" "1" "False"
+		"PlayerAbilityCustomizeBlockingRuleGroup" "bef33a19-47f8-0ffd-69af-b05f8239245f" "2" "False"
+		"PlayerAbilityCustomizeBlockingRule" "f2ae971b-3dcb-71f6-fb2a-ec14aa6259c6" "3" "False"
+		"PlayerAbilityCustomizeBlockingRule" "49b5e82f-b403-89d4-be12-c23c1bb5978a" "4" "False"
+		"PlayerAbilityCustomizeBlockingRule" "71fc5a44-6e51-5504-d2ea-b207363aa10b" "5" "False"
+		"PlayerAbilityCustomizeBlockingRule" "740f4b89-e7de-58ff-9bed-761cb9a75d99" "6" "False"
+		"PlayerAbilityCollection" "5f8f09b6-7a28-531b-611e-f794207152d2" "7" "False"
+		"PlayerAbilityCustomizeBlockingRule" "34c81dc9-aaa6-287f-37aa-0a2d9d4c1c76" "8" "False"
 	}
 }
 

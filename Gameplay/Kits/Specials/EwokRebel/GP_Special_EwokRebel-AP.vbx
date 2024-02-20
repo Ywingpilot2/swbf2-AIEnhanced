@@ -12,9 +12,9 @@ FILEDATA
 	
 	Objects
 	{
-		"WSSoldierCustomizationGameplayAsset" "e20fdf72-0d4a-4153-9e87-fdc1377deb01" "0"
-		"PlayerAbilityCustomization" "ff08da7a-1eec-46fb-8f2f-f607084783fd" "1"
-		"PlayerAbilityCollection" "d9484097-4442-570e-35a5-448027b66028" "2"
+		"WSSoldierCustomizationGameplayAsset" "e20fdf72-0d4a-4153-9e87-fdc1377deb01" "0" "True"
+		"PlayerAbilityCustomization" "ff08da7a-1eec-46fb-8f2f-f607084783fd" "1" "False"
+		"PlayerAbilityCollection" "d9484097-4442-570e-35a5-448027b66028" "2" "False"
 	}
 }
 
