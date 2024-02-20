@@ -13,35 +13,35 @@ FILEDATA
 	Objects
 	{
 		"LayerData" "ec07efc5-881c-46bf-846f-8bedd09de4a1" "0" "True"
-		"AlternateSpawnEntityData" "71030e59-1ba2-4303-9a52-601d8fdbb6bf" "1" "True"
-		"AlternateSpawnEntityData" "f2c269b5-621a-46be-951e-e47877a16bd2" "2" "True"
-		"AlternateSpawnEntityData" "0b7af13a-1dc1-4e64-b7ea-c3cf9de8a377" "3" "True"
-		"AlternateSpawnEntityData" "071855de-84f3-4339-84de-f8de5fe044d4" "4" "True"
-		"AlternateSpawnEntityData" "bdd894b1-d480-41be-8122-e5a24098065a" "5" "True"
-		"AlternateSpawnEntityData" "bfe9ed52-b503-46c6-aecf-bd597e1f08ba" "6" "True"
-		"SpawnLocationFinderShapeData" "7d8450e9-c640-42d2-bc4f-af1ffc1ffa92" "7" "True"
-		"AlternateSpawnEntityData" "f520f750-bdef-4324-b934-4c8621708fcf" "8" "True"
-		"SpawnLocationFinderShapeData" "5d1ccb7e-1ef7-4e5f-b064-ff0be5111d12" "9" "True"
-		"AlternateSpawnEntityData" "999c9dcb-805e-4e24-a4a9-9bc45e6dc483" "10" "True"
-		"AlternateSpawnEntityData" "791aa0e9-2c4f-47cc-8b3c-78c63e20bd21" "11" "True"
-		"VolumeVectorShapeData" "41e225a8-a58f-4400-b982-a88aaf5720f5" "12" "True"
-		"AlternateSpawnEntityData" "526f76ad-f979-4b53-aacc-27eb6d41b951" "13" "True"
-		"AlternateSpawnEntityData" "ab53369d-b907-4d8e-957c-10523c119fb6" "14" "True"
-		"AlternateSpawnEntityData" "7a080726-d00a-4ddc-9ce8-23a34e175622" "15" "True"
-		"AlternateSpawnEntityData" "155077a8-e724-4936-abd1-677d414d8ae6" "16" "True"
-		"AlternateSpawnEntityData" "c5eaac6d-7f8d-4034-b499-fe5368dbbfb5" "17" "True"
-		"SpawnLocationFinderShapeData" "9e36f74f-61fb-48cc-84c2-c5f0c7379a38" "18" "True"
-		"SpawnLocationFinderShapeData" "d5a5f032-1894-411f-a322-45945a75829c" "19" "True"
-		"AlternateSpawnEntityData" "c686c04d-eaec-4194-8b4a-f612b345bc15" "20" "True"
-		"AlternateSpawnEntityData" "8f92d692-c0f9-4bd0-9990-d4c3f9364998" "21" "True"
-		"AlternateSpawnEntityData" "381d0cf0-8b78-4ece-bbaa-66f3ea673f7a" "22" "True"
-		"AlternateSpawnEntityData" "0a7be4cd-c0a3-4837-b89b-ce8a0332c761" "23" "True"
-		"VolumeVectorShapeData" "022cd0d7-8312-4d39-b5d7-6e1ffda58f79" "24" "True"
-		"AlternateSpawnEntityData" "5316f465-3748-462a-b25d-d8a1c882c311" "25" "True"
-		"AlternateSpawnEntityData" "b579a64d-23a1-4e96-ab0f-d4669e28b04e" "26" "True"
-		"AlternateSpawnEntityData" "5674a94f-deb0-4b08-9228-7a7a7206394c" "27" "True"
-		"AlternateSpawnEntityData" "7cb72ca2-c10d-45df-b4e7-b203b1eea973" "28" "True"
-		"AlternateSpawnEntityData" "f5f51b7e-9b53-4784-80a4-1e559d1a9f38" "29" "True"
+		"AlternateSpawnEntityData" "0ffae58b-4bcb-44f9-a9e0-7de918a0a70d" "1" "True"
+		"AlternateSpawnEntityData" "0f1dd1ec-938b-4e16-b6ef-e9a191410645" "2" "True"
+		"AlternateSpawnEntityData" "36b05cf5-bc04-494b-8131-9de94320414a" "3" "True"
+		"AlternateSpawnEntityData" "6c2e9067-24aa-400f-a7f1-00a7d05e73d8" "4" "True"
+		"AlternateSpawnEntityData" "82bae86c-75d6-4e34-9318-14b82a986ca2" "5" "True"
+		"AlternateSpawnEntityData" "7129a3ae-cdf2-4b8c-8c4d-f3e28453f12a" "6" "True"
+		"SpawnLocationFinderShapeData" "42e5b203-5584-4d92-8545-ab9cf00683ac" "7" "True"
+		"AlternateSpawnEntityData" "1870f67c-1269-4b42-b730-f8049f2250ef" "8" "True"
+		"SpawnLocationFinderShapeData" "15cd6edd-176b-4ecb-a12d-6f3cd273ba27" "9" "True"
+		"AlternateSpawnEntityData" "ed039f22-300b-41eb-a905-b82c9f508ada" "10" "True"
+		"AlternateSpawnEntityData" "4d8e7558-67e6-4c2c-9f3a-1087a798ecbe" "11" "True"
+		"VolumeVectorShapeData" "63aeb168-7206-418f-9ee7-a5ea7772c644" "12" "True"
+		"AlternateSpawnEntityData" "3fa8ba33-ed4a-4d32-9e9f-9e41f51a6bdd" "13" "True"
+		"AlternateSpawnEntityData" "857a9e18-2881-4fc7-b3ba-46f9d869c89e" "14" "True"
+		"AlternateSpawnEntityData" "3f4543ae-d933-414e-9f5e-f6e6352e61e3" "15" "True"
+		"AlternateSpawnEntityData" "d832521c-e13b-4e6b-bc62-73bbc127223a" "16" "True"
+		"AlternateSpawnEntityData" "4f5465af-3da3-4551-98b7-cdc1f2142e6c" "17" "True"
+		"SpawnLocationFinderShapeData" "b7cf1ebb-63a8-4dee-beeb-c6d82f6b12c0" "18" "True"
+		"SpawnLocationFinderShapeData" "4fe847c4-49a5-4267-8a15-122b15a3b168" "19" "True"
+		"AlternateSpawnEntityData" "7a06c1f1-21cd-428b-a4c3-48b4f6b7d892" "20" "True"
+		"AlternateSpawnEntityData" "7b7d7615-3332-4054-a357-02114562263f" "21" "True"
+		"AlternateSpawnEntityData" "decc80b2-5973-42d6-b9c4-952760bf0f64" "22" "True"
+		"AlternateSpawnEntityData" "792d3ea8-49dd-47b2-a862-9b527de2d415" "23" "True"
+		"VolumeVectorShapeData" "6cd6d6a5-8aba-44c5-9c24-861ed2895708" "24" "True"
+		"AlternateSpawnEntityData" "8e737bbd-4da1-43c7-9275-8d434f094b4b" "25" "True"
+		"AlternateSpawnEntityData" "9d437c50-282f-4b72-b87a-b53405e1bf05" "26" "True"
+		"AlternateSpawnEntityData" "affd8fb8-358d-40b1-b8d3-18a40dce0f46" "27" "True"
+		"AlternateSpawnEntityData" "5fd8a663-c86a-4d5c-86f8-08e588edd49e" "28" "True"
+		"AlternateSpawnEntityData" "355cd712-a696-42e1-a417-05654b396dbb" "29" "True"
 		"LocalLocatorEntityData" "6cc41b07-5275-4ac3-8661-dfde6456b250" "3" "False"
 		"SpatialPrefabReferenceObjectData" "2e2a121d-493f-4d2d-9d68-555b59343e5a" "6" "False"
 		"SpatialPrefabReferenceObjectData" "074cd52c-dc7f-466b-b978-56dc61c455c5" "9" "False"
@@ -102,7 +102,7 @@ LayerData ec07efc5-881c-46bf-846f-8bedd09de4a1 0
 	"CString" "Name" "Levels/MP/Hoth_01/PlanetaryMissions_Logic"
 }
 
-AlternateSpawnEntityData 71030e59-1ba2-4303-9a52-601d8fdbb6bf 1
+AlternateSpawnEntityData 0ffae58b-4bcb-44f9-a9e0-7de918a0a70d 1
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -116,7 +116,7 @@ AlternateSpawnEntityData 71030e59-1ba2-4303-9a52-601d8fdbb6bf 1
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData f2c269b5-621a-46be-951e-e47877a16bd2 2
+AlternateSpawnEntityData 0f1dd1ec-938b-4e16-b6ef-e9a191410645 2
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -130,7 +130,7 @@ AlternateSpawnEntityData f2c269b5-621a-46be-951e-e47877a16bd2 2
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 0b7af13a-1dc1-4e64-b7ea-c3cf9de8a377 3
+AlternateSpawnEntityData 36b05cf5-bc04-494b-8131-9de94320414a 3
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -144,7 +144,7 @@ AlternateSpawnEntityData 0b7af13a-1dc1-4e64-b7ea-c3cf9de8a377 3
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 071855de-84f3-4339-84de-f8de5fe044d4 4
+AlternateSpawnEntityData 6c2e9067-24aa-400f-a7f1-00a7d05e73d8 4
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -158,7 +158,7 @@ AlternateSpawnEntityData 071855de-84f3-4339-84de-f8de5fe044d4 4
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData bdd894b1-d480-41be-8122-e5a24098065a 5
+AlternateSpawnEntityData 82bae86c-75d6-4e34-9318-14b82a986ca2 5
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -172,7 +172,7 @@ AlternateSpawnEntityData bdd894b1-d480-41be-8122-e5a24098065a 5
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData bfe9ed52-b503-46c6-aecf-bd597e1f08ba 6
+AlternateSpawnEntityData 7129a3ae-cdf2-4b8c-8c4d-f3e28453f12a 6
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -186,7 +186,7 @@ AlternateSpawnEntityData bfe9ed52-b503-46c6-aecf-bd597e1f08ba 6
 	"UInt32" "Flags" "503316480"
 }
 
-SpawnLocationFinderShapeData 7d8450e9-c640-42d2-bc4f-af1ffc1ffa92 7
+SpawnLocationFinderShapeData 42e5b203-5584-4d92-8545-ab9cf00683ac 7
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Boolean" "Enabled" "True"
@@ -205,7 +205,7 @@ SpawnLocationFinderShapeData 7d8450e9-c640-42d2-bc4f-af1ffc1ffa92 7
 	"UInt32" "Flags" "369098752"
 }
 
-AlternateSpawnEntityData f520f750-bdef-4324-b934-4c8621708fcf 8
+AlternateSpawnEntityData 1870f67c-1269-4b42-b730-f8049f2250ef 8
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -219,7 +219,7 @@ AlternateSpawnEntityData f520f750-bdef-4324-b934-4c8621708fcf 8
 	"UInt32" "Flags" "503316480"
 }
 
-SpawnLocationFinderShapeData 5d1ccb7e-1ef7-4e5f-b064-ff0be5111d12 9
+SpawnLocationFinderShapeData 15cd6edd-176b-4ecb-a12d-6f3cd273ba27 9
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Boolean" "Enabled" "True"
@@ -238,7 +238,7 @@ SpawnLocationFinderShapeData 5d1ccb7e-1ef7-4e5f-b064-ff0be5111d12 9
 	"UInt32" "Flags" "369098752"
 }
 
-AlternateSpawnEntityData 999c9dcb-805e-4e24-a4a9-9bc45e6dc483 10
+AlternateSpawnEntityData ed039f22-300b-41eb-a905-b82c9f508ada 10
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -252,7 +252,7 @@ AlternateSpawnEntityData 999c9dcb-805e-4e24-a4a9-9bc45e6dc483 10
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 791aa0e9-2c4f-47cc-8b3c-78c63e20bd21 11
+AlternateSpawnEntityData 4d8e7558-67e6-4c2c-9f3a-1087a798ecbe 11
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -266,7 +266,7 @@ AlternateSpawnEntityData 791aa0e9-2c4f-47cc-8b3c-78c63e20bd21 11
 	"UInt32" "Flags" "503316480"
 }
 
-VolumeVectorShapeData 41e225a8-a58f-4400-b982-a88aaf5720f5 12
+VolumeVectorShapeData 63aeb168-7206-418f-9ee7-a5ea7772c644 12
 {
 	"Single" "Height" "0"
 	"Single" "Tension" "0"
@@ -305,7 +305,7 @@ VolumeVectorShapeData 41e225a8-a58f-4400-b982-a88aaf5720f5 12
 	"UInt32" "Flags" "100663296"
 }
 
-AlternateSpawnEntityData 526f76ad-f979-4b53-aacc-27eb6d41b951 13
+AlternateSpawnEntityData 3fa8ba33-ed4a-4d32-9e9f-9e41f51a6bdd 13
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -319,7 +319,7 @@ AlternateSpawnEntityData 526f76ad-f979-4b53-aacc-27eb6d41b951 13
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData ab53369d-b907-4d8e-957c-10523c119fb6 14
+AlternateSpawnEntityData 857a9e18-2881-4fc7-b3ba-46f9d869c89e 14
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -333,7 +333,7 @@ AlternateSpawnEntityData ab53369d-b907-4d8e-957c-10523c119fb6 14
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 7a080726-d00a-4ddc-9ce8-23a34e175622 15
+AlternateSpawnEntityData 3f4543ae-d933-414e-9f5e-f6e6352e61e3 15
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -347,7 +347,7 @@ AlternateSpawnEntityData 7a080726-d00a-4ddc-9ce8-23a34e175622 15
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 155077a8-e724-4936-abd1-677d414d8ae6 16
+AlternateSpawnEntityData d832521c-e13b-4e6b-bc62-73bbc127223a 16
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -361,7 +361,7 @@ AlternateSpawnEntityData 155077a8-e724-4936-abd1-677d414d8ae6 16
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData c5eaac6d-7f8d-4034-b499-fe5368dbbfb5 17
+AlternateSpawnEntityData 4f5465af-3da3-4551-98b7-cdc1f2142e6c 17
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -375,7 +375,7 @@ AlternateSpawnEntityData c5eaac6d-7f8d-4034-b499-fe5368dbbfb5 17
 	"UInt32" "Flags" "503316480"
 }
 
-SpawnLocationFinderShapeData 9e36f74f-61fb-48cc-84c2-c5f0c7379a38 18
+SpawnLocationFinderShapeData b7cf1ebb-63a8-4dee-beeb-c6d82f6b12c0 18
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Boolean" "Enabled" "True"
@@ -394,7 +394,7 @@ SpawnLocationFinderShapeData 9e36f74f-61fb-48cc-84c2-c5f0c7379a38 18
 	"UInt32" "Flags" "369098752"
 }
 
-SpawnLocationFinderShapeData d5a5f032-1894-411f-a322-45945a75829c 19
+SpawnLocationFinderShapeData 4fe847c4-49a5-4267-8a15-122b15a3b168 19
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Boolean" "Enabled" "True"
@@ -413,7 +413,7 @@ SpawnLocationFinderShapeData d5a5f032-1894-411f-a322-45945a75829c 19
 	"UInt32" "Flags" "369098752"
 }
 
-AlternateSpawnEntityData c686c04d-eaec-4194-8b4a-f612b345bc15 20
+AlternateSpawnEntityData 7a06c1f1-21cd-428b-a4c3-48b4f6b7d892 20
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -427,7 +427,7 @@ AlternateSpawnEntityData c686c04d-eaec-4194-8b4a-f612b345bc15 20
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 8f92d692-c0f9-4bd0-9990-d4c3f9364998 21
+AlternateSpawnEntityData 7b7d7615-3332-4054-a357-02114562263f 21
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -441,7 +441,7 @@ AlternateSpawnEntityData 8f92d692-c0f9-4bd0-9990-d4c3f9364998 21
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 381d0cf0-8b78-4ece-bbaa-66f3ea673f7a 22
+AlternateSpawnEntityData decc80b2-5973-42d6-b9c4-952760bf0f64 22
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -455,7 +455,7 @@ AlternateSpawnEntityData 381d0cf0-8b78-4ece-bbaa-66f3ea673f7a 22
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 0a7be4cd-c0a3-4837-b89b-ce8a0332c761 23
+AlternateSpawnEntityData 792d3ea8-49dd-47b2-a862-9b527de2d415 23
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -469,7 +469,7 @@ AlternateSpawnEntityData 0a7be4cd-c0a3-4837-b89b-ce8a0332c761 23
 	"UInt32" "Flags" "503316480"
 }
 
-VolumeVectorShapeData 022cd0d7-8312-4d39-b5d7-6e1ffda58f79 24
+VolumeVectorShapeData 6cd6d6a5-8aba-44c5-9c24-861ed2895708 24
 {
 	"Single" "Height" "0"
 	"Single" "Tension" "0"
@@ -501,7 +501,7 @@ VolumeVectorShapeData 022cd0d7-8312-4d39-b5d7-6e1ffda58f79 24
 	"UInt32" "Flags" "100663296"
 }
 
-AlternateSpawnEntityData 5316f465-3748-462a-b25d-d8a1c882c311 25
+AlternateSpawnEntityData 8e737bbd-4da1-43c7-9275-8d434f094b4b 25
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -515,7 +515,7 @@ AlternateSpawnEntityData 5316f465-3748-462a-b25d-d8a1c882c311 25
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData b579a64d-23a1-4e96-ab0f-d4669e28b04e 26
+AlternateSpawnEntityData 9d437c50-282f-4b72-b87a-b53405e1bf05 26
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -529,7 +529,7 @@ AlternateSpawnEntityData b579a64d-23a1-4e96-ab0f-d4669e28b04e 26
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 5674a94f-deb0-4b08-9228-7a7a7206394c 27
+AlternateSpawnEntityData affd8fb8-358d-40b1-b8d3-18a40dce0f46 27
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -543,7 +543,7 @@ AlternateSpawnEntityData 5674a94f-deb0-4b08-9228-7a7a7206394c 27
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 7cb72ca2-c10d-45df-b4e7-b203b1eea973 28
+AlternateSpawnEntityData 5fd8a663-c86a-4d5c-86f8-08e588edd49e 28
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -557,7 +557,7 @@ AlternateSpawnEntityData 7cb72ca2-c10d-45df-b4e7-b203b1eea973 28
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData f5f51b7e-9b53-4784-80a4-1e559d1a9f38 29
+AlternateSpawnEntityData 355cd712-a696-42e1-a417-05654b396dbb 29
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"

@@ -1,0 +1,344 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_AIEnhanced/CoreBotLogic/Strike/Bomb/Objectives/AutoPlayer_Objective_PlantBomb_StrikeBomb"
+	"type" "LogicPrefabBlueprint"
+	"fid" "f6bba9c8-e2d6-44f5-8838-c7ed5cf3d165"
+	
+	Objects
+	{
+		"LogicPrefabBlueprint" "6ba8dfee-2817-2238-3c70-47396a82a68d" "0" "True"
+		"DelayEntityData" "3e1a648f-7ef5-b33a-5c4d-2c598489b339" "1" "False"
+		"AutoPlayerInteractObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"AutoPlayerMoveObjectiveEntityData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"TransformSplitterEntityData" "00000000-0000-0000-0000-000000000000" "5" "False"
+	}
+}
+
+LogicPrefabBlueprint 6ba8dfee-2817-2238-3c70-47396a82a68d 0
+{
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,3"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,5"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,2"
+		"PointerRef" "" "internal : 3e1a648f-7ef5-b33a-5c4d-2c598489b339,1"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-559281700"
+				"CString" "Name" "Activate"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-559281700"
+				"CString" "Name" "Activate"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "24213321"
+				"CString" "Name" "OnTargetReached"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-559281700"
+				"CString" "Name" "Activate"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"PointerRef" "Target" "internal : 3e1a648f-7ef5-b33a-5c4d-2c598489b339,1"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "24213321"
+				"CString" "Name" "OnTargetReached"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "86301015"
+				"CString" "Name" "OnInteracted"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "86301015"
+				"CString" "Name" "OnInteracted"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-358781735"
+				"CString" "Name" "OnActivated"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-1566244088"
+				"CString" "Name" "0xa2a50308"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 3e1a648f-7ef5-b33a-5c4d-2c598489b339,1"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "193453899"
+				"CString" "Name" "Out"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "1928776733"
+				"CString" "Name" "Deactivate"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 3e1a648f-7ef5-b33a-5c4d-2c598489b339,1"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "193453899"
+				"CString" "Name" "Out"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-711724947"
+				"CString" "Name" "InteractionFinished"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+	}
+	"UInt16" "Flags" "14"
+	"List" "PropertyConnections"
+	{
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"Int32" "SourceFieldId" "28107269"
+			"Int32" "TargetFieldId" "28107269"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "Players"
+			"CString" "TargetField" "Players"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"Int32" "SourceFieldId" "-1829198266"
+			"Int32" "TargetFieldId" "-2024647575"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "0x92f8a646"
+			"CString" "TargetField" "Transform"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"Int32" "SourceFieldId" "227190399"
+			"Int32" "TargetFieldId" "12362477"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "Trans"
+			"CString" "TargetField" "TargetPosition"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"Int32" "SourceFieldId" "-1830150474"
+			"Int32" "TargetFieldId" "-1281735811"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "0x92ea1eb6"
+			"CString" "TargetField" "InteractionEntityPosition"
+		}
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,4"
+	"CString" "Name" "A0_AIEnhanced/CoreBotLogic/Strike/Bomb/Objectives/AutoPlayer_Objective_PlantBomb_StrikeBomb"
+}
+
+DelayEntityData 3e1a648f-7ef5-b33a-5c4d-2c598489b339 1
+{
+	"Single" "Delay" "2"
+	"Realm" "Realm" "Realm_Server"
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
+	"Boolean" "AutoStart" "False"
+	"Boolean" "RunOnce" "False"
+	"Boolean" "RemoveDuplicateEvents" "True"
+	"UInt32" "Flags" "81473548"
+}
+
+AutoPlayerInteractObjectiveEntityData 00000000-0000-0000-0000-000000000000 2
+{
+	"Vec3" "InteractionEntityPosition" "0,0,0"
+	"Vec3" "InteractionPosition" "0,0,0"
+	"Int32" "InteractInputAction" "1573615674"
+	"Single" "InteractionStartRadius" "0.5"
+	"Single" "HoldToInteractTime" "5"
+	"Single" "PrimaryInteractionSearchRadius" "5"
+	"Boolean" "FindInteractTargetPosition" "True"
+	"Boolean" "UseRandomPathSpread" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Vec3" "RestrictedAreaSphereCentre" "0,0,0"
+	"QueryEntityResult" "Players" 
+	{
+		"Int64" "QueryEntityResultUniquID" "0"
+		"UInt32" "Unused" "0"
+	}
+	"AutoPlayerMoveMode" "MoveMode" "AutoPlayerMoveMode_Aggressive"
+	"Int32" "MoveModeOverrideInt" "-1"
+	"CString" "DebugName" ""
+	"Int32" "TimeThreshold" "5"
+	"Single" "ClampVerticalNavPosSearchMeters" "-1"
+	"Single" "RestrictedAreaSphereRadius" "0"
+	"Boolean" "JesusMode" "False"
+	"Boolean" "UnlimitedAmmo" "False"
+	"Boolean" "AllowTeleport" "True"
+	"Boolean" "UseObjectiveTeleport" "True"
+	"Boolean" "UseStuckEscapeProcedure" "True"
+	"Boolean" "UseNavmesh" "True"
+	"Boolean" "AllowObjectiveMoveOutsideCombatArea" "False"
+	"Boolean" "AllowSecondaryObjectives" "True"
+	"Boolean" "DisableZoomWhenAiming" "False"
+	"UInt32" "Flags" "357084932"
+}
+
+AutoPlayerMoveObjectiveEntityData 00000000-0000-0000-0000-000000000000 3
+{
+	"Vec3" "TargetPosition" "0,0,0"
+	"Single" "MoveAreaRadius" "1"
+	"Boolean" "IsTargetReachedAsSoonAsEnteringTargetArea" "False"
+	"Boolean" "UseRandomPathSpread" "True"
+	"Realm" "Realm" "Realm_Server"
+	"Vec3" "RestrictedAreaSphereCentre" "0,0,0"
+	"QueryEntityResult" "Players" 
+	{
+		"Int64" "QueryEntityResultUniquID" "0"
+		"UInt32" "Unused" "0"
+	}
+	"AutoPlayerMoveMode" "MoveMode" "AutoPlayerMoveMode_Aggressive"
+	"Int32" "MoveModeOverrideInt" "-1"
+	"CString" "DebugName" ""
+	"Int32" "TimeThreshold" "-1"
+	"Single" "ClampVerticalNavPosSearchMeters" "-1"
+	"Single" "RestrictedAreaSphereRadius" "0"
+	"Boolean" "JesusMode" "False"
+	"Boolean" "UnlimitedAmmo" "False"
+	"Boolean" "AllowTeleport" "False"
+	"Boolean" "UseObjectiveTeleport" "False"
+	"Boolean" "UseStuckEscapeProcedure" "True"
+	"Boolean" "UseNavmesh" "True"
+	"Boolean" "AllowObjectiveMoveOutsideCombatArea" "False"
+	"Boolean" "AllowSecondaryObjectives" "True"
+	"Boolean" "DisableZoomWhenAiming" "False"
+	"UInt32" "Flags" "360759626"
+}
+
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 4
+{
+	"List" "InputEvents"
+	{
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-559281700"
+			"CString" "Name" "Activate"
+		}
+	}
+	"List" "OutputEvents"
+	{
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "86301015"
+			"CString" "Name" "OnInteracted"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-1566244088"
+			"CString" "Name" "0xa2a50308"
+		}
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-711724947"
+			"CString" "Name" "InteractionFinished"
+		}
+	}
+	"List" "InputLinks"
+	{
+	}
+	"List" "OutputLinks"
+	{
+	}
+	"List" "Fields"
+	{
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "28107269"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "Players"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" ""
+			"Int32" "Id" "-1829198266"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "0x92f8a646"
+		}
+	}
+}
+
+TransformSplitterEntityData 00000000-0000-0000-0000-000000000000 5
+{
+	"Realm" "Realm" "Realm_Server"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"UInt32" "Flags" "270546303"
+}
+

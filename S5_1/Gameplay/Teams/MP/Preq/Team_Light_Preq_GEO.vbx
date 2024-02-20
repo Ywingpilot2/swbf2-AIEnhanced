@@ -13,8 +13,8 @@ FILEDATA
 	Objects
 	{
 		"WSTeamData" "74cd8cc8-ffb8-4dc3-8185-82a143a79d4c" "0" "True"
-		"CharacterClassIdCollection" "ec466edf-b8ee-46ff-bf67-4d8b19bff93d" "1" "True"
-		"CharacterClassIdCollection" "e5f71de0-8afe-41ad-b8f2-d975b15b2826" "2" "True"
+		"CharacterClassIdCollection" "b95b8f98-533b-463d-a798-b27de4ba0eee" "1" "True"
+		"CharacterClassIdCollection" "eb062b41-3c13-454e-8a55-88f7a7371661" "2" "True"
 		"AbilityToCharacterMappingData" "757c2300-9b20-7578-c696-313ba95fec7f" "1" "False"
 		"EmoteToCharacterMappingData" "9d4bc600-32c9-ef32-2858-c2cda1bb264e" "2" "False"
 		"CharacterIdData" "b77fe900-9e12-5a4c-9a9c-d87b5a2f1517" "3" "False"
@@ -1706,14 +1706,14 @@ WSTeamData 74cd8cc8-ffb8-4dc3-8185-82a143a79d4c 0
 	"CString" "Name" "S5_1/Gameplay/Teams/MP/Preq/Team_Light_Preq_GEO"
 }
 
-CharacterClassIdCollection ec466edf-b8ee-46ff-bf67-4d8b19bff93d 1
+CharacterClassIdCollection b95b8f98-533b-463d-a798-b27de4ba0eee 1
 {
 	"List" "CharacterClasses"
 	{
 	}
 }
 
-CharacterClassIdCollection e5f71de0-8afe-41ad-b8f2-d975b15b2826 2
+CharacterClassIdCollection eb062b41-3c13-454e-8a55-88f7a7371661 2
 {
 	"List" "CharacterClasses"
 	{

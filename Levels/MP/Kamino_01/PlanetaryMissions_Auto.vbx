@@ -13,8 +13,8 @@ FILEDATA
 	Objects
 	{
 		"LayerData" "436d086f-c526-4dca-b9bb-4931cc7aa9f7" "0" "True"
-		"AlternateSpawnEntityData" "5676fcb6-3528-4122-86d0-998e32ad22e7" "1" "True"
-		"AlternateSpawnEntityData" "5cc2aa0e-fec9-4d73-bcdc-673d8c2d40ad" "2" "True"
+		"AlternateSpawnEntityData" "4a39abf9-91e2-4c47-b70d-c9cf74030eb7" "1" "True"
+		"AlternateSpawnEntityData" "479155cc-2c55-4cf1-acc9-e410ea844416" "2" "True"
 		"LocalLocatorEntityData" "fa54fb19-c11e-4732-a3aa-4251333f6849" "1" "False"
 		"LocalLocatorEntityData" "074e0d76-bd81-4595-8a8b-de41e9a92974" "3" "False"
 		"LocatorEntityData" "d26a678b-8fdf-47ab-a48f-696833708090" "4" "False"
@@ -47,7 +47,7 @@ LayerData 436d086f-c526-4dca-b9bb-4931cc7aa9f7 0
 	"CString" "Name" "Levels/MP/Kamino_01/PlanetaryMissions_Auto"
 }
 
-AlternateSpawnEntityData 5676fcb6-3528-4122-86d0-998e32ad22e7 1
+AlternateSpawnEntityData 4a39abf9-91e2-4c47-b70d-c9cf74030eb7 1
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"
@@ -61,7 +61,7 @@ AlternateSpawnEntityData 5676fcb6-3528-4122-86d0-998e32ad22e7 1
 	"UInt32" "Flags" "100663296"
 }
 
-AlternateSpawnEntityData 5cc2aa0e-fec9-4d73-bcdc-673d8c2d40ad 2
+AlternateSpawnEntityData 479155cc-2c55-4cf1-acc9-e410ea844416 2
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"

@@ -1,0 +1,226 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_AIEnhanced/CoreBotLogic/Shared/Settings/YWSettingsCompleterNew"
+	"type" "LogicPrefabBlueprint"
+	"fid" "269f1e7e-6aab-4fe2-a0b5-6f5591f42b86"
+	
+	Objects
+	{
+		"LogicPrefabBlueprint" "830b921b-7c01-37b9-0613-69ae6c97d9d3" "0" "True"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "2" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "3" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "4" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "5" "False"
+	}
+}
+
+LogicPrefabBlueprint 830b921b-7c01-37b9-0613-69ae6c97d9d3 0
+{
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,3"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,4"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,5"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,3"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,2"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,5"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "-731557207"
+				"CString" "Name" "CompleteSettings"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+	}
+	"UInt16" "Flags" "14"
+	"List" "PropertyConnections"
+	{
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,2"
+	"CString" "Name" "A0_AIEnhanced/CoreBotLogic/Shared/Settings/YWSettingsCompleterNew"
+}
+
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 2
+{
+	"List" "InputEvents"
+	{
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "-731557207"
+			"CString" "Name" "CompleteSettings"
+		}
+	}
+	"List" "OutputEvents"
+	{
+	}
+	"List" "InputLinks"
+	{
+	}
+	"List" "OutputLinks"
+	{
+	}
+	"List" "Fields"
+	{
+	}
+}
+
+LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 3
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 0ae95bc6-24ce-4d6b-b691-24d433c72f32,2d3bb4d4-c0e9-d4a8-5654-ac691feebc4c"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "90128049"
+}
+
+LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 4
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 5df71edc-1725-442a-aba3-d8f3a7481688,74dbb699-9134-efe1-3cdd-23ec14a99c46"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "90128049"
+}
+
+LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 5
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : dea041df-5486-4848-9a4e-223840769b87,e97542d4-2a4f-92b2-3426-b71a649a19a9"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "90128049"
+}
+

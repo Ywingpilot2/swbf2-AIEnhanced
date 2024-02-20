@@ -13,8 +13,8 @@ FILEDATA
 	Objects
 	{
 		"WSTeamData" "af2e25ac-2e2a-4910-8abb-f2f60d23a00b" "0" "True"
-		"CharacterClassIdCollection" "dda58eac-8adb-4a4e-8b6c-12326769c7e5" "1" "True"
-		"CharacterClassIdCollection" "a3342758-648b-439c-b4a7-66e17b2224e9" "2" "True"
+		"CharacterClassIdCollection" "5caf9e76-a7e9-4455-ba91-e40af15a4759" "1" "True"
+		"CharacterClassIdCollection" "181666f7-8724-47b2-b02c-85f8ee336468" "2" "True"
 		"AbilityToCharacterMappingData" "5f4db202-139b-30b2-a9c2-fe527ad253d5" "1" "False"
 		"AbilityToCharacterMappingData" "26cdfa02-b793-75a8-a65e-f2271761390a" "2" "False"
 		"AbilityToCharacterMappingData" "db3f3a05-dfab-bc15-1973-32099f6fb41b" "3" "False"
@@ -699,14 +699,14 @@ WSTeamData af2e25ac-2e2a-4910-8abb-f2f60d23a00b 0
 	"CString" "Name" "S5_1/Gameplay/Teams/MP/Preq/Team_Dark_Missions_Preq_GEO"
 }
 
-CharacterClassIdCollection dda58eac-8adb-4a4e-8b6c-12326769c7e5 1
+CharacterClassIdCollection 5caf9e76-a7e9-4455-ba91-e40af15a4759 1
 {
 	"List" "CharacterClasses"
 	{
 	}
 }
 
-CharacterClassIdCollection a3342758-648b-439c-b4a7-66e17b2224e9 2
+CharacterClassIdCollection 181666f7-8724-47b2-b02c-85f8ee336468 2
 {
 	"List" "CharacterClasses"
 	{

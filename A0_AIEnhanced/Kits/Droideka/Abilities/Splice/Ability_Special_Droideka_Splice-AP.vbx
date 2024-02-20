@@ -1,0 +1,179 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_AIEnhanced/Kits/Droideka/Abilities/Splice/Ability_Special_Droideka_Splice-AP"
+	"type" "WeaponModifierPlayerAbilityAsset"
+	"fid" "6a6bc7af-46ef-4aad-8ce7-67814a86ac07"
+	
+	Objects
+	{
+		"WeaponModifierPlayerAbilityAsset" "62102796-bf59-ef04-522f-01b34cff6932" "0" "True"
+		"PlayerAbilityPropertyModifier" "d3844423-4306-4bd4-80ab-1296923a539c" "1" "False"
+		"PlayerAbilityPropertyModifier" "e55c9649-4ce3-4d3c-9d25-91d237a3a63d" "2" "False"
+		"CharacterStateBoolRequiredChannelValueData" "7873c557-d88d-4347-a001-8cd5aa9c883b" "3" "False"
+		"PlayerAbilityPropertyModifier" "a531ce8a-7716-4a61-8992-8c18a0bb67ea" "4" "False"
+		"PlayerAbilityPropertyModifier" "15797ba3-e6a7-4420-b5e3-de0061f79c02" "5" "False"
+		"PlayerAbilityPropertyModifierActiveValue" "41a432c4-f41e-4ad3-ba06-8e72bbebeb4c" "6" "False"
+		"PlayerAbilityPropertyModifierActiveValue" "a3f8f5c7-5bae-4dfb-893b-8a741baeec50" "7" "False"
+		"PlayerAbilityPropertyModifierActiveValue" "16088bd5-1bb5-4433-8337-7ce27d9c306f" "8" "False"
+		"PlayerAbilityPropertyModifierActiveValue" "4cf1d9fd-f867-443d-ae3c-004a7fdd574a" "9" "False"
+	}
+}
+
+WeaponModifierPlayerAbilityAsset 62102796-bf59-ef04-522f-01b34cff6932 0
+{
+	"List" "ModifierUnlocks"
+	{
+		"PointerRef" "" "external : 0c6cddad-cd20-4285-9189-a1393be8cdeb,7eb01b8b-edad-418f-91ca-888b05d3a821"
+	}
+	"Boolean" "WaitForFire" "False"
+	"List" "BlockingChannels"
+	{
+		"PointerRef" "" "internal : 7873c557-d88d-4347-a001-8cd5aa9c883b,3"
+	}
+	"List" "SetChannelsWhenActivating"
+	{
+	}
+	"List" "SetChannelsWhenActive"
+	{
+	}
+	"Single" "ActiveTime" "9"
+	"Single" "ActivationTime" "0"
+	"Single" "RechargeTime" "16"
+	"Int32" "InputQueueApplyOrder" "0"
+	"Boolean" "InfiniteActiveTime" "False"
+	"Boolean" "RequireHoldDuringActiveTime" "False"
+	"Boolean" "InfiniteActivationTime" "False"
+	"Boolean" "RequireHoldDuringActivationTime" "False"
+	"Boolean" "InfiniteRechargeTime" "False"
+	"Boolean" "DisableOnRecharge" "False"
+	"Boolean" "DisableOnPlayerExit" "False"
+	"Boolean" "DisableOnControllableDeath" "False"
+	"Boolean" "RemoveOnDisable" "False"
+	"Boolean" "SupportsInputQueue" "False"
+	"Boolean" "ActivateWhenButtonIsDown" "False"
+	"PlayerAbilityCategory" "Category" "PlayerAbilityCategory_Middle"
+	"PointerRef" "Unlock" "external : 0c6cddad-cd20-4285-9189-a1393be8cdeb,7eb01b8b-edad-418f-91ca-888b05d3a821"
+	"PointerRef" "Blueprint" "external : d878f385-5547-49ba-8eb9-ad04c008b430,77cbae5d-2bad-7122-aea6-445fca263c6a"
+	"List" "DescriptorIds"
+	{
+		"UInt32" "" "2280589770"
+		"UInt32" "" "2127667846"
+		"UInt32" "" "2019584983"
+	}
+	"List" "InputModifiers"
+	{
+	}
+	"List" "BlockPlayerAbilitiesRules"
+	{
+		"PlayerAbilityBlockingRule" "" 
+		{
+			"List" "AbilityIds"
+			{
+				"UInt32" "" "4105516457"
+			}
+			"Boolean" "BlockDuringActive" "True"
+			"Boolean" "BlockDuringActivation" "True"
+			"Boolean" "BlockDuringRecharging" "False"
+			"Boolean" "BlockDuringReady" "False"
+		}
+	}
+	"List" "BlockedPlayerAbilityIds"
+	{
+		"UInt32" "" "2722498101"
+	}
+	"List" "AbilityModifiers"
+	{
+		"PointerRef" "" "internal : a531ce8a-7716-4a61-8992-8c18a0bb67ea,4"
+		"PointerRef" "" "internal : 15797ba3-e6a7-4420-b5e3-de0061f79c02,5"
+		"PointerRef" "" "internal : d3844423-4306-4bd4-80ab-1296923a539c,1"
+		"PointerRef" "" "internal : e55c9649-4ce3-4d3c-9d25-91d237a3a63d,2"
+	}
+	"PointerRef" "PickupBlueprint" "null"
+	"PointerRef" "NonStreamedPickupMesh" "null"
+	"UInt32" "UnblockedByAbilityId" "0"
+	"UInt32" "Identifier" "342249789"
+	"Boolean" "IsSupportedOnAIPlayers" "True"
+	"Boolean" "IsSupportedOnHumanPlayers" "True"
+	"Boolean" "HasBonusLevels" "False"
+	"Boolean" "IgnoreNetworkingErrors" "False"
+	"Boolean" "ResetOnSpawn" "True"
+	"Boolean" "ApplyBlockPlayerAbilitiesDuringActive" "True"
+	"Boolean" "ApplyBlockPlayerAbilitiesDuringActivation" "True"
+	"Boolean" "IsHidden" "False"
+	"Boolean" "IsDefaultUnlocked" "True"
+	"Boolean" "DropAsPickupOnDeath" "False"
+	"CString" "Name" "A0_DroidekaAPFix/Abilities/AP/Droideka/Splice/Ability_Special_Droideka_Splice-AP"
+}
+
+PlayerAbilityPropertyModifier d3844423-4306-4bd4-80ab-1296923a539c 1
+{
+	"List" "Values"
+	{
+		"PointerRef" "" "internal : 41a432c4-f41e-4ad3-ba06-8e72bbebeb4c,6"
+	}
+	"UInt32" "RequiredUnlockId" "2396858287"
+}
+
+PlayerAbilityPropertyModifier e55c9649-4ce3-4d3c-9d25-91d237a3a63d 2
+{
+	"List" "Values"
+	{
+		"PointerRef" "" "internal : a3f8f5c7-5bae-4dfb-893b-8a741baeec50,7"
+	}
+	"UInt32" "RequiredUnlockId" "1730945393"
+}
+
+CharacterStateBoolRequiredChannelValueData 7873c557-d88d-4347-a001-8cd5aa9c883b 3
+{
+	"PointerRef" "Channel" "external : 8d410aff-7ffe-4e12-9756-a89cf26cf88e,26cadeec-e42f-4058-b6cc-525e503e566c"
+	"List" "AllowedValues"
+	{
+		"Boolean" "" "True"
+	}
+	"Boolean" "InvertConditions" "False"
+}
+
+PlayerAbilityPropertyModifier a531ce8a-7716-4a61-8992-8c18a0bb67ea 4
+{
+	"List" "Values"
+	{
+		"PointerRef" "" "internal : 4cf1d9fd-f867-443d-ae3c-004a7fdd574a,9"
+	}
+	"UInt32" "RequiredUnlockId" "727831841"
+}
+
+PlayerAbilityPropertyModifier 15797ba3-e6a7-4420-b5e3-de0061f79c02 5
+{
+	"List" "Values"
+	{
+		"PointerRef" "" "internal : 16088bd5-1bb5-4433-8337-7ce27d9c306f,8"
+	}
+	"UInt32" "RequiredUnlockId" "1796379417"
+}
+
+PlayerAbilityPropertyModifierActiveValue 41a432c4-f41e-4ad3-ba06-8e72bbebeb4c 6
+{
+	"Single" "ActiveTime" "12.9"
+}
+
+PlayerAbilityPropertyModifierActiveValue a3f8f5c7-5bae-4dfb-893b-8a741baeec50 7
+{
+	"Single" "ActiveTime" "15"
+}
+
+PlayerAbilityPropertyModifierActiveValue 16088bd5-1bb5-4433-8337-7ce27d9c306f 8
+{
+	"Single" "ActiveTime" "12"
+}
+
+PlayerAbilityPropertyModifierActiveValue 4cf1d9fd-f867-443d-ae3c-004a7fdd574a 9
+{
+	"Single" "ActiveTime" "10.5"
+}
+

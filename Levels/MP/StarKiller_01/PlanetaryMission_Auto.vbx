@@ -13,8 +13,8 @@ FILEDATA
 	Objects
 	{
 		"LayerData" "838d4f50-f9ba-4086-a228-4bf7cf1b0e00" "0" "True"
-		"AlternateSpawnEntityData" "7acb9a93-0ae1-47d5-a460-e7ba1b578978" "1" "True"
-		"AlternateSpawnEntityData" "cb0d9600-f7fe-4baa-a136-e9f3c5ed5f7c" "2" "True"
+		"AlternateSpawnEntityData" "8f062ac7-cb2b-4826-9c50-bd9f8073ead5" "1" "True"
+		"AlternateSpawnEntityData" "7ed48433-1228-4408-b473-a539d94394a1" "2" "True"
 		"SchematicChannelEntityData" "b21631ac-d61b-8f99-33ea-c9c9de72b5cf" "2" "False"
 		"LocalLocatorEntityData" "c7a51cde-c723-c80b-02d1-a8ff3aa82629" "4" "False"
 		"LocalLocatorEntityData" "578e3ce4-c90f-a49e-aebb-545c2f050dc9" "5" "False"
@@ -47,7 +47,7 @@ LayerData 838d4f50-f9ba-4086-a228-4bf7cf1b0e00 0
 	"CString" "Name" "Levels/MP/StarKiller_01/PlanetaryMission_Auto"
 }
 
-AlternateSpawnEntityData 7acb9a93-0ae1-47d5-a460-e7ba1b578978 1
+AlternateSpawnEntityData 8f062ac7-cb2b-4826-9c50-bd9f8073ead5 1
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"
@@ -61,7 +61,7 @@ AlternateSpawnEntityData 7acb9a93-0ae1-47d5-a460-e7ba1b578978 1
 	"UInt32" "Flags" "100663296"
 }
 
-AlternateSpawnEntityData cb0d9600-f7fe-4baa-a136-e9f3c5ed5f7c 2
+AlternateSpawnEntityData 7ed48433-1228-4408-b473-a539d94394a1 2
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"

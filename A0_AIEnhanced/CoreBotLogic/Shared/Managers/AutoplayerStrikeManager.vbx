@@ -1,0 +1,925 @@
+//=================================================//
+//
+// File generated with AI Enhanced Plugin by Ywingpilot2
+//
+//=================================================//
+
+FILEDATA
+{
+	"name" "A0_AIEnhanced/CoreBotLogic/Shared/Managers/AutoplayerStrikeManager"
+	"type" "LogicPrefabBlueprint"
+	"fid" "2eb920dd-dd15-493a-95c1-a6ca203a55c7"
+	
+	Objects
+	{
+		"LogicPrefabBlueprint" "16fb7496-1604-2732-2ffd-011b65bb8e8b" "0" "True"
+		"CompareBoolEntityData" "5bac9409-9546-4339-7d19-6990ee9fe685" "1" "False"
+		"SubLevelStatusEntityData" "be02f809-ba80-ae1a-e8ff-b2d387ea99f6" "2" "False"
+		"CompareBoolEntityData" "ec5e1e0f-76a5-5545-5042-88324e4516e4" "3" "False"
+		"LogicPrefabReferenceObjectData" "68326e11-b48e-933b-7363-2d9356c338c3" "4" "False"
+		"SubLevelStatusEntityData" "4e806d18-874f-14e0-06d7-5cfa7dea01ac" "6" "False"
+		"CompareBoolEntityData" "e098ee19-7bfc-c34d-c928-ccd50b43235c" "7" "False"
+		"SubLevelStatusEntityData" "edf28926-45ee-db1d-731e-26c17f592965" "8" "False"
+		"SubLevelStatusEntityData" "75c8ab32-b353-3346-03fa-f5ba8ed1bdba" "9" "False"
+		"SubLevelStatusEntityData" "cd224547-d1bf-a933-f92b-87a652d0baad" "10" "False"
+		"SubLevelStatusEntityData" "7c38af4f-7203-4d79-a651-0b99cecc7c72" "11" "False"
+		"CompareBoolEntityData" "9897a769-e2c7-6445-8ad1-cd4439acb71b" "12" "False"
+		"LogicPrefabReferenceObjectData" "49e80f72-6d13-27fb-d3d9-a20bc72075c7" "13" "False"
+		"CompareBoolEntityData" "d0517583-837e-fd9b-f5da-aaf21f021974" "14" "False"
+		"CompareBoolEntityData" "4ad9438b-3354-70e0-dad2-b2496135654c" "15" "False"
+		"LogicPrefabReferenceObjectData" "74d4189d-2644-c3cc-2cda-477ced51cbc7" "16" "False"
+		"SubLevelStatusEntityData" "17766b9e-0298-99c5-4260-ed7582061597" "17" "False"
+		"SubLevelStatusEntityData" "3c0e5da2-daeb-2dc8-a20d-a57c1e5967b2" "18" "False"
+		"LogicPrefabReferenceObjectData" "1d6166a3-4b68-9b93-2699-4181de7c0fe4" "19" "False"
+		"SubLevelStatusEntityData" "fe0741a4-67a9-7414-f870-922fd0560a52" "20" "False"
+		"CompareBoolEntityData" "2fb517a6-e470-caa5-6f99-2388626bc9a9" "21" "False"
+		"CompareBoolEntityData" "8e5d6fa9-6828-4783-4958-be6abaec9943" "22" "False"
+		"CompareBoolEntityData" "a705ebac-a8c1-8146-44ca-2a2f9eba0d4f" "23" "False"
+		"SubLevelStatusEntityData" "96e995ca-a0bf-c856-63ff-97e228ba5fcb" "24" "False"
+		"CompareBoolEntityData" "b8d3bcd9-0de2-053e-3723-2f85a6fdb33a" "25" "False"
+		"CompareBoolEntityData" "2c5b75ec-f88e-4c60-c707-e0af7856fe3e" "26" "False"
+		"SubLevelStatusEntityData" "4faf04f0-a1b0-aadf-621c-65a87628f41d" "27" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "28" "False"
+	}
+}
+
+LogicPrefabBlueprint 16fb7496-1604-2732-2ffd-011b65bb8e8b 0
+{
+	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
+	"List" "Objects"
+	{
+		"PointerRef" "" "internal : 3c0e5da2-daeb-2dc8-a20d-a57c1e5967b2,18"
+		"PointerRef" "" "internal : be02f809-ba80-ae1a-e8ff-b2d387ea99f6,2"
+		"PointerRef" "" "internal : cd224547-d1bf-a933-f92b-87a652d0baad,10"
+		"PointerRef" "" "internal : 4e806d18-874f-14e0-06d7-5cfa7dea01ac,6"
+		"PointerRef" "" "internal : edf28926-45ee-db1d-731e-26c17f592965,8"
+		"PointerRef" "" "internal : fe0741a4-67a9-7414-f870-922fd0560a52,20"
+		"PointerRef" "" "internal : 96e995ca-a0bf-c856-63ff-97e228ba5fcb,24"
+		"PointerRef" "" "internal : 75c8ab32-b353-3346-03fa-f5ba8ed1bdba,9"
+		"PointerRef" "" "internal : 4faf04f0-a1b0-aadf-621c-65a87628f41d,27"
+		"PointerRef" "" "internal : 17766b9e-0298-99c5-4260-ed7582061597,17"
+		"PointerRef" "" "internal : 7c38af4f-7203-4d79-a651-0b99cecc7c72,11"
+		"PointerRef" "" "internal : 4ad9438b-3354-70e0-dad2-b2496135654c,15"
+		"PointerRef" "" "internal : d0517583-837e-fd9b-f5da-aaf21f021974,14"
+		"PointerRef" "" "internal : b8d3bcd9-0de2-053e-3723-2f85a6fdb33a,25"
+		"PointerRef" "" "internal : 9897a769-e2c7-6445-8ad1-cd4439acb71b,12"
+		"PointerRef" "" "internal : e098ee19-7bfc-c34d-c928-ccd50b43235c,7"
+		"PointerRef" "" "internal : 2fb517a6-e470-caa5-6f99-2388626bc9a9,21"
+		"PointerRef" "" "internal : ec5e1e0f-76a5-5545-5042-88324e4516e4,3"
+		"PointerRef" "" "internal : 8e5d6fa9-6828-4783-4958-be6abaec9943,22"
+		"PointerRef" "" "internal : 5bac9409-9546-4339-7d19-6990ee9fe685,1"
+		"PointerRef" "" "internal : a705ebac-a8c1-8146-44ca-2a2f9eba0d4f,23"
+		"PointerRef" "" "internal : 2c5b75ec-f88e-4c60-c707-e0af7856fe3e,26"
+		"PointerRef" "" "internal : 74d4189d-2644-c3cc-2cda-477ced51cbc7,16"
+		"PointerRef" "" "internal : 49e80f72-6d13-27fb-d3d9-a20bc72075c7,13"
+		"PointerRef" "" "internal : 1d6166a3-4b68-9b93-2699-4181de7c0fe4,19"
+		"PointerRef" "" "internal : 68326e11-b48e-933b-7363-2d9356c338c3,4"
+	}
+	"PointerRef" "Schematics" "null"
+	"List" "EventConnections"
+	{
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : d0517583-837e-fd9b-f5da-aaf21f021974,14"
+			"PointerRef" "Target" "internal : 74d4189d-2644-c3cc-2cda-477ced51cbc7,16"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 9897a769-e2c7-6445-8ad1-cd4439acb71b,12"
+			"PointerRef" "Target" "internal : 68326e11-b48e-933b-7363-2d9356c338c3,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : e098ee19-7bfc-c34d-c928-ccd50b43235c,7"
+			"PointerRef" "Target" "internal : 74d4189d-2644-c3cc-2cda-477ced51cbc7,16"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 8e5d6fa9-6828-4783-4958-be6abaec9943,22"
+			"PointerRef" "Target" "internal : 1d6166a3-4b68-9b93-2699-4181de7c0fe4,19"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : b8d3bcd9-0de2-053e-3723-2f85a6fdb33a,25"
+			"PointerRef" "Target" "internal : 49e80f72-6d13-27fb-d3d9-a20bc72075c7,13"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 2c5b75ec-f88e-4c60-c707-e0af7856fe3e,26"
+			"PointerRef" "Target" "internal : 74d4189d-2644-c3cc-2cda-477ced51cbc7,16"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : a705ebac-a8c1-8146-44ca-2a2f9eba0d4f,23"
+			"PointerRef" "Target" "internal : 1d6166a3-4b68-9b93-2699-4181de7c0fe4,19"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 4ad9438b-3354-70e0-dad2-b2496135654c,15"
+			"PointerRef" "Target" "internal : 68326e11-b48e-933b-7363-2d9356c338c3,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 2fb517a6-e470-caa5-6f99-2388626bc9a9,21"
+			"PointerRef" "Target" "internal : 49e80f72-6d13-27fb-d3d9-a20bc72075c7,13"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : ec5e1e0f-76a5-5545-5042-88324e4516e4,3"
+			"PointerRef" "Target" "internal : 68326e11-b48e-933b-7363-2d9356c338c3,4"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 5bac9409-9546-4339-7d19-6990ee9fe685,1"
+			"PointerRef" "Target" "internal : 74d4189d-2644-c3cc-2cda-477ced51cbc7,16"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-1433512622"
+				"CString" "Name" "OnTrue"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "230891742"
+				"CString" "Name" "Spawn"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : d0517583-837e-fd9b-f5da-aaf21f021974,14"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 9897a769-e2c7-6445-8ad1-cd4439acb71b,12"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : e098ee19-7bfc-c34d-c928-ccd50b43235c,7"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 8e5d6fa9-6828-4783-4958-be6abaec9943,22"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : b8d3bcd9-0de2-053e-3723-2f85a6fdb33a,25"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 2c5b75ec-f88e-4c60-c707-e0af7856fe3e,26"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : a705ebac-a8c1-8146-44ca-2a2f9eba0d4f,23"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 4ad9438b-3354-70e0-dad2-b2496135654c,15"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 4ad9438b-3354-70e0-dad2-b2496135654c,15"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 2fb517a6-e470-caa5-6f99-2388626bc9a9,21"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : ec5e1e0f-76a5-5545-5042-88324e4516e4,3"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,28"
+			"PointerRef" "Target" "internal : 5bac9409-9546-4339-7d19-6990ee9fe685,1"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "1266103925"
+				"CString" "Name" "InitiateManager"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+	}
+	"UInt16" "Flags" "14"
+	"List" "PropertyConnections"
+	{
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 3c0e5da2-daeb-2dc8-a20d-a57c1e5967b2,18"
+			"PointerRef" "Target" "internal : 4ad9438b-3354-70e0-dad2-b2496135654c,15"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : be02f809-ba80-ae1a-e8ff-b2d387ea99f6,2"
+			"PointerRef" "Target" "internal : d0517583-837e-fd9b-f5da-aaf21f021974,14"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : cd224547-d1bf-a933-f92b-87a652d0baad,10"
+			"PointerRef" "Target" "internal : b8d3bcd9-0de2-053e-3723-2f85a6fdb33a,25"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 4e806d18-874f-14e0-06d7-5cfa7dea01ac,6"
+			"PointerRef" "Target" "internal : 9897a769-e2c7-6445-8ad1-cd4439acb71b,12"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : edf28926-45ee-db1d-731e-26c17f592965,8"
+			"PointerRef" "Target" "internal : e098ee19-7bfc-c34d-c928-ccd50b43235c,7"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : fe0741a4-67a9-7414-f870-922fd0560a52,20"
+			"PointerRef" "Target" "internal : 2fb517a6-e470-caa5-6f99-2388626bc9a9,21"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 96e995ca-a0bf-c856-63ff-97e228ba5fcb,24"
+			"PointerRef" "Target" "internal : ec5e1e0f-76a5-5545-5042-88324e4516e4,3"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 75c8ab32-b353-3346-03fa-f5ba8ed1bdba,9"
+			"PointerRef" "Target" "internal : 8e5d6fa9-6828-4783-4958-be6abaec9943,22"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 4faf04f0-a1b0-aadf-621c-65a87628f41d,27"
+			"PointerRef" "Target" "internal : 5bac9409-9546-4339-7d19-6990ee9fe685,1"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 17766b9e-0298-99c5-4260-ed7582061597,17"
+			"PointerRef" "Target" "internal : a705ebac-a8c1-8146-44ca-2a2f9eba0d4f,23"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+		"PropertyConnection" ""
+		{
+			"PointerRef" "Source" "internal : 7c38af4f-7203-4d79-a651-0b99cecc7c72,11"
+			"PointerRef" "Target" "internal : 2c5b75ec-f88e-4c60-c707-e0af7856fe3e,26"
+			"Int32" "SourceFieldId" "815881976"
+			"Int32" "TargetFieldId" "2088812747"
+			"UInt32" "Flags" "3"
+			"CString" "SourceField" "IsLoaded"
+			"CString" "TargetField" "Bool"
+		}
+	}
+	"List" "LinkConnections"
+	{
+	}
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,28"
+	"CString" "Name" "A0_AIEnhanced/AutoLogic/Shared/Managers/AutoplayerStrikeManager"
+}
+
+CompareBoolEntityData 5bac9409-9546-4339-7d19-6990ee9fe685 1
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+SubLevelStatusEntityData be02f809-ba80-ae1a-e8ff-b2d387ea99f6 2
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Endor_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+CompareBoolEntityData ec5e1e0f-76a5-5545-5042-88324e4516e4 3
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+LogicPrefabReferenceObjectData 68326e11-b48e-933b-7363-2d9356c338c3 4
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 3b45035b-e504-400a-930a-fc0d9920dfac,b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "70413841"
+}
+
+SubLevelStatusEntityData 4e806d18-874f-14e0-06d7-5cfa7dea01ac 6
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Jakku_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+CompareBoolEntityData e098ee19-7bfc-c34d-c928-ccd50b43235c 7
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+SubLevelStatusEntityData edf28926-45ee-db1d-731e-26c17f592965 8
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Kamino_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+SubLevelStatusEntityData 75c8ab32-b353-3346-03fa-f5ba8ed1bdba 9
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/StarKiller_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+SubLevelStatusEntityData cd224547-d1bf-a933-f92b-87a652d0baad 10
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Hoth_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+SubLevelStatusEntityData 7c38af4f-7203-4d79-a651-0b99cecc7c72 11
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Yavin_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+CompareBoolEntityData 9897a769-e2c7-6445-8ad1-cd4439acb71b 12
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+LogicPrefabReferenceObjectData 49e80f72-6d13-27fb-d3d9-a20bc72075c7 13
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 8b64d215-13c8-4081-b1f6-27008c732af0,dc45e9c8-e125-5db4-6949-172eb38e96e8"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "82232078"
+}
+
+CompareBoolEntityData d0517583-837e-fd9b-f5da-aaf21f021974 14
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+CompareBoolEntityData 4ad9438b-3354-70e0-dad2-b2496135654c 15
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+LogicPrefabReferenceObjectData 74d4189d-2644-c3cc-2cda-477ced51cbc7 16
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : fd4be11a-bd1d-424c-8b8f-8524ce6e0449,37c82133-1691-d131-a203-2cb36cd3f4b2"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "82232078"
+}
+
+SubLevelStatusEntityData 17766b9e-0298-99c5-4260-ed7582061597 17
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Tatooine_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+SubLevelStatusEntityData 3c0e5da2-daeb-2dc8-a20d-a57c1e5967b2 18
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/DeathStar02_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+LogicPrefabReferenceObjectData 1d6166a3-4b68-9b93-2699-4181de7c0fe4 19
+{
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "3.402823E+38,0,0"
+		"Vec3" "Rotation" "3.402823E+38,0,0"
+		"Vec3" "Scale" "3.402823E+38,0,0"
+	}
+	"PointerRef" "Blueprint" "external : 0834aaee-3cbf-4cc5-a54d-17628199b9aa,bc0aa6f3-9106-4240-8eb4-486fee3c4259"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "82232078"
+}
+
+SubLevelStatusEntityData fe0741a4-67a9-7414-f870-922fd0560a52 20
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Kashyyyk_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+CompareBoolEntityData 2fb517a6-e470-caa5-6f99-2388626bc9a9 21
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+CompareBoolEntityData 8e5d6fa9-6828-4783-4958-be6abaec9943 22
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+CompareBoolEntityData a705ebac-a8c1-8146-44ca-2a2f9eba0d4f 23
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+SubLevelStatusEntityData 96e995ca-a0bf-c856-63ff-97e228ba5fcb 24
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Naboo_01/Domination"
+	"UInt32" "Flags" "941474"
+}
+
+CompareBoolEntityData b8d3bcd9-0de2-053e-3723-2f85a6fdb33a 25
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+CompareBoolEntityData 2c5b75ec-f88e-4c60-c707-e0af7856fe3e 26
+{
+	"Boolean" "Bool" "False"
+	"Realm" "Realm" "Realm_Server"
+	"Boolean" "TriggerOnPropertyChange" "False"
+	"Boolean" "TriggerOnStart" "True"
+	"Boolean" "AlwaysSend" "False"
+	"UInt32" "Flags" "349782923"
+}
+
+SubLevelStatusEntityData 4faf04f0-a1b0-aadf-621c-65a87628f41d 27
+{
+	"Realm" "Realm" "Realm_Server"
+	"CString" "SubLevelName" "Levels/MP/Takodana_01/PlanetaryMissions"
+	"UInt32" "Flags" "941474"
+}
+
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 28
+{
+	"List" "InputEvents"
+	{
+		"DynamicEvent" "" 
+		{
+			"Int32" "Id" "1266103925"
+			"CString" "Name" "InitiateManager"
+		}
+	}
+	"List" "OutputEvents"
+	{
+	}
+	"List" "InputLinks"
+	{
+	}
+	"List" "OutputLinks"
+	{
+	}
+	"List" "Fields"
+	{
+	}
+}
+
