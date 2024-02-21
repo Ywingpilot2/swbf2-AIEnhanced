@@ -20,14 +20,14 @@ FILEDATA
 		"SubWorldReferenceObjectData" "781d92ca-e479-4e69-a47f-121260040536" "5" "False"
 		"SubWorldReferenceObjectData" "b84229d3-8f17-4188-8a63-9b4fe0100db6" "6" "False"
 		"SubWorldReferenceObjectData" "dace7df2-2026-4095-93db-3dffde359525" "7" "False"
-		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "8" "False"
-		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "9" "False"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "10" "False"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "11" "False"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "12" "False"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "13" "False"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "14" "False"
-		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15" "False"
+		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"EffectSystemComponent" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"EmitterSystemComponent" "00000000-0000-0000-0000-000000000000" "11" "False"
+		"GroupHavokAsset" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"GroupRigidBodyData" "00000000-0000-0000-0000-000000000000" "14" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "15" "False"
 		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "16" "False"
 		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "17" "False"
 		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "18" "False"
@@ -39,28 +39,28 @@ FILEDATA
 		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "24" "False"
 		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "25" "False"
 		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "26" "False"
-		"StaticModelGroupEntityData" "00000000-0000-0000-0000-000000000000" "27" "False"
-		"StaticModelGroupHealthComponentData" "00000000-0000-0000-0000-000000000000" "28" "False"
-		"StaticModelGroupPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "29" "False"
-		"VisualEnvironmentReferenceObjectData" "00000000-0000-0000-0000-000000000000" "30" "False"
-		"VisualEnvironmentReferenceObjectData" "00000000-0000-0000-0000-000000000000" "31" "False"
-		"WaterEntityData" "00000000-0000-0000-0000-000000000000" "32" "False"
-		"WaterHealthComponentData" "00000000-0000-0000-0000-000000000000" "33" "False"
-		"WaterPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "34" "False"
-		"GroupHavokAsset" "00000000-0000-0000-0000-000000000000" "35" "False"
-		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "36" "False"
-		"DefaultPhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "37" "False"
-		"EffectSystemComponent" "00000000-0000-0000-0000-000000000000" "38" "False"
-		"EmitterSystemComponent" "00000000-0000-0000-0000-000000000000" "39" "False"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "40" "False"
-		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "41" "False"
-		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "42" "False"
-		"PathfindingSystemEntityData" "00000000-0000-0000-0000-000000000000" "43" "False"
-		"QuickscopeLevelData" "00000000-0000-0000-0000-000000000000" "44" "False"
-		"ShadowExtrusionDataEntityData" "00000000-0000-0000-0000-000000000000" "45" "False"
-		"ShadowExtrusionLevelDataEntityData" "00000000-0000-0000-0000-000000000000" "46" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "27" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "28" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "29" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "30" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "31" "False"
+		"LayerReferenceObjectData" "00000000-0000-0000-0000-000000000000" "32" "False"
+		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "33" "False"
+		"NonePhysicsCallbackHandlerData" "00000000-0000-0000-0000-000000000000" "34" "False"
+		"PathfindingSystemEntityData" "00000000-0000-0000-0000-000000000000" "35" "False"
+		"QuickscopeLevelData" "00000000-0000-0000-0000-000000000000" "36" "False"
+		"ShadowExtrusionDataEntityData" "00000000-0000-0000-0000-000000000000" "37" "False"
+		"ShadowExtrusionLevelDataEntityData" "00000000-0000-0000-0000-000000000000" "38" "False"
+		"StaticModelGroupEntityData" "00000000-0000-0000-0000-000000000000" "39" "False"
+		"StaticModelGroupHealthComponentData" "00000000-0000-0000-0000-000000000000" "40" "False"
+		"StaticModelGroupPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "41" "False"
+		"VisualEnvironmentReferenceObjectData" "00000000-0000-0000-0000-000000000000" "42" "False"
+		"VisualEnvironmentReferenceObjectData" "00000000-0000-0000-0000-000000000000" "43" "False"
+		"WaterEntityData" "00000000-0000-0000-0000-000000000000" "44" "False"
+		"WaterHealthComponentData" "00000000-0000-0000-0000-000000000000" "45" "False"
+		"WaterPhysicsBodyData" "00000000-0000-0000-0000-000000000000" "46" "False"
 		"WaterPhysicsBodyData" "00000000-0000-0000-0000-000000000000" "47" "False"
-		"WaterPhysicsBodyData" "00000000-0000-0000-0000-000000000000" "48" "False"
+		"WaterPhysicsComponentData" "00000000-0000-0000-0000-000000000000" "48" "False"
 	}
 }
 
@@ -1775,9 +1775,9 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 	"PointerRef" "AutoAssetCollector" "null"
 	"List" "Components"
 	{
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,44"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,39"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,38"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,36"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,11"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,10"
 	}
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"Boolean" "IsWin32SubLevel" "True"
@@ -1790,38 +1790,38 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"List" "Objects"
 	{
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,27"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,39"
 		"PointerRef" "" "external : 16a2e2e0-437a-4012-8567-4d85ba213b3b,7ad50d36-9403-489b-b2d9-5f7cf298f997"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,19"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,11"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,22"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,26"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,21"
-		"PointerRef" "" "internal : c0bed68d-0e6b-450d-85ed-0955e74b405a,2"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,15"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,16"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,30"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,29"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,28"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,27"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,26"
+		"PointerRef" "" "internal : c0bed68d-0e6b-450d-85ed-0955e74b405a,2"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,25"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,24"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,43"
 		"PointerRef" "" "internal : dace7df2-2026-4095-93db-3dffde359525,7"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,42"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,31"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,17"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,46"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,45"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,38"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,37"
 		"PointerRef" "" "internal : b84229d3-8f17-4188-8a63-9b4fe0100db6,6"
 		"PointerRef" "" "internal : eeedd2ba-a260-41e9-b1ce-2f249efcdac5,4"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,23"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,25"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,43"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,21"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,20"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,13"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,24"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,35"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,19"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,22"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,18"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,14"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,10"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,12"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,17"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,16"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,23"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,32"
 		"PointerRef" "" "internal : afd2cab9-9c18-4329-a1ad-140cfea68cc9,3"
 		"PointerRef" "" "internal : 781d92ca-e479-4e69-a47f-121260040536,5"
 		"PointerRef" "" "internal : c0402b8a-884b-4b5b-9bc2-5bee7288e03a,1"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,32"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,44"
 	}
 	"PointerRef" "Schematics" "external : 29c5ea4f-8fdb-88e3-c7b3-7e3c77ef90a1,29c5ea4f-8fdb-88e3-c7b3-7e3c77ef90a1"
 	"List" "EventConnections"
@@ -6233,7 +6233,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		"PropertyConnection" ""
 		{
 			"PointerRef" "Source" "external : 284140d2-7978-4699-b6f5-4ea9a655e715,18aa7a90-d1d9-4555-96e3-5eb36235c464"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,27"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,39"
 			"Int32" "SourceFieldId" "1564494525"
 			"Int32" "TargetFieldId" "-16777211"
 			"UInt32" "Flags" "2"
@@ -6242,7 +6242,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 85a0e2d3-48e5-4662-9ed2-6713fd5f1a73,d66eb877-5aaf-4c1e-a144-3e9b0550f4fe"
 			"Int32" "SourceFieldId" "-141474860"
 			"Int32" "TargetFieldId" "901540267"
@@ -6252,7 +6252,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 394ab551-91a7-4ca9-b4a5-0c2344051d36,a9f92308-03b6-41ae-84a0-d406db7a4a70"
 			"Int32" "SourceFieldId" "-141474859"
 			"Int32" "TargetFieldId" "5862146"
@@ -6262,7 +6262,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 284140d2-7978-4699-b6f5-4ea9a655e715,09a9f47c-d119-4d8a-a113-975690c4e341"
 			"Int32" "SourceFieldId" "-141474859"
 			"Int32" "TargetFieldId" "5862146"
@@ -6272,7 +6272,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 284140d2-7978-4699-b6f5-4ea9a655e715,b72b0c03-45dc-42a9-b68a-b1edae44012e"
 			"Int32" "SourceFieldId" "-141474859"
 			"Int32" "TargetFieldId" "5862146"
@@ -6282,7 +6282,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 284140d2-7978-4699-b6f5-4ea9a655e715,52829313-d424-4292-b9bc-d6e0036c25ed"
 			"Int32" "SourceFieldId" "-141474859"
 			"Int32" "TargetFieldId" "5862146"
@@ -6292,7 +6292,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 284140d2-7978-4699-b6f5-4ea9a655e715,1aace17a-0f79-466b-b82c-b4ecd75c69c0"
 			"Int32" "SourceFieldId" "-141474859"
 			"Int32" "TargetFieldId" "5862146"
@@ -6302,7 +6302,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 		}
 		"PropertyConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,40"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"PointerRef" "Target" "external : 284140d2-7978-4699-b6f5-4ea9a655e715,09fb36ab-bbb7-472a-be74-ed4c34db71df"
 			"Int32" "SourceFieldId" "-141474860"
 			"Int32" "TargetFieldId" "5862146"
@@ -6648,7 +6648,7 @@ LevelData f974ddc6-4a53-4827-afb4-2bbb70f3b27e 0
 			"CString" "TargetField" "0x00000000"
 		}
 	}
-	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,40"
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,15"
 	"CString" "Name" "Levels/MP/Naboo_01/Naboo_01"
 }
 
@@ -7065,378 +7065,608 @@ SubWorldReferenceObjectData dace7df2-2026-4095-93db-3dffde359525 7
 	"UInt32" "Flags" "80641522"
 }
 
-GroupRigidBodyData 00000000-0000-0000-0000-000000000000 8
+DefaultPhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 8
 {
-	"List" "RaycastMaterialIndicesLookups"
-	{
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "0"
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "3"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "4"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "6"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "7"
-				"UInt32" "" "8"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "4"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "0"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "4"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "12"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-				"UInt32" "" "8"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "8"
-				"UInt32" "" "4"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "8"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "5"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "14"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "14"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "15"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "14"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "14"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "14"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "15"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "15"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "15"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "7"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "7"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "17"
-				"UInt32" "" "1"
-				"UInt32" "" "7"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "7"
-				"UInt32" "" "8"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "8"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "17"
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "0"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-				"UInt32" "" "7"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "20"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "20"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "1"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "0"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "0"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "14"
-			}
-		}
-		"MaterialIndicesLookup" "" 
-		{
-			"List" "MaterialIndices"
-			{
-				"UInt32" "" "17"
-				"UInt32" "" "1"
-				"UInt32" "" "7"
-			}
-		}
-	}
-	"List" "PartIndices"
-	{
-	}
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"Vec3" "CenterOfMass" "0,0,0"
-	"Vec3" "InertiaModifier" "1,1,1"
-	"Vec3" "InverseInertiaTensor" "1,1,1"
-	"Quat" "PrincipalAxesOfInertia" 
-	{
-		"Single" "x" "0"
-		"Single" "y" "0"
-		"Single" "z" "0"
-		"Single" "w" "1"
-	}
-	"PointerRef" "FloatPhysics" "null"
-	"List" "PartMaterials"
-	{
-	}
-	"Single" "Mass" "0"
-	"MaterialDecl" "Material" 
-	{
-		"UInt32" "Packed" "2048"
-	}
-	"Single" "DynamicFriction" "-1"
-	"Single" "StaticFriction" "-1"
-	"Single" "Restitution" "-1"
-	"Single" "AngularVelocityDamping" "-1"
-	"Single" "LinearVelocityDamping" "-1"
-	"UInt32" "SystemGroup" "0"
-	"UInt32" "SubSystemId" "0"
-	"UInt32" "SubSystemIdNoCollide" "0"
-	"Boolean" "ComputeCenterOfMass" "True"
-	"Boolean" "ComputeInertiaTensor" "True"
-	"Boolean" "IsRootController" "True"
-	"Realm" "Realm" "Realm_Client"
-	"PointerRef" "Asset" "internal : 00000000-0000-0000-0000-000000000000,35"
-	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,41"
-	"RigidBodyType" "RigidBodyType" "RBTypeProxy"
-	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_StaticLayer"
-	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Invalid"
-	"RigidBodyQualityType" "QualityType" "RigidBodyQualityType_Fixed"
-	"Byte" "TransformIndex" "0"
-	"Byte" "WorldIndex" "1"
-	"Byte" "CollisionRootShapeIndex" "0"
-	"Byte" "RaycastRootShapeIndex" "1"
-	"Boolean" "AddToSpatialQueryManager" "False"
-	"UInt32" "Flags" "0"
 }
 
-GroupRigidBodyData 00000000-0000-0000-0000-000000000000 9
+DefaultPhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 9
+{
+}
+
+EffectSystemComponent 00000000-0000-0000-0000-000000000000 10
+{
+	"PointerRef" "EffectParameterList" "external : 005b93e1-2e3c-11e2-b9de-874e05283483,9c3f4650-3694-814a-752e-cd7a5a4873f1"
+}
+
+EmitterSystemComponent 00000000-0000-0000-0000-000000000000 11
+{
+	"PointerRef" "ExclusionVolumes" "external : 104f66dd-404a-b30a-4531-11b5e95649d0,104f66dd-404a-b30a-4531-11b5e95649d0"
+}
+
+GroupHavokAsset 00000000-0000-0000-0000-000000000000 12
+{
+	"List" "Aabb"
+	{
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-16.62023,-0.1627832,-6.310568"
+					"Vec3" "max" "18.79252,5.274368,10.20683"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-5.215868,0,-3.102196"
+					"Vec3" "max" "5.215868,7.66202,3.102196"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-3.192985,-0.01272125,-3.766464"
+					"Vec3" "max" "3.188357,20.52192,4.368172"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2413049,-0.3761935,0.0001976013"
+					"Vec3" "max" "0.2413049,0.3983095,0.152763"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1088614,-0.4749874,0.002185769"
+					"Vec3" "max" "0.1088614,0.4749874,0.3001616"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.4724317,0.001295667,-0.531988"
+					"Vec3" "max" "0.4724317,2.147319,0.4556555"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-3.325037,-0.2498456,-3.271564"
+					"Vec3" "max" "3.266182,16.37112,2.949249"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.6755279,0,-0.6755279"
+					"Vec3" "max" "0.6755279,1.92,0.6755279"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-2.149341,0.0002339673,-1.406464"
+					"Vec3" "max" "2.149341,1.286691,1.406464"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.32,0,-0.24"
+					"Vec3" "max" "0.32,0.64,0.24"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2120923,-9.661576,-1.104503"
+					"Vec3" "max" "0.2120181,8.376906,1.104503"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1679745,-0.2108838,-0.0002065462"
+					"Vec3" "max" "0.1679745,0.6415243,0.8273929"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.4113632,0.003258514,-1.045776"
+					"Vec3" "max" "0.4113632,2.919814,1.045776"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1497945,0,-0.1595963"
+					"Vec3" "max" "0.1497945,0.2852105,0.1595963"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3023942,0.0001647735,-0.8938928"
+					"Vec3" "max" "0.3931726,1.161014,0.8938928"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1982345,0,-0.5121896"
+					"Vec3" "max" "0.1711389,0.1246153,0.5121896"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3417279,-3.754497E-06,-0.341728"
+					"Vec3" "max" "0.3417279,0.7005064,0.341728"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2810607,-6.556511E-09,-0.2810607"
+					"Vec3" "max" "0.2810608,0.3855119,0.2810607"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.7903328,-0.00738985,-0.7710474"
+					"Vec3" "max" "0.831527,0.06520683,0.5144352"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2761493,0.002957807,-0.4119988"
+					"Vec3" "max" "0.2704916,0.2650189,0.4119988"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2607043,-0.008617464,-0.2675326"
+					"Vec3" "max" "0.2611319,0.1972705,0.2471849"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3100081,0.001789651,-0.1249653"
+					"Vec3" "max" "0.2680721,0.463966,0.1899939"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3984381,-0.005506926,-0.5559549"
+					"Vec3" "max" "0.3651067,0.1875509,0.5559198"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.6117993,-0.005384684,-0.4559679"
+					"Vec3" "max" "0.5400781,0.7413513,0.4617771"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.7941295,-1.525879E-07,-0.9072677"
+					"Vec3" "max" "0.6762592,1.835912,0.8048928"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.7522661,-0.002678692,-1.041448"
+					"Vec3" "max" "0.5502043,1.128372,1.366638"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.7256034,-2.765655E-07,-1.374088"
+					"Vec3" "max" "0.7748106,0.3246886,1.825993"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-1.509067,-0.00194756,-0.6933866"
+					"Vec3" "max" "1.415639,0.2904952,1.019807"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-1.209319,-0.009009637,-0.9107661"
+					"Vec3" "max" "1.209283,0.1925048,0.8741455"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1913638,-0.287085,-0.532113"
+					"Vec3" "max" "0.2018528,0.3285773,0.5301129"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2407162,0.5165045,-0.1728298"
+					"Vec3" "max" "0.2571882,0.5941731,0.3679913"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3056717,0.5389106,-0.3587651"
+					"Vec3" "max" "0.3056712,1.008281,-0.1269898"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2441968,0.6866662,-0.3487871"
+					"Vec3" "max" "0.2357255,1.233217,-0.2656557"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3710449,0.651466,-0.20714"
+					"Vec3" "max" "-0.2499481,0.8367431,0.3316089"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "0.2499481,0.5941983,-0.2618494"
+					"Vec3" "max" "0.3710449,0.8367431,0.3385454"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1496479,0.8496142,-0.3859572"
+					"Vec3" "max" "0.3325855,1.414196,-0.2698004"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3325855,0.8733014,-0.3699728"
+					"Vec3" "max" "-0.005146474,1.342231,-0.270916"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3876328,0.000201416,-0.3930995"
+					"Vec3" "max" "0.3876328,0.7690349,0.4422235"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.9252071,0.7457513,-0.4853839"
+					"Vec3" "max" "0.3293719,0.7722821,-0.04501766"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.486232,0.7457513,-0.4853839"
+					"Vec3" "max" "0.9213668,0.7722821,-0.07777515"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.3747654,0.7457513,-0.2030325"
+					"Vec3" "max" "0.9307992,0.7722821,0.1751132"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.9307995,0.743745,-0.04550251"
+					"Vec3" "max" "0.9063032,0.7722821,0.4447072"
+				}
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.9307995,0.004371833,-0.4853839"
+					"Vec3" "max" "0.9307993,0.7722821,0.4853838"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.257214,-1.675069E-17,-0.2849311"
+					"Vec3" "max" "0.257214,0.8831145,0.2849311"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.2396432,0,-0.2621338"
+					"Vec3" "max" "0.2396432,1.032375,0.2621338"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1625953,-1.765162,-0.4763735"
+					"Vec3" "max" "0.0291039,1.765162,0.4763737"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-1.294742,-1.124624,-1.918077"
+					"Vec3" "max" "1.317069,1.125122,1.918078"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-4.610799,-0.6257049,0"
+					"Vec3" "max" "0.1474013,0.4413683,0.2382075"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "0.07297631,-0.6257049,0"
+					"Vec3" "max" "4.627401,0.4413683,0.2382075"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.4084946,9.716675,-0.7590161"
+					"Vec3" "max" "0.3758434,10.99684,0.7409712"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-17.48309,-9.690702E-05,-20.64568"
+					"Vec3" "max" "17.48302,0.1599085,20.64556"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-42.12442,-2.56516,-50.02838"
+					"Vec3" "max" "51.30881,-2.404697,55.04908"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.4847396,-0.01623387,-1.200051"
+					"Vec3" "max" "0.5428808,0.06245381,1.084852"
+				}
+			}
+		}
+		"AssetAabbs" "" 
+		{
+			"List" "PartAabb"
+			{
+				"AxisAlignedBox" "" 
+				{
+					"Vec3" "min" "-0.1161013,-0.2697354,-0.4420193"
+					"Vec3" "max" "0.1078992,0.3025294,0.4420193"
+				}
+			}
+		}
+	}
+	"List" "ExternalAssets"
+	{
+		"PointerRef" "" "external : fbccd452-3496-11e6-8bb1-8c48dd6994dd,f6456629-7026-9885-5401-6ec53c360744"
+		"PointerRef" "" "null"
+		"PointerRef" "" "external : db547e46-62d1-11e6-b426-f6b025d39f9d,c4b0e3e1-616b-20eb-dbe8-3c98b1a6ae39"
+		"PointerRef" "" "external : b86a28bb-6a7f-11e6-8212-ed11d9cc36d1,75e5e3c2-4282-fd9a-e04b-128a47f69547"
+		"PointerRef" "" "external : dc068743-6a86-11e6-8212-ed11d9cc36d1,bb5a4456-e336-edd9-5990-f30d306048e7"
+		"PointerRef" "" "external : c4038b71-6ea4-11e6-b480-fbc64a9ea0cb,3505db14-81d2-2f44-a6f9-ca4b8552fa56"
+		"PointerRef" "" "external : fb3321ad-7365-11e6-9061-f4cb9d78d8c3,222d5fdc-4847-faf0-86be-d8f914fa02f1"
+		"PointerRef" "" "external : 5d195abb-8f8b-11e6-a953-a90c1a80c19c,9d98c435-19cd-2187-5a4f-59b48e5a5a96"
+		"PointerRef" "" "external : ba79aa79-e23c-11e6-a4fa-fc73592469e9,e072b091-cd5b-0065-0ee8-fe6b6a9abfec"
+		"PointerRef" "" "external : de08bc25-ed49-11e6-b24f-c06bf5dee4c2,c2650fd8-4841-b53a-33c4-63de399b5e99"
+		"PointerRef" "" "external : d3197bb2-eea2-11e6-9800-84814214ee83,f5fea602-62f7-2f80-6a13-cbcb6ef33bfd"
+		"PointerRef" "" "external : 3a8034b2-f35f-11e6-b7a9-b53fc55baf2c,42c445c3-edf1-2565-c1f3-979dca2237f2"
+		"PointerRef" "" "external : 8cb0adda-f815-11e6-9397-adcbf78f5f84,1c94c983-ea94-e7db-8ee8-8b12f52ae302"
+		"PointerRef" "" "external : 4425e240-f9a2-11e6-b720-bb371e9607fc,c62d51df-edff-4668-0ae2-8607fed2d769"
+		"PointerRef" "" "external : c5226968-fd08-11e6-9e30-93f69dc4d1c8,61953ac2-c9a6-8481-9d1f-d20271d1e739"
+		"PointerRef" "" "external : 3262adaa-2419-11e7-becb-84e476274fd2,081552c7-3b42-3120-2d22-1afc6b86028c"
+		"PointerRef" "" "external : f26d4d77-2960-11e7-8b23-92f4e70f908b,fb2d2ab6-ca74-bd4b-1ae4-a0ef37b27b58"
+		"PointerRef" "" "null"
+		"PointerRef" "" "external : c4b73fc0-2c04-11e7-8cac-a9ec16be2047,08a8d510-36b9-d638-fdd1-e3f8803996dd"
+		"PointerRef" "" "external : 567deb9f-2c17-11e7-8f8a-cf1efe4b3d98,14103059-9ecb-6b3f-009f-82ee15f8d043"
+		"PointerRef" "" "null"
+		"PointerRef" "" "external : c11a60a0-2c17-11e7-8f8a-cf1efe4b3d98,c9bf7a5a-2d32-e074-1645-06b711f44071"
+		"PointerRef" "" "external : 74be3ecd-2c1d-11e7-8f8a-cf1efe4b3d98,840de88f-81bd-5de2-cc81-00b248280896"
+		"PointerRef" "" "external : 3a0df886-2c1e-11e7-8f8a-cf1efe4b3d98,ffe498bb-1f5e-91b0-959a-e61b4b40dc88"
+		"PointerRef" "" "null"
+		"PointerRef" "" "null"
+		"PointerRef" "" "null"
+		"PointerRef" "" "external : b0006be9-2f09-11e7-8f8a-cf1efe4b3d98,8923c1c1-9859-85f4-67b2-b12eaf8d4ff6"
+		"PointerRef" "" "external : 247f6edb-2f0b-11e7-8f8a-cf1efe4b3d98,b738f34c-bca9-8e8a-7ee4-767ac7925025"
+		"PointerRef" "" "external : 3b1d1b27-2f34-11e7-8095-fb01d7b1c34d,6162db2d-5004-760c-2573-84254db71f32"
+		"PointerRef" "" "external : 8b10e278-2f39-11e7-8095-fb01d7b1c34d,a0a50682-10ac-63fa-fe72-3862f632f5cc"
+		"PointerRef" "" "external : 20a795a4-2f3a-11e7-8095-fb01d7b1c34d,461886ac-b0fd-f668-2a43-22f81d550f0c"
+		"PointerRef" "" "external : 7b3af7d4-307c-11e7-af31-c2e3ee83730b,ebfc0a50-5058-e371-5361-570ba23903b0"
+		"PointerRef" "" "external : 8b434949-35f4-11e7-b407-b0cfc04057dc,72fd99ed-5846-5398-dc63-a9f2c8b234f9"
+		"PointerRef" "" "external : 23b8a330-3a6e-11e7-a1fe-b30a4181733f,cf45a809-5049-19d4-0d14-b799d37fc8e2"
+		"PointerRef" "" "external : 995a7c2e-4078-11e7-8681-e6bcbfd958ec,8fc43a09-1329-8fd6-893e-aa35f47e66e0"
+		"PointerRef" "" "external : bd056101-4383-11e7-a058-e8bb32cfd397,8bbf4c02-ac38-7b28-7889-396185e692a7"
+		"PointerRef" "" "external : 5d8a033b-4384-11e7-a058-e8bb32cfd397,624a7e17-909c-bdee-7572-d050ff37872c"
+		"PointerRef" "" "external : 54a3a8b1-617c-11e7-82e4-e1be6942d91f,004e8eb6-5c6b-2cc3-33bd-f3f786f326c3"
+		"PointerRef" "" "external : 64840cd8-78ea-11e7-aed2-f57fc56d3ef3,e65b73cd-c825-a966-c0ee-7f4fa844d066"
+		"PointerRef" "" "external : 6aa66c0e-78ed-11e7-aed2-f57fc56d3ef3,f5585f57-366f-36ce-54b7-7133714f3acf"
+		"PointerRef" "" "external : 17a63e08-1fed-404d-90bc-f071e98c1810,b0fd2a2d-f652-4582-b24f-56295f4b9eaa"
+		"PointerRef" "" "external : 59126e87-785c-4b35-9cc9-7e8a5685acba,2d2d80f5-993c-4194-9afe-1e584d8197cb"
+	}
+	"ResourceRef" "Resource" "19402CCDB352D72D"
+	"CString" "Name" "levels/mp/naboo_01/naboo_01/staticmodelgroup_Physics_Win32"
+}
+
+GroupRigidBodyData 00000000-0000-0000-0000-000000000000 13
 {
 	"List" "RaycastMaterialIndicesLookups"
 	{
@@ -7793,8 +8023,8 @@ GroupRigidBodyData 00000000-0000-0000-0000-000000000000 9
 	"Boolean" "ComputeInertiaTensor" "True"
 	"Boolean" "IsRootController" "True"
 	"Realm" "Realm" "Realm_ClientAndServer"
-	"PointerRef" "Asset" "internal : 00000000-0000-0000-0000-000000000000,35"
-	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,37"
+	"PointerRef" "Asset" "internal : 00000000-0000-0000-0000-000000000000,12"
+	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,9"
 	"RigidBodyType" "RigidBodyType" "RBTypeGroup"
 	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_StaticLayer"
 	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Invalid"
@@ -7807,143 +8037,413 @@ GroupRigidBodyData 00000000-0000-0000-0000-000000000000 9
 	"UInt32" "Flags" "0"
 }
 
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 10
+GroupRigidBodyData 00000000-0000-0000-0000-000000000000 14
 {
-	"RenderingOverrides" "RenderingOverrides" 
+	"List" "RaycastMaterialIndicesLookups"
 	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "0"
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "3"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "4"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "6"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "7"
+				"UInt32" "" "8"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "4"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "0"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "4"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "12"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+				"UInt32" "" "8"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "8"
+				"UInt32" "" "4"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "8"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "5"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "14"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "14"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "15"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "14"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "14"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "14"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "15"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "15"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "15"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "7"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "7"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "17"
+				"UInt32" "" "1"
+				"UInt32" "" "7"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "7"
+				"UInt32" "" "8"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "8"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "17"
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "0"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+				"UInt32" "" "7"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "20"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "20"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "1"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "0"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "0"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "14"
+			}
+		}
+		"MaterialIndicesLookup" "" 
+		{
+			"List" "MaterialIndices"
+			{
+				"UInt32" "" "17"
+				"UInt32" "" "1"
+				"UInt32" "" "7"
+			}
+		}
 	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
+	"List" "PartIndices"
+	{
+	}
+	"LinearTransform" "Transform"
 	{
 		"Vec3" "Translate" "0,0,0"
 		"Vec3" "Rotation" "0,0,0"
 		"Vec3" "Scale" "1,1,1"
 	}
-	"PointerRef" "Blueprint" "external : 98aa8692-4d5a-4666-9a0c-10450581f393,b64a2ccd-d020-4167-b9ff-a33a7cbcda36"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "366352"
+	"Vec3" "CenterOfMass" "0,0,0"
+	"Vec3" "InertiaModifier" "1,1,1"
+	"Vec3" "InverseInertiaTensor" "1,1,1"
+	"Quat" "PrincipalAxesOfInertia" 
+	{
+		"Single" "x" "0"
+		"Single" "y" "0"
+		"Single" "z" "0"
+		"Single" "w" "1"
+	}
+	"PointerRef" "FloatPhysics" "null"
+	"List" "PartMaterials"
+	{
+	}
+	"Single" "Mass" "0"
+	"MaterialDecl" "Material" 
+	{
+		"UInt32" "Packed" "2048"
+	}
+	"Single" "DynamicFriction" "-1"
+	"Single" "StaticFriction" "-1"
+	"Single" "Restitution" "-1"
+	"Single" "AngularVelocityDamping" "-1"
+	"Single" "LinearVelocityDamping" "-1"
+	"UInt32" "SystemGroup" "0"
+	"UInt32" "SubSystemId" "0"
+	"UInt32" "SubSystemIdNoCollide" "0"
+	"Boolean" "ComputeCenterOfMass" "True"
+	"Boolean" "ComputeInertiaTensor" "True"
+	"Boolean" "IsRootController" "True"
+	"Realm" "Realm" "Realm_Client"
+	"PointerRef" "Asset" "internal : 00000000-0000-0000-0000-000000000000,12"
+	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,33"
+	"RigidBodyType" "RigidBodyType" "RBTypeProxy"
+	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_StaticLayer"
+	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Invalid"
+	"RigidBodyQualityType" "QualityType" "RigidBodyQualityType_Fixed"
+	"Byte" "TransformIndex" "0"
+	"Byte" "WorldIndex" "1"
+	"Byte" "CollisionRootShapeIndex" "0"
+	"Byte" "RaycastRootShapeIndex" "1"
+	"Boolean" "AddToSpatialQueryManager" "False"
+	"UInt32" "Flags" "0"
 }
 
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 11
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 15
 {
-	"RenderingOverrides" "RenderingOverrides" 
+	"List" "InputEvents"
 	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
 	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
+	"List" "OutputEvents"
 	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
 	}
-	"PointerRef" "Blueprint" "external : 54fc9a9b-a23f-45a3-be33-5ec5fef383c4,5d8cc05b-9314-45f5-a037-6b85c39dd9e0"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "10602266"
+	"List" "InputLinks"
+	{
+	}
+	"List" "OutputLinks"
+	{
+	}
+	"List" "Fields"
+	{
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" "Boolean True"
+			"Int32" "Id" "-141474860"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "0xf79143d4"
+		}
+		"DataField" "" 
+		{
+			"PointerRef" "ValueRef" "null"
+			"CString" "Value" "Boolean False"
+			"Int32" "Id" "-141474859"
+			"FieldAccessType" "AccessType" "FieldAccessType_Target"
+			"CString" "Name" "0xf79143d5"
+		}
+	}
 }
 
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 12
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 0c0a003a-cbb0-454b-a81f-76b8c2e4b0a5,31b0d43f-09d5-4389-a0a9-270c9ae6cc32"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "7038242"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 13
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 394ab551-91a7-4ca9-b4a5-0c2344051d36,7de82b0b-ce8e-427f-9780-c4664a4de0e8"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "30021775"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 14
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 16
 {
 	"RenderingOverrides" "RenderingOverrides" 
 	{
@@ -7977,109 +8477,7 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 14
 	"UInt32" "Flags" "30835603"
 }
 
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 15
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 174778c6-5c63-467b-be72-f589e75e89b2,56c9b585-38ea-4c80-97b4-35a90edd2cda"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "5611924"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 16
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 468458c7-c172-4005-9ea6-0e9f639cb062,9a4e631b-a0e3-4c15-92aa-e8da1c236daa"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "9519780"
-}
-
 LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 17
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : defa8d4b-31b0-4a1b-9b51-6eb2b4561b0e,732a3968-0b30-4de5-9d2d-587de5a6e861"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "16522676"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 18
 {
 	"RenderingOverrides" "RenderingOverrides" 
 	{
@@ -8113,177 +8511,7 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 18
 	"UInt32" "Flags" "5867721"
 }
 
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 19
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 16a2e2e0-437a-4012-8567-4d85ba213b3b,f3601cb6-876d-4172-ace6-07fdf8b5899b"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "10151629"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 20
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 85a0e2d3-48e5-4662-9ed2-6713fd5f1a73,a67358bb-1b38-4a0d-922c-c8e235b59b52"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "30819285"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 21
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : f1b6938b-e28d-48a7-9f70-647285e00bb2,3b71039b-91ac-4bdb-8104-ea22a849b494"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "21449947"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 22
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 5631de84-9d82-4b81-9a36-aba71599dab1,fc95bdb3-bf48-45ef-8ae1-a728ae954196"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "10567647"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 23
-{
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : c482493f-ba3c-4b94-aa3a-2c70cc3b2369,18fb3bf3-f43d-48e9-8e4b-71b0284cc194"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "7028204"
-}
-
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 24
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 18
 {
 	"RenderingOverrides" "RenderingOverrides" 
 	{
@@ -8317,7 +8545,41 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 24
 	"UInt32" "Flags" "7366140"
 }
 
-LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 25
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 19
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 85a0e2d3-48e5-4662-9ed2-6713fd5f1a73,a67358bb-1b38-4a0d-922c-c8e235b59b52"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "30819285"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 20
 {
 	"RenderingOverrides" "RenderingOverrides" 
 	{
@@ -8351,7 +8613,211 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 25
 	"UInt32" "Flags" "12848127"
 }
 
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 21
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : c482493f-ba3c-4b94-aa3a-2c70cc3b2369,18fb3bf3-f43d-48e9-8e4b-71b0284cc194"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "7028204"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 22
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 394ab551-91a7-4ca9-b4a5-0c2344051d36,7de82b0b-ce8e-427f-9780-c4664a4de0e8"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "30021775"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 23
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 98aa8692-4d5a-4666-9a0c-10450581f393,b64a2ccd-d020-4167-b9ff-a33a7cbcda36"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "366352"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 24
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 468458c7-c172-4005-9ea6-0e9f639cb062,9a4e631b-a0e3-4c15-92aa-e8da1c236daa"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "9519780"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 25
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 174778c6-5c63-467b-be72-f589e75e89b2,56c9b585-38ea-4c80-97b4-35a90edd2cda"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "5611924"
+}
+
 LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 26
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : f1b6938b-e28d-48a7-9f70-647285e00bb2,3b71039b-91ac-4bdb-8104-ea22a849b494"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "21449947"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 27
 {
 	"RenderingOverrides" "RenderingOverrides" 
 	{
@@ -8385,7 +8851,220 @@ LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 26
 	"UInt32" "Flags" "5575679"
 }
 
-StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 27
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 28
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 5631de84-9d82-4b81-9a36-aba71599dab1,fc95bdb3-bf48-45ef-8ae1-a728ae954196"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "10567647"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 29
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 54fc9a9b-a23f-45a3-be33-5ec5fef383c4,5d8cc05b-9314-45f5-a037-6b85c39dd9e0"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "10602266"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 30
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 16a2e2e0-437a-4012-8567-4d85ba213b3b,f3601cb6-876d-4172-ace6-07fdf8b5899b"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "10151629"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 31
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : defa8d4b-31b0-4a1b-9b51-6eb2b4561b0e,732a3968-0b30-4de5-9d2d-587de5a6e861"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "16522676"
+}
+
+LayerReferenceObjectData 00000000-0000-0000-0000-000000000000 32
+{
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 0c0a003a-cbb0-454b-a81f-76b8c2e4b0a5,31b0d43f-09d5-4389-a0a9-270c9ae6cc32"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "7038242"
+}
+
+NonePhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 33
+{
+}
+
+NonePhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 34
+{
+}
+
+PathfindingSystemEntityData 00000000-0000-0000-0000-000000000000 35
+{
+	"Realm" "Realm" "Realm_Server"
+	"List" "PathfindingTypesOnLevel"
+	{
+		"UInt32" "" "0"
+		"UInt32" "" "0"
+	}
+	"PointerRef" "ResourceAsset" "null"
+	"UInt32" "Flags" "28939061"
+}
+
+QuickscopeLevelData 00000000-0000-0000-0000-000000000000 36
+{
+	"PointerRef" "Categories" "external : 96bae575-c5d7-11e6-94d4-9533c1f993e5,c952f899-07d4-4c76-02f4-66ff8b603d67"
+	"PointerRef" "Budgets" "external : ca96808c-c5eb-11e6-a63d-f709b6052de6,657dcac8-dbd8-fcf7-f3a7-1aa4f4e28252"
+}
+
+ShadowExtrusionDataEntityData 00000000-0000-0000-0000-000000000000 37
+{
+	"Realm" "Realm" "Realm_Client"
+	"PointerRef" "ExtrusionData" "external : a8c83fed-e3f0-11e6-ab00-903d0fc37a4f,49a5f880-803a-e89e-0e6a-a93d17e9e0ff"
+	"UInt32" "Flags" "19396329"
+}
+
+ShadowExtrusionLevelDataEntityData 00000000-0000-0000-0000-000000000000 38
+{
+	"List" "ExtrusionDirections"
+	{
+		"Vec3" "" "-0.5738894,-0.7956184,0.1940166"
+		"Vec3" "" "0.7372638,-0.5246482,-0.4256598"
+	}
+	"UInt32" "Flags" "3639896"
+}
+
+StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 39
 {
 	"List" "MemberDatas"
 	{
@@ -11399,8 +12078,8 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 27
 	"Boolean" "Enabled" "True"
 	"List" "Components"
 	{
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,29"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,28"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,41"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,40"
 	}
 	"List" "PartBoundingBoxes"
 	{
@@ -12813,7 +13492,7 @@ StaticModelGroupEntityData 00000000-0000-0000-0000-000000000000 27
 	"UInt32" "Flags" "151956082"
 }
 
-StaticModelGroupHealthComponentData 00000000-0000-0000-0000-000000000000 28
+StaticModelGroupHealthComponentData 00000000-0000-0000-0000-000000000000 40
 {
 	"Byte" "ClientIndex" "1"
 	"Byte" "ServerIndex" "1"
@@ -12830,7 +13509,7 @@ StaticModelGroupHealthComponentData 00000000-0000-0000-0000-000000000000 28
 	"UInt32" "Flags" "0"
 }
 
-StaticModelGroupPhysicsComponentData 00000000-0000-0000-0000-000000000000 29
+StaticModelGroupPhysicsComponentData 00000000-0000-0000-0000-000000000000 41
 {
 	"List" "EffectParameters"
 	{
@@ -12838,8 +13517,8 @@ StaticModelGroupPhysicsComponentData 00000000-0000-0000-0000-000000000000 29
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"List" "PhysicsBodies"
 	{
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,9"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,8"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,13"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,14"
 	}
 	"List" "PhysicsConstraints"
 	{
@@ -15376,46 +16055,7 @@ StaticModelGroupPhysicsComponentData 00000000-0000-0000-0000-000000000000 29
 	"UInt32" "Flags" "0"
 }
 
-VisualEnvironmentReferenceObjectData 00000000-0000-0000-0000-000000000000 30
-{
-	"Int32" "Priority" "3000"
-	"Boolean" "OverrideVisibility" "False"
-	"Boolean" "OwnedByLightingContextPad" "True"
-	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
-	"SubRealm" "SubRealm" "SubRealm_All"
-	"RenderingOverrides" "RenderingOverrides" 
-	{
-		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
-		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
-		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
-		"UInt32" "HologramProjectorIndex" "1"
-		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Disable"
-		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
-		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
-	}
-	"StreamRealm" "StreamRealm" "StreamRealm_None"
-	"LinearTransform" "BlueprintTransform"
-	{
-		"Vec3" "Translate" "0,0,0"
-		"Vec3" "Rotation" "0,0,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"PointerRef" "Blueprint" "external : 4a4965f8-52e3-11e4-a6bc-af304338998d,9ee1295c-d846-ae61-3625-26fb25fbec34"
-	"PointerRef" "ObjectVariation" "null"
-	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
-	"UInt32" "LightmapResolutionScale" "1"
-	"Boolean" "LightmapScaleWithSize" "True"
-	"Boolean" "Excluded" "False"
-	"Boolean" "CreateIndestructibleEntity" "False"
-	"UInt32" "Flags" "27282451"
-}
-
-VisualEnvironmentReferenceObjectData 00000000-0000-0000-0000-000000000000 31
+VisualEnvironmentReferenceObjectData 00000000-0000-0000-0000-000000000000 42
 {
 	"Int32" "Priority" "2125"
 	"Boolean" "OverrideVisibility" "False"
@@ -15454,13 +16094,52 @@ VisualEnvironmentReferenceObjectData 00000000-0000-0000-0000-000000000000 31
 	"UInt32" "Flags" "6494070"
 }
 
-WaterEntityData 00000000-0000-0000-0000-000000000000 32
+VisualEnvironmentReferenceObjectData 00000000-0000-0000-0000-000000000000 43
+{
+	"Int32" "Priority" "3000"
+	"Boolean" "OverrideVisibility" "False"
+	"Boolean" "OwnedByLightingContextPad" "True"
+	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
+	"SubRealm" "SubRealm" "SubRealm_All"
+	"RenderingOverrides" "RenderingOverrides" 
+	{
+		"BoolOverride" "ShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "SunShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "DynamicReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "StaticReflectionEnable" "BoolOverride_Inherit"
+		"BoolOverride" "PlanarShadowEnable" "BoolOverride_Inherit"
+		"BoolOverride" "HologramEnable" "BoolOverride_Inherit"
+		"UInt32" "HologramProjectorIndex" "1"
+		"BoolOverride" "DistantShadowCacheEnable" "BoolOverride_Disable"
+		"BoolOverride" "DynamicDistantShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "LocalShadowCacheEnable" "BoolOverride_Inherit"
+		"BoolOverride" "RootShaderEffect" "BoolOverride_Inherit"
+	}
+	"StreamRealm" "StreamRealm" "StreamRealm_None"
+	"LinearTransform" "BlueprintTransform"
+	{
+		"Vec3" "Translate" "0,0,0"
+		"Vec3" "Rotation" "0,0,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"PointerRef" "Blueprint" "external : 4a4965f8-52e3-11e4-a6bc-af304338998d,9ee1295c-d846-ae61-3625-26fb25fbec34"
+	"PointerRef" "ObjectVariation" "null"
+	"RadiosityTypeOverride" "RadiosityTypeOverride" "RadiosityTypeOverride_None"
+	"UInt32" "LightmapResolutionScale" "1"
+	"Boolean" "LightmapScaleWithSize" "True"
+	"Boolean" "Excluded" "False"
+	"Boolean" "CreateIndestructibleEntity" "False"
+	"UInt32" "Flags" "27282451"
+}
+
+WaterEntityData 00000000-0000-0000-0000-000000000000 44
 {
 	"Boolean" "Enabled" "True"
 	"List" "Components"
 	{
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,34"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,33"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,48"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,45"
 	}
 	"List" "PartBoundingBoxes"
 	{
@@ -15478,7 +16157,7 @@ WaterEntityData 00000000-0000-0000-0000-000000000000 32
 	"UInt32" "Flags" "2412305"
 }
 
-WaterHealthComponentData 00000000-0000-0000-0000-000000000000 33
+WaterHealthComponentData 00000000-0000-0000-0000-000000000000 45
 {
 	"Byte" "ClientIndex" "1"
 	"Byte" "ServerIndex" "1"
@@ -15495,7 +16174,41 @@ WaterHealthComponentData 00000000-0000-0000-0000-000000000000 33
 	"UInt32" "Flags" "0"
 }
 
-WaterPhysicsComponentData 00000000-0000-0000-0000-000000000000 34
+WaterPhysicsBodyData 00000000-0000-0000-0000-000000000000 46
+{
+	"Realm" "Realm" "Realm_ClientAndServer"
+	"PointerRef" "Asset" "external : 306cafd4-9992-4b71-9d22-fa42542d3a4b,306cafd4-9992-4b71-9d22-fa42542d3a4b"
+	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,8"
+	"RigidBodyType" "RigidBodyType" "RBTypeCollision"
+	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_WaterLayer"
+	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Fixed"
+	"RigidBodyQualityType" "QualityType" "RigidBodyQualityType_Fixed"
+	"Byte" "TransformIndex" "0"
+	"Byte" "WorldIndex" "0"
+	"Byte" "CollisionRootShapeIndex" "0"
+	"Byte" "RaycastRootShapeIndex" "0"
+	"Boolean" "AddToSpatialQueryManager" "True"
+	"UInt32" "Flags" "0"
+}
+
+WaterPhysicsBodyData 00000000-0000-0000-0000-000000000000 47
+{
+	"Realm" "Realm" "Realm_Client"
+	"PointerRef" "Asset" "external : 306cafd4-9992-4b71-9d22-fa42542d3a4b,306cafd4-9992-4b71-9d22-fa42542d3a4b"
+	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,34"
+	"RigidBodyType" "RigidBodyType" "RBTypeProxy"
+	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_WaterLayer"
+	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Fixed"
+	"RigidBodyQualityType" "QualityType" "RigidBodyQualityType_Fixed"
+	"Byte" "TransformIndex" "0"
+	"Byte" "WorldIndex" "1"
+	"Byte" "CollisionRootShapeIndex" "0"
+	"Byte" "RaycastRootShapeIndex" "0"
+	"Boolean" "AddToSpatialQueryManager" "False"
+	"UInt32" "Flags" "0"
+}
+
+WaterPhysicsComponentData 00000000-0000-0000-0000-000000000000 48
 {
 	"List" "EffectParameters"
 	{
@@ -15503,7 +16216,7 @@ WaterPhysicsComponentData 00000000-0000-0000-0000-000000000000 34
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"List" "PhysicsBodies"
 	{
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,48"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,46"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,47"
 	}
 	"List" "PhysicsConstraints"
@@ -15527,719 +16240,6 @@ WaterPhysicsComponentData 00000000-0000-0000-0000-000000000000 34
 	"List" "Components"
 	{
 	}
-	"UInt32" "Flags" "0"
-}
-
-GroupHavokAsset 00000000-0000-0000-0000-000000000000 35
-{
-	"List" "Aabb"
-	{
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-16.62023,-0.1627832,-6.310568"
-					"Vec3" "max" "18.79252,5.274368,10.20683"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-5.215868,0,-3.102196"
-					"Vec3" "max" "5.215868,7.66202,3.102196"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-3.192985,-0.01272125,-3.766464"
-					"Vec3" "max" "3.188357,20.52192,4.368172"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2413049,-0.3761935,0.0001976013"
-					"Vec3" "max" "0.2413049,0.3983095,0.152763"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1088614,-0.4749874,0.002185769"
-					"Vec3" "max" "0.1088614,0.4749874,0.3001616"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.4724317,0.001295667,-0.531988"
-					"Vec3" "max" "0.4724317,2.147319,0.4556555"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-3.325037,-0.2498456,-3.271564"
-					"Vec3" "max" "3.266182,16.37112,2.949249"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.6755279,0,-0.6755279"
-					"Vec3" "max" "0.6755279,1.92,0.6755279"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-2.149341,0.0002339673,-1.406464"
-					"Vec3" "max" "2.149341,1.286691,1.406464"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.32,0,-0.24"
-					"Vec3" "max" "0.32,0.64,0.24"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2120923,-9.661576,-1.104503"
-					"Vec3" "max" "0.2120181,8.376906,1.104503"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1679745,-0.2108838,-0.0002065462"
-					"Vec3" "max" "0.1679745,0.6415243,0.8273929"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.4113632,0.003258514,-1.045776"
-					"Vec3" "max" "0.4113632,2.919814,1.045776"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1497945,0,-0.1595963"
-					"Vec3" "max" "0.1497945,0.2852105,0.1595963"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3023942,0.0001647735,-0.8938928"
-					"Vec3" "max" "0.3931726,1.161014,0.8938928"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1982345,0,-0.5121896"
-					"Vec3" "max" "0.1711389,0.1246153,0.5121896"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3417279,-3.754497E-06,-0.341728"
-					"Vec3" "max" "0.3417279,0.7005064,0.341728"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2810607,-6.556511E-09,-0.2810607"
-					"Vec3" "max" "0.2810608,0.3855119,0.2810607"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.7903328,-0.00738985,-0.7710474"
-					"Vec3" "max" "0.831527,0.06520683,0.5144352"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2761493,0.002957807,-0.4119988"
-					"Vec3" "max" "0.2704916,0.2650189,0.4119988"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2607043,-0.008617464,-0.2675326"
-					"Vec3" "max" "0.2611319,0.1972705,0.2471849"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3100081,0.001789651,-0.1249653"
-					"Vec3" "max" "0.2680721,0.463966,0.1899939"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3984381,-0.005506926,-0.5559549"
-					"Vec3" "max" "0.3651067,0.1875509,0.5559198"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.6117993,-0.005384684,-0.4559679"
-					"Vec3" "max" "0.5400781,0.7413513,0.4617771"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.7941295,-1.525879E-07,-0.9072677"
-					"Vec3" "max" "0.6762592,1.835912,0.8048928"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.7522661,-0.002678692,-1.041448"
-					"Vec3" "max" "0.5502043,1.128372,1.366638"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.7256034,-2.765655E-07,-1.374088"
-					"Vec3" "max" "0.7748106,0.3246886,1.825993"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-1.509067,-0.00194756,-0.6933866"
-					"Vec3" "max" "1.415639,0.2904952,1.019807"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-1.209319,-0.009009637,-0.9107661"
-					"Vec3" "max" "1.209283,0.1925048,0.8741455"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1913638,-0.287085,-0.532113"
-					"Vec3" "max" "0.2018528,0.3285773,0.5301129"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2407162,0.5165045,-0.1728298"
-					"Vec3" "max" "0.2571882,0.5941731,0.3679913"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3056717,0.5389106,-0.3587651"
-					"Vec3" "max" "0.3056712,1.008281,-0.1269898"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2441968,0.6866662,-0.3487871"
-					"Vec3" "max" "0.2357255,1.233217,-0.2656557"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3710449,0.651466,-0.20714"
-					"Vec3" "max" "-0.2499481,0.8367431,0.3316089"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "0.2499481,0.5941983,-0.2618494"
-					"Vec3" "max" "0.3710449,0.8367431,0.3385454"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1496479,0.8496142,-0.3859572"
-					"Vec3" "max" "0.3325855,1.414196,-0.2698004"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3325855,0.8733014,-0.3699728"
-					"Vec3" "max" "-0.005146474,1.342231,-0.270916"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3876328,0.000201416,-0.3930995"
-					"Vec3" "max" "0.3876328,0.7690349,0.4422235"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.9252071,0.7457513,-0.4853839"
-					"Vec3" "max" "0.3293719,0.7722821,-0.04501766"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.486232,0.7457513,-0.4853839"
-					"Vec3" "max" "0.9213668,0.7722821,-0.07777515"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.3747654,0.7457513,-0.2030325"
-					"Vec3" "max" "0.9307992,0.7722821,0.1751132"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.9307995,0.743745,-0.04550251"
-					"Vec3" "max" "0.9063032,0.7722821,0.4447072"
-				}
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.9307995,0.004371833,-0.4853839"
-					"Vec3" "max" "0.9307993,0.7722821,0.4853838"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.257214,-1.675069E-17,-0.2849311"
-					"Vec3" "max" "0.257214,0.8831145,0.2849311"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.2396432,0,-0.2621338"
-					"Vec3" "max" "0.2396432,1.032375,0.2621338"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1625953,-1.765162,-0.4763735"
-					"Vec3" "max" "0.0291039,1.765162,0.4763737"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-1.294742,-1.124624,-1.918077"
-					"Vec3" "max" "1.317069,1.125122,1.918078"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-4.610799,-0.6257049,0"
-					"Vec3" "max" "0.1474013,0.4413683,0.2382075"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "0.07297631,-0.6257049,0"
-					"Vec3" "max" "4.627401,0.4413683,0.2382075"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.4084946,9.716675,-0.7590161"
-					"Vec3" "max" "0.3758434,10.99684,0.7409712"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-17.48309,-9.690702E-05,-20.64568"
-					"Vec3" "max" "17.48302,0.1599085,20.64556"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-42.12442,-2.56516,-50.02838"
-					"Vec3" "max" "51.30881,-2.404697,55.04908"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.4847396,-0.01623387,-1.200051"
-					"Vec3" "max" "0.5428808,0.06245381,1.084852"
-				}
-			}
-		}
-		"AssetAabbs" "" 
-		{
-			"List" "PartAabb"
-			{
-				"AxisAlignedBox" "" 
-				{
-					"Vec3" "min" "-0.1161013,-0.2697354,-0.4420193"
-					"Vec3" "max" "0.1078992,0.3025294,0.4420193"
-				}
-			}
-		}
-	}
-	"List" "ExternalAssets"
-	{
-		"PointerRef" "" "external : fbccd452-3496-11e6-8bb1-8c48dd6994dd,f6456629-7026-9885-5401-6ec53c360744"
-		"PointerRef" "" "null"
-		"PointerRef" "" "external : db547e46-62d1-11e6-b426-f6b025d39f9d,c4b0e3e1-616b-20eb-dbe8-3c98b1a6ae39"
-		"PointerRef" "" "external : b86a28bb-6a7f-11e6-8212-ed11d9cc36d1,75e5e3c2-4282-fd9a-e04b-128a47f69547"
-		"PointerRef" "" "external : dc068743-6a86-11e6-8212-ed11d9cc36d1,bb5a4456-e336-edd9-5990-f30d306048e7"
-		"PointerRef" "" "external : c4038b71-6ea4-11e6-b480-fbc64a9ea0cb,3505db14-81d2-2f44-a6f9-ca4b8552fa56"
-		"PointerRef" "" "external : fb3321ad-7365-11e6-9061-f4cb9d78d8c3,222d5fdc-4847-faf0-86be-d8f914fa02f1"
-		"PointerRef" "" "external : 5d195abb-8f8b-11e6-a953-a90c1a80c19c,9d98c435-19cd-2187-5a4f-59b48e5a5a96"
-		"PointerRef" "" "external : ba79aa79-e23c-11e6-a4fa-fc73592469e9,e072b091-cd5b-0065-0ee8-fe6b6a9abfec"
-		"PointerRef" "" "external : de08bc25-ed49-11e6-b24f-c06bf5dee4c2,c2650fd8-4841-b53a-33c4-63de399b5e99"
-		"PointerRef" "" "external : d3197bb2-eea2-11e6-9800-84814214ee83,f5fea602-62f7-2f80-6a13-cbcb6ef33bfd"
-		"PointerRef" "" "external : 3a8034b2-f35f-11e6-b7a9-b53fc55baf2c,42c445c3-edf1-2565-c1f3-979dca2237f2"
-		"PointerRef" "" "external : 8cb0adda-f815-11e6-9397-adcbf78f5f84,1c94c983-ea94-e7db-8ee8-8b12f52ae302"
-		"PointerRef" "" "external : 4425e240-f9a2-11e6-b720-bb371e9607fc,c62d51df-edff-4668-0ae2-8607fed2d769"
-		"PointerRef" "" "external : c5226968-fd08-11e6-9e30-93f69dc4d1c8,61953ac2-c9a6-8481-9d1f-d20271d1e739"
-		"PointerRef" "" "external : 3262adaa-2419-11e7-becb-84e476274fd2,081552c7-3b42-3120-2d22-1afc6b86028c"
-		"PointerRef" "" "external : f26d4d77-2960-11e7-8b23-92f4e70f908b,fb2d2ab6-ca74-bd4b-1ae4-a0ef37b27b58"
-		"PointerRef" "" "null"
-		"PointerRef" "" "external : c4b73fc0-2c04-11e7-8cac-a9ec16be2047,08a8d510-36b9-d638-fdd1-e3f8803996dd"
-		"PointerRef" "" "external : 567deb9f-2c17-11e7-8f8a-cf1efe4b3d98,14103059-9ecb-6b3f-009f-82ee15f8d043"
-		"PointerRef" "" "null"
-		"PointerRef" "" "external : c11a60a0-2c17-11e7-8f8a-cf1efe4b3d98,c9bf7a5a-2d32-e074-1645-06b711f44071"
-		"PointerRef" "" "external : 74be3ecd-2c1d-11e7-8f8a-cf1efe4b3d98,840de88f-81bd-5de2-cc81-00b248280896"
-		"PointerRef" "" "external : 3a0df886-2c1e-11e7-8f8a-cf1efe4b3d98,ffe498bb-1f5e-91b0-959a-e61b4b40dc88"
-		"PointerRef" "" "null"
-		"PointerRef" "" "null"
-		"PointerRef" "" "null"
-		"PointerRef" "" "external : b0006be9-2f09-11e7-8f8a-cf1efe4b3d98,8923c1c1-9859-85f4-67b2-b12eaf8d4ff6"
-		"PointerRef" "" "external : 247f6edb-2f0b-11e7-8f8a-cf1efe4b3d98,b738f34c-bca9-8e8a-7ee4-767ac7925025"
-		"PointerRef" "" "external : 3b1d1b27-2f34-11e7-8095-fb01d7b1c34d,6162db2d-5004-760c-2573-84254db71f32"
-		"PointerRef" "" "external : 8b10e278-2f39-11e7-8095-fb01d7b1c34d,a0a50682-10ac-63fa-fe72-3862f632f5cc"
-		"PointerRef" "" "external : 20a795a4-2f3a-11e7-8095-fb01d7b1c34d,461886ac-b0fd-f668-2a43-22f81d550f0c"
-		"PointerRef" "" "external : 7b3af7d4-307c-11e7-af31-c2e3ee83730b,ebfc0a50-5058-e371-5361-570ba23903b0"
-		"PointerRef" "" "external : 8b434949-35f4-11e7-b407-b0cfc04057dc,72fd99ed-5846-5398-dc63-a9f2c8b234f9"
-		"PointerRef" "" "external : 23b8a330-3a6e-11e7-a1fe-b30a4181733f,cf45a809-5049-19d4-0d14-b799d37fc8e2"
-		"PointerRef" "" "external : 995a7c2e-4078-11e7-8681-e6bcbfd958ec,8fc43a09-1329-8fd6-893e-aa35f47e66e0"
-		"PointerRef" "" "external : bd056101-4383-11e7-a058-e8bb32cfd397,8bbf4c02-ac38-7b28-7889-396185e692a7"
-		"PointerRef" "" "external : 5d8a033b-4384-11e7-a058-e8bb32cfd397,624a7e17-909c-bdee-7572-d050ff37872c"
-		"PointerRef" "" "external : 54a3a8b1-617c-11e7-82e4-e1be6942d91f,004e8eb6-5c6b-2cc3-33bd-f3f786f326c3"
-		"PointerRef" "" "external : 64840cd8-78ea-11e7-aed2-f57fc56d3ef3,e65b73cd-c825-a966-c0ee-7f4fa844d066"
-		"PointerRef" "" "external : 6aa66c0e-78ed-11e7-aed2-f57fc56d3ef3,f5585f57-366f-36ce-54b7-7133714f3acf"
-		"PointerRef" "" "external : 17a63e08-1fed-404d-90bc-f071e98c1810,b0fd2a2d-f652-4582-b24f-56295f4b9eaa"
-		"PointerRef" "" "external : 59126e87-785c-4b35-9cc9-7e8a5685acba,2d2d80f5-993c-4194-9afe-1e584d8197cb"
-	}
-	"ResourceRef" "Resource" "19402CCDB352D72D"
-	"CString" "Name" "levels/mp/naboo_01/naboo_01/staticmodelgroup_Physics_Win32"
-}
-
-DefaultPhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 36
-{
-}
-
-DefaultPhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 37
-{
-}
-
-EffectSystemComponent 00000000-0000-0000-0000-000000000000 38
-{
-	"PointerRef" "EffectParameterList" "external : 005b93e1-2e3c-11e2-b9de-874e05283483,9c3f4650-3694-814a-752e-cd7a5a4873f1"
-}
-
-EmitterSystemComponent 00000000-0000-0000-0000-000000000000 39
-{
-	"PointerRef" "ExclusionVolumes" "external : 104f66dd-404a-b30a-4531-11b5e95649d0,104f66dd-404a-b30a-4531-11b5e95649d0"
-}
-
-InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 40
-{
-	"List" "InputEvents"
-	{
-	}
-	"List" "OutputEvents"
-	{
-	}
-	"List" "InputLinks"
-	{
-	}
-	"List" "OutputLinks"
-	{
-	}
-	"List" "Fields"
-	{
-		"DataField" "" 
-		{
-			"PointerRef" "ValueRef" "null"
-			"CString" "Value" "Boolean True"
-			"Int32" "Id" "-141474860"
-			"FieldAccessType" "AccessType" "FieldAccessType_Target"
-			"CString" "Name" "0xf79143d4"
-		}
-		"DataField" "" 
-		{
-			"PointerRef" "ValueRef" "null"
-			"CString" "Value" "Boolean False"
-			"Int32" "Id" "-141474859"
-			"FieldAccessType" "AccessType" "FieldAccessType_Target"
-			"CString" "Name" "0xf79143d5"
-		}
-	}
-}
-
-NonePhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 41
-{
-}
-
-NonePhysicsCallbackHandlerData 00000000-0000-0000-0000-000000000000 42
-{
-}
-
-PathfindingSystemEntityData 00000000-0000-0000-0000-000000000000 43
-{
-	"Realm" "Realm" "Realm_Server"
-	"List" "PathfindingTypesOnLevel"
-	{
-		"UInt32" "" "0"
-		"UInt32" "" "0"
-	}
-	"PointerRef" "ResourceAsset" "null"
-	"UInt32" "Flags" "28939061"
-}
-
-QuickscopeLevelData 00000000-0000-0000-0000-000000000000 44
-{
-	"PointerRef" "Categories" "external : 96bae575-c5d7-11e6-94d4-9533c1f993e5,c952f899-07d4-4c76-02f4-66ff8b603d67"
-	"PointerRef" "Budgets" "external : ca96808c-c5eb-11e6-a63d-f709b6052de6,657dcac8-dbd8-fcf7-f3a7-1aa4f4e28252"
-}
-
-ShadowExtrusionDataEntityData 00000000-0000-0000-0000-000000000000 45
-{
-	"Realm" "Realm" "Realm_Client"
-	"PointerRef" "ExtrusionData" "external : a8c83fed-e3f0-11e6-ab00-903d0fc37a4f,49a5f880-803a-e89e-0e6a-a93d17e9e0ff"
-	"UInt32" "Flags" "19396329"
-}
-
-ShadowExtrusionLevelDataEntityData 00000000-0000-0000-0000-000000000000 46
-{
-	"List" "ExtrusionDirections"
-	{
-		"Vec3" "" "-0.5738894,-0.7956184,0.1940166"
-		"Vec3" "" "0.7372638,-0.5246482,-0.4256598"
-	}
-	"UInt32" "Flags" "3639896"
-}
-
-WaterPhysicsBodyData 00000000-0000-0000-0000-000000000000 47
-{
-	"Realm" "Realm" "Realm_Client"
-	"PointerRef" "Asset" "external : 306cafd4-9992-4b71-9d22-fa42542d3a4b,306cafd4-9992-4b71-9d22-fa42542d3a4b"
-	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,42"
-	"RigidBodyType" "RigidBodyType" "RBTypeProxy"
-	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_WaterLayer"
-	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Fixed"
-	"RigidBodyQualityType" "QualityType" "RigidBodyQualityType_Fixed"
-	"Byte" "TransformIndex" "0"
-	"Byte" "WorldIndex" "1"
-	"Byte" "CollisionRootShapeIndex" "0"
-	"Byte" "RaycastRootShapeIndex" "0"
-	"Boolean" "AddToSpatialQueryManager" "False"
-	"UInt32" "Flags" "0"
-}
-
-WaterPhysicsBodyData 00000000-0000-0000-0000-000000000000 48
-{
-	"Realm" "Realm" "Realm_ClientAndServer"
-	"PointerRef" "Asset" "external : 306cafd4-9992-4b71-9d22-fa42542d3a4b,306cafd4-9992-4b71-9d22-fa42542d3a4b"
-	"PointerRef" "PhysicsCallbackHandler" "internal : 00000000-0000-0000-0000-000000000000,36"
-	"RigidBodyType" "RigidBodyType" "RBTypeCollision"
-	"RigidBodyCollisionLayer" "CollisionLayer" "RigidBodyCollisionLayer_WaterLayer"
-	"RigidBodyMotionType" "MotionType" "RigidBodyMotionType_Fixed"
-	"RigidBodyQualityType" "QualityType" "RigidBodyQualityType_Fixed"
-	"Byte" "TransformIndex" "0"
-	"Byte" "WorldIndex" "0"
-	"Byte" "CollisionRootShapeIndex" "0"
-	"Byte" "RaycastRootShapeIndex" "0"
-	"Boolean" "AddToSpatialQueryManager" "True"
 	"UInt32" "Flags" "0"
 }
 

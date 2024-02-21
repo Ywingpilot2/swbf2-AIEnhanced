@@ -13,48 +13,48 @@ FILEDATA
 	Objects
 	{
 		"LayerData" "ec07efc5-881c-46bf-846f-8bedd09de4a1" "0" "True"
-		"AlternateSpawnEntityData" "0ffae58b-4bcb-44f9-a9e0-7de918a0a70d" "1" "True"
-		"AlternateSpawnEntityData" "0f1dd1ec-938b-4e16-b6ef-e9a191410645" "2" "True"
-		"AlternateSpawnEntityData" "36b05cf5-bc04-494b-8131-9de94320414a" "3" "True"
-		"AlternateSpawnEntityData" "6c2e9067-24aa-400f-a7f1-00a7d05e73d8" "4" "True"
-		"AlternateSpawnEntityData" "82bae86c-75d6-4e34-9318-14b82a986ca2" "5" "True"
-		"AlternateSpawnEntityData" "7129a3ae-cdf2-4b8c-8c4d-f3e28453f12a" "6" "True"
-		"SpawnLocationFinderShapeData" "42e5b203-5584-4d92-8545-ab9cf00683ac" "7" "True"
-		"AlternateSpawnEntityData" "1870f67c-1269-4b42-b730-f8049f2250ef" "8" "True"
-		"SpawnLocationFinderShapeData" "15cd6edd-176b-4ecb-a12d-6f3cd273ba27" "9" "True"
-		"AlternateSpawnEntityData" "ed039f22-300b-41eb-a905-b82c9f508ada" "10" "True"
-		"AlternateSpawnEntityData" "4d8e7558-67e6-4c2c-9f3a-1087a798ecbe" "11" "True"
-		"VolumeVectorShapeData" "63aeb168-7206-418f-9ee7-a5ea7772c644" "12" "True"
-		"AlternateSpawnEntityData" "3fa8ba33-ed4a-4d32-9e9f-9e41f51a6bdd" "13" "True"
-		"AlternateSpawnEntityData" "857a9e18-2881-4fc7-b3ba-46f9d869c89e" "14" "True"
-		"AlternateSpawnEntityData" "3f4543ae-d933-414e-9f5e-f6e6352e61e3" "15" "True"
-		"AlternateSpawnEntityData" "d832521c-e13b-4e6b-bc62-73bbc127223a" "16" "True"
-		"AlternateSpawnEntityData" "4f5465af-3da3-4551-98b7-cdc1f2142e6c" "17" "True"
-		"SpawnLocationFinderShapeData" "b7cf1ebb-63a8-4dee-beeb-c6d82f6b12c0" "18" "True"
-		"SpawnLocationFinderShapeData" "4fe847c4-49a5-4267-8a15-122b15a3b168" "19" "True"
-		"AlternateSpawnEntityData" "7a06c1f1-21cd-428b-a4c3-48b4f6b7d892" "20" "True"
-		"AlternateSpawnEntityData" "7b7d7615-3332-4054-a357-02114562263f" "21" "True"
-		"AlternateSpawnEntityData" "decc80b2-5973-42d6-b9c4-952760bf0f64" "22" "True"
-		"AlternateSpawnEntityData" "792d3ea8-49dd-47b2-a862-9b527de2d415" "23" "True"
-		"VolumeVectorShapeData" "6cd6d6a5-8aba-44c5-9c24-861ed2895708" "24" "True"
-		"AlternateSpawnEntityData" "8e737bbd-4da1-43c7-9275-8d434f094b4b" "25" "True"
-		"AlternateSpawnEntityData" "9d437c50-282f-4b72-b87a-b53405e1bf05" "26" "True"
-		"AlternateSpawnEntityData" "affd8fb8-358d-40b1-b8d3-18a40dce0f46" "27" "True"
-		"AlternateSpawnEntityData" "5fd8a663-c86a-4d5c-86f8-08e588edd49e" "28" "True"
-		"AlternateSpawnEntityData" "355cd712-a696-42e1-a417-05654b396dbb" "29" "True"
-		"LocalLocatorEntityData" "6cc41b07-5275-4ac3-8661-dfde6456b250" "3" "False"
-		"SpatialPrefabReferenceObjectData" "2e2a121d-493f-4d2d-9d68-555b59343e5a" "6" "False"
-		"SpatialPrefabReferenceObjectData" "074cd52c-dc7f-466b-b978-56dc61c455c5" "9" "False"
-		"SpatialPrefabReferenceObjectData" "3716c444-43bf-4374-bbd3-35714fb7cd26" "13" "False"
-		"SpatialPrefabReferenceObjectData" "eb497e4b-9f75-40c0-b210-46374e7e353c" "14" "False"
-		"SpatialPrefabReferenceObjectData" "c153d67c-780b-4f87-a3fd-06491c5480e1" "20" "False"
-		"SpatialPrefabReferenceObjectData" "374e2496-3484-496e-b763-9b5e02b09654" "26" "False"
-		"SpatialPrefabReferenceObjectData" "e0086d97-74a6-49bc-a98d-a208a3c5cac5" "27" "False"
+		"LocalLocatorEntityData" "6cc41b07-5275-4ac3-8661-dfde6456b250" "1" "False"
+		"AlternateSpawnEntityData" "0934250f-e12f-48a6-86ea-3197c6e70a0f" "2" "True"
+		"SpatialPrefabReferenceObjectData" "2e2a121d-493f-4d2d-9d68-555b59343e5a" "3" "False"
+		"AlternateSpawnEntityData" "e7ece91d-7b1c-4209-8a7e-9b47dc93f354" "4" "True"
+		"AlternateSpawnEntityData" "b912e824-94b2-4484-b970-ab8c77536e61" "5" "True"
+		"SpatialPrefabReferenceObjectData" "074cd52c-dc7f-466b-b978-56dc61c455c5" "6" "False"
+		"SpawnLocationFinderShapeData" "4ead2131-4adb-4ddc-b1bc-c39cb4c0e42e" "7" "True"
+		"AlternateSpawnEntityData" "93feb335-b7e4-4a12-88ee-56774a530eae" "8" "True"
+		"SpatialPrefabReferenceObjectData" "3716c444-43bf-4374-bbd3-35714fb7cd26" "9" "False"
+		"SpatialPrefabReferenceObjectData" "eb497e4b-9f75-40c0-b210-46374e7e353c" "10" "False"
+		"AlternateSpawnEntityData" "82aa844e-f1cf-420c-aeab-c6b27034eb4d" "11" "True"
+		"AlternateSpawnEntityData" "b6b06751-2618-4842-a9fd-82043dac62e2" "12" "True"
+		"AlternateSpawnEntityData" "878e5e55-4ef9-49be-92dd-660e11fd0327" "13" "True"
+		"AlternateSpawnEntityData" "2a8fec55-d3bb-462b-a24e-d3253f8d0ffb" "14" "True"
+		"AlternateSpawnEntityData" "b866f75d-4a48-477a-b262-75283e06c4cf" "15" "True"
+		"SpawnLocationFinderShapeData" "b10a395e-cc02-4666-9bdb-7494e4b10e71" "16" "True"
+		"AlternateSpawnEntityData" "26bbe165-e4ee-41a7-9137-7c9fe2e0615d" "17" "True"
+		"AlternateSpawnEntityData" "5d398968-544a-49d8-8108-451475efc8aa" "18" "True"
+		"AlternateSpawnEntityData" "c663ab74-d116-4b67-b2f5-d34a6f99b4e5" "19" "True"
+		"AlternateSpawnEntityData" "0c15ce74-3704-47f3-9c66-1d4495630c52" "20" "True"
+		"AlternateSpawnEntityData" "f136267a-1234-4dd2-80df-5ddd3680f45c" "21" "True"
+		"SpatialPrefabReferenceObjectData" "c153d67c-780b-4f87-a3fd-06491c5480e1" "22" "False"
+		"AlternateSpawnEntityData" "b635f77d-415b-4ce5-b1e8-fa6742bf5252" "23" "True"
+		"VolumeVectorShapeData" "70683e85-5663-4799-ae48-83c048ec9f62" "24" "True"
+		"AlternateSpawnEntityData" "40656a8f-e677-4005-97b8-426947c58f21" "25" "True"
+		"SpawnLocationFinderShapeData" "b2500791-d8c3-4d8d-8a85-1d5f87dd6e63" "26" "True"
+		"SpatialPrefabReferenceObjectData" "374e2496-3484-496e-b763-9b5e02b09654" "27" "False"
+		"SpatialPrefabReferenceObjectData" "e0086d97-74a6-49bc-a98d-a208a3c5cac5" "28" "False"
 		"SpatialPrefabReferenceObjectData" "1425ac9a-91a0-4e4a-af12-2101d5b0e699" "29" "False"
-		"LocatorEntityData" "ac2716b4-862a-4007-b38c-723acd9e1325" "33" "False"
-		"LocalLocatorEntityData" "fe5debc4-4c29-43e0-a22c-00c3d4b901de" "36" "False"
-		"LocatorEntityData" "531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa" "37" "False"
-		"LocatorEntityData" "a501cbe0-ec3f-4324-a5cf-f54be5063814" "40" "False"
+		"SpawnLocationFinderShapeData" "fc4a8ba0-a8ce-489f-812d-126210116418" "30" "True"
+		"AlternateSpawnEntityData" "65c329af-5d17-47cc-9890-797166d76aa1" "31" "True"
+		"LocatorEntityData" "ac2716b4-862a-4007-b38c-723acd9e1325" "32" "False"
+		"VolumeVectorShapeData" "77bfc4b9-4024-4eca-b8ea-9b3fcca34957" "33" "True"
+		"LocalLocatorEntityData" "fe5debc4-4c29-43e0-a22c-00c3d4b901de" "34" "False"
+		"LocatorEntityData" "531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa" "35" "False"
+		"AlternateSpawnEntityData" "8aec20cd-cc8e-4f25-8c3b-8ba8f1712c1f" "36" "True"
+		"AlternateSpawnEntityData" "dfa453d9-4ffa-4ce7-a76e-e76a6aa48c0d" "37" "True"
+		"AlternateSpawnEntityData" "87eca5e0-f0e3-4ada-91ab-ad0a9e698cc6" "38" "True"
+		"LocatorEntityData" "a501cbe0-ec3f-4324-a5cf-f54be5063814" "39" "False"
+		"AlternateSpawnEntityData" "4bbaeee7-390c-4881-a7b7-59d9d029defa" "40" "True"
+		"AlternateSpawnEntityData" "63026bf3-7cc3-4361-a1c2-23bf2cc18583" "41" "True"
+		"AlternateSpawnEntityData" "a068c3f5-bf6a-4036-8db8-595e35a28eec" "42" "True"
 		"LocatorEntityData" "3f1e2bf8-6220-48d4-a357-28ddff014fd1" "43" "False"
 		"SpatialPrefabReferenceObjectData" "539be4fe-1b9e-41ef-81ed-a60c2561eebb" "44" "False"
 		"CameraEntityData" "00000000-0000-0000-0000-000000000000" "45" "False"
@@ -69,23 +69,23 @@ LayerData ec07efc5-881c-46bf-846f-8bedd09de4a1 0
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
 	"List" "Objects"
 	{
-		"PointerRef" "" "internal : eb497e4b-9f75-40c0-b210-46374e7e353c,14"
-		"PointerRef" "" "internal : 374e2496-3484-496e-b763-9b5e02b09654,26"
-		"PointerRef" "" "internal : a501cbe0-ec3f-4324-a5cf-f54be5063814,40"
-		"PointerRef" "" "internal : 531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa,37"
-		"PointerRef" "" "internal : 2e2a121d-493f-4d2d-9d68-555b59343e5a,6"
-		"PointerRef" "" "internal : e0086d97-74a6-49bc-a98d-a208a3c5cac5,27"
-		"PointerRef" "" "internal : c153d67c-780b-4f87-a3fd-06491c5480e1,20"
-		"PointerRef" "" "internal : ac2716b4-862a-4007-b38c-723acd9e1325,33"
+		"PointerRef" "" "internal : eb497e4b-9f75-40c0-b210-46374e7e353c,10"
+		"PointerRef" "" "internal : 374e2496-3484-496e-b763-9b5e02b09654,27"
+		"PointerRef" "" "internal : a501cbe0-ec3f-4324-a5cf-f54be5063814,39"
+		"PointerRef" "" "internal : 531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa,35"
+		"PointerRef" "" "internal : 2e2a121d-493f-4d2d-9d68-555b59343e5a,3"
+		"PointerRef" "" "internal : e0086d97-74a6-49bc-a98d-a208a3c5cac5,28"
+		"PointerRef" "" "internal : c153d67c-780b-4f87-a3fd-06491c5480e1,22"
+		"PointerRef" "" "internal : ac2716b4-862a-4007-b38c-723acd9e1325,32"
 		"PointerRef" "" "internal : 3f1e2bf8-6220-48d4-a357-28ddff014fd1,43"
 		"PointerRef" "" "internal : 539be4fe-1b9e-41ef-81ed-a60c2561eebb,44"
-		"PointerRef" "" "internal : 074cd52c-dc7f-466b-b978-56dc61c455c5,9"
+		"PointerRef" "" "internal : 074cd52c-dc7f-466b-b978-56dc61c455c5,6"
 		"PointerRef" "" "internal : 1425ac9a-91a0-4e4a-af12-2101d5b0e699,29"
-		"PointerRef" "" "internal : 3716c444-43bf-4374-bbd3-35714fb7cd26,13"
+		"PointerRef" "" "internal : 3716c444-43bf-4374-bbd3-35714fb7cd26,9"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,45"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,46"
-		"PointerRef" "" "internal : 6cc41b07-5275-4ac3-8661-dfde6456b250,3"
-		"PointerRef" "" "internal : fe5debc4-4c29-43e0-a22c-00c3d4b901de,36"
+		"PointerRef" "" "internal : 6cc41b07-5275-4ac3-8661-dfde6456b250,1"
+		"PointerRef" "" "internal : fe5debc4-4c29-43e0-a22c-00c3d4b901de,34"
 	}
 	"PointerRef" "Schematics" "null"
 	"List" "EventConnections"
@@ -102,406 +102,19 @@ LayerData ec07efc5-881c-46bf-846f-8bedd09de4a1 0
 	"CString" "Name" "Levels/MP/Hoth_01/PlanetaryMissions_Logic"
 }
 
-AlternateSpawnEntityData 0ffae58b-4bcb-44f9-a9e0-7de918a0a70d 1
+LocalLocatorEntityData 6cc41b07-5275-4ac3-8661-dfde6456b250 1
 {
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
+	"Realm" "Realm" "Realm_ClientAndServer"
 	"LinearTransform" "Transform"
 	{
-		"Vec3" "Translate" "149.7868,359.04,-1696.41"
-		"Vec3" "Rotation" "180,81.22449,180"
-		"Vec3" "Scale" "0.9999998,1,0.9999998"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 0f1dd1ec-938b-4e16-b6ef-e9a191410645 2
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "310.02,362.88,-1694.61"
-		"Vec3" "Rotation" "180,38.72611,180"
-		"Vec3" "Scale" "0.9999998,1,0.9999998"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 36b05cf5-bc04-494b-8131-9de94320414a 3
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "167.0965,359.04,-1751.341"
-		"Vec3" "Rotation" "180,75.3504,180"
-		"Vec3" "Scale" "0.9999999,1,0.9999999"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 6c2e9067-24aa-400f-a7f1-00a7d05e73d8 4
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "120.1152,359.04,-1802.02"
-		"Vec3" "Rotation" "0,68.31886,0"
-		"Vec3" "Scale" "0.9999995,1,0.9999995"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 82bae86c-75d6-4e34-9318-14b82a986ca2 5
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "126.778,359.04,-1800.139"
-		"Vec3" "Rotation" "0,55.72625,0"
-		"Vec3" "Scale" "0.9999997,1,0.9999997"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 7129a3ae-cdf2-4b8c-8c4d-f3e28453f12a 6
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "118.9347,359.04,-1796.221"
-		"Vec3" "Rotation" "0,85.6664,0"
-		"Vec3" "Scale" "0.9999994,1,0.9999994"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-SpawnLocationFinderShapeData 42e5b203-5584-4d92-8545-ab9cf00683ac 7
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Boolean" "Enabled" "True"
-	"Single" "Height" "0"
-	"Single" "Tension" "0"
-	"List" "Points"
-	{
-		"Vec3" "" "265.7332,957.198,-1704.589"
-		"Vec3" "" "129.28,957.198,-1713.92"
-		"Vec3" "" "188.16,957.198,-1813.76"
-		"Vec3" "" "289.265,957.198,-1788.395"
-	}
-	"Boolean" "IsClosed" "True"
-	"Boolean" "AllowRoll" "False"
-	"Boolean" "AllowYawPitch" "False"
-	"UInt32" "Flags" "369098752"
-}
-
-AlternateSpawnEntityData 1870f67c-1269-4b42-b730-f8049f2250ef 8
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "120.9426,359.04,-1804.925"
-		"Vec3" "Rotation" "0,48.19034,0"
-		"Vec3" "Scale" "0.9999997,1,0.9999997"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-SpawnLocationFinderShapeData 15cd6edd-176b-4ecb-a12d-6f3cd273ba27 9
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Boolean" "Enabled" "True"
-	"Single" "Height" "0"
-	"Single" "Tension" "0"
-	"List" "Points"
-	{
-		"Vec3" "" "243.3463,954.224,-1657.37"
-		"Vec3" "" "134.4,954.224,-1675.52"
-		"Vec3" "" "143.2415,954.224,-1746.143"
-		"Vec3" "" "245.4966,954.224,-1732.271"
-	}
-	"Boolean" "IsClosed" "True"
-	"Boolean" "AllowRoll" "False"
-	"Boolean" "AllowYawPitch" "False"
-	"UInt32" "Flags" "369098752"
-}
-
-AlternateSpawnEntityData ed039f22-300b-41eb-a905-b82c9f508ada 10
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "310.02,362.88,-1694.61"
-		"Vec3" "Rotation" "180,68.60973,180"
+		"Vec3" "Translate" "327.0595,364.0532,-1724.889"
+		"Vec3" "Rotation" "176.353,37.98199,-179.533"
 		"Vec3" "Scale" "1,1,1"
 	}
-	"UInt32" "Flags" "503316480"
+	"UInt32" "Flags" "113515271"
 }
 
-AlternateSpawnEntityData 4d8e7558-67e6-4c2c-9f3a-1087a798ecbe 11
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "153.0948,359.0418,-1691.677"
-		"Vec3" "Rotation" "0,88.65919,0"
-		"Vec3" "Scale" "0.9999994,1,0.9999994"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-VolumeVectorShapeData 63aeb168-7206-418f-9ee7-a5ea7772c644 12
-{
-	"Single" "Height" "0"
-	"Single" "Tension" "0"
-	"List" "Points"
-	{
-		"Vec3" "" "309.76,2003.93,-1780.48"
-		"Vec3" "" "309.76,2003.93,-1731.84"
-		"Vec3" "" "302.08,2003.93,-1731.84"
-		"Vec3" "" "302.08,2003.93,-1685.76"
-		"Vec3" "" "290.56,2003.93,-1685.76"
-		"Vec3" "" "280.64,2003.93,-1669.12"
-		"Vec3" "" "236.16,2003.93,-1669.12"
-		"Vec3" "" "229.12,2003.93,-1686.4"
-		"Vec3" "" "220.16,2003.93,-1683.2"
-		"Vec3" "" "131.9237,2003.93,-1683.2"
-		"Vec3" "" "131.9237,2003.93,-1716.48"
-		"Vec3" "" "129.28,2003.93,-1730.56"
-		"Vec3" "" "99.64473,2003.93,-1776.413"
-		"Vec3" "" "92.16,2003.93,-1788.16"
-		"Vec3" "" "97.28,2003.93,-1808.64"
-		"Vec3" "" "131.84,2003.93,-1832.96"
-		"Vec3" "" "165.12,2003.93,-1832.96"
-		"Vec3" "" "165.12,2003.93,-1838.08"
-		"Vec3" "" "156.16,2003.93,-1838.08"
-		"Vec3" "" "156.16,2003.93,-1853.437"
-		"Vec3" "" "202.24,2003.93,-1853.44"
-		"Vec3" "" "202.24,2003.93,-1813.76"
-		"Vec3" "" "217.6,2003.93,-1813.76"
-		"Vec3" "" "217.6,2003.93,-1822.72"
-		"Vec3" "" "273.92,2003.93,-1822.72"
-		"Vec3" "" "273.92,2003.93,-1780.48"
-	}
-	"Boolean" "IsClosed" "True"
-	"Boolean" "AllowRoll" "False"
-	"Boolean" "AllowYawPitch" "False"
-	"UInt32" "Flags" "100663296"
-}
-
-AlternateSpawnEntityData 3fa8ba33-ed4a-4d32-9e9f-9e41f51a6bdd 13
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "113.8181,359.04,-1794.117"
-		"Vec3" "Rotation" "0,88.67329,0"
-		"Vec3" "Scale" "0.9999995,1,0.9999995"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 857a9e18-2881-4fc7-b3ba-46f9d869c89e 14
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "325.7494,361.6001,-1700.534"
-		"Vec3" "Rotation" "0,-43.76419,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 3f4543ae-d933-414e-9f5e-f6e6352e61e3 15
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "324.9608,361.6001,-1696.667"
-		"Vec3" "Rotation" "0,-82.51582,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData d832521c-e13b-4e6b-bc62-73bbc127223a 16
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "185.832,359.04,-1788.022"
-		"Vec3" "Rotation" "0,57.30041,0"
-		"Vec3" "Scale" "0.9999999,1,0.9999999"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 4f5465af-3da3-4551-98b7-cdc1f2142e6c 17
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "324.5309,361.6163,-1719.284"
-		"Vec3" "Rotation" "0,-89.142,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-SpawnLocationFinderShapeData b7cf1ebb-63a8-4dee-beeb-c6d82f6b12c0 18
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Boolean" "Enabled" "True"
-	"Single" "Height" "0"
-	"Single" "Tension" "0"
-	"List" "Points"
-	{
-		"Vec3" "" "319.18,362.19,-1693.68"
-		"Vec3" "" "302.89,364.2,-1693.64"
-		"Vec3" "" "302.83,364.26,-1695.89"
-		"Vec3" "" "319.27,440.32,-1695.93"
-	}
-	"Boolean" "IsClosed" "True"
-	"Boolean" "AllowRoll" "False"
-	"Boolean" "AllowYawPitch" "False"
-	"UInt32" "Flags" "369098752"
-}
-
-SpawnLocationFinderShapeData 4fe847c4-49a5-4267-8a15-122b15a3b168 19
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Boolean" "Enabled" "True"
-	"Single" "Height" "0"
-	"Single" "Tension" "0"
-	"List" "Points"
-	{
-		"Vec3" "" "122.88,375.04,-1793.28"
-		"Vec3" "" "110.4803,375.04,-1770.376"
-		"Vec3" "" "86.6805,375.04,-1785.994"
-		"Vec3" "" "99.62576,375.04,-1811.883"
-	}
-	"Boolean" "IsClosed" "True"
-	"Boolean" "AllowRoll" "False"
-	"Boolean" "AllowYawPitch" "False"
-	"UInt32" "Flags" "369098752"
-}
-
-AlternateSpawnEntityData 7a06c1f1-21cd-428b-a4c3-48b4f6b7d892 20
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "174.5532,359.0807,-1772.291"
-		"Vec3" "Rotation" "0,74.00797,0"
-		"Vec3" "Scale" "0.9999999,1,0.9999999"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 7b7d7615-3332-4054-a357-02114562263f 21
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "310.02,362.88,-1694.61"
-		"Vec3" "Rotation" "180,64.73989,180"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData decc80b2-5973-42d6-b9c4-952760bf0f64 22
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "162.8868,359.0805,-1761.753"
-		"Vec3" "Rotation" "180,82.31425,180"
-		"Vec3" "Scale" "0.9999998,1,0.9999998"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 792d3ea8-49dd-47b2-a862-9b527de2d415 23
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "121.8226,359.04,-1798.203"
-		"Vec3" "Rotation" "0,80.86087,0"
-		"Vec3" "Scale" "0.9999993,1,0.9999993"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-VolumeVectorShapeData 6cd6d6a5-8aba-44c5-9c24-861ed2895708 24
-{
-	"Single" "Height" "0"
-	"Single" "Tension" "0"
-	"List" "Points"
-	{
-		"Vec3" "" "331.52,371.2,-1780.48"
-		"Vec3" "" "331.52,371.2,-1685.76"
-		"Vec3" "" "290.56,371.2,-1685.76"
-		"Vec3" "" "280.64,371.2,-1669.12"
-		"Vec3" "" "236.16,371.2,-1669.12"
-		"Vec3" "" "229.12,371.2,-1686.4"
-		"Vec3" "" "220.16,371.2,-1683.2"
-		"Vec3" "" "175.36,371.2,-1683.2"
-		"Vec3" "" "175.36,371.2,-1707.52"
-		"Vec3" "" "192,371.2,-1707.52"
-		"Vec3" "" "192,371.2,-1712.64"
-		"Vec3" "" "189.44,371.2,-1717.76"
-		"Vec3" "" "190.72,371.2,-1731.84"
-		"Vec3" "" "202.24,371.2,-1735.68"
-		"Vec3" "" "217.6,371.2,-1745.92"
-		"Vec3" "" "217.6,371.2,-1760"
-		"Vec3" "" "217.6,371.2,-1822.72"
-		"Vec3" "" "273.92,371.2,-1822.72"
-		"Vec3" "" "273.92,371.2,-1780.48"
-	}
-	"Boolean" "IsClosed" "True"
-	"Boolean" "AllowRoll" "False"
-	"Boolean" "AllowYawPitch" "False"
-	"UInt32" "Flags" "100663296"
-}
-
-AlternateSpawnEntityData 8e737bbd-4da1-43c7-9275-8d434f094b4b 25
+AlternateSpawnEntityData 0934250f-e12f-48a6-86ea-3197c6e70a0f 2
 {
 	"TeamId" "Team" "TeamNeutral"
 	"Single" "Priority" "1"
@@ -515,75 +128,7 @@ AlternateSpawnEntityData 8e737bbd-4da1-43c7-9275-8d434f094b4b 25
 	"UInt32" "Flags" "503316480"
 }
 
-AlternateSpawnEntityData 9d437c50-282f-4b72-b87a-b53405e1bf05 26
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "153.2577,359.04,-1706.581"
-		"Vec3" "Rotation" "0,56.47619,0"
-		"Vec3" "Scale" "0.9999999,1,0.9999999"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData affd8fb8-358d-40b1-b8d3-18a40dce0f46 27
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "178.2401,359.152,-1778.565"
-		"Vec3" "Rotation" "0,72.91496,0"
-		"Vec3" "Scale" "0.9999996,1,0.9999996"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 5fd8a663-c86a-4d5c-86f8-08e588edd49e 28
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "310.02,362.88,-1694.61"
-		"Vec3" "Rotation" "0,-68.60038,0"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-AlternateSpawnEntityData 355cd712-a696-42e1-a417-05654b396dbb 29
-{
-	"TeamId" "Team" "TeamNeutral"
-	"Single" "Priority" "1"
-	"Boolean" "Enabled" "True"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "116.5352,359.04,-1804.752"
-		"Vec3" "Rotation" "0,59.32013,0"
-		"Vec3" "Scale" "0.9999996,1,0.9999996"
-	}
-	"UInt32" "Flags" "503316480"
-}
-
-LocalLocatorEntityData 6cc41b07-5275-4ac3-8661-dfde6456b250 3
-{
-	"Realm" "Realm" "Realm_ClientAndServer"
-	"LinearTransform" "Transform"
-	{
-		"Vec3" "Translate" "327.0595,364.0532,-1724.889"
-		"Vec3" "Rotation" "176.353,37.98199,-179.533"
-		"Vec3" "Scale" "1,1,1"
-	}
-	"UInt32" "Flags" "113515271"
-}
-
-SpatialPrefabReferenceObjectData 2e2a121d-493f-4d2d-9d68-555b59343e5a 6
+SpatialPrefabReferenceObjectData 2e2a121d-493f-4d2d-9d68-555b59343e5a 3
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -619,7 +164,35 @@ SpatialPrefabReferenceObjectData 2e2a121d-493f-4d2d-9d68-555b59343e5a 6
 	"UInt32" "Flags" "405410333"
 }
 
-SpatialPrefabReferenceObjectData 074cd52c-dc7f-466b-b978-56dc61c455c5 9
+AlternateSpawnEntityData e7ece91d-7b1c-4209-8a7e-9b47dc93f354 4
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "153.0948,359.0418,-1691.677"
+		"Vec3" "Rotation" "0,88.65919,0"
+		"Vec3" "Scale" "0.9999994,1,0.9999994"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData b912e824-94b2-4484-b970-ab8c77536e61 5
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "324.9608,361.6001,-1696.667"
+		"Vec3" "Rotation" "0,-82.51582,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+SpatialPrefabReferenceObjectData 074cd52c-dc7f-466b-b978-56dc61c455c5 6
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -655,7 +228,40 @@ SpatialPrefabReferenceObjectData 074cd52c-dc7f-466b-b978-56dc61c455c5 9
 	"UInt32" "Flags" "424465708"
 }
 
-SpatialPrefabReferenceObjectData 3716c444-43bf-4374-bbd3-35714fb7cd26 13
+SpawnLocationFinderShapeData 4ead2131-4adb-4ddc-b1bc-c39cb4c0e42e 7
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "243.3463,954.224,-1657.37"
+		"Vec3" "" "134.4,954.224,-1675.52"
+		"Vec3" "" "143.2415,954.224,-1746.143"
+		"Vec3" "" "245.4966,954.224,-1732.271"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 93feb335-b7e4-4a12-88ee-56774a530eae 8
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "116.5352,359.04,-1804.752"
+		"Vec3" "Rotation" "0,59.32013,0"
+		"Vec3" "Scale" "0.9999996,1,0.9999996"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+SpatialPrefabReferenceObjectData 3716c444-43bf-4374-bbd3-35714fb7cd26 9
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -691,7 +297,7 @@ SpatialPrefabReferenceObjectData 3716c444-43bf-4374-bbd3-35714fb7cd26 13
 	"UInt32" "Flags" "420922436"
 }
 
-SpatialPrefabReferenceObjectData eb497e4b-9f75-40c0-b210-46374e7e353c 14
+SpatialPrefabReferenceObjectData eb497e4b-9f75-40c0-b210-46374e7e353c 10
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -727,7 +333,166 @@ SpatialPrefabReferenceObjectData eb497e4b-9f75-40c0-b210-46374e7e353c 14
 	"UInt32" "Flags" "424246859"
 }
 
-SpatialPrefabReferenceObjectData c153d67c-780b-4f87-a3fd-06491c5480e1 20
+AlternateSpawnEntityData 82aa844e-f1cf-420c-aeab-c6b27034eb4d 11
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "149.7868,359.04,-1696.41"
+		"Vec3" "Rotation" "180,81.22449,180"
+		"Vec3" "Scale" "0.9999998,1,0.9999998"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData b6b06751-2618-4842-a9fd-82043dac62e2 12
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "126.778,359.04,-1800.139"
+		"Vec3" "Rotation" "0,55.72625,0"
+		"Vec3" "Scale" "0.9999997,1,0.9999997"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData 878e5e55-4ef9-49be-92dd-660e11fd0327 13
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "310.02,362.88,-1694.61"
+		"Vec3" "Rotation" "0,-68.60038,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData 2a8fec55-d3bb-462b-a24e-d3253f8d0ffb 14
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "153.2577,359.04,-1706.581"
+		"Vec3" "Rotation" "0,56.47619,0"
+		"Vec3" "Scale" "0.9999999,1,0.9999999"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData b866f75d-4a48-477a-b262-75283e06c4cf 15
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "174.5532,359.0807,-1772.291"
+		"Vec3" "Rotation" "0,74.00797,0"
+		"Vec3" "Scale" "0.9999999,1,0.9999999"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+SpawnLocationFinderShapeData b10a395e-cc02-4666-9bdb-7494e4b10e71 16
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "122.88,375.04,-1793.28"
+		"Vec3" "" "110.4803,375.04,-1770.376"
+		"Vec3" "" "86.6805,375.04,-1785.994"
+		"Vec3" "" "99.62576,375.04,-1811.883"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 26bbe165-e4ee-41a7-9137-7c9fe2e0615d 17
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "324.5309,361.6163,-1719.284"
+		"Vec3" "Rotation" "0,-89.142,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData 5d398968-544a-49d8-8108-451475efc8aa 18
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "178.2401,359.152,-1778.565"
+		"Vec3" "Rotation" "0,72.91496,0"
+		"Vec3" "Scale" "0.9999996,1,0.9999996"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData c663ab74-d116-4b67-b2f5-d34a6f99b4e5 19
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "118.9347,359.04,-1796.221"
+		"Vec3" "Rotation" "0,85.6664,0"
+		"Vec3" "Scale" "0.9999994,1,0.9999994"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData 0c15ce74-3704-47f3-9c66-1d4495630c52 20
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "120.1152,359.04,-1802.02"
+		"Vec3" "Rotation" "0,68.31886,0"
+		"Vec3" "Scale" "0.9999995,1,0.9999995"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData f136267a-1234-4dd2-80df-5ddd3680f45c 21
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "162.8868,359.0805,-1761.753"
+		"Vec3" "Rotation" "180,82.31425,180"
+		"Vec3" "Scale" "0.9999998,1,0.9999998"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+SpatialPrefabReferenceObjectData c153d67c-780b-4f87-a3fd-06491c5480e1 22
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -763,7 +528,86 @@ SpatialPrefabReferenceObjectData c153d67c-780b-4f87-a3fd-06491c5480e1 20
 	"UInt32" "Flags" "424924796"
 }
 
-SpatialPrefabReferenceObjectData 374e2496-3484-496e-b763-9b5e02b09654 26
+AlternateSpawnEntityData b635f77d-415b-4ce5-b1e8-fa6742bf5252 23
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "325.7494,361.6001,-1700.534"
+		"Vec3" "Rotation" "0,-43.76419,0"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+VolumeVectorShapeData 70683e85-5663-4799-ae48-83c048ec9f62 24
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "331.52,371.2,-1780.48"
+		"Vec3" "" "331.52,371.2,-1685.76"
+		"Vec3" "" "290.56,371.2,-1685.76"
+		"Vec3" "" "280.64,371.2,-1669.12"
+		"Vec3" "" "236.16,371.2,-1669.12"
+		"Vec3" "" "229.12,371.2,-1686.4"
+		"Vec3" "" "220.16,371.2,-1683.2"
+		"Vec3" "" "175.36,371.2,-1683.2"
+		"Vec3" "" "175.36,371.2,-1707.52"
+		"Vec3" "" "192,371.2,-1707.52"
+		"Vec3" "" "192,371.2,-1712.64"
+		"Vec3" "" "189.44,371.2,-1717.76"
+		"Vec3" "" "190.72,371.2,-1731.84"
+		"Vec3" "" "202.24,371.2,-1735.68"
+		"Vec3" "" "217.6,371.2,-1745.92"
+		"Vec3" "" "217.6,371.2,-1760"
+		"Vec3" "" "217.6,371.2,-1822.72"
+		"Vec3" "" "273.92,371.2,-1822.72"
+		"Vec3" "" "273.92,371.2,-1780.48"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+AlternateSpawnEntityData 40656a8f-e677-4005-97b8-426947c58f21 25
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "185.832,359.04,-1788.022"
+		"Vec3" "Rotation" "0,57.30041,0"
+		"Vec3" "Scale" "0.9999999,1,0.9999999"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+SpawnLocationFinderShapeData b2500791-d8c3-4d8d-8a85-1d5f87dd6e63 26
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "265.7332,957.198,-1704.589"
+		"Vec3" "" "129.28,957.198,-1713.92"
+		"Vec3" "" "188.16,957.198,-1813.76"
+		"Vec3" "" "289.265,957.198,-1788.395"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+SpatialPrefabReferenceObjectData 374e2496-3484-496e-b763-9b5e02b09654 27
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -799,7 +643,7 @@ SpatialPrefabReferenceObjectData 374e2496-3484-496e-b763-9b5e02b09654 26
 	"UInt32" "Flags" "2102273174"
 }
 
-SpatialPrefabReferenceObjectData e0086d97-74a6-49bc-a98d-a208a3c5cac5 27
+SpatialPrefabReferenceObjectData e0086d97-74a6-49bc-a98d-a208a3c5cac5 28
 {
 	"BlueprintPersistenceSetting" "PersistenceSetting" "BlueprintPersistenceSetting_InheritFromParent"
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
@@ -871,7 +715,40 @@ SpatialPrefabReferenceObjectData 1425ac9a-91a0-4e4a-af12-2101d5b0e699 29
 	"UInt32" "Flags" "405122202"
 }
 
-LocatorEntityData ac2716b4-862a-4007-b38c-723acd9e1325 33
+SpawnLocationFinderShapeData fc4a8ba0-a8ce-489f-812d-126210116418 30
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Boolean" "Enabled" "True"
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "319.18,362.19,-1693.68"
+		"Vec3" "" "302.89,364.2,-1693.64"
+		"Vec3" "" "302.83,364.26,-1695.89"
+		"Vec3" "" "319.27,440.32,-1695.93"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "369098752"
+}
+
+AlternateSpawnEntityData 65c329af-5d17-47cc-9890-797166d76aa1 31
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "121.8226,359.04,-1798.203"
+		"Vec3" "Rotation" "0,80.86087,0"
+		"Vec3" "Scale" "0.9999993,1,0.9999993"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+LocatorEntityData ac2716b4-862a-4007-b38c-723acd9e1325 32
 {
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"LinearTransform" "Transform"
@@ -883,7 +760,46 @@ LocatorEntityData ac2716b4-862a-4007-b38c-723acd9e1325 33
 	"UInt32" "Flags" "2561716"
 }
 
-LocalLocatorEntityData fe5debc4-4c29-43e0-a22c-00c3d4b901de 36
+VolumeVectorShapeData 77bfc4b9-4024-4eca-b8ea-9b3fcca34957 33
+{
+	"Single" "Height" "0"
+	"Single" "Tension" "0"
+	"List" "Points"
+	{
+		"Vec3" "" "309.76,2003.93,-1780.48"
+		"Vec3" "" "309.76,2003.93,-1731.84"
+		"Vec3" "" "302.08,2003.93,-1731.84"
+		"Vec3" "" "302.08,2003.93,-1685.76"
+		"Vec3" "" "290.56,2003.93,-1685.76"
+		"Vec3" "" "280.64,2003.93,-1669.12"
+		"Vec3" "" "236.16,2003.93,-1669.12"
+		"Vec3" "" "229.12,2003.93,-1686.4"
+		"Vec3" "" "220.16,2003.93,-1683.2"
+		"Vec3" "" "131.9237,2003.93,-1683.2"
+		"Vec3" "" "131.9237,2003.93,-1716.48"
+		"Vec3" "" "129.28,2003.93,-1730.56"
+		"Vec3" "" "99.64473,2003.93,-1776.413"
+		"Vec3" "" "92.16,2003.93,-1788.16"
+		"Vec3" "" "97.28,2003.93,-1808.64"
+		"Vec3" "" "131.84,2003.93,-1832.96"
+		"Vec3" "" "165.12,2003.93,-1832.96"
+		"Vec3" "" "165.12,2003.93,-1838.08"
+		"Vec3" "" "156.16,2003.93,-1838.08"
+		"Vec3" "" "156.16,2003.93,-1853.437"
+		"Vec3" "" "202.24,2003.93,-1853.44"
+		"Vec3" "" "202.24,2003.93,-1813.76"
+		"Vec3" "" "217.6,2003.93,-1813.76"
+		"Vec3" "" "217.6,2003.93,-1822.72"
+		"Vec3" "" "273.92,2003.93,-1822.72"
+		"Vec3" "" "273.92,2003.93,-1780.48"
+	}
+	"Boolean" "IsClosed" "True"
+	"Boolean" "AllowRoll" "False"
+	"Boolean" "AllowYawPitch" "False"
+	"UInt32" "Flags" "100663296"
+}
+
+LocalLocatorEntityData fe5debc4-4c29-43e0-a22c-00c3d4b901de 34
 {
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"LinearTransform" "Transform"
@@ -895,7 +811,7 @@ LocalLocatorEntityData fe5debc4-4c29-43e0-a22c-00c3d4b901de 36
 	"UInt32" "Flags" "106818500"
 }
 
-LocatorEntityData 531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa 37
+LocatorEntityData 531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa 35
 {
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"LinearTransform" "Transform"
@@ -907,7 +823,49 @@ LocatorEntityData 531de4c9-a0da-4c69-9b5f-ca9d3fa5d4fa 37
 	"UInt32" "Flags" "18736329"
 }
 
-LocatorEntityData a501cbe0-ec3f-4324-a5cf-f54be5063814 40
+AlternateSpawnEntityData 8aec20cd-cc8e-4f25-8c3b-8ba8f1712c1f 36
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "310.02,362.88,-1694.61"
+		"Vec3" "Rotation" "180,38.72611,180"
+		"Vec3" "Scale" "0.9999998,1,0.9999998"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData dfa453d9-4ffa-4ce7-a76e-e76a6aa48c0d 37
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "120.9426,359.04,-1804.925"
+		"Vec3" "Rotation" "0,48.19034,0"
+		"Vec3" "Scale" "0.9999997,1,0.9999997"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData 87eca5e0-f0e3-4ada-91ab-ad0a9e698cc6 38
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "113.8181,359.04,-1794.117"
+		"Vec3" "Rotation" "0,88.67329,0"
+		"Vec3" "Scale" "0.9999995,1,0.9999995"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+LocatorEntityData a501cbe0-ec3f-4324-a5cf-f54be5063814 39
 {
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"LinearTransform" "Transform"
@@ -917,6 +875,48 @@ LocatorEntityData a501cbe0-ec3f-4324-a5cf-f54be5063814 40
 		"Vec3" "Scale" "1,1,1"
 	}
 	"UInt32" "Flags" "16894944"
+}
+
+AlternateSpawnEntityData 4bbaeee7-390c-4881-a7b7-59d9d029defa 40
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "310.02,362.88,-1694.61"
+		"Vec3" "Rotation" "180,68.60973,180"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData 63026bf3-7cc3-4361-a1c2-23bf2cc18583 41
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "167.0965,359.04,-1751.341"
+		"Vec3" "Rotation" "180,75.3504,180"
+		"Vec3" "Scale" "0.9999999,1,0.9999999"
+	}
+	"UInt32" "Flags" "503316480"
+}
+
+AlternateSpawnEntityData a068c3f5-bf6a-4036-8db8-595e35a28eec 42
+{
+	"TeamId" "Team" "TeamNeutral"
+	"Single" "Priority" "1"
+	"Boolean" "Enabled" "True"
+	"LinearTransform" "Transform"
+	{
+		"Vec3" "Translate" "310.02,362.88,-1694.61"
+		"Vec3" "Rotation" "180,64.73989,180"
+		"Vec3" "Scale" "1,1,1"
+	}
+	"UInt32" "Flags" "503316480"
 }
 
 LocatorEntityData 3f1e2bf8-6220-48d4-a357-28ddff014fd1 43

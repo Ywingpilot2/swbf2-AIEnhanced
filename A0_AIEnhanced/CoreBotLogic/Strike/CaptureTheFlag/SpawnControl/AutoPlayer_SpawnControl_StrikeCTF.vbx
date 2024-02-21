@@ -13,21 +13,21 @@ FILEDATA
 	Objects
 	{
 		"LogicPrefabBlueprint" "b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7" "0" "True"
-		"TeamFilterEntityData" "fe201db1-ff31-634a-9fe1-02550b92044c" "2" "False"
-		"TeamFilterEntityData" "350577bb-7bc9-5862-57bf-828f1519d2c6" "3" "False"
-		"AutoplayerIsGameplayEntityData" "8c0cf0ca-dcfe-84cc-bdc9-731084f85011" "4" "False"
-		"AutoplayerIsGameplayEntityData" "1bfb68e1-7168-772f-b9ad-f58c534c334f" "5" "False"
-		"ConsoleCommandEntityData" "9ea0a5eb-e079-869c-b666-601a8f45c514" "6" "False"
-		"AutoPlayerEntityData" "00000000-0000-0000-0000-000000000000" "7" "False"
-		"AutoPlayerManagerEntityData" "00000000-0000-0000-0000-000000000000" "8" "False"
-		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "9" "False"
-		"ConsoleCommandEntityData" "00000000-0000-0000-0000-000000000000" "10" "False"
+		"TeamFilterEntityData" "fe201db1-ff31-634a-9fe1-02550b92044c" "1" "False"
+		"TeamFilterEntityData" "350577bb-7bc9-5862-57bf-828f1519d2c6" "2" "False"
+		"AutoplayerIsGameplayEntityData" "8c0cf0ca-dcfe-84cc-bdc9-731084f85011" "3" "False"
+		"AutoplayerIsGameplayEntityData" "1bfb68e1-7168-772f-b9ad-f58c534c334f" "4" "False"
+		"ConsoleCommandEntityData" "9ea0a5eb-e079-869c-b666-601a8f45c514" "5" "False"
+		"AutoPlayerEntityData" "00000000-0000-0000-0000-000000000000" "6" "False"
+		"AutoPlayerManagerEntityData" "00000000-0000-0000-0000-000000000000" "7" "False"
+		"CompareBoolEntityData" "00000000-0000-0000-0000-000000000000" "8" "False"
+		"ConsoleCommandEntityData" "00000000-0000-0000-0000-000000000000" "9" "False"
+		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "10" "False"
 		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "11" "False"
-		"DelayEntityData" "00000000-0000-0000-0000-000000000000" "12" "False"
-		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "13" "False"
-		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "14" "False"
-		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15" "False"
-		"SelectIntEntityData" "00000000-0000-0000-0000-000000000000" "17" "False"
+		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "12" "False"
+		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "13" "False"
+		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "14" "False"
+		"SelectIntEntityData" "00000000-0000-0000-0000-000000000000" "15" "False"
 	}
 }
 
@@ -36,28 +36,28 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_None"
 	"List" "Objects"
 	{
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,6"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,7"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,8"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,11"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,12"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,10"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,13"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,11"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,9"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,17"
-		"PointerRef" "" "internal : 1bfb68e1-7168-772f-b9ad-f58c534c334f,5"
-		"PointerRef" "" "internal : 8c0cf0ca-dcfe-84cc-bdc9-731084f85011,4"
-		"PointerRef" "" "internal : fe201db1-ff31-634a-9fe1-02550b92044c,2"
-		"PointerRef" "" "internal : 350577bb-7bc9-5862-57bf-828f1519d2c6,3"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,12"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,8"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,15"
-		"PointerRef" "" "internal : 9ea0a5eb-e079-869c-b666-601a8f45c514,6"
+		"PointerRef" "" "internal : 1bfb68e1-7168-772f-b9ad-f58c534c334f,4"
+		"PointerRef" "" "internal : 8c0cf0ca-dcfe-84cc-bdc9-731084f85011,3"
+		"PointerRef" "" "internal : fe201db1-ff31-634a-9fe1-02550b92044c,1"
+		"PointerRef" "" "internal : 350577bb-7bc9-5862-57bf-828f1519d2c6,2"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,14"
+		"PointerRef" "" "internal : 9ea0a5eb-e079-869c-b666-601a8f45c514,5"
 	}
 	"PointerRef" "Schematics" "null"
 	"List" "EventConnections"
 	{
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,14"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,7"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,6"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "230891742"
@@ -72,8 +72,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,14"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,7"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "230891742"
@@ -88,8 +88,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,14"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,10"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "230891742"
@@ -104,8 +104,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,11"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,10"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,7"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "193453899"
@@ -120,8 +120,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,11"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,10"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,10"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "193453899"
@@ -136,8 +136,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,12"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,14"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,13"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "193453899"
@@ -147,29 +147,29 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 			{
 				"Int32" "Id" "-358781735"
 				"CString" "Name" "OnActivated"
+			}
+			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
+		}
+		"EventConnection" ""
+		{
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,6"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,11"
+			"EventSpec" "SourceEvent" 
+			{
+				"Int32" "Id" "-358781735"
+				"CString" "Name" "OnActivated"
+			}
+			"EventSpec" "TargetEvent" 
+			{
+				"Int32" "Id" "5862146"
+				"CString" "Name" "In"
 			}
 			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
 		}
 		"EventConnection" ""
 		{
 			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,7"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,12"
-			"EventSpec" "SourceEvent" 
-			{
-				"Int32" "Id" "-358781735"
-				"CString" "Name" "OnActivated"
-			}
-			"EventSpec" "TargetEvent" 
-			{
-				"Int32" "Id" "5862146"
-				"CString" "Name" "In"
-			}
-			"EventConnectionTargetType" "TargetType" "EventConnectionTargetType_Server"
-		}
-		"EventConnection" ""
-		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,8"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,12"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,11"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "-1409716433"
@@ -184,8 +184,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,14"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,10"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,13"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,9"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "230891742"
@@ -200,8 +200,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,9"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,8"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,15"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "-1433512622"
@@ -216,8 +216,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 350577bb-7bc9-5862-57bf-828f1519d2c6,3"
-			"PointerRef" "Target" "internal : 1bfb68e1-7168-772f-b9ad-f58c534c334f,5"
+			"PointerRef" "Source" "internal : 350577bb-7bc9-5862-57bf-828f1519d2c6,2"
+			"PointerRef" "Target" "internal : 1bfb68e1-7168-772f-b9ad-f58c534c334f,4"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "-699931768"
@@ -232,8 +232,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : fe201db1-ff31-634a-9fe1-02550b92044c,2"
-			"PointerRef" "Target" "internal : 8c0cf0ca-dcfe-84cc-bdc9-731084f85011,4"
+			"PointerRef" "Source" "internal : fe201db1-ff31-634a-9fe1-02550b92044c,1"
+			"PointerRef" "Target" "internal : 8c0cf0ca-dcfe-84cc-bdc9-731084f85011,3"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "-699931768"
@@ -248,8 +248,8 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 		}
 		"EventConnection" ""
 		{
-			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,7"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,15"
+			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,6"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,14"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "-358781735"
@@ -270,11 +270,11 @@ LogicPrefabBlueprint b02cbdcf-8f0a-defe-8e82-c6544c7c5ca7 0
 	"List" "LinkConnections"
 	{
 	}
-	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,14"
+	"PointerRef" "Interface" "internal : 00000000-0000-0000-0000-000000000000,13"
 	"CString" "Name" "A0_AIEnhanced/CoreBotLogic/Strike/CaptureTheFlag/SpawnControl/AutoPlayer_SpawnControl_StrikeCTF"
 }
 
-TeamFilterEntityData fe201db1-ff31-634a-9fe1-02550b92044c 2
+TeamFilterEntityData fe201db1-ff31-634a-9fe1-02550b92044c 1
 {
 	"Realm" "Realm" "Realm_Server"
 	"TeamId" "Team" "Team1"
@@ -284,7 +284,7 @@ TeamFilterEntityData fe201db1-ff31-634a-9fe1-02550b92044c 2
 	"UInt32" "Flags" "85738075"
 }
 
-TeamFilterEntityData 350577bb-7bc9-5862-57bf-828f1519d2c6 3
+TeamFilterEntityData 350577bb-7bc9-5862-57bf-828f1519d2c6 2
 {
 	"Realm" "Realm" "Realm_Server"
 	"TeamId" "Team" "Team2"
@@ -294,19 +294,19 @@ TeamFilterEntityData 350577bb-7bc9-5862-57bf-828f1519d2c6 3
 	"UInt32" "Flags" "85738075"
 }
 
-AutoplayerIsGameplayEntityData 8c0cf0ca-dcfe-84cc-bdc9-731084f85011 4
+AutoplayerIsGameplayEntityData 8c0cf0ca-dcfe-84cc-bdc9-731084f85011 3
 {
 	"Realm" "Realm" "Realm_Server"
 	"UInt32" "Flags" "85590893"
 }
 
-AutoplayerIsGameplayEntityData 1bfb68e1-7168-772f-b9ad-f58c534c334f 5
+AutoplayerIsGameplayEntityData 1bfb68e1-7168-772f-b9ad-f58c534c334f 4
 {
 	"Realm" "Realm" "Realm_Server"
 	"UInt32" "Flags" "85590893"
 }
 
-ConsoleCommandEntityData 9ea0a5eb-e079-869c-b666-601a8f45c514 6
+ConsoleCommandEntityData 9ea0a5eb-e079-869c-b666-601a8f45c514 5
 {
 	"CString" "DynamicCommand" ""
 	"List" "Commands"
@@ -317,14 +317,14 @@ ConsoleCommandEntityData 9ea0a5eb-e079-869c-b666-601a8f45c514 6
 	"UInt32" "Flags" "77637099"
 }
 
-AutoPlayerEntityData 00000000-0000-0000-0000-000000000000 7
+AutoPlayerEntityData 00000000-0000-0000-0000-000000000000 6
 {
 	"Realm" "Realm" "Realm_Server"
 	"Boolean" "AutoStart" "True"
 	"UInt32" "Flags" "67251338"
 }
 
-AutoPlayerManagerEntityData 00000000-0000-0000-0000-000000000000 8
+AutoPlayerManagerEntityData 00000000-0000-0000-0000-000000000000 7
 {
 	"Int32" "PlayerCount" "0"
 	"Int32" "FillGameplayBotsTeam1" "0"
@@ -334,7 +334,7 @@ AutoPlayerManagerEntityData 00000000-0000-0000-0000-000000000000 8
 	"UInt32" "Flags" "348162046"
 }
 
-CompareBoolEntityData 00000000-0000-0000-0000-000000000000 9
+CompareBoolEntityData 00000000-0000-0000-0000-000000000000 8
 {
 	"Boolean" "Bool" "False"
 	"Realm" "Realm" "Realm_Server"
@@ -344,7 +344,7 @@ CompareBoolEntityData 00000000-0000-0000-0000-000000000000 9
 	"UInt32" "Flags" "268882752"
 }
 
-ConsoleCommandEntityData 00000000-0000-0000-0000-000000000000 10
+ConsoleCommandEntityData 00000000-0000-0000-0000-000000000000 9
 {
 	"CString" "DynamicCommand" ""
 	"List" "Commands"
@@ -355,10 +355,10 @@ ConsoleCommandEntityData 00000000-0000-0000-0000-000000000000 10
 	"UInt32" "Flags" "93309058"
 }
 
-DelayEntityData 00000000-0000-0000-0000-000000000000 11
+DelayEntityData 00000000-0000-0000-0000-000000000000 10
 {
-	"Single" "Delay" "10"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "10"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -366,10 +366,10 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 11
 	"UInt32" "Flags" "83127656"
 }
 
-DelayEntityData 00000000-0000-0000-0000-000000000000 12
+DelayEntityData 00000000-0000-0000-0000-000000000000 11
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -377,7 +377,7 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 12
 	"UInt32" "Flags" "76210112"
 }
 
-InclusionSettingEntityData 00000000-0000-0000-0000-000000000000 13
+InclusionSettingEntityData 00000000-0000-0000-0000-000000000000 12
 {
 	"Realm" "Realm" "Realm_Server"
 	"List" "Settings"
@@ -388,7 +388,7 @@ InclusionSettingEntityData 00000000-0000-0000-0000-000000000000 13
 	"UInt32" "Flags" "28218969"
 }
 
-InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 14
+InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 13
 {
 	"List" "InputEvents"
 	{
@@ -433,7 +433,7 @@ InterfaceDescriptorData 00000000-0000-0000-0000-000000000000 14
 	}
 }
 
-LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 15
+LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 14
 {
 	"LocalPlayerId" "LocalPlayerId" "LocalPlayerId_Invalid"
 	"SubRealm" "SubRealm" "SubRealm_All"
@@ -469,7 +469,7 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 15
 	"UInt32" "Flags" "90128049"
 }
 
-SelectIntEntityData 00000000-0000-0000-0000-000000000000 17
+SelectIntEntityData 00000000-0000-0000-0000-000000000000 15
 {
 	"Realm" "Realm" "Realm_Server"
 	"List" "Inputs"

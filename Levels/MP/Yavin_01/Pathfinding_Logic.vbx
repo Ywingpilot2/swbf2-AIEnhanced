@@ -246,9 +246,9 @@ SchematicChannelEntityData 217e94ee-d1a0-4d44-bab1-a8b9c270534e 16
 
 OrEntityData 589c3cf6-769e-416f-a8bf-9b0bd6f2ae25 17
 {
+	"UInt32" "Flags" "278674678"
 	"Realm" "Realm" "Realm_Server"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "278674678"
 }
 
 PathfindingStreamEntityData c1b893fc-0a8f-4629-9d5c-93397fb3298e 18

@@ -2770,8 +2770,8 @@ CompareBoolEntityData 00000000-0000-0000-0000-000000000000 28
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 29
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_ClientAndServer"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -2781,8 +2781,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 29
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 30
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_Client"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -2792,8 +2792,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 30
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 31
 {
-	"Single" "Delay" "0.2"
 	"Realm" "Realm" "Realm_Client"
+	"Single" "Delay" "0.2"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -2803,8 +2803,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 31
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 32
 {
-	"Single" "Delay" "0.2"
 	"Realm" "Realm" "Realm_Client"
+	"Single" "Delay" "0.2"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -2814,8 +2814,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 32
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 33
 {
-	"Single" "Delay" "0.7"
 	"Realm" "Realm" "Realm_ClientAndServer"
+	"Single" "Delay" "0.7"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -2825,8 +2825,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 33
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 34
 {
-	"Single" "Delay" "0.2"
 	"Realm" "Realm" "Realm_Client"
+	"Single" "Delay" "0.2"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -2921,51 +2921,51 @@ DistributedOrInputEntityData 00000000-0000-0000-0000-000000000000 39
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 40
 {
+	"UInt32" "Flags" "40334615"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "False"
-	"UInt32" "Flags" "40334615"
 }
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 41
 {
+	"UInt32" "Flags" "41774063"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "False"
-	"UInt32" "Flags" "41774063"
 }
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 42
 {
+	"UInt32" "Flags" "52893549"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "False"
-	"UInt32" "Flags" "52893549"
 }
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 43
 {
+	"UInt32" "Flags" "41783213"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "False"
-	"UInt32" "Flags" "41783213"
 }
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 44
 {
+	"UInt32" "Flags" "50584202"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "False"
-	"UInt32" "Flags" "50584202"
 }
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 45
 {
+	"UInt32" "Flags" "39964909"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "False"
-	"UInt32" "Flags" "39964909"
 }
 
 EventGateEntityData 00000000-0000-0000-0000-000000000000 46
 {
+	"UInt32" "Flags" "35660576"
 	"Realm" "Realm" "Realm_Client"
 	"Boolean" "Default" "True"
-	"UInt32" "Flags" "35660576"
 }
 
 EventSplitterEntityData 00000000-0000-0000-0000-000000000000 47
@@ -3154,44 +3154,44 @@ NotEntityData 00000000-0000-0000-0000-000000000000 55
 
 OrEntityData 00000000-0000-0000-0000-000000000000 56
 {
+	"UInt32" "Flags" "145152611"
 	"Realm" "Realm" "Realm_Client"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "145152611"
 }
 
 OrEntityData 00000000-0000-0000-0000-000000000000 57
 {
+	"UInt32" "Flags" "149110867"
 	"Realm" "Realm" "Realm_Client"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "149110867"
 }
 
 OrEntityData 00000000-0000-0000-0000-000000000000 58
 {
+	"UInt32" "Flags" "419151991"
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "419151991"
 }
 
 OrEntityData 00000000-0000-0000-0000-000000000000 59
 {
+	"UInt32" "Flags" "416541357"
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "416541357"
 }
 
 OrEntityData 00000000-0000-0000-0000-000000000000 60
 {
+	"UInt32" "Flags" "137420505"
 	"Realm" "Realm" "Realm_Client"
 	"UInt32" "InputCount" "4"
-	"UInt32" "Flags" "137420505"
 }
 
 OrEntityData 00000000-0000-0000-0000-000000000000 61
 {
+	"UInt32" "Flags" "428858310"
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"UInt32" "InputCount" "4"
-	"UInt32" "Flags" "428858310"
 }
 
 PlayerAbilityEntityData 00000000-0000-0000-0000-000000000000 62

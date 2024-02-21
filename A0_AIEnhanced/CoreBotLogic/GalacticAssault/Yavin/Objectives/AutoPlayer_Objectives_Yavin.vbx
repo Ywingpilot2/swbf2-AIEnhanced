@@ -2546,8 +2546,8 @@ EventSwitchEntityData 2c053bab-7eef-6c29-0403-f986c416e8ee 12
 
 DelayEntityData d717efb4-671f-c00e-26e2-c38e5f313fed 13
 {
-	"Single" "Delay" "4"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "4"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "True"
@@ -2585,8 +2585,8 @@ CompareBoolEntityData 13e429cf-e268-1b9d-81b7-7c89fa4fc84a 16
 
 DelayEntityData 1694fadc-edf6-4c4a-8f01-d72135b3b49c 17
 {
-	"Single" "Delay" "4"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "4"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "True"

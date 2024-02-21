@@ -137,9 +137,9 @@ CompareBoolEntityData 4b06f43b-0a75-4223-af5f-c81e344f9a39 5
 
 OrEntityData e9443a42-f472-45c3-a599-d1a7b876119c 6
 {
+	"UInt32" "Flags" "289684034"
 	"Realm" "Realm" "Realm_Server"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "289684034"
 }
 
 PrintDebugTextEntityData 5fc00b44-8c66-492a-8ae8-41672825f724 7

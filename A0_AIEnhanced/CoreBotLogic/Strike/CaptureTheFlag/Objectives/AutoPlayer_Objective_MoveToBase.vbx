@@ -140,8 +140,8 @@ LogicPrefabBlueprint aef7e6bc-ce2a-e9c9-aa6d-765944a59161 0
 
 DelayEntityData fddb0c17-c15d-031c-c196-e1da3ea8e68c 1
 {
-	"Single" "Delay" "25"
 	"Realm" "Realm" "Realm_ClientAndServer"
+	"Single" "Delay" "25"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"

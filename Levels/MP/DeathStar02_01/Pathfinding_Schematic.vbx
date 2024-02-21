@@ -133,9 +133,9 @@ SyncedBoolEntityData bd34acc1-6c82-4089-854d-d9561b737187 6
 
 OrEntityData 3af21bd0-8e6d-43e7-ac1f-c5ea34d7fbdd 7
 {
+	"UInt32" "Flags" "284302288"
 	"Realm" "Realm" "Realm_Server"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "284302288"
 }
 
 SettingEntityData 787ffcd0-5655-4186-a8a2-a9ce74af79c3 8

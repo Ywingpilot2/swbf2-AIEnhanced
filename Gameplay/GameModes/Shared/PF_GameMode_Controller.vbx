@@ -4130,8 +4130,8 @@ ConsoleCommandTriggerEntityData 00000000-0000-0000-0000-000000000000 51
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 52
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -4141,8 +4141,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 52
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 53
 {
-	"Single" "Delay" "0.1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "0.1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -4152,8 +4152,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 53
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 54
 {
-	"Single" "Delay" "0.25"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "0.25"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -4163,8 +4163,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 54
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 55
 {
-	"Single" "Delay" "4.7"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "4.7"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -4174,8 +4174,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 55
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 56
 {
-	"Single" "Delay" "0.1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "0.1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "True"
 	"Boolean" "RunOnce" "True"
@@ -4185,8 +4185,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 56
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 57
 {
-	"Single" "Delay" "4.7"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "4.7"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -5409,9 +5409,9 @@ NotEntityData 00000000-0000-0000-0000-000000000000 137
 
 OrEntityData 00000000-0000-0000-0000-000000000000 138
 {
+	"UInt32" "Flags" "300742753"
 	"Realm" "Realm" "Realm_Server"
 	"UInt32" "InputCount" "3"
-	"UInt32" "Flags" "300742753"
 }
 
 PersistenceControlEntityData 00000000-0000-0000-0000-000000000000 139

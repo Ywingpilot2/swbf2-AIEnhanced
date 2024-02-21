@@ -18,6 +18,7 @@ FILEDATA
 
 SchematicChannelAsset 390c281a-5f0f-4362-9c21-7d5931e2c4a3 0
 {
+	"CString" "Name" "Automation/Autoplayers/SchematicChannels/PlanetaryBattlesData"
 	"List" "Events"
 	{
 		"EventChannel" "" 
@@ -265,6 +266,5 @@ SchematicChannelAsset 390c281a-5f0f-4362-9c21-7d5931e2c4a3 0
 			"Int32" "FieldTypeHash" "-1774669279"
 		}
 	}
-	"CString" "Name" "Automation/Autoplayers/SchematicChannels/PlanetaryBattlesData"
 }
 

@@ -28,7 +28,7 @@ FILEDATA
 		"InclusionSettingEntityData" "00000000-0000-0000-0000-000000000000" "13" "False"
 		"InterfaceDescriptorData" "00000000-0000-0000-0000-000000000000" "14" "False"
 		"LogicPrefabReferenceObjectData" "00000000-0000-0000-0000-000000000000" "15" "False"
-		"SelectIntEntityData" "00000000-0000-0000-0000-000000000000" "17" "False"
+		"SelectIntEntityData" "00000000-0000-0000-0000-000000000000" "16" "False"
 	}
 }
 
@@ -44,7 +44,7 @@ LogicPrefabBlueprint 83a9e53a-4d1b-6a66-cb6d-d68ce581f55c 0
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,10"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,13"
 		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,9"
-		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,17"
+		"PointerRef" "" "internal : 00000000-0000-0000-0000-000000000000,16"
 		"PointerRef" "" "internal : 1bfb68e1-7168-772f-b9ad-f58c534c334f,5"
 		"PointerRef" "" "internal : 8c0cf0ca-dcfe-84cc-bdc9-731084f85011,4"
 		"PointerRef" "" "internal : fe201db1-ff31-634a-9fe1-02550b92044c,2"
@@ -203,7 +203,7 @@ LogicPrefabBlueprint 83a9e53a-4d1b-6a66-cb6d-d68ce581f55c 0
 		"EventConnection" ""
 		{
 			"PointerRef" "Source" "internal : 00000000-0000-0000-0000-000000000000,9"
-			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,17"
+			"PointerRef" "Target" "internal : 00000000-0000-0000-0000-000000000000,16"
 			"EventSpec" "SourceEvent" 
 			{
 				"Int32" "Id" "-1433512622"
@@ -366,8 +366,8 @@ ConsoleCommandEntityData 00000000-0000-0000-0000-000000000000 10
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 11
 {
-	"Single" "Delay" "10"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "10"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -377,8 +377,8 @@ DelayEntityData 00000000-0000-0000-0000-000000000000 11
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 12
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -478,7 +478,7 @@ LogicPrefabReferenceObjectData 00000000-0000-0000-0000-000000000000 15
 	"UInt32" "Flags" "90128049"
 }
 
-SelectIntEntityData 00000000-0000-0000-0000-000000000000 17
+SelectIntEntityData 00000000-0000-0000-0000-000000000000 16
 {
 	"Realm" "Realm" "Realm_Server"
 	"List" "Inputs"

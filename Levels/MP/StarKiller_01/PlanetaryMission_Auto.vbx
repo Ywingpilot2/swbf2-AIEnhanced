@@ -13,9 +13,9 @@ FILEDATA
 	Objects
 	{
 		"LayerData" "838d4f50-f9ba-4086-a228-4bf7cf1b0e00" "0" "True"
-		"AlternateSpawnEntityData" "8f062ac7-cb2b-4826-9c50-bd9f8073ead5" "1" "True"
-		"AlternateSpawnEntityData" "7ed48433-1228-4408-b473-a539d94394a1" "2" "True"
-		"SchematicChannelEntityData" "b21631ac-d61b-8f99-33ea-c9c9de72b5cf" "2" "False"
+		"AlternateSpawnEntityData" "e8243617-8fdd-4f04-b695-b7fedaaf53f2" "1" "True"
+		"AlternateSpawnEntityData" "d731ac1e-0871-4d0f-b8ba-bb0ea90cc01f" "2" "True"
+		"SchematicChannelEntityData" "b21631ac-d61b-8f99-33ea-c9c9de72b5cf" "3" "False"
 		"LocalLocatorEntityData" "c7a51cde-c723-c80b-02d1-a8ff3aa82629" "4" "False"
 		"LocalLocatorEntityData" "578e3ce4-c90f-a49e-aebb-545c2f050dc9" "5" "False"
 	}
@@ -30,7 +30,7 @@ LayerData 838d4f50-f9ba-4086-a228-4bf7cf1b0e00 0
 	{
 		"PointerRef" "" "internal : c7a51cde-c723-c80b-02d1-a8ff3aa82629,4"
 		"PointerRef" "" "internal : 578e3ce4-c90f-a49e-aebb-545c2f050dc9,5"
-		"PointerRef" "" "internal : b21631ac-d61b-8f99-33ea-c9c9de72b5cf,2"
+		"PointerRef" "" "internal : b21631ac-d61b-8f99-33ea-c9c9de72b5cf,3"
 	}
 	"PointerRef" "Schematics" "null"
 	"List" "EventConnections"
@@ -47,7 +47,7 @@ LayerData 838d4f50-f9ba-4086-a228-4bf7cf1b0e00 0
 	"CString" "Name" "Levels/MP/StarKiller_01/PlanetaryMission_Auto"
 }
 
-AlternateSpawnEntityData 8f062ac7-cb2b-4826-9c50-bd9f8073ead5 1
+AlternateSpawnEntityData e8243617-8fdd-4f04-b695-b7fedaaf53f2 1
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"
@@ -61,7 +61,7 @@ AlternateSpawnEntityData 8f062ac7-cb2b-4826-9c50-bd9f8073ead5 1
 	"UInt32" "Flags" "100663296"
 }
 
-AlternateSpawnEntityData 7ed48433-1228-4408-b473-a539d94394a1 2
+AlternateSpawnEntityData d731ac1e-0871-4d0f-b8ba-bb0ea90cc01f 2
 {
 	"TeamId" "Team" "Team1"
 	"Single" "Priority" "1"
@@ -75,7 +75,7 @@ AlternateSpawnEntityData 7ed48433-1228-4408-b473-a539d94394a1 2
 	"UInt32" "Flags" "100663296"
 }
 
-SchematicChannelEntityData b21631ac-d61b-8f99-33ea-c9c9de72b5cf 2
+SchematicChannelEntityData b21631ac-d61b-8f99-33ea-c9c9de72b5cf 3
 {
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"PointerRef" "Channel" "external : 2cf42764-cf48-4120-88c4-fd7c69019940,3ba49729-8e4b-44bd-9bba-25db20c1175d"

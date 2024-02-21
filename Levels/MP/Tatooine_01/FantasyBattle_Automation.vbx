@@ -244,8 +244,8 @@ EventSyncEntityData db30f72d-bd63-4839-a691-eee37ca483a7 6
 
 DelayEntityData 2c829030-d763-448e-88e1-a5b12dc80276 7
 {
-	"Single" "Delay" "60"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "60"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -388,8 +388,8 @@ EnsemblePublisherEntityData 9d796845-76d1-491b-bff5-725644e45f72 16
 
 DelayEntityData 8af06e49-65d1-41f7-942f-8797923a0ff7 17
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -399,8 +399,8 @@ DelayEntityData 8af06e49-65d1-41f7-942f-8797923a0ff7 17
 
 DelayEntityData 51f3754b-06e7-4f93-ba5d-5db5e64184b7 18
 {
-	"Single" "Delay" "3"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "3"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -424,8 +424,8 @@ WSTestCaseEntityData 02d51a4f-a6e3-489e-8162-08ba368c1647 19
 
 DelayEntityData ed6ba14f-6e83-439c-a342-de045c189a16 20
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -435,8 +435,8 @@ DelayEntityData ed6ba14f-6e83-439c-a342-de045c189a16 20
 
 DelayEntityData e9d01652-7c20-4ba5-8294-b1243166e4bd 21
 {
-	"Single" "Delay" "3"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "3"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -520,8 +520,8 @@ EventSyncEntityData ad6d0871-160b-4f74-bb6e-31ff4e03a15d 28
 
 DelayEntityData 24a91471-2cba-48ae-844c-177ce721bd95 29
 {
-	"Single" "Delay" "3"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "3"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -550,8 +550,8 @@ SchematicChannelEntityData 387ff576-9970-4430-9482-dfead5d3c713 30
 
 DelayEntityData f729b678-ed87-47b7-9e9b-a1515f6b9a48 31
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -691,8 +691,8 @@ LogicPrefabReferenceObjectData 2d31b299-78cd-472e-b993-d71cd871f534 40
 
 DelayEntityData b520f899-d5c6-43ab-a723-bd67a4f9d683 41
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -779,8 +779,8 @@ EventSyncEntityData 256964a8-4f9c-4c61-bf38-5f4544eed848 47
 
 DelayEntityData da1135ab-88b7-4303-a331-c012b4d3f4b2 48
 {
-	"Single" "Delay" "20"
 	"Realm" "Realm" "Realm_Client"
+	"Single" "Delay" "20"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "True"
 	"Boolean" "RunOnce" "False"
@@ -790,8 +790,8 @@ DelayEntityData da1135ab-88b7-4303-a331-c012b4d3f4b2 48
 
 DelayEntityData 26a42bac-838c-42bf-8de5-3b675fa0406d 49
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -850,8 +850,8 @@ EventSyncEntityData 7e590eb8-bf00-4008-99aa-067175f5d426 52
 
 DelayEntityData e3119dcd-e77f-4184-90a1-2d20ed07a07a 53
 {
-	"Single" "Delay" "3"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "3"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -888,8 +888,8 @@ EventAndGateEntityData 8bc1ecd7-d350-4fdc-9512-8cb1fcc97a4b 56
 
 DelayEntityData 631b10da-ab9b-4e94-a0f9-610a45234a15 57
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -899,8 +899,8 @@ DelayEntityData 631b10da-ab9b-4e94-a0f9-610a45234a15 57
 
 DelayEntityData 532e9fdf-a2a4-4c30-b0e8-08ef11211bff 58
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -996,8 +996,8 @@ LogicPrefabReferenceObjectData 61ac00e9-6d21-4a91-8f39-3326330103bf 62
 
 DelayEntityData 9ed77bfa-9bea-49fb-9d66-71a4d06fb39a 63
 {
-	"Single" "Delay" "5"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "5"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"

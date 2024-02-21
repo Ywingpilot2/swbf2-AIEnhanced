@@ -639,8 +639,8 @@ ConditionalIntEntityData 00000000-0000-0000-0000-000000000000 5
 
 DelayEntityData 00000000-0000-0000-0000-000000000000 6
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -890,16 +890,16 @@ OffsetModificationData 00000000-0000-0000-0000-000000000000 17
 
 OrEntityData 00000000-0000-0000-0000-000000000000 18
 {
+	"UInt32" "Flags" "156609270"
 	"Realm" "Realm" "Realm_Client"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "156609270"
 }
 
 OrEntityData 00000000-0000-0000-0000-000000000000 19
 {
+	"UInt32" "Flags" "409034826"
 	"Realm" "Realm" "Realm_ClientAndServer"
 	"UInt32" "InputCount" "2"
-	"UInt32" "Flags" "409034826"
 }
 
 PlayerAbilityEntityData 00000000-0000-0000-0000-000000000000 20

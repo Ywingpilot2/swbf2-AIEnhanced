@@ -750,8 +750,8 @@ LogicPrefabBlueprint d4fc664c-8a4b-43e1-148c-f7186c9d955e 0
 
 DelayEntityData a9385c13-7b87-518d-56c1-b34bfe8b54e1 1
 {
-	"Single" "Delay" "30"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "30"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "True"
@@ -761,8 +761,8 @@ DelayEntityData a9385c13-7b87-518d-56c1-b34bfe8b54e1 1
 
 DelayEntityData 172bc515-33e8-2327-19d1-e66d80f4f82d 2
 {
-	"Single" "Delay" "30"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "30"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "True"
@@ -772,8 +772,8 @@ DelayEntityData 172bc515-33e8-2327-19d1-e66d80f4f82d 2
 
 DelayEntityData 50e39546-992d-283b-1dde-030851e9346b 3
 {
-	"Single" "Delay" "30"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "30"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "True"

@@ -178,8 +178,8 @@ EventSyncEntityData a900e006-09cb-4591-92e0-2621ecd8240b 3
 
 DelayEntityData 841c1308-2402-4a4d-8566-df4eccb6c3c9 4
 {
-	"Single" "Delay" "10"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "10"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -549,8 +549,8 @@ EventGateEntityData 75121e66-ea68-49bb-ac41-9ad9d3dbd3dc 27
 
 DelayEntityData dba2ac76-5cdd-49e1-841e-4a0e37ab0291 28
 {
-	"Single" "Delay" "1"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "1"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -685,8 +685,8 @@ WSTestCaseEntityData 780ec49a-56d6-4360-9cb2-41cbaf0366bf 36
 
 DelayEntityData f18c689c-758d-4280-b952-298ff7e5c016 37
 {
-	"Single" "Delay" "20"
 	"Realm" "Realm" "Realm_Client"
+	"Single" "Delay" "20"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "True"
 	"Boolean" "RunOnce" "False"
@@ -696,8 +696,8 @@ DelayEntityData f18c689c-758d-4280-b952-298ff7e5c016 37
 
 DelayEntityData 34485aa0-c973-41d8-b102-e16dd94b1fd8 38
 {
-	"Single" "Delay" "10"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "10"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -868,8 +868,8 @@ EventAndGateEntityData e0819ac9-baea-4bad-bacc-02cd35383415 47
 
 DelayEntityData b7527dd2-7383-404f-9f14-ee32e0524395 48
 {
-	"Single" "Delay" "10"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "10"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
@@ -1002,8 +1002,8 @@ LogicPrefabReferenceObjectData 5f61a6e8-0267-4af1-ad4c-b2c220bdafff 54
 
 DelayEntityData 5a25e5e9-7528-44cd-9303-c80ada0fec43 55
 {
-	"Single" "Delay" "60"
 	"Realm" "Realm" "Realm_Server"
+	"Single" "Delay" "60"
 	"TimeDeltaType" "TimeDeltaType" "TimeDeltaType_World"
 	"Boolean" "AutoStart" "False"
 	"Boolean" "RunOnce" "False"
